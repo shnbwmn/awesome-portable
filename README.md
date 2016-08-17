@@ -2,7 +2,9 @@
 
 > Curated list of awesome portable apps.
 
-###Sites
+More to come! 
+
+### Sites
 * [TPFC](http://www.portablefreeware.com/)
 * [PortableApps](http://portableapps.com/)
 
