@@ -2,4 +2,12 @@
 
 > Curated list of awesome portable apps.
 
-This is just a placeholder for now. More to come!
+###Sites
+* [TPFC](http://www.portablefreeware.com/)
+* [PortableApps](http://portableapps.com/)
+
+### Internet
+
+#### Web Browsers
+* [Firefox Portable](http://portableapps.com/apps/internet/firefox_portable)
+* [Chrome Portable](http://portableapps.com/apps/internet/google_chrome_portable)
