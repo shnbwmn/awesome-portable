@@ -30,8 +30,8 @@ I consider those sites to be the foremost authorities on the portability of prog
 ### Internet
 
 #### Web Browsers
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:handbag:](http://portableapps.com/apps/internet/firefox_portable)
-* [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:handbag:](http://portableapps.com/apps/internet/google_chrome_portable)
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:package:](https://www.portablefreeware.com/?id=132) [:handbag:](http://portableapps.com/apps/internet/firefox_portable)
+* [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:package:](https://www.portablefreeware.com/index.php?id=2074) [:handbag:](http://portableapps.com/apps/internet/google_chrome_portable)
 
 ### Multimedia
 
