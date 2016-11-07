@@ -20,7 +20,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * **[TPFC](http://www.portablefreeware.com/)** :package: - either a database entry or a thread in the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
 * **Other** :gear: - portability instructions provided from the program site or another source.
 
-I consider PA and TPFC to be the foremost authorities on the portability of programs. 
+I consider PA and TPFC to be the foremost authorities on program portability. 
 
 ### Other sites
 * [ThumbApps](http://www.thumbapps.org/)
