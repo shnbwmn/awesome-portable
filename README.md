@@ -1,4 +1,4 @@
- - 
+
 # Awesome Portable [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > Curated list of awesome portable apps.
@@ -16,12 +16,12 @@ Those two sites are widely considered to be the foremost authorities on the port
 ### Internet
 
 #### Web Browsers
-* [Firefox Portable](http://portableapps.com/apps/internet/firefox_portable) - 
-* [Chrome Portable](http://portableapps.com/apps/internet/google_chrome_portable) - 
+* [Firefox Portable](http://portableapps.com/apps/internet/firefox_portable) - :handbag:
+* [Chrome Portable](http://portableapps.com/apps/internet/google_chrome_portable) - :handbag:
 
 ### Multimedia
 
 #### Players
-* [Light Alloy](http://www.light-alloy.ru/) - [TPFC](https://www.portablefreeware.com/forums/viewtopic.php?p=46371  )
-* [Potplayer](http://potplayer.daum.net/) - 	
+* [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371  )
+* [Potplayer](http://potplayer.daum.net/) - 	[:package:](https://www.portablefreeware.com/?id=2483)
 
