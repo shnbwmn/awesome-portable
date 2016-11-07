@@ -6,14 +6,18 @@
 More to come!
 
 **Note on icons:**
-* **PortableApps** :handbag: icon indicates the program is packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), perhaps in addition to native portability.
-* **TPFC** :package: icon links to either the database entry or most frequently the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
+* **[PortableApps](http://portableapps.com/)** :handbag: icon indicates the program is packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), perhaps in addition to native portability.
+* **[TPFC](http://www.portablefreeware.com/)** :package: icon links to either the database entry or most frequently the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
 
 I consider those sites to be the foremost authorities on the portability of programs. 
 
-### Sites
-* [TPFC](http://www.portablefreeware.com/) - :package:
-* [PortableApps](http://portableapps.com/) - :handbag:	
+### Other sites
+* [ThumbApps](http://www.thumbapps.org/)
+* [Lupo PenSuite](http://www.lupopensuite.com/)
+* [yaP](http://rolandtoth.hu/yaP/) - [:package:](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138)
+* [PenDriveApps](http://www.pendriveapps.com/)
+* [LiberKey](http://www.liberkey.com/en.html)
+* [WinPenPack](http://www.winpenpack.com/en/index.php)
   
 ### Internet
 
