@@ -6,9 +6,10 @@
 More to come!
 
 **_Portability:_** 
-* No installation required
+* No installation required (can be extracted or files copied from an installation)
 * Runs self-contained
-* Saves main settings to program directory
+* Saves main settings to program directory (not user directory or AppData)
+* Doesn't require third-party dependencies
 * *Stealth:* leaves no traces in the registry or filesystem (no leftovers)
 * The first three are fundamental; stealth is optional, though ideal
 
