@@ -9,7 +9,7 @@ More to come!
 * No installation required (can be extracted [:package:](https://www.portablefreeware.com/index.php?id=2764) or files copied from an installation)
 * Runs self-contained
 * Saves main settings to program directory (not user directory or AppData)
-* Doesn't require third-party dependencies
+* Doesn't require third-party dependencies (with some exceptions, like .NET or Visual C++)
 * *Stealth:* leaves no traces in the registry or filesystem (no leftovers)
 * The first three are fundamental; stealth is optional, though ideal
 
