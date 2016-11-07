@@ -7,7 +7,7 @@
 
 Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable/blob/master/Contribute.md)
 
-**_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app) 
+**_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app)
 * No installation required (can be extracted [:package:](https://www.portablefreeware.com/index.php?id=2764) or files copied from an installation)
 * Runs self-contained
 * Saves main settings to program directory (not user/home directory, AppData or registry)
@@ -18,7 +18,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 **_Note on icons:_**
 * **[PortableApps](http://portableapps.com/)** :floppy_disk: icon indicates the program is packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), perhaps in addition to native portability.
 * **[TPFC](http://www.portablefreeware.com/)** :package: icon links to either the database entry or most frequently the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
-* **Other** :purse: icon indicates instructions provided from the program site or another source.
+* **Other** :gear: icon indicates instructions provided from the program site or another source.
 
 I consider PA and TPFC to be the foremost authorities on the portability of programs. 
 
@@ -48,7 +48,7 @@ I consider PA and TPFC to be the foremost authorities on the portability of prog
 * [AIMP](http://www.aimp.ru/index.php) - [:package:](https://www.portablefreeware.com/index.php?id=1444)
 
 ### Games
-* [OpenRA](http://www.openra.net/) - [:purse:](https://github.com/OpenRA/OpenRA/wiki/Installation)
+* [OpenRA](http://www.openra.net/) - [:gear:](https://github.com/OpenRA/OpenRA/wiki/Installation)
 
 ### Utilities
 
