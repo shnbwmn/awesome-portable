@@ -5,12 +5,14 @@
 
 More to come!
 
-**Note on icons:** **PortableApps** :handbag: icon indicates the program is packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), whereas **TPFC** :package: icon links to the portability instructions on either the database entry or in the submission forum.
+**Note on icons:**
+* **PortableApps** :handbag: icon indicates the program is packaged in [PAF format](http://portableapps.com/development/portableapps.com_format)
+* **TPFC** :package: icon links to the portability instructions on either the database entry or in the submission forum.
 
 Those two sites are widely considered to be the foremost authorities on the portability of programs. 
 
 ### Sites
-* [TPFC](http://www.portablefreeware.com/) - [:package:](https://github.com/primer/octicons#install)
+* [TPFC](http://www.portablefreeware.com/) - :package:
 * [PortableApps](http://portableapps.com/) - :handbag:	
   
 ### Internet
