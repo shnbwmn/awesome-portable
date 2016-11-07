@@ -17,7 +17,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 **_Note on icons:_**
 * **[PortableApps](http://portableapps.com/)** :floppy_disk: - indicates the program is packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), perhaps in addition to native portability.
-* **[TPFC](http://www.portablefreeware.com/)** :package: - links to either the database entry or most frequently the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
+* **[TPFC](http://www.portablefreeware.com/)** :package: - links to either the database entry or the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
 * **Other** :gear: - indicates instructions provided from the program site or another source.
 
 I consider PA and TPFC to be the foremost authorities on the portability of programs. 
