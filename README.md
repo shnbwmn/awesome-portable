@@ -5,7 +5,13 @@
 
 More to come!
 
-**Note on icons:**
+**_Portability:_** 
+* No installation required
+* Runs self-contained
+* Saves main settings to program directory
+* *Stealth:* leaves no traces in the registry or filesystem
+
+**_Note on icons:_**
 * **[PortableApps](http://portableapps.com/)** :handbag: icon indicates the program is packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), perhaps in addition to native portability.
 * **[TPFC](http://www.portablefreeware.com/)** :package: icon links to either the database entry or most frequently the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
 
