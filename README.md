@@ -20,6 +20,8 @@
 
 I consider PA and TPFC to be the foremost authorities on the portability of programs. 
 
+Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable/blob/master/Contribute.md)
+
 ### Other sites
 * [ThumbApps](http://www.thumbapps.org/)
 * [Lupo PenSuite](http://www.lupopensuite.com/)
