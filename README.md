@@ -43,6 +43,7 @@ I consider PA and TPFC to be the foremost authorities on the portability of prog
 #### Players
 * [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371  )
 * [Potplayer](http://potplayer.daum.net/) - 	[:package:](https://www.portablefreeware.com/?id=2483) [:handbag:](http://portableapps.com/node/41287)
+* [AIMP](http://www.aimp.ru/index.php) - [:package:](https://www.portablefreeware.com/index.php?id=1444)
 
 ### Games
 * [OpenRA](http://www.openra.net/) - [:purse:](https://github.com/OpenRA/OpenRA/wiki/Installation)
