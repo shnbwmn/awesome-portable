@@ -5,7 +5,7 @@
 
 More to come!
 
-**_Portability: [:package:](https://www.portablefreeware.com/about.php) [:handbag:](http://portableapps.com/about/what_is_a_portable_app)_** 
+**_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:handbag:](http://portableapps.com/about/what_is_a_portable_app) 
 * No installation required (can be extracted [:package:](https://www.portablefreeware.com/index.php?id=2764) or files copied from an installation)
 * Runs self-contained
 * Saves main settings to program directory (not user directory or AppData)
