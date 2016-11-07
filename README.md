@@ -3,7 +3,7 @@
 
 > Curated list of awesome portable apps.
 
-More to come!
+*More to come!*
 
 **_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:handbag:](http://portableapps.com/about/what_is_a_portable_app) 
 * No installation required (can be extracted [:package:](https://www.portablefreeware.com/index.php?id=2764) or files copied from an installation)
