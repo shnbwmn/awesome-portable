@@ -5,6 +5,8 @@
 
 *More to come!*
 
+Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable/blob/master/Contribute.md)
+
 **_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:handbag:](http://portableapps.com/about/what_is_a_portable_app) 
 * No installation required (can be extracted [:package:](https://www.portablefreeware.com/index.php?id=2764) or files copied from an installation)
 * Runs self-contained
@@ -19,8 +21,6 @@
 * **Other** :purse: icon indicates instructions provided from the program site or another source.
 
 I consider PA and TPFC to be the foremost authorities on the portability of programs. 
-
-Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable/blob/master/Contribute.md)
 
 ### Other sites
 * [ThumbApps](http://www.thumbapps.org/)
