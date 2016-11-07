@@ -27,7 +27,7 @@ I consider PA and TPFC to be the foremost authorities on the portability of prog
 * [PenDriveApps](http://www.pendriveapps.com/)
 * [LiberKey](http://www.liberkey.com/en.html)
 * [WinPenPack](http://www.winpenpack.com/en/index.php)
-* [Xetbox](http://xetbox.com/)
+* [Xetbox](http://xetbox.com/) - indicates whether a portable version is available
   
 ### Internet
 
