@@ -9,7 +9,8 @@ More to come!
 * No installation required
 * Runs self-contained
 * Saves main settings to program directory
-* *Stealth:* leaves no traces in the registry or filesystem
+* *Stealth:* leaves no traces in the registry or filesystem (no leftovers)
+* The first three are fundamental; stealth is optional, though ideal
 
 **_Note on icons:_**
 * **[PortableApps](http://portableapps.com/)** :handbag: icon indicates the program is packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), perhaps in addition to native portability.
