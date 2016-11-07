@@ -47,3 +47,8 @@ I consider PA and TPFC to be the foremost authorities on the portability of prog
 ### Games
 * [OpenRA](http://www.openra.net/) - [:purse:](https://github.com/OpenRA/OpenRA/wiki/Installation)
 
+### Utilities
+
+#### Archivers
+* [7Zip](http://www.7-zip.org/) - [:package:](https://www.portablefreeware.com/?id=796) [:handbag:](http://portableapps.com/apps/utilities/7-zip_portable)
+
