@@ -7,7 +7,7 @@ More to come!
 
 **Note on icons:**
 * **PortableApps** :handbag: icon indicates the program is packaged in [PAF format](http://portableapps.com/development/portableapps.com_format).
-* **TPFC** :package: icon links to the portability instructions on either the database entry or in the submission forum.
+* **TPFC** :package: icon links to the portability instructions on either the database entry or in the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
 
 I consider those sites to be the foremost authorities on the portability of programs. 
 
@@ -18,8 +18,8 @@ I consider those sites to be the foremost authorities on the portability of prog
 ### Internet
 
 #### Web Browsers
-* [Firefox Portable](http://portableapps.com/apps/internet/firefox_portable) - :handbag:
-* [Chrome Portable](http://portableapps.com/apps/internet/google_chrome_portable) - :handbag:
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:handbag:](http://portableapps.com/apps/internet/firefox_portable)
+* [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:handbag:](http://portableapps.com/apps/internet/google_chrome_portable)
 
 ### Multimedia
 
