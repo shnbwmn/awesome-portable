@@ -5,7 +5,7 @@
 
 More to come!
 
-**_Portability:_** 
+**_[Portability](https://www.portablefreeware.com/about.php):_** 
 * No installation required (can be extracted [:package:](https://www.portablefreeware.com/index.php?id=2764) or files copied from an installation)
 * Runs self-contained
 * Saves main settings to program directory (not user directory or AppData)
