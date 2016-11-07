@@ -16,8 +16,9 @@
 **_Note on icons:_**
 * **[PortableApps](http://portableapps.com/)** :handbag: icon indicates the program is packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), perhaps in addition to native portability.
 * **[TPFC](http://www.portablefreeware.com/)** :package: icon links to either the database entry or most frequently the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
+* **Other** :purse: icon indicates instructions provided from the program site or another source.
 
-I consider those sites to be the foremost authorities on the portability of programs. 
+I consider PA and TPFC to be the foremost authorities on the portability of programs. 
 
 ### Other sites
 * [ThumbApps](http://www.thumbapps.org/)
@@ -41,4 +42,7 @@ I consider those sites to be the foremost authorities on the portability of prog
 #### Players
 * [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371  )
 * [Potplayer](http://potplayer.daum.net/) - 	[:package:](https://www.portablefreeware.com/?id=2483) [:handbag:](http://portableapps.com/node/41287)
+
+### Games
+* [OpenRA](http://www.openra.net/) - [:purse:](https://github.com/OpenRA/OpenRA/wiki/Installation)
 
