@@ -5,7 +5,7 @@
 
 More to come!
 
-**Note on icons:** these are links to instructions on making the program portable. **PortableApps** :handbag: links go straight to the PA package, whereas **TPFC** :package: links require reading the portability instructions on either its entry or in their submission forum.
+**Note on icons:** these are links to instructions on making the program portable. **PortableApps** :handbag: links go straight to the PA package page, whereas **TPFC** :package: links require reading the portability instructions on either its entry or in their submission forum.
 
 Those two sites are widely considered to be the foremost authorities on the portability of programs. 
 
