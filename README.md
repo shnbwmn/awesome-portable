@@ -6,8 +6,8 @@
 More to come!
 
 **Note on icons:**
-* **PortableApps** :handbag: icon indicates the program is packaged in [PAF format](http://portableapps.com/development/portableapps.com_format).
-* **TPFC** :package: icon links to the portability instructions on either the database entry or in the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
+* **PortableApps** :handbag: icon indicates the program is packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), perhaps in addition to native portability.
+* **TPFC** :package: icon links to either the database entry or most frequently the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
 
 I consider those sites to be the foremost authorities on the portability of programs. 
 
