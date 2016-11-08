@@ -8,12 +8,15 @@
 Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable/blob/master/Contribute.md)
 
 **_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app)
-* No installation required (can be unzipped/extracted [:package:](https://www.portablefreeware.com/index.php?id=2764) or files copied from an installation).
+* No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/index.php?id=2764) or files copied from an installation).
 * Runs self-contained.
 * Saves main settings to program directory (not user/home directory, AppData or registry).
 * Doesn't require third-party dependencies (with some exceptions, like .NET or Visual C++, or admin rights).
-* *Stealth:* [:package:](https://www.portablefreeware.com/faq.php#stealth) leaves nothing behind in the registry or filesystem (no leftovers/clutter on the PC - ideal).
+* *[Stealth:](https://www.portablefreeware.com/faq.php#stealth)* leaves nothing behind in the registry or filesystem (no leftovers/clutter on the PC - ideal).
 * Due to the nature of some programs and their core functionality, they might be considered portable despite breaking a few of the above.
+
+**_Testing for portability:_**
+* [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
 
 **_Note on icons:_**
 * **[TPFC](http://www.portablefreeware.com/)** :package: - either a database entry or often a thread in the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
