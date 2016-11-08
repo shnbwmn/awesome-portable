@@ -1,10 +1,11 @@
- 
+
 # Contribution Guidelines
 
 Please ensure your pull request adheres to the following:
 
 * Conform to the format used for other links:
 * `[Program](link) - [📦](link) [💾](link) [⚙](link) 💰 - optional note/comment/description`
+* The main program link should go to the official homepage, with the icons providing the portability info.
 * Use whichever icons apply, and apply the link directly to the emoji as shown.
 * For special cases, I'm willing to consider other solutions.
 * Format titles appropriately.
