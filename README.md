@@ -45,8 +45,8 @@ I consider PA and TPFC to be the foremost authorities on program portability.
 
 #### Players
 * [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
-* [Potplayer](http://potplayer.daum.net/) - 	[:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
-* [AIMP](http://www.aimp.ru/index.php) - [:package:](https://www.portablefreeware.com/index.php?id=1444)
+* [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
+* [AIMP](http://www.aimp.ru/index.php) - [:package:](https://www.portablefreeware.com/index.php?id=1444) [:floppy_disk:](http://portableapps.com/apps/music_video/aimp-portable)
 
 ### Games
 * [OpenRA](http://www.openra.net/) - [:gear:](https://github.com/OpenRA/OpenRA/wiki/Installation)
