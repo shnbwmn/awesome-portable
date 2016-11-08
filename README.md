@@ -12,7 +12,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * Runs self-contained.
 * Saves main settings to program directory (not user/home directory, AppData or registry).
 * Doesn't require third-party dependencies (with some exceptions, like .NET or Visual C++, or admin rights).
-* *Stealth:* [:package:](https://www.portablefreeware.com/faq.php#stealth) leaves no traces in the registry or filesystem (no leftovers - ideal).
+* *Stealth:* [:package:](https://www.portablefreeware.com/faq.php#stealth) leaves nothing behind in the registry or filesystem upon exiting (no leftovers - ideal).
 * Due to the nature of some programs and their core functionality, they might be considered portable despite breaking a few of the above.
 
 **_Note on icons:_**
