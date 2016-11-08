@@ -10,7 +10,7 @@ Please ensure your pull request adheres to the following:
 * For special cases, I'm open to other solutions.
 * Format titles appropriately.
 * Briefly state the relevance of your contribution and how you know that it's portable (**NB!**).
-* For the above, a reputable link/quote or results from any tests conducted [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=21885) are sufficient.
+* For the above, a reputable link/quote or results from any tests conducted are sufficient.
 * Check your spelling and grammar.
 * If necessary, search previous suggestions before making a new one.
 * Place the program under the appropriate category.
