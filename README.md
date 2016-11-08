@@ -27,7 +27,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 I consider TPFC and PA to be the foremost authorities on program portability. 
 
 ### Other sites
-* [ThumbApps](http://www.thumbapps.org/)
+* [ThumbApps](http://www.thumbapps.org/) - packages programs that PortableApps won't
 * [Lupo PenSuite](http://www.lupopensuite.com/)
 * [yaP](http://rolandtoth.hu/yaP/) - [:package:](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138)
 * [PenDriveApps](http://www.pendriveapps.com/)
@@ -60,8 +60,8 @@ I consider TPFC and PA to be the foremost authorities on program portability.
 #### Players
 * [AIMP](http://www.aimp.ru/index.php) - [:package:](https://www.portablefreeware.com/index.php?id=1444) [:floppy_disk:](http://portableapps.com/apps/music_video/aimp-portable)
 * [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
-* [MPC BE]
-* [MPC HC]
+* [MPC BE](https://sourceforge.net/projects/mpcbe/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=60655)
+* [MPC HC](https://mpc-hc.org/) - [:package:](https://www.portablefreeware.com/?id=2054) [](http://portableapps.com/apps/music_video/mpc-hc-portable)
 * [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
 
 ### Games
