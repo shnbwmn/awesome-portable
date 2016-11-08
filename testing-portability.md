@@ -8,5 +8,14 @@ nb - checking program site for stated .net/admin right requirements, system requ
 link to header **_Testing for portability_**
 
 also perhaps remove "Important programs" header in favour of listing those progs here, and can then additionally list programs under suitable main category w/out duplication
+- on second thought, uniextract/lessmsi also useful outside testing portability, so maybe keep heading
+
+***
+
+start - w/ my typical procedure
+
+then state other methods/programs people use
+
+eg, virtualbox - quote john t haller from tpfc thread
 
 
