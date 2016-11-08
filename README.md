@@ -82,6 +82,7 @@ I consider TPFC and PA to be the foremost authorities on program portability.
 * [FARR](https://www.donationcoder.com/Software/Mouser/findrun/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
 * [Qsel](http://www.horstmuc.de/wqsel.htm) - [:package:](https://www.portablefreeware.com/?id=1133)
 * [Quick Access Popup](http://www.quickaccesspopup.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2765)
+* [SyMenu](http://www.ugmfree.it/) - [:package:](https://www.portablefreeware.com/?id=2394)
 * [XVA Assistant](http://www.idesktop.me/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=83028)
 
 #### Search
