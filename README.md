@@ -16,12 +16,12 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * Due to the nature of some programs and their core functionality, they might be considered portable despite breaking a few of the above.
 
 **_Note on icons:_**
-* **[PortableApps](http://portableapps.com/)** :floppy_disk: - packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), often in addition to native portability, or link to PA site/forum.
 * **[TPFC](http://www.portablefreeware.com/)** :package: - either a database entry or a thread in the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
+* **[PortableApps](http://portableapps.com/)** :floppy_disk: - packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), often in addition to native portability, or link to PA site/forum.
 * **Other** :gear: - portability instructions provided from the program site or another source.
 * **Commercial** :moneybag: - costs money, or compulsory donationware.
 
-I consider PA and TPFC to be the foremost authorities on program portability. 
+I consider TPFC and PA to be the foremost authorities on program portability. 
 
 ### Other sites
 * [ThumbApps](http://www.thumbapps.org/)
