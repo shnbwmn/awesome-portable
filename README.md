@@ -7,7 +7,7 @@
 
 Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable/blob/master/Contribute.md)
 
-**_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app)
+**_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app) [:gear:](https://en.wikipedia.org/wiki/Portable_application)
 * No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation).
 * Runs self-contained.
 * Saves main settings to program directory (not user/home directory, AppData or registry).
