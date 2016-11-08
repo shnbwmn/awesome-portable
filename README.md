@@ -8,7 +8,7 @@
 Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable/blob/master/Contribute.md)
 
 **_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app)
-* No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/index.php?id=2764) or files copied from an installation).
+* No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation).
 * Runs self-contained.
 * Saves main settings to program directory (not user/home directory, AppData or registry).
 * Doesn't require third-party dependencies (with some exceptions, like .NET or Visual C++, or admin rights).
@@ -34,6 +34,12 @@ I consider TPFC and PA to be the foremost authorities on program portability.
 * [LiberKey](http://www.liberkey.com/en.html)
 * [WinPenPack](http://www.winpenpack.com/en/index.php)
 * [Xetbox](http://xetbox.com/) - indicates whether a portable version is available
+
+### Important programs
+* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [:package:](https://www.portablefreeware.com/index.php?id=2764) - extracts program installers
+* [LessMSI](http://lessmsi.activescott.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
+* [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolates a running program and shows files/registry entries created
+* [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - run programs in a clean Windows installation
   
 ### Internet
 
