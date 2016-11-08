@@ -3,7 +3,7 @@
 
 > Curated list of awesome portable apps.
 
-*More to come!*
+*More to come! It will take a while! :bowtie:*
 
 Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable/blob/master/Contribute.md)
 
