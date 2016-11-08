@@ -18,4 +18,11 @@ then state other methods/programs people use
 
 eg, virtualbox - quote john t haller from tpfc thread
 
+***
+
+other - 
+add snapfiles, softpedia portable, etc to more sites
+maybe add note of their (mis)understanding of portability 
+on second thought, that might be grounds to exclude them ...
+
 
