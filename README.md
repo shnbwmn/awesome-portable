@@ -36,34 +36,57 @@ I consider TPFC and PA to be the foremost authorities on program portability.
 * [Xetbox](http://xetbox.com/) - indicates whether a portable version is available
 
 ### Important programs
-* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [:package:](https://www.portablefreeware.com/index.php?id=2764) - extracts program installers
 * [LessMSI](http://lessmsi.activescott.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
 * [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - install programs requiring installation inside a sandbox, or isolate a running program to show files/registry entries created
+* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [:package:](https://www.portablefreeware.com/index.php?id=2764) - extracts program installers
 * [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - can run programs in a clean Windows installation
-  
+
+### Graphics
+
+#### Screen Capture
+* [Snipaste](https://www.snipaste.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2801)
+
 ### Internet
 
 #### Email
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - [:package:](https://www.portablefreeware.com/?id=133) [:floppy_disk:](http://portableapps.com/apps/internet/thunderbird_portable)
 
 #### Web Browsers
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:package:](https://www.portablefreeware.com/?id=132) [:floppy_disk:](http://portableapps.com/apps/internet/firefox_portable)
 * [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:package:](https://www.portablefreeware.com/index.php?id=2074) [:floppy_disk:](http://portableapps.com/apps/internet/google_chrome_portable)
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:package:](https://www.portablefreeware.com/?id=132) [:floppy_disk:](http://portableapps.com/apps/internet/firefox_portable)
 
 ### Multimedia
 
 #### Players
-* [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
-* [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
 * [AIMP](http://www.aimp.ru/index.php) - [:package:](https://www.portablefreeware.com/index.php?id=1444) [:floppy_disk:](http://portableapps.com/apps/music_video/aimp-portable)
+* [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
+* [MPC BE]
+* [MPC HC]
+* [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
 
 ### Games
 * [OpenRA](http://www.openra.net/) - [:gear:](https://github.com/OpenRA/OpenRA/wiki/Installation)
+* [OpenTTD](http://www.openttd.org/en/) - [:package:](https://www.portablefreeware.com/?id=2711) [:floppy_disk:](http://portableapps.com/apps/games/openttd_portable)
 
 ### Utilities
 
 #### Archivers
 * [7-Zip](http://www.7-zip.org/) - [:package:](https://www.portablefreeware.com/?id=796) [:floppy_disk:](http://portableapps.com/apps/utilities/7-zip_portable)
+
+#### File Management
+* [Double Commander](http://doublecmd.sourceforge.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
+* [Free Commander XE](http://freecommander.com/en/summary/) - [:package:](https://www.portablefreeware.com/index.php?id=291) [:floppy_disk:](http://portableapps.com/apps/utilities/freecommander_portable) - 64-bit version is donationware
+* [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) - [:package:](https://www.portablefreeware.com/?id=1431) [:floppy_disk:](http://portableapps.com/apps/utilities/q-dir-portable)
+
+#### Launchers
+* [FARR](https://www.donationcoder.com/Software/Mouser/findrun/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
+* [Qsel](http://www.horstmuc.de/wqsel.htm) - [:package:](https://www.portablefreeware.com/?id=1133)
+* [Quick Access Popup](http://www.quickaccesspopup.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2765)
+* [XVA Assistant](http://www.idesktop.me/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=83028)
+
+#### Search
+* [Everything](http://www.voidtools.com/) - [:package:](https://www.portablefreeware.com/index.php?id=1479)
+* [Listary](http://www.listary.com/) - [:package:](https://www.portablefreeware.com/?id=1680) [:floppy_disk:](http://portableapps.com/apps/utilities/listary_portable) - Pro version available
 
 ## License
 
