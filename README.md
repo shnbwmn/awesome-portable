@@ -14,6 +14,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * Doesn't require third-party dependencies (with some exceptions, like .NET or Visual C++, or admin rights).
 * *Stealth:* leaves no traces in the registry or filesystem (no leftovers).
 * The first four are fundamental; stealth is optional, though ideal.
+* Due to the nature of some programs and their core functionality, they might be considered portable despite breaking a few of the above.
 
 **_Note on icons:_**
 * **[PortableApps](http://portableapps.com/)** :floppy_disk: - packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), perhaps in addition to native portability, or link to PA site/forum.
