@@ -8,7 +8,7 @@
 Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable/blob/master/Contribute.md)
 
 **_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app)
-a* No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation).
+* No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation).
 * Runs self-contained.
 * Saves main settings to program directory (not user/home directory, AppData or registry).
 * Doesn't require third-party dependencies (with some exceptions, like .NET or Visual C++, or admin rights).
@@ -18,7 +18,7 @@ a* No installation required (can be unzipped/[extracted](https://www.portablefre
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
 
-c**_Note on icons:_**
+**_Note on icons:_**
 * **[TPFC](http://www.portablefreeware.com/)** :package: - either a database entry or often a thread in the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
 * **[PortableApps](http://portableapps.com/)** :floppy_disk: - either packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), often in addition to native portability, or a link to PA forum.
 * **Other** :gear: - portability instructions provided from the program site or another source.
@@ -38,7 +38,7 @@ I consider TPFC and PA to be the foremost authorities on program portability.
 ### Important programs
 * [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [:package:](https://www.portablefreeware.com/index.php?id=2764) - extracts program installers
 * [LessMSI](http://lessmsi.activescott.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
-* [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - install programs in the sandbox if they require installation, or isolate a running program to shows files/registry entries created
+* [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - install programs requiring installation inside a sandbox, or isolate a running program to shows files/registry entries created
 * [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - can run programs in a clean Windows installation
   
 ### Internet
