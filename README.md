@@ -9,7 +9,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 **_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app) [:gear:](https://en.wikipedia.org/wiki/Portable_application)
 * No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation).
-* Runs self-contained.
+]* Runs self-contained.
 * Saves main settings to program directory (not user/home directory, AppData or registry).
 * Doesn't require third-party dependencies (with some exceptions, like .NET or Visual C++, or admin rights).
 * *[Stealth:](https://www.portablefreeware.com/faq.php#stealth)* leaves nothing behind in the registry or filesystem (no leftovers/clutter on the PC - ideal).
@@ -46,6 +46,13 @@ I consider TPFC and PA to be the foremost authorities on program portability.
 #### Screen Capture
 * [Snipaste](https://www.snipaste.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2801)
 
+#### Viewers
+* [Faststone](http://faststone.org/FSViewerDetail.htm) - [:package:](https://www.portablefreeware.com/index.php?id=207)
+* [HoneyView](http://www.bandisoft.com/honeyview/) - [:package:](https://www.portablefreeware.com/index.php?id=2497)
+* [Imagine](http://www.nyam.pe.kr/blog/entry/Imagine) - [:package:](https://www.portablefreeware.com/?id=1819)
+* [XnView](http://www.xnview.com/en/xnview/) - [:package:](https://www.portablefreeware.com/index.php?id=30) [:floppy_disk:](http://portableapps.com/apps/graphics_pictures/xnview_portable)
+* [XnView MP](http://www.xnview.com/en/xnviewmp/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=35220)
+
 ### Internet
 
 #### Email
@@ -59,6 +66,7 @@ I consider TPFC and PA to be the foremost authorities on program portability.
 
 #### Players
 * [AIMP](http://www.aimp.ru/index.php) - [:package:](https://www.portablefreeware.com/index.php?id=1444) [:floppy_disk:](http://portableapps.com/apps/music_video/aimp-portable)
+* [Audacious](http://audacious-media-player.org/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=81470) [:file_folder:](http://rolandtoth.hu/yaP/#examples/Audacious.ini)
 * [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
 * [MPC BE](https://sourceforge.net/projects/mpcbe/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=60655)
 * [MPC HC](https://mpc-hc.org/) - [:package:](https://www.portablefreeware.com/?id=2054) [:floppy_disk:](http://portableapps.com/apps/music_video/mpc-hc-portable)
