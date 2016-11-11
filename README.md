@@ -17,6 +17,12 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
+* [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - install programs requiring installation inside a sandbox, or isolate a running program to show files/registry entries created
+* [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - can run programs in a clean Windows installation
+
+**_Tools:_**
+* [LessMSI](http://lessmsi.activescott.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
+* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [:package:](https://www.portablefreeware.com/index.php?id=2764) - extracts program installers
 
 **_Note on icons:_**
 * **[TPFC](http://www.portablefreeware.com/)** :package: - either a database entry or often a thread in the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
@@ -27,7 +33,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 I consider TPFC and PA to be the foremost authorities on program portability. 
 
-### Other sites
+**_Other sites:_**
 * [ThumbApps](http://www.thumbapps.org/) - packages programs that PortableApps won't
 * [Lupo PenSuite](http://www.lupopensuite.com/)
 * [PenDriveApps](http://www.pendriveapps.com/)
@@ -35,11 +41,7 @@ I consider TPFC and PA to be the foremost authorities on program portability.
 * [WinPenPack](http://www.winpenpack.com/en/index.php)
 * [Xetbox](http://xetbox.com/) - indicates whether a portable version is available
 
-### Important programs
-* [LessMSI](http://lessmsi.activescott.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
-* [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - install programs requiring installation inside a sandbox, or isolate a running program to show files/registry entries created
-* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [:package:](https://www.portablefreeware.com/index.php?id=2764) - extracts program installers
-* [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - can run programs in a clean Windows installation
+***
 
 ### Graphics
 
