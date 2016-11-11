@@ -73,8 +73,9 @@ I consider TPFC and PA to be the foremost authorities on program portability.
 * [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
 
 ### Games
-* [OpenRA](http://www.openra.net/) - [:gear:](https://github.com/OpenRA/OpenRA/wiki/Installation)
-* [OpenTTD](http://www.openttd.org/en/) - [:package:](https://www.portablefreeware.com/?id=2711) [:floppy_disk:](http://portableapps.com/apps/games/openttd_portable)
+* [OpenRA](http://www.openra.net/) - [:gear:](https://github.com/OpenRA/OpenRA/wiki/Installation) - RTS
+* [OpenTTD](http://www.openttd.org/en/) - [:package:](https://www.portablefreeware.com/?id=2711) [:floppy_disk:](http://portableapps.com/apps/games/openttd_portable) - Transport Management
+* [Battle for Wesnoth](https://www.wesnoth.org/) - [:package:](https://www.portablefreeware.com/?id=673) [:floppy_disk:](http://portableapps.com/apps/games/wesnoth_portable) - TBS
 
 ### Utilities
 
