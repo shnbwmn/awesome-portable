@@ -76,7 +76,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 ### Games
 * [Battle for Wesnoth](https://www.wesnoth.org/) - [:package:](https://www.portablefreeware.com/?id=673) [:floppy_disk:](http://portableapps.com/apps/games/wesnoth_portable) - TBS
-* [OpenRA](http://www.openra.net/) - [:gear:](https://github.com/OpenRA/OpenRA/wiki/Installation) - RTS
+* [OpenRA](http://www.openra.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=84047) [:gear:](https://github.com/OpenRA/OpenRA/wiki/Installation) - RTS
 * [OpenTTD](http://www.openttd.org/en/) - [:package:](https://www.portablefreeware.com/?id=2711) [:floppy_disk:](http://portableapps.com/apps/games/openttd_portable) - Transport Management
 
 ### Utilities
