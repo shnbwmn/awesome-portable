@@ -18,7 +18,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
 * [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - install programs requiring installation inside a sandbox, or isolate a running program to show files/registry entries created
-* [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - can run programs in a clean Windows installation
+* [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
 
 **_Tools:_**
 * [LessMSI](http://lessmsi.activescott.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
