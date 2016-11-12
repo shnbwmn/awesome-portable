@@ -46,16 +46,16 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [*Games*](#games)
 
 * [*Graphics*](#graphics)
-> [cap](#screen-capture), [view](#viewers)
+> [*cap*](#screen-capture), [*view*](#viewers)
 
 * [*Internet*](#internet) 
-> [browse](#browsers), [mail](#email)
+> [*browse*](#browsers), [*mail*](#email)
 
 * [*Multimedia*](#multimedia) 
-> [play](#players)
+> [*play*](#players)
 
 * [*Utilities*](#utilities) 
-> [zip](#archivers), [fileman](#file-management), [launch](#launchers), [search](#search)
+> [*zip*](#archivers), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search)
 
 ### Games
 * [Battle for Wesnoth](https://www.wesnoth.org/) - [:package:](https://www.portablefreeware.com/?id=673) [:floppy_disk:](http://portableapps.com/apps/games/wesnoth_portable) - TBS
