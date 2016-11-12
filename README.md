@@ -43,7 +43,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 ***
 
-Contents
+## Contents
 
 * [Games](#games)
 * [Graphics](#graphics) -> [cap](#screen-capture), [view](#viewers)
