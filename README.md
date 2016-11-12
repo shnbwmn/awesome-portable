@@ -5,6 +5,8 @@
 
 *More to come! It will take a while! :bowtie:*
 
+*See also:* [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games)
+
 Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable/blob/master/Contribute.md)
 
 **_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app) [:gear:](https://en.wikipedia.org/wiki/Portable_application)
@@ -43,8 +45,6 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 ## Contents
 
-* [*Games*](#games)
-
 * [*Graphics*](#graphics)
 > [*cap*](#screen-capture), [*view*](#viewers)
 
@@ -56,11 +56,6 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 * [*Utilities*](#utilities) 
 > [*zip*](#archivers), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search)
-
-### Games
-* [Battle for Wesnoth](https://www.wesnoth.org/) - [:package:](https://www.portablefreeware.com/?id=673) [:floppy_disk:](http://portableapps.com/apps/games/wesnoth_portable) - TBS
-* [OpenRA](http://www.openra.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=84047) [:gear:](https://github.com/OpenRA/OpenRA/wiki/Installation) - RTS
-* [OpenTTD](http://www.openttd.org/en/) - [:package:](https://www.portablefreeware.com/?id=2711) [:floppy_disk:](http://portableapps.com/apps/games/openttd_portable) - Transport Management
 
 ### Graphics
 
