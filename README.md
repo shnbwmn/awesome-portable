@@ -9,13 +9,17 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 **_See also:_** [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games)
 
-**_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app) [:gear:](https://en.wikipedia.org/wiki/Portable_application)
+**_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app)
 * No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation).
 * Runs self-contained (makes no changes to host computer outside of program folder).
 * Saves main settings to program directory (not user/home directory, AppData or registry).
 * Doesn't require third-party dependencies (with some exceptions, like .NET or Visual C++, or admin rights).
 * *[Stealth:](https://www.portablefreeware.com/faq.php#stealth)* leaves nothing behind in the registry or filesystem (no leftovers/clutter on the PC - ideal).
 * Due to the nature of some programs and their core functionality, they might be considered portable despite breaking a few of the above.
+
+**_More links:_**
+* [Wikipedia - Portable application](https://en.wikipedia.org/wiki/Portable_application)
+* [Brackets portable build request](https://trello.com/c/sHyY0KlB/1003-portable-build)
 
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
