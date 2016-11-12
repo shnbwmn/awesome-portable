@@ -15,5 +15,3 @@ eg, Etcher
 
 5. Arrows?? https://github.com/mojombo/github-flavored-markdown/issues/1
 
-6. https://trello.com/c/sHyY0KlB/1003-portable-build - nice definition of portability.
-
