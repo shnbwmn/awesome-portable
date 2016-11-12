@@ -15,3 +15,5 @@ eg, Etcher
 
 5. Arrows?? https://github.com/mojombo/github-flavored-markdown/issues/1
 
+6. Testing portability: Buster sandbox analyzer, rawreg
+
