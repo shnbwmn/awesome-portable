@@ -11,7 +11,11 @@ eg, Etcher
   * Using CDN?
   * Using custom icon & link going to site instead of icon URL?
 
-4. Table of contents: https://github.com/shnbwmn/awesome-public-datasets/blob/master/README.rst
+4. Table of contents:
+ * https://github.com/shnbwmn/awesome-public-datasets/blob/master/README.rst
+ * https://github.com/jonschlinkert/markdown-toc
+ * https://github.com/ekalinin/github-markdown-toc
+ * https://github.com/hybridgroup/GitHub-Wikifier
 
 5. Arrows?? https://github.com/mojombo/github-flavored-markdown/issues/1
 
