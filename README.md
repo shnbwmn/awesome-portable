@@ -41,15 +41,21 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [WinPenPack](http://www.winpenpack.com/en/index.php)
 * [Xetbox](http://xetbox.com/) - indicates whether a portable version is available
 
-***
-
 ## Contents
 
-* [Games](#games)
-* [Graphics](#graphics) -> [cap](#screen-capture), [view](#viewers)
-* [Internet](#internet) -> [mail](#email), [browse](#web-browsers)
-* [Multimedia](#multimedia) -> [play](#players)
-* [Utilities](#utilities) -> [zip](#archivers), [fileman](#file-management), [launch](#launchers), [search](#search)
+* [*Games*](#games)
+
+* [*Graphics*](#graphics)
+> [cap](#screen-capture), [view](#viewers)
+
+* [*Internet*](#internet) 
+> [mail](#email), [browse](#web-browsers)
+
+* [*Multimedia*](#multimedia) 
+> [play](#players)
+
+* [*Utilities*](#utilities) 
+> [zip](#archivers), [fileman](#file-management), [launch](#launchers), [search](#search)
 
 ***
 
