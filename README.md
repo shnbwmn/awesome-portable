@@ -19,7 +19,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 **_More links:_**
 * [Wikipedia - Portable application](https://en.wikipedia.org/wiki/Portable_application)
-* [Brackets portable build request](https://trello.com/c/sHyY0KlB/1003-portable-build)
+* [Brackets portable build request](https://trello.com/c/sHyY0KlB/1003-portable-build) - nice short description
 
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
