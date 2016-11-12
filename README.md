@@ -43,6 +43,21 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 ***
 
+Contents
+
+* [Games](#games)
+* [Graphics](#graphics) | [cap](#screen-capture), [view](#viewers)
+* [Internet](#internet) | [mail](#email), [browse](#web-browsers)
+* [Multimedia](#multimedia) | [play](#players)
+* [Utilities](#utilities) | [zip](#archivers), [fileman](#file-management), [launch](#launchers), [search](#search)
+
+***
+
+### Games
+* [Battle for Wesnoth](https://www.wesnoth.org/) - [:package:](https://www.portablefreeware.com/?id=673) [:floppy_disk:](http://portableapps.com/apps/games/wesnoth_portable) - TBS
+* [OpenRA](http://www.openra.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=84047) [:gear:](https://github.com/OpenRA/OpenRA/wiki/Installation) - RTS
+* [OpenTTD](http://www.openttd.org/en/) - [:package:](https://www.portablefreeware.com/?id=2711) [:floppy_disk:](http://portableapps.com/apps/games/openttd_portable) - Transport Management
+
 ### Graphics
 
 #### Screen Capture
@@ -73,11 +88,6 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [MPC BE](https://sourceforge.net/projects/mpcbe/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=60655)
 * [MPC HC](https://mpc-hc.org/) - [:package:](https://www.portablefreeware.com/?id=2054) [:floppy_disk:](http://portableapps.com/apps/music_video/mpc-hc-portable)
 * [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
-
-### Games
-* [Battle for Wesnoth](https://www.wesnoth.org/) - [:package:](https://www.portablefreeware.com/?id=673) [:floppy_disk:](http://portableapps.com/apps/games/wesnoth_portable) - TBS
-* [OpenRA](http://www.openra.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=84047) [:gear:](https://github.com/OpenRA/OpenRA/wiki/Installation) - RTS
-* [OpenTTD](http://www.openttd.org/en/) - [:package:](https://www.portablefreeware.com/?id=2711) [:floppy_disk:](http://portableapps.com/apps/games/openttd_portable) - Transport Management
 
 ### Utilities
 
