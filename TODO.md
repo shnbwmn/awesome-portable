@@ -1,4 +1,4 @@
-
+ 
 # TODO
 
 1. Add "kinda portable" programs (don't need installation but settings not saved to prog folder)
@@ -15,5 +15,5 @@ eg, Etcher
 
 5. Arrows?? https://github.com/mojombo/github-flavored-markdown/issues/1
 
-6. Testing portability: Buster sandbox analyzer, rawreg
+6. Testing portability: Buster sandbox analyzer, rawreg (check TestingPortability MD)
 
