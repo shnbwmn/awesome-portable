@@ -49,7 +49,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 > [cap](#screen-capture), [view](#viewers)
 
 * [*Internet*](#internet) 
-> [mail](#email), [browse](#web-browsers)
+> [browse](#browsers), [mail](#email)
 
 * [*Multimedia*](#multimedia) 
 > [play](#players)
@@ -76,12 +76,12 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 ### Internet
 
-#### Email
-* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - [:package:](https://www.portablefreeware.com/?id=133) [:floppy_disk:](http://portableapps.com/apps/internet/thunderbird_portable)
-
-#### Web Browsers
+#### Browsers
 * [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:package:](https://www.portablefreeware.com/index.php?id=2074) [:floppy_disk:](http://portableapps.com/apps/internet/google_chrome_portable)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:package:](https://www.portablefreeware.com/?id=132) [:floppy_disk:](http://portableapps.com/apps/internet/firefox_portable)
+
+#### Email
+* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - [:package:](https://www.portablefreeware.com/?id=133) [:floppy_disk:](http://portableapps.com/apps/internet/thunderbird_portable)
 
 ### Multimedia
 
