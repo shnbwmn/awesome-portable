@@ -9,9 +9,7 @@ eg, Etcher
 
 3. Emojis: https://github.com/shnbwmn/awesome-courses/blob/master/README.md
 
-4. Table of contents: 
-  * https://github.com/shnbwmn/awesome-public-datasets/blob/master/README.rst
-  * 
-  
-  - <img src="https://github.com/shnbwmn/awesome-portable/blob/master/portableapps.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> - Lecture Videos
+4. Table of contents: https://github.com/shnbwmn/awesome-public-datasets/blob/master/README.rst
+
+5. Arrows?? https://github.com/mojombo/github-flavored-markdown/issues/1
 
