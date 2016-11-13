@@ -5,19 +5,20 @@
 to separate list, or add comment/icon to indicate this
 eg, Etcher
 
-<s>2. Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
-
-3. Emojis: https://github.com/shnbwmn/awesome-courses/blob/master/README.md
+2. Emojis: https://github.com/shnbwmn/awesome-courses/blob/master/README.md
   * Using CDN?
   * Using custom icon & link going to site instead of icon URL?
 
-4. Table of contents:
+3. Table of contents:
  * https://github.com/shnbwmn/awesome-public-datasets/blob/master/README.rst
  * https://github.com/jonschlinkert/markdown-toc
  * https://github.com/ekalinin/github-markdown-toc
  * https://github.com/hybridgroup/GitHub-Wikifier
 
-5. Arrows?? https://github.com/mojombo/github-flavored-markdown/issues/1
+4. Arrows?? https://github.com/mojombo/github-flavored-markdown/issues/1
 
-6. Testing portability: Buster sandbox analyzer, rawreg (check TestingPortability MD)
+5. Testing portability: Buster sandbox analyzer, rawreg (check TestingPortability MD)
 
+### Done
+
+<s>Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
