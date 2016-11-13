@@ -41,6 +41,8 @@ audio conversion: lamexp
 
 9. Genealogy software - Gramps, SCION, etc
 
+10. eagleget
+
 ## Done
 
 <s>Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
