@@ -16,6 +16,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * Doesn't require third-party dependencies (with some exceptions, like .NET or Visual C++, or admin rights).
 * *[Stealth:](https://www.portablefreeware.com/faq.php#stealth)* leaves nothing behind in the registry or filesystem (no leftovers/clutter on the PC - ideal).
 * Due to the nature of some programs and their core functionality, they might be considered portable despite breaking a few of the above.
+* Just because a program comes in a ZIP/RAR,etc or says "standalone/portable" doesn't mean it's truly portable.
 
 **_More links:_**
 * [Wikipedia - Portable application](https://en.wikipedia.org/wiki/Portable_application)
@@ -56,7 +57,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 > [*browse*](#browsers), [*mail*](#email)
 
 * [*Multimedia*](#multimedia) 
-> [*play*](#players)
+> [*play*](#players), [*pod*](#podcasts)
 
 * [*Utilities*](#utilities) 
 > [*zip*](#archivers), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search)
@@ -91,6 +92,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [MPC BE](https://sourceforge.net/projects/mpcbe/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=60655)
 * [MPC HC](https://mpc-hc.org/) - [:package:](https://www.portablefreeware.com/?id=2054) [:floppy_disk:](http://portableapps.com/apps/music_video/mpc-hc-portable)
 * [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
+
+#### Podcasts
+* [gPodder](http://gpodder.org/) - [:package:](https://www.portablefreeware.com/?id=1673) [:floppy_disk:](http://portableapps.com/apps/internet/gpodder_portable)
 
 ### Utilities
 
