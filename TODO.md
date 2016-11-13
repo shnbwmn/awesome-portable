@@ -5,7 +5,7 @@
 to separate list, or add comment/icon to indicate this
 eg, Etcher
 
-2. Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)
+<s>2. Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
 
 3. Emojis: https://github.com/shnbwmn/awesome-courses/blob/master/README.md
   * Using CDN?
