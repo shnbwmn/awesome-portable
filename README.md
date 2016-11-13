@@ -50,6 +50,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 ## Contents
 
+* [*Education*](#education)
+> [*religion*](#religion)
+
 * [*Graphics*](#graphics)
 > [*cap*](#screen-capture), [*view*](#viewers)
 
@@ -61,6 +64,15 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 * [*Utilities*](#utilities) 
 > [*zip*](#archivers), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search)
+
+### Education
+
+#### Religion
+* [Bible Analyzer](http://www.bibleanalyzer.com/) - [:package:](https://www.portablefreeware.com/?id=2704)
+* [Bible Lightning](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=79666) - fast KJV lookup
+* [BPBible](https://github.com/bpbible/bpbible) - [:package:](https://www.portablefreeware.com/?id=1597) [:floppy_disk:](http://portableapps.com/apps/education/bpbible_portable)
+* [Davar4](http://www.davar3.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=79667)
+* [The Word](http://www.theword.net/index.php?) - [:package:](https://www.portablefreeware.com/?id=1248)
 
 ### Graphics
 
