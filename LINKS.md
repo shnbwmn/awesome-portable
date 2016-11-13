@@ -6,4 +6,4 @@
 ### Education
 
 #### Religion
-* See https://github.com/shnbwmn/doubting-thomas#software
+> https://github.com/shnbwmn/doubting-thomas#software
