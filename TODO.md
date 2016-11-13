@@ -6,6 +6,7 @@ to separate list, or add comment/icon to indicate this
 eg, [Etcher](https://www.portablefreeware.com/forums/viewtopic.php?p=84074)
 
 2. Emojis: https://github.com/shnbwmn/awesome-courses/blob/master/README.md
+  * Use for portableapps icon?
   * Using CDN?
   * Using custom icon & link going to site instead of icon URL?
 
