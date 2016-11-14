@@ -1,6 +1,9 @@
 
 # Consideration
 
+**_Other sites:_**
+* [Xetbox](http://xetbox.com/) - indicates whether a portable version is available
+
 ### Education
 
 #### Religion
