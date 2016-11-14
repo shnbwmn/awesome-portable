@@ -15,6 +15,11 @@
   * [On Softpedia](http://www.softpedia.com/get/Others/Home-Education/Ready-Bible-Study-and-Reference.shtml)
   * [On FreewareFiles](http://www.freewarefiles.com/Ready-Bible-Study-and-Reference_program_107176.html)
   
+### Internet
+
+#### Torrents
+* [Transmission](https://transmissionbt.com/)
+  
   
   
   
