@@ -4,8 +4,6 @@
 ### Education
 
 #### Religion
-> https://github.com/shnbwmn/doubting-thomas#software
-
 * [BibleLightning](http://www.biblelightning.org/) - dead link
   * [On FreewareFiles](http://www.freewarefiles.com/BibleLightning_program_91140.html)
   * [On PenDriveApps](https://pendriveapps.com/portable-bible-lightning/)
