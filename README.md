@@ -41,6 +41,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [LiberKey](http://www.liberkey.com/en.html)
 * [Lupo PenSuite](http://www.lupopensuite.com/)
 * [PenDriveApps](http://www.pendriveapps.com/)
+* [SyMenu](http://www.ugmfree.it/)
 * [WinPenPack](http://www.winpenpack.com/en/index.php)
 
 ## Contents
