@@ -38,7 +38,7 @@ http://www.winpenpack.com/en/download.php?view.1358
 
 10. SyMenu, NirLauncher/nirutilities
 
-11. Move LiberKey (+ Lupo??) to Launchers
+11. Move LiberKey to Launchers
 
 ## Done
 
