@@ -22,8 +22,6 @@ eg, [Etcher](https://www.portablefreeware.com/forums/viewtopic.php?p=84074)
 
 6. Education > Religion
   * Test: 
-  * [BibleTime](http://bibletime.info/)
-  * https://github.com/bibletime/bibletime
   * [Ready Bible Study and Reference](http://www.softpedia.com/get/Others/Home-Education/Ready-Bible-Study-and-Reference.shtml)
   * http://michaels-tech-notes.weebly.com/blog/category/religion
   * http://www.freewarefiles.com/Ready-Bible-Study-and-Reference_program_107176.html
