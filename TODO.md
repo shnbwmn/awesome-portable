@@ -40,6 +40,8 @@ http://www.winpenpack.com/en/download.php?view.1358
 
 11. Move LiberKey + SyMenu to Launchers?
 
+12. Update contribute to reflect non-portable, additional links, todo, etc.
+
 ## Done
 
 <s>Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
