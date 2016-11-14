@@ -36,6 +36,8 @@ audio conversion: lamexp
 9. Add X-WinPenPack to icons
 http://www.winpenpack.com/en/download.php?view.1358
 
+10. SyMenu, NirLauncher/nirutilities
+
 ## Done
 
 <s>Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
