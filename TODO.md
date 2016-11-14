@@ -19,27 +19,21 @@ eg, [Etcher](https://www.portablefreeware.com/forums/viewtopic.php?p=84074)
 4. Arrows?? https://github.com/mojombo/github-flavored-markdown/issues/1
 
 5. Testing portability: Buster sandbox analyzer, rawreg (check TestingPortability MD)
-
-6. Education > Religion
-  * Test: 
-  * [Ready Bible Study and Reference](http://www.softpedia.com/get/Others/Home-Education/Ready-Bible-Study-and-Reference.shtml)
-  * http://michaels-tech-notes.weebly.com/blog/category/religion
-  * http://www.freewarefiles.com/Ready-Bible-Study-and-Reference_program_107176.html
   
-7. https://transmissionbt.com/
+6. https://transmissionbt.com/
 https://github.com/Nenirey/AWGG
 https://sites.google.com/site/awggproject/
 https://sourceforge.net/projects/winwget/
 http://portableapps.com/apps/internet/winwget_portable
 
-8. to tpfc: text editors, eg editbone, etc
+7. to tpfc: text editors, eg editbone, etc
 tagspaces
 chat: isotoxin, etc
 audio conversion: lamexp
 
-9. Genealogy software - Gramps, SCION, etc
+8. Genealogy software - Gramps, SCION, etc
 
-10. eagleget
+9. eagleget
 
 ## Done
 
