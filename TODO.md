@@ -38,6 +38,8 @@ http://www.winpenpack.com/en/download.php?view.1358
 
 10. SyMenu, NirLauncher/nirutilities
 
+11. Move LiberKey (+ Lupo??) to Launchers
+
 ## Done
 
 <s>Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
