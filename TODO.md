@@ -35,10 +35,6 @@ audio conversion: lamexp
 
 9. eagleget
 
-10. [Christ On Disk](https://www.portablefreeware.com/index.php?id=1462)
-  * https://pendriveapps.com/christ-on-disk-portable-bible/
-  * Put in "Others.md"? (for software that isn't awesome - but test first)
-
 ## Done
 
 <s>Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
