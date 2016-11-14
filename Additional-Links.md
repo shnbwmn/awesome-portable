@@ -18,7 +18,7 @@
 ### Internet
 
 #### Torrents
-* [Transmission](https://transmissionbt.com/) - the original Linux/Mac project/program
+* [Transmission](https://transmissionbt.com/) - the original Linux/Mac homepage
   
   
   
