@@ -99,6 +99,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 ### Multimedia
 
 #### Players
+* [1by1](http://mpesch3.de1.cc/1by1.html) - [:package:](https://www.portablefreeware.com/?id=90)
 * [AIMP](http://www.aimp.ru/index.php) - [:package:](https://www.portablefreeware.com/index.php?id=1444) [:floppy_disk:](http://portableapps.com/apps/music_video/aimp-portable)
 * [Audacious](http://audacious-media-player.org/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=81470) [:file_folder:](http://rolandtoth.hu/yaP/#examples/Audacious.ini)
 * [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
