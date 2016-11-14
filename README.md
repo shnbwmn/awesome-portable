@@ -18,10 +18,6 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * Due to the nature of some programs and their core functionality, they might be considered portable despite breaking a few of the above.
 * Just because a program comes in a ZIP/RAR,etc or says "standalone/portable" doesn't mean it's truly portable.
 
-**_More links:_**
-* [Wikipedia - Portable application](https://en.wikipedia.org/wiki/Portable_application)
-* [Brackets portable build request](https://trello.com/c/sHyY0KlB/1003-portable-build) - nice short description
-
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
 * [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - install programs requiring installation inside a sandbox, or isolate a running program to show files/registry entries created
@@ -37,16 +33,15 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * **[TPFC](http://www.portablefreeware.com/)** :package: - either a database entry or often a thread in the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
 * **[PortableApps](http://portableapps.com/)** :floppy_disk: - either packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), often in addition to native portability, or a link to PA forum.
 * **[yaP](http://rolandtoth.hu/yaP/)** :file_folder: - has a [yaP config](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138) available.
+* **[ThumbApps](https://sourceforge.net/projects/thumbapps/)** :cyclone: - TA PAF available (they package programs that PortableApps won't for licencing reasons).
 * **Other** :gear: - portability instructions provided from the program site or another source.
 * **Commercial** :moneybag: - costs money, or compulsory donationware. I prefer to list freeware though as much as possible.
 
 **_Other sites:_**
-* [ThumbApps](http://www.thumbapps.org/) - packages programs that PortableApps won't
+* [LiberKey](http://www.liberkey.com/en.html)
 * [Lupo PenSuite](http://www.lupopensuite.com/)
 * [PenDriveApps](http://www.pendriveapps.com/)
-* [LiberKey](http://www.liberkey.com/en.html)
 * [WinPenPack](http://www.winpenpack.com/en/index.php)
-* [Xetbox](http://xetbox.com/) - indicates whether a portable version is available
 
 ## Contents
 
@@ -57,7 +52,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 > [*cap*](#screen-capture), [*view*](#viewers)
 
 * [*Internet*](#internet) 
-> [*browse*](#browsers), [*mail*](#email)
+> [*browse*](#browsers), [*dl*](#downloaders), [*mail*](#email), [*torrent*](#torrents)
 
 * [*Multimedia*](#multimedia) 
 > [*play*](#players), [*pod*](#podcasts)
@@ -93,8 +88,16 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:package:](https://www.portablefreeware.com/index.php?id=2074) [:floppy_disk:](http://portableapps.com/apps/internet/google_chrome_portable)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:package:](https://www.portablefreeware.com/?id=132) [:floppy_disk:](http://portableapps.com/apps/internet/firefox_portable)
 
+#### Downloaders
+* [EagleGet](http://www.eagleget.com/) - [:package:](https://www.portablefreeware.com/?id=2597)
+
 #### Email
 * [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - [:package:](https://www.portablefreeware.com/?id=133) [:floppy_disk:](http://portableapps.com/apps/internet/thunderbird_portable)
+
+#### Torrents
+* [PicoTorrent](http://www.picotorrent.org/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=79128)
+* [qBittorrent](http://qbittorrent.sourceforge.net/) - [:package:](https://www.portablefreeware.com/index.php?id=2406) [:floppy_disk:](http://portableapps.com/apps/internet/qbittorrent_portable)
+* [Transmission-Qt](https://sourceforge.net/projects/trqtw/) - [:package:](https://www.portablefreeware.com/index.php?id=2725) [:floppy_disk:](http://portableapps.com/apps/internet/transmission-portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Transmission/)
 
 ### Multimedia
 
