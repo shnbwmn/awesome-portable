@@ -59,7 +59,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 > [*play*](#players), [*pod*](#podcasts)
 
 * [*Office*](#office)
-> [*suite*](#suites)
+> [*suite*](#suites), [*text*](#text-editors)
 
 * [*Utilities*](#utilities) 
 > [*zip*](#archivers), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search)
@@ -123,6 +123,10 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [LibreOffice](https://www.libreoffice.org/) - [:package:](https://www.portablefreeware.com/?id=2055) [:floppy_disk:](http://portableapps.com/apps/office/libreoffice_portable)
 * [OpenOffice](https://www.openoffice.org/) - [:package:](https://www.portablefreeware.com/?id=212) [:floppy_disk:](http://portableapps.com/apps/office/openoffice_portable)
 * [SoftMaker FreeOffice](http://www.freeoffice.com/en/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=20457) [:gear:](http://www.freeoffice.com/en/tips-and-tricks-portable-installation)
+
+#### Text Editors
+* [EditBone](http://www.bonecode.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2706)
+* [SynWrite](http://www.uvviewsoft.com/synwrite/) - [:package:](https://www.portablefreeware.com/?id=2375)
 
 ### Utilities
 
