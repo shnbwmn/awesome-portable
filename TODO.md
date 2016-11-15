@@ -42,7 +42,7 @@ http://www.winpenpack.com/en/download.php?view.1358
 
 12. Update contribute to reflect non-portable, additional links, todo, etc.
 
-13. Remove Pull Request, Contribution Guidelines ... would prefer just to have Issues that I look at. Also hassle to maintain when new icons, files get created.
+13. Remove Pull Request, Contribution Guidelines ... would prefer just to have Issues that I look at. Also hassle to maintain when new icons, files get created. However issues are Github-only, whereas pull requests can be used via any Git client/CLI.
 
 ## Done
 
