@@ -122,6 +122,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 #### File Management
 * [Double Commander](http://doublecmd.sourceforge.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
 * [Free Commander XE](http://freecommander.com/en/summary/) - [:package:](https://www.portablefreeware.com/index.php?id=291) [:floppy_disk:](http://portableapps.com/apps/utilities/freecommander_portable) - 64-bit version is donationware
+* [MultiCommander](http://multicommander.com/) - [:package:](https://www.portablefreeware.com/?id=2304)
 * [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) - [:package:](https://www.portablefreeware.com/?id=1431) [:floppy_disk:](http://portableapps.com/apps/utilities/q-dir-portable)
 
 #### Launchers
