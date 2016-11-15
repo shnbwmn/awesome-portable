@@ -25,6 +25,10 @@
 #### Suites
 * OpenOffice
  * [On WinPenPack](http://www.winpenpack.com/en/download.php?view.1341) - add via icon as discussed?
+ 
+#### Text Editors
+* SynWrite
+ * [TotalCommander plugin](http://totalcmd.net/plugring/syn2.html)
   
   
   
