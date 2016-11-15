@@ -23,7 +23,8 @@
 ### Office
 
 #### Suites
-* http://www.winpenpack.com/en/download.php?view.1341
+* OpenOffice
+ * [On WinPenPack](http://www.winpenpack.com/en/download.php?view.1341) - add via icon as discussed?
   
   
   
