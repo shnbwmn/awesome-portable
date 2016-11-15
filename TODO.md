@@ -42,6 +42,8 @@ http://www.winpenpack.com/en/download.php?view.1358
 
 12. Update contribute to reflect non-portable, additional links, todo, etc.
 
+13. Remove Pull Request, Contribution Guidelines ... would prefer just to have Issues that I look at. Also hassle to maintain when new icons, files get created.
+
 ## Done
 
 <s>Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
