@@ -75,10 +75,10 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [The Word](http://www.theword.net/index.php?) - [:package:](https://www.portablefreeware.com/?id=1248)
 
 #### Statistics
-* [R](https://www.r-project.org) - [:gear:](https://sourceforge.net/projects/rportable/)
-* [RStudio](https://www.rstudio.com) - 
+* [R](https://www.r-project.org) - [:floppy_disk:](http://portableapps.com/node/32898) [:gear:](https://sourceforge.net/projects/rportable/files/R-Portable/)
+* [RStudio](https://www.rstudio.com) - [:gear:](https://sourceforge.net/projects/rportable/files/R-Studio/)
 * [Tinn-R](
-http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) - 
+http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) - [:floppy_disk:](http://portableapps.com/node/52078) [:gear:](https://sourceforge.net/projects/tinn-r/files/)
 
 ### Graphics
 
