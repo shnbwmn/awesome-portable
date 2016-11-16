@@ -41,7 +41,6 @@
 #### Text Editors
 * SynWrite
  * [TotalCommander plugin](http://totalcmd.net/plugring/syn2.html)
-  
-  
-  
-  
+
+### 
+* 
