@@ -20,12 +20,12 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
-* [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - install programs requiring installation inside a sandbox, or isolate a running program to show files/registry entries created
+* [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
 * [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
 
 **_Tools:_**
 * [LessMSI](http://lessmsi.activescott.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
-* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [:package:](https://www.portablefreeware.com/index.php?id=2764) - extracts program installers
+* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [:package:](https://www.portablefreeware.com/index.php?id=2764) - extracts most program installers
 
 **_Note on icons:_**
 > I consider TPFC and PA to be the foremost authorities on portability. 
@@ -39,7 +39,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 **_Other sites:_**
 * [LiberKey](http://www.liberkey.com/en.html)
-* [Lupo PenSuite](http://www.lupopensuite.com/)
+* [LupoPenSuite](http://www.lupopensuite.com/)
 * [PenDriveApps](http://www.pendriveapps.com/)
 * [SyMenu](http://www.ugmfree.it/)
 * [WinPenPack](http://www.winpenpack.com/en/index.php)
@@ -56,7 +56,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 > [*browse*](#browsers), [*dl*](#downloaders), [*mail*](#email), [*torrent*](#torrents)
 
 * [*Multimedia*](#multimedia) 
-> [*play*](#players), [*pod*](#podcasts)
+> [*play*](#players), [*pod*](#podcasts), [*rec*](#screen-recording)
 
 * [*Office*](#office)
 > [*suite*](#suites), [*text*](#text-editors)
@@ -115,17 +115,22 @@ http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) - [:floppy_disk:](http://
 
 ### Multimedia
 
-#### Players
+#### Music Players
 * [1by1](http://mpesch3.de1.cc/1by1.html) - [:package:](https://www.portablefreeware.com/?id=90)
 * [AIMP](http://www.aimp.ru/index.php) - [:package:](https://www.portablefreeware.com/index.php?id=1444) [:floppy_disk:](http://portableapps.com/apps/music_video/aimp-portable)
 * [Audacious](http://audacious-media-player.org/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=81470) [:file_folder:](http://rolandtoth.hu/yaP/#examples/Audacious.ini)
+
+#### Podcasts
+* [gPodder](http://gpodder.org/) - [:package:](https://www.portablefreeware.com/?id=1673) [:floppy_disk:](http://portableapps.com/apps/internet/gpodder_portable)
+
+#### Screen Recording
+* [OBS](https://obsproject.com) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=80343) [:floppy_fisk:](http://portableapps.com/node/53266) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Music_Video/OBS%20Studio/) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Music_Video/OBS_Open_Broadcaster_Software/) [:gear:](https://obsproject.com/forum/resources/obs-and-obs-studio-portable-mode-on-windows.359/)
+
+#### Video Players
 * [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
 * [MPC BE](https://sourceforge.net/projects/mpcbe/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=60655)
 * [MPC HC](https://mpc-hc.org/) - [:package:](https://www.portablefreeware.com/?id=2054) [:floppy_disk:](http://portableapps.com/apps/music_video/mpc-hc-portable)
 * [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
-
-#### Podcasts
-* [gPodder](http://gpodder.org/) - [:package:](https://www.portablefreeware.com/?id=1673) [:floppy_disk:](http://portableapps.com/apps/internet/gpodder_portable)
 
 ### Office
 
