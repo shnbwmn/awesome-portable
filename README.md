@@ -124,7 +124,7 @@ http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) - [:floppy_disk:](http://
 * [gPodder](http://gpodder.org/) - [:package:](https://www.portablefreeware.com/?id=1673) [:floppy_disk:](http://portableapps.com/apps/internet/gpodder_portable)
 
 #### Screen Recording
-* [OBS](https://obsproject.com) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=80343) [:floppy_fisk:](http://portableapps.com/node/53266) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Music_Video/OBS%20Studio/) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Music_Video/OBS_Open_Broadcaster_Software/) [:gear:](https://obsproject.com/forum/resources/obs-and-obs-studio-portable-mode-on-windows.359/)
+* [OBS](https://obsproject.com) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=80343) [:floppy_disk:](http://portableapps.com/node/53266) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Music_Video/OBS%20Studio/) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Music_Video/OBS_Open_Broadcaster_Software/) [:gear:](https://obsproject.com/forum/resources/obs-and-obs-studio-portable-mode-on-windows.359/)
 
 #### Video Players
 * [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
