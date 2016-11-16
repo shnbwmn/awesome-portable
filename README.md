@@ -47,7 +47,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 ## Contents
 
 * [*Education*](#education)
-> [*religion*](#religion)
+> [*religion*](#religion), [*stats*](#statistics)
 
 * [*Graphics*](#graphics)
 > [*cap*](#screen-capture), [*view*](#viewers)
