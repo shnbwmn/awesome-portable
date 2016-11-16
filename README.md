@@ -99,7 +99,7 @@ http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) -
 ### Internet
 
 #### Browsers
-* [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:package:](https://www.portablefreeware.com/index.php?id=2074) [:floppy_disk:](http://portableapps.com/apps/internet/google_chrome_portable) [::cyclone](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
+* [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:package:](https://www.portablefreeware.com/index.php?id=2074) [:floppy_disk:](http://portableapps.com/apps/internet/google_chrome_portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:package:](https://www.portablefreeware.com/?id=132) [:floppy_disk:](http://portableapps.com/apps/internet/firefox_portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
 
 #### Downloaders
