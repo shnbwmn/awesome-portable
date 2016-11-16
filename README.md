@@ -16,7 +16,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * Doesn't require third-party dependencies (with some exceptions, like .NET or Visual C++, or admin rights).
 * *[Stealth:](https://www.portablefreeware.com/faq.php#stealth)* leaves nothing behind in the registry or filesystem (no leftovers/clutter on the PC - ideal).
 * Due to the nature of some programs and their core functionality, they might be considered portable despite breaking a few of the above.
-* Just because a program comes in a ZIP/RAR,etc or says "standalone/portable" doesn't mean it's truly portable.
+* Just because a program comes in a ZIP/RAR, etc or says "standalone/portable" doesn't mean it's truly portable.
 
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
