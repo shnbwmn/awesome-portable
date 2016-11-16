@@ -15,6 +15,10 @@
   * [On Softpedia](http://www.softpedia.com/get/Others/Home-Education/Ready-Bible-Study-and-Reference.shtml)
   * [On FreewareFiles](http://www.freewarefiles.com/Ready-Bible-Study-and-Reference_program_107176.html)
   
+#### Statistics
+* RStudio
+ * [How to use portable versions of R and RStudio](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Portable%20versions%20of%20R%20and%20RStudio.pdf) - need to test this
+  
 ### Graphics
 
 #### Screen Capture
