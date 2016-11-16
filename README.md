@@ -56,7 +56,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 > [*browse*](#browsers), [*dl*](#downloaders), [*mail*](#email), [*torrent*](#torrents)
 
 * [*Multimedia*](#multimedia) 
-> [*play*](#players), [*pod*](#podcasts), [*rec*](#screen-recording)
+> [*musicplay*](#music-players), [*pod*](#podcasts), [*rec*](#screen-recording), [*vidplay*](#video-players)
 
 * [*Office*](#office)
 > [*suite*](#suites), [*text*](#text-editors)
