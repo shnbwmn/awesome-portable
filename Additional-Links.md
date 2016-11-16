@@ -15,6 +15,12 @@
   * [On Softpedia](http://www.softpedia.com/get/Others/Home-Education/Ready-Bible-Study-and-Reference.shtml)
   * [On FreewareFiles](http://www.freewarefiles.com/Ready-Bible-Study-and-Reference_program_107176.html)
   
+### Graphics
+
+#### Screen Capture
+* ShareX
+ * [On Steam](http://store.steampowered.com/app/400040/)
+  
 ### Internet
 
 #### Torrents
