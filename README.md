@@ -83,6 +83,10 @@ http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) -
 ### Graphics
 
 #### Screen Capture
+* [Greenshot](http://getgreenshot.org/) - [:package:](https://www.portablefreeware.com/?id=2340) - dev distributes PAF version as well
+* [Lightscreen](https://lightscreen.com.ar/) - [:package:](https://www.portablefreeware.com/?id=1959) [:floppy_disk:](http://portableapps.com/apps/utilities/lightscreen_portable)
+* [PicPick](http://ngwin.com/picpick) - [:package:](https://www.portablefreeware.com/index.php?id=1496) [:floppy_disk:](http://portableapps.com/apps/graphics_pictures/picpick-portable) - a lot more than just a screenshot tool
+* [ShareX](https://getsharex.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2409) - like PicPick, has many diverse features beyond screenshotting
 * [Snipaste](https://www.snipaste.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2801)
 
 #### Viewers
@@ -95,8 +99,8 @@ http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) -
 ### Internet
 
 #### Browsers
-* [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:package:](https://www.portablefreeware.com/index.php?id=2074) [:floppy_disk:](http://portableapps.com/apps/internet/google_chrome_portable)
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:package:](https://www.portablefreeware.com/?id=132) [:floppy_disk:](http://portableapps.com/apps/internet/firefox_portable)
+* [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:package:](https://www.portablefreeware.com/index.php?id=2074) [:floppy_disk:](http://portableapps.com/apps/internet/google_chrome_portable) [::cyclone](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:package:](https://www.portablefreeware.com/?id=132) [:floppy_disk:](http://portableapps.com/apps/internet/firefox_portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
 
 #### Downloaders
 * [EagleGet](http://www.eagleget.com/) - [:package:](https://www.portablefreeware.com/?id=2597)
