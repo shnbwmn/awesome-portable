@@ -74,6 +74,12 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Ready Bible Study and Reference](http://michaels-tech-notes.weebly.com/blog/category/religion) - settings saved to INIs within program directory
 * [The Word](http://www.theword.net/index.php?) - [:package:](https://www.portablefreeware.com/?id=1248)
 
+#### Statistics
+* [R](https://www.r-project.org) - [:gear:](https://sourceforge.net/projects/rportable/)
+* [RStudio](https://www.rstudio.com) - 
+* [Tinn-R](
+http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) - 
+
 ### Graphics
 
 #### Screen Capture
