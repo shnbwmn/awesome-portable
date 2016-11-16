@@ -62,7 +62,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 > [*suite*](#suites), [*text*](#text-editors)
 
 * [*Utilities*](#utilities) 
-> [*zip*](#archivers), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search)
+> [*zip*](#archivers), [*backup*](#backup), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search)
 
 ### Education
 
@@ -142,6 +142,9 @@ http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) -
 
 #### Archivers
 * [7-Zip](http://www.7-zip.org/) - [:package:](https://www.portablefreeware.com/?id=796) [:floppy_disk:](http://portableapps.com/apps/utilities/7-zip_portable)
+
+#### Backup
+* [jaBuT Backup](http://jabut.de/en) - [:package:](https://www.portablefreeware.com/?id=2812)
 
 #### File Management
 * [Double Commander](http://doublecmd.sourceforge.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
