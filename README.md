@@ -16,12 +16,13 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * Doesn't require third-party dependencies (with some exceptions, like .NET or Visual C++, or admin rights).
 * *[Stealth:](https://www.portablefreeware.com/faq.php#stealth)* leaves nothing behind in the registry or filesystem (no leftovers/clutter on the PC - ideal).
 * Due to the nature of some programs and their core functionality, they might be considered portable despite breaking a few of the above.
-* Just because a program comes in a ZIP/RAR, etc or says "standalone/portable" doesn't mean it's truly portable.
 
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
 * [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
 * [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
+* *Remember:* just because a program comes in a ZIP/RAR, etc or says "standalone/portable" doesn't mean it's truly portable.
+* The crucial thing is where settings are saved - this is the core of testing.
 
 **_Tools:_**
 * [LessMSI](http://lessmsi.activescott.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
