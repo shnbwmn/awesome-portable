@@ -53,7 +53,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 > [*cap*](#screen-capture), [*view*](#viewers)
 
 * [*Internet*](#internet) 
-> [*browse*](#browsers), [*dl*](#downloaders), [*mail*](#email), [*torrent*](#torrents)
+> [*browse*](#browsers), [*dl*](#download-managers), [*mail*](#email), [*torrent*](#torrents)
 
 * [*Multimedia*](#multimedia) 
 > [*musicplay*](#music-players), [*pod*](#podcasts), [*rec*](#screen-recording), [*vidplay*](#video-players)
@@ -102,7 +102,7 @@ http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) - [:floppy_disk:](http://
 * [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:package:](https://www.portablefreeware.com/index.php?id=2074) [:floppy_disk:](http://portableapps.com/apps/internet/google_chrome_portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:package:](https://www.portablefreeware.com/?id=132) [:floppy_disk:](http://portableapps.com/apps/internet/firefox_portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
 
-#### Downloaders
+#### Download Managers
 * [EagleGet](http://www.eagleget.com/) - [:package:](https://www.portablefreeware.com/?id=2597)
 
 #### Email
@@ -131,6 +131,7 @@ http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) - [:floppy_disk:](http://
 * [MPC BE](https://sourceforge.net/projects/mpcbe/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=60655)
 * [MPC HC](https://mpc-hc.org/) - [:package:](https://www.portablefreeware.com/?id=2054) [:floppy_disk:](http://portableapps.com/apps/music_video/mpc-hc-portable)
 * [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
+* [VLC]
 
 ### Office
 
@@ -140,13 +141,20 @@ http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) - [:floppy_disk:](http://
 * [SoftMaker FreeOffice](http://www.freeoffice.com/en/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=20457) [:gear:](http://www.freeoffice.com/en/tips-and-tricks-portable-installation)
 
 #### Text Editors
+* [Atom]
+* [Brackets] - - geared toward web development
 * [EditBone](http://www.bonecode.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2706)
+* [Notepad++]
+* [RJ TextEd]
 * [SynWrite](http://www.uvviewsoft.com/synwrite/) - [:package:](https://www.portablefreeware.com/?id=2375)
+* [Visual Studio Code]
 
 ### Utilities
 
 #### Archivers
 * [7-Zip](http://www.7-zip.org/) - [:package:](https://www.portablefreeware.com/?id=796) [:floppy_disk:](http://portableapps.com/apps/utilities/7-zip_portable)
+* [Bandizip]
+* [Peazip]
 
 #### Backup
 * [jaBuT Backup](http://jabut.de/en) - [:package:](https://www.portablefreeware.com/?id=2812)
@@ -155,6 +163,7 @@ http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) - [:floppy_disk:](http://
 * [Double Commander](http://doublecmd.sourceforge.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
 * [Free Commander XE](http://freecommander.com/en/summary/) - [:package:](https://www.portablefreeware.com/index.php?id=291) [:floppy_disk:](http://portableapps.com/apps/utilities/freecommander_portable) - 64-bit version is donationware
 * [MultiCommander](http://multicommander.com/) - [:package:](https://www.portablefreeware.com/?id=2304)
+* [NexusFile]
 * [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) - [:package:](https://www.portablefreeware.com/?id=1431) [:floppy_disk:](http://portableapps.com/apps/utilities/q-dir-portable)
 
 #### Launchers
