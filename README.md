@@ -22,7 +22,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
 * [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
 * *Remember:* just because a program comes in a ZIP/RAR, etc or says "standalone/portable" doesn't mean it's truly portable.
-* The crucial thing is where settings are saved - this is the core of testing.
+* The crucial question is: *Where are the settings saved to?* - this is the core of testing.
 
 **_Tools:_**
 * [LessMSI](http://lessmsi.activescott.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
