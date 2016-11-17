@@ -78,8 +78,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 #### Statistics
 * [R](https://www.r-project.org) - [:floppy_disk:](http://portableapps.com/node/32898) [:gear:](https://sourceforge.net/projects/rportable/files/R-Portable/)
 * [RStudio](https://www.rstudio.com) - [:gear:](https://sourceforge.net/projects/rportable/files/R-Studio/)
-* [Tinn-R](
-http://nbcgib.uesc.br/lec/software/editores/tinn-r/en) - [:floppy_disk:](http://portableapps.com/node/52078) [:gear:](https://sourceforge.net/projects/tinn-r/files/)
+* [Tinn-R](https://sourceforge.net/projects/tinn-r/) - [:floppy_disk:](http://portableapps.com/node/52078) [:gear:](https://sourceforge.net/projects/tinn-r/files/)
 
 ### Graphics
 
