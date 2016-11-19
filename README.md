@@ -48,7 +48,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 ## Contents
 
 * [*Development*](#development)
-> [*source*](#source-control)
+> [*source*](#source-control), [*text*](#text-editors)
 
 * [*Education*](#education)
 > [*religion*](#religion), [*stats*](#statistics)
@@ -63,7 +63,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 > [*musicplay*](#music-players), [*pod*](#podcasts), [*rec*](#screen-recording), [*vidplay*](#video-players)
 
 * [*Office*](#office)
-> [*notes*](#notetaking), [*suite*](#suites), [*text*](#text-editors)
+> [*notes*](#notetaking), [*suite*](#suites)
 
 * [*Utilities*](#utilities) 
 > [*zip*](#archivers), [*backup*](#backup), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search)
@@ -72,6 +72,15 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 #### Source Control
 * [Git](https://git-scm.com/) - [:floppy_disk:](https://github.com/sheabunge/GitPortable)
+
+#### Text Editors
+* [Atom]
+* [Brackets](http://brackets.io/) - - geared toward web development
+* [EditBone](http://www.bonecode.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2706)
+* [Notepad++]
+* [RJ TextEd]
+* [SynWrite](http://www.uvviewsoft.com/synwrite/) - [:package:](https://www.portablefreeware.com/?id=2375)
+* [Visual Studio Code](https://code.visualstudio.com/) - 
 
 ### Education
 
@@ -151,15 +160,6 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [LibreOffice](https://www.libreoffice.org/) - [:package:](https://www.portablefreeware.com/?id=2055) [:floppy_disk:](http://portableapps.com/apps/office/libreoffice_portable)
 * [OpenOffice](https://www.openoffice.org/) - [:package:](https://www.portablefreeware.com/?id=212) [:floppy_disk:](http://portableapps.com/apps/office/openoffice_portable)
 * [SoftMaker FreeOffice](http://www.freeoffice.com/en/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=20457) [:gear:](http://www.freeoffice.com/en/tips-and-tricks-portable-installation)
-
-#### Text Editors
-* [Atom]
-* [Brackets] - - geared toward web development
-* [EditBone](http://www.bonecode.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2706)
-* [Notepad++]
-* [RJ TextEd]
-* [SynWrite](http://www.uvviewsoft.com/synwrite/) - [:package:](https://www.portablefreeware.com/?id=2375)
-* [Visual Studio Code](https://code.visualstudio.com/) - 
 
 ### Utilities
 
