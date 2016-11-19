@@ -5,6 +5,13 @@
 * [Wikipedia - Portable application](https://en.wikipedia.org/wiki/Portable_application)
 * [Brackets portable build request](https://trello.com/c/sHyY0KlB/1003-portable-build) - nice short description
 
+### Development
+
+#### Source Control
+* [Git](https://git-for-windows.github.io/) - alternative homepage for Windows build of Git
+  * [Differences between Git-scm, msysGit & Git for Windows](http://stackoverflow.com/questions/22310007/differences-between-git-scm-msysgit-git-for-windows/22310210#22310210?newreg=4dd14f94819e4a60aa0d711f16c75bbd)
+  * [On Chocolatey](https://chocolatey.org/packages/git)
+
 ### Education
 
 #### Religion
@@ -30,7 +37,7 @@
 ### Internet
 
 #### Torrents
-* [Transmission](https://transmissionbt.com/) - the original Linux/Mac homepage
+* [Transmission](https://transmissionbt.com/) - Linux/Mac-only program from which Transmission-Qt is forked
 
 ### Office
 

@@ -47,6 +47,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 ## Contents
 
+* [*Development*](#development)
+> [*source*](#source-control)
+
 * [*Education*](#education)
 > [*religion*](#religion), [*stats*](#statistics)
 
@@ -64,6 +67,11 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 * [*Utilities*](#utilities) 
 > [*zip*](#archivers), [*backup*](#backup), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search)
+
+### Development
+
+#### Source control
+* [Git](https://git-scm.com/) - [:floppy_disk:](https://github.com/sheabunge/GitPortable)
 
 ### Education
 
@@ -151,7 +159,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Notepad++]
 * [RJ TextEd]
 * [SynWrite](http://www.uvviewsoft.com/synwrite/) - [:package:](https://www.portablefreeware.com/?id=2375)
-* [Visual Studio Code]
+* [Visual Studio Code](https://code.visualstudio.com/) - 
 
 ### Utilities
 
