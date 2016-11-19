@@ -75,7 +75,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 #### Text Editors
 * [Atom]
-* [Brackets](http://brackets.io/) - - geared toward web development
+* [Brackets](http://brackets.io/) - [:floppy_disk:](https://github.com/sagiegurari/brackets-portable) - geared toward web development
 * [EditBone](http://www.bonecode.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2706)
 * [Notepad++]
 * [RJ TextEd]
