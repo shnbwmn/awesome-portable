@@ -157,8 +157,8 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 #### Archivers
 * [7-Zip](http://www.7-zip.org/) - [:package:](https://www.portablefreeware.com/?id=796) [:floppy_disk:](http://portableapps.com/apps/utilities/7-zip_portable)
-* [Bandizip]
-* [Peazip]
+* [Bandizip](http://www.bandisoft.com/bandizip/) - 
+* [Peazip](http://www.peazip.org/) - 
 
 #### Backup
 * [jaBuT Backup](http://jabut.de/en) - [:package:](https://www.portablefreeware.com/?id=2812)
