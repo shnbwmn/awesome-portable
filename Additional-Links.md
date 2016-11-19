@@ -48,4 +48,8 @@
 #### Text Editors
 * SynWrite
  * [TotalCommander plugin](http://totalcmd.net/plugring/syn2.html)
+* Visual Studio Code
+ * https://visualstudio.uservoice.com/forums/293070-visual-studio-code/suggestions/7760061-visual-studio-code-portable
+ * See comment by Dawid on July 18, 2015 -> test against TPFC thread findings
+ * https://code.visualstudio.com/docs/setup/windows
 
