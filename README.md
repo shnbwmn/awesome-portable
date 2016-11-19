@@ -135,6 +135,10 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 ### Office
 
+#### Notetaking
+* [QOwnNotes]
+* [Laverna]
+
 #### Suites
 * [LibreOffice](https://www.libreoffice.org/) - [:package:](https://www.portablefreeware.com/?id=2055) [:floppy_disk:](http://portableapps.com/apps/office/libreoffice_portable)
 * [OpenOffice](https://www.openoffice.org/) - [:package:](https://www.portablefreeware.com/?id=212) [:floppy_disk:](http://portableapps.com/apps/office/openoffice_portable)
