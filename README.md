@@ -70,7 +70,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 ### Development
 
-#### Source control
+#### Source Control
 * [Git](https://git-scm.com/) - [:floppy_disk:](https://github.com/sheabunge/GitPortable)
 
 ### Education
