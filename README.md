@@ -66,7 +66,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 > [*notes*](#notetaking), [*suite*](#suites)
 
 * [*Utilities*](#utilities) 
-> [*zip*](#archivers), [*backup*](#backup), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search), [*type*](#typography)
+> [*zip*](#archivers), [*backup*](#backup), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search), [*time*](#time), [*type*](#typography)
 
 ### Development
 
@@ -146,6 +146,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 #### Video Players
 * [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
 * [MPC BE](https://sourceforge.net/projects/mpcbe/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=60655)
+
 * [MPC HC](https://mpc-hc.org/) - [:package:](https://www.portablefreeware.com/?id=2054) [:floppy_disk:](http://portableapps.com/apps/music_video/mpc-hc-portable)
 
 * [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
@@ -189,6 +190,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 #### Search
 * [Everything](http://www.voidtools.com/) - [:package:](https://www.portablefreeware.com/index.php?id=1479)
 * [Listary](http://www.listary.com/) - [:package:](https://www.portablefreeware.com/?id=1680) [:floppy_disk:](http://portableapps.com/apps/utilities/listary_portable) - Pro version available
+
+#### Time
+* [Titlebar Date-Time](http://www.whisperingpinessoftware.com/tbdt.html) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=84159)
 
 #### Typography
 * [WinCompose](https://github.com/SamHocevar/wincompose) - [:package:](https://www.portablefreeware.com/index.php?id=2615)
