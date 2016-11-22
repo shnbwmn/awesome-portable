@@ -19,6 +19,8 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
+* [Dependency Walker](http://www.dependencywalker.com/)
+* [Primo](http://members.tripod.com/~randy_hall/download.htm) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=8164)
 * [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
 * [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
 * *Remember:* packaging in a ZIP/RAR or stating "standalone/portable" on a program's website doesn't mean true portability.
