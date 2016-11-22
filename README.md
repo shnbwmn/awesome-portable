@@ -74,7 +74,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Git](https://git-scm.com/) - [:floppy_disk:](https://github.com/sheabunge/GitPortable)
 
 #### Text Editors
-* [Atom](https://atom.io/) - [:package:](https://www.portablefreeware.com/?id=2793)
+* [Atom](https://atom.io/) - [:package:](https://www.portablefreeware.com/?id=2793) [:floppy_disk:](https://github.com/garethflowers/atom-portable)
 * [Brackets](http://brackets.io/) - [:floppy_disk:](https://github.com/sagiegurari/brackets-portable) - geared toward web development
 * [CuteMarkEd](https://cloose.github.io/CuteMarkEd/) - [:floppy_disk:](http://portableapps.com/apps/office/cutemarked-portable)
 * [EditBone](http://www.bonecode.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2706)
@@ -83,7 +83,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [RJ TextEd](http://www.rj-texted.se/) - [:package:](https://www.portablefreeware.com/?id=2206)
 * [Sublime Text](https://www.sublimetext.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) - not free, but unlimited evaluation
 * [SynWrite](http://www.uvviewsoft.com/synwrite/) - [:package:](https://www.portablefreeware.com/?id=2375)
-* [Visual Studio Code](https://code.visualstudio.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=82783)
+* [Visual Studio Code](https://code.visualstudio.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=82783) [:floppy_)disk:](https://github.com/garethflowers/vscode-portable)
 
 ### Education
 
@@ -158,7 +158,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [MPC BE](https://sourceforge.net/projects/mpcbe/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=60655)
 * [MPC HC](https://mpc-hc.org/) - [:package:](https://www.portablefreeware.com/?id=2054) [:floppy_disk:](http://portableapps.com/apps/music_video/mpc-hc-portable)
 * [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
-* [VLC](http://www.videolan.org/vlc/)
+* [VLC](http://www.videolan.org/vlc/) - [:package:](https://www.portablefreeware.com/?id=599) [:floppy_disk:](http://portableapps.com/apps/music_video/vlc_portable)
 
 ### Office
 
@@ -185,7 +185,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Double Commander](http://doublecmd.sourceforge.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
 * [Free Commander XE](http://freecommander.com/en/summary/) - [:package:](https://www.portablefreeware.com/index.php?id=291) [:floppy_disk:](http://portableapps.com/apps/utilities/freecommander_portable) - 64-bit version is donationware
 * [MultiCommander](http://multicommander.com/) - [:package:](https://www.portablefreeware.com/?id=2304)
-* [NexusFile]
+* [NexusFile](http://www.xiles.net/) - [:package:](https://www.portablefreeware.com/?id=1419)
 * [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) - [:package:](https://www.portablefreeware.com/?id=1431) [:floppy_disk:](http://portableapps.com/apps/utilities/q-dir-portable)
 
 #### Launchers
@@ -203,6 +203,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Titlebar Date-Time](http://www.whisperingpinessoftware.com/tbdt.html) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=84159)
 
 #### Typography
+* [NexusFont](http://www.xiles.net/) - [:package:](https://www.portablefreeware.com/?id=731)
 * [WinCompose](https://github.com/SamHocevar/wincompose) - [:package:](https://www.portablefreeware.com/index.php?id=2615)
 
 ## License
