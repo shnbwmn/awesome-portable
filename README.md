@@ -7,7 +7,7 @@
 
 Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable/blob/master/Contribute.md)
 
-**_See also:_** [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games)
+**_See also:_** [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
 
 **_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app)
 * No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation).
@@ -81,9 +81,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [MarkdownEdit](http://markdownedit.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=81353)
 * [Notepad++](https://notepad-plus-plus.org/) - [:package:](https://www.portablefreeware.com/?id=539) [:floppy_disk:](http://portableapps.com/apps/development/notepadpp_portable)
 * [RJ TextEd](http://www.rj-texted.se/) - [:package:](https://www.portablefreeware.com/?id=2206)
-* [Sublime Text](https://www.sublimetext.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) - not free, but unlimited evaluation
+* [Sublime Text](https://www.sublimetext.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) :moneybag: - not free, but unlimited evaluation
 * [SynWrite](http://www.uvviewsoft.com/synwrite/) - [:package:](https://www.portablefreeware.com/?id=2375)
-* [Visual Studio Code](https://code.visualstudio.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=82783) [:floppy_)disk:](https://github.com/garethflowers/vscode-portable)
+* [Visual Studio Code](https://code.visualstudio.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=82783) [:floppy_disk:](https://github.com/garethflowers/vscode-portable)
 
 ### Education
 
