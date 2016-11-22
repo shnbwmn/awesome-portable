@@ -50,12 +50,11 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [*Development*](#development)
 > [*source*](#source-control), [*text*](#text-editors)
 
-
 * [*Education*](#education)
 > [*religion*](#religion), [*stats*](#statistics)
 
 * [*Graphics*](#graphics)
-> [*3d*](#3d), [*cap*](#screen-capture), [*view*](#viewers)
+> [*3d*](#3d), [*cad*](#cad), [*cap*](#screen-capture), [*view*](#viewers)
 
 * [*Internet*](#internet) 
 > [*browse*](#browsers), [*dl*](#download-managers), [*mail*](#email), [*torrent*](#torrents)
@@ -102,6 +101,10 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 #### 3D
 * [Blender](https://www.blender.org/) - [:package:](https://www.portablefreeware.com/?id=660) [:floppy_disk:](http://portableapps.com/apps/graphics_pictures/blender_portable) [:gear:](https://www.blender.org/manual/getting_started/installing/configuration/directories.html)
+
+#### CAD
+* [OpenSCAD](http://www.openscad.org/)
+* [SweetHome3D](http://www.sweethome3d.com/)
 
 #### Screen Capture
 * [Greenshot](http://getgreenshot.org/) - [:package:](https://www.portablefreeware.com/?id=2340) - dev distributes PAF version as well
