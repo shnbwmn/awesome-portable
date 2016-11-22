@@ -37,7 +37,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * **[ThumbApps](https://sourceforge.net/projects/thumbapps/)** :cyclone: - TA PAF available (they package programs that PortableApps won't for licencing reasons).
 * **Other** :gear: - portability instructions provided from the program site or another source.
 * **Commercial** :moneybag: - costs money, or compulsory donationware. I prefer to list freeware though as much as possible.
-
+)
 **_Other sites:_**
 * [LiberKey](http://www.liberkey.com/en.html)
 * [LupoPenSuite](http://www.lupopensuite.com/)
@@ -74,11 +74,11 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Git](https://git-scm.com/) - [:floppy_disk:](https://github.com/sheabunge/GitPortable)
 
 #### Text Editors
-* [Atom]
+* [Atom](https://atom.io/)
 * [Brackets](http://brackets.io/) - [:floppy_disk:](https://github.com/sagiegurari/brackets-portable) - geared toward web development
 * [EditBone](http://www.bonecode.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2706)
-* [Notepad++]
-* [RJ TextEd]
+* [Notepad++](https://notepad-plus-plus.org/)
+* [RJ TextEd](http://www.rj-texted.se/)
 * [SynWrite](http://www.uvviewsoft.com/synwrite/) - [:package:](https://www.portablefreeware.com/?id=2375)
 * [Visual Studio Code](https://code.visualstudio.com/) - 
 
@@ -93,8 +93,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [The Word](http://www.theword.net/index.php?) - [:package:](https://www.portablefreeware.com/?id=1248)
 
 #### Statistics
-* [R](https://www.r-project.org) - [:floppy_disk:](http://portableapps.com/node/32898) [:gear:](https://sourceforge.net/projects/rportable/files/R-Portable/)
-* [RStudio](https://www.rstudio.com) - [:gear:](https://sourceforge.net/projects/rportable/files/R-Studio/)
+* [R](https://www.r-project.org) - [:floppy_disk:](http://portableapps.com/node/32898) [:gear:](https://sourceforge.net/projects/rportable/files/R-Portable/)* [RStudio](https://www.rstudio.com) - [:gear:](https://sourceforge.net/projects/rportable/files/R-Studio/)
 * [Tinn-R](https://sourceforge.net/projects/tinn-r/) - [:floppy_disk:](http://portableapps.com/node/52078) [:gear:](https://sourceforge.net/projects/tinn-r/files/)
 
 ### Graphics
@@ -146,11 +145,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 #### Video Players
 * [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
 * [MPC BE](https://sourceforge.net/projects/mpcbe/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=60655)
-
 * [MPC HC](https://mpc-hc.org/) - [:package:](https://www.portablefreeware.com/?id=2054) [:floppy_disk:](http://portableapps.com/apps/music_video/mpc-hc-portable)
-
 * [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
-* [VLC]
+* [VLC](http://www.videolan.org/vlc/)
 
 ### Office
 
