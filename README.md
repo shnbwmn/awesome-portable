@@ -55,7 +55,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 > [*religion*](#religion), [*stats*](#statistics)
 
 * [*Graphics*](#graphics)
-> [*cap*](#screen-capture), [*view*](#viewers)
+> [*3d*](#3d), [*cap*](#screen-capture), [*view*](#viewers)
 
 * [*Internet*](#internet) 
 > [*browse*](#browsers), [*dl*](#download-managers), [*mail*](#email), [*torrent*](#torrents)
@@ -99,6 +99,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Tinn-R](https://sourceforge.net/projects/tinn-r/) - [:floppy_disk:](http://portableapps.com/node/52078) [:gear:](https://sourceforge.net/projects/tinn-r/files/)
 
 ### Graphics
+
+#### 3D
+* [Blender](https://www.blender.org/) - [:package:](https://www.portablefreeware.com/?id=660), [:floppy_disk:](http://portableapps.com/apps/graphics_pictures/blender_portable), [:gear:](https://www.blender.org/manual/getting_started/installing/configuration/directories.html)
 
 #### Screen Capture
 * [Greenshot](http://getgreenshot.org/) - [:package:](https://www.portablefreeware.com/?id=2340) - dev distributes PAF version as well
