@@ -21,8 +21,8 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
 * [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
 * [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
-* *Remember:* just because a program comes in a ZIP/RAR, etc or says "standalone/portable" doesn't mean it's truly portable.
-* The crucial question is: *Where are the settings saved to?* - this is the core of testing.
+* *Remember:* packaging in a ZIP/RAR or stating "standalone/portable" on a program's website doesn't mean true portability.
+* *Where are the settings saved to?*.
 
 **_Tools:_**
 * [LessMSI](http://lessmsi.activescott.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
@@ -49,6 +49,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 * [*Development*](#development)
 > [*source*](#source-control), [*text*](#text-editors)
+
 
 * [*Education*](#education)
 > [*religion*](#religion), [*stats*](#statistics)
@@ -93,7 +94,8 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [The Word](http://www.theword.net/index.php?) - [:package:](https://www.portablefreeware.com/?id=1248)
 
 #### Statistics
-* [R](https://www.r-project.org) - [:floppy_disk:](http://portableapps.com/node/32898) [:gear:](https://sourceforge.net/projects/rportable/files/R-Portable/)* [RStudio](https://www.rstudio.com) - [:gear:](https://sourceforge.net/projects/rportable/files/R-Studio/)
+* [R](https://www.r-project.org) - [:floppy_disk:](http://portableapps.com/node/32898) [:gear:](https://sourceforge.net/projects/rportable/files/R-Portable/)
+* [RStudio](https://www.rstudio.com) - [:gear:](https://sourceforge.net/projects/rportable/files/R-Studio/)
 * [Tinn-R](https://sourceforge.net/projects/tinn-r/) - [:floppy_disk:](http://portableapps.com/node/52078) [:gear:](https://sourceforge.net/projects/tinn-r/files/)
 
 ### Graphics
