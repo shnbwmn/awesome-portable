@@ -30,7 +30,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 **_Note on icons:_**
 > I consider TPFC and PA to be the foremost authorities on portability. 
-
+ 
 * **[TPFC](http://www.portablefreeware.com/)** :package: - either a database entry or often a thread in the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
 * **[PortableApps](http://portableapps.com/)** :floppy_disk: - either packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), often in addition to native portability, or a link to PA forum.
 * **[yaP](http://rolandtoth.hu/yaP/)** :file_folder: - has a [yaP config](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138) available.
@@ -66,7 +66,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 > [*notes*](#notetaking), [*suite*](#suites)
 
 * [*Utilities*](#utilities) 
-> [*zip*](#archivers), [*backup*](#backup), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search)
+> [*zip*](#archivers), [*backup*](#backup), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search), [*type*](#typography)
 
 ### Development
 
@@ -188,6 +188,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 #### Search
 * [Everything](http://www.voidtools.com/) - [:package:](https://www.portablefreeware.com/index.php?id=1479)
 * [Listary](http://www.listary.com/) - [:package:](https://www.portablefreeware.com/?id=1680) [:floppy_disk:](http://portableapps.com/apps/utilities/listary_portable) - Pro version available
+
+#### Typography
+* [WinCompose](https://github.com/SamHocevar/wincompose) - [:package:](https://www.portablefreeware.com/index.php?id=2615)
 
 ## License
 
