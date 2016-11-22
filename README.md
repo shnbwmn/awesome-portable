@@ -27,6 +27,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 **_Tools:_**
 * [LessMSI](http://lessmsi.activescott.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
 * [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [:package:](https://www.portablefreeware.com/index.php?id=2764) - extracts most program installers
+* [JPortable](http://portableapps.com/apps/utilities/java_portable) | [Launcher](http://portableapps.com/apps/utilities/java_portable_launcher) - run JAR executables portably and 
+* [Adobe Flash Portable](https://rejzor.wordpress.com/portable-adobe-flash/) | [Alt](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) - latest Flash DLLs for portable browsers
+* [SmallestDotNET](http://smallestdotnet.com/) - to get .NET installed quickly
 
 **_Note on icons:_**
 > I consider TPFC and PA to be the foremost authorities on portability. 
