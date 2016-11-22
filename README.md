@@ -74,16 +74,16 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Git](https://git-scm.com/) - [:floppy_disk:](https://github.com/sheabunge/GitPortable)
 
 #### Text Editors
-* [Atom](https://atom.io/)
+* [Atom](https://atom.io/) - [:package:](https://www.portablefreeware.com/?id=2793)
 * [Brackets](http://brackets.io/) - [:floppy_disk:](https://github.com/sagiegurari/brackets-portable) - geared toward web development
-* [CuteMarkEd](https://cloose.github.io/CuteMarkEd/)
+* [CuteMarkEd](https://cloose.github.io/CuteMarkEd/) - [:floppy_disk:](http://portableapps.com/apps/office/cutemarked-portable)
 * [EditBone](http://www.bonecode.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2706)
-* [MarkdownEdit](http://markdownedit.com/)
-* [Notepad++](https://notepad-plus-plus.org/)
-* [RJ TextEd](http://www.rj-texted.se/)
-* [Sublime Text](https://www.sublimetext.com/) - - not free, but unlimited evaluation
+* [MarkdownEdit](http://markdownedit.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=81353)
+* [Notepad++](https://notepad-plus-plus.org/) - [:package:](https://www.portablefreeware.com/?id=539) [:floppy_disk:](http://portableapps.com/apps/development/notepadpp_portable)
+* [RJ TextEd](http://www.rj-texted.se/) - [:package:](https://www.portablefreeware.com/?id=2206)
+* [Sublime Text](https://www.sublimetext.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) - not free, but unlimited evaluation
 * [SynWrite](http://www.uvviewsoft.com/synwrite/) - [:package:](https://www.portablefreeware.com/?id=2375)
-* [Visual Studio Code](https://code.visualstudio.com/) - 
+* [Visual Studio Code](https://code.visualstudio.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=82783)
 
 ### Education
 
@@ -106,8 +106,8 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Blender](https://www.blender.org/) - [:package:](https://www.portablefreeware.com/?id=660) [:floppy_disk:](http://portableapps.com/apps/graphics_pictures/blender_portable) [:gear:](https://www.blender.org/manual/getting_started/installing/configuration/directories.html)
 
 #### CAD
-* [OpenSCAD](http://www.openscad.org/)
-* [Sweet Home 3D](http://www.sweethome3d.com/)
+* [OpenSCAD](http://www.openscad.org/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=80983) [:file_folder:](http://rolandtoth.hu/yaP/#examples/OpenSCAD.ini)
+* [Sweet Home 3D](http://www.sweethome3d.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=79756)
 
 #### Screen Capture
 * [Greenshot](http://getgreenshot.org/) - [:package:](https://www.portablefreeware.com/?id=2340) - dev distributes PAF version as well
