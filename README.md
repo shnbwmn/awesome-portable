@@ -101,7 +101,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 ### Graphics
 
 #### 3D
-* [Blender](https://www.blender.org/) - [:package:](https://www.portablefreeware.com/?id=660), [:floppy_disk:](http://portableapps.com/apps/graphics_pictures/blender_portable), [:gear:](https://www.blender.org/manual/getting_started/installing/configuration/directories.html)
+* [Blender](https://www.blender.org/) - [:package:](https://www.portablefreeware.com/?id=660) [:floppy_disk:](http://portableapps.com/apps/graphics_pictures/blender_portable) [:gear:](https://www.blender.org/manual/getting_started/installing/configuration/directories.html)
 
 #### Screen Capture
 * [Greenshot](http://getgreenshot.org/) - [:package:](https://www.portablefreeware.com/?id=2340) - dev distributes PAF version as well
