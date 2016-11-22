@@ -22,7 +22,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Sandboxie](http://www.sandboxie.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
 * [Virtualbox](https://www.virtualbox.org/) - [:gear:](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
 * *Remember:* packaging in a ZIP/RAR or stating "standalone/portable" on a program's website doesn't mean true portability.
-* *Where are the settings saved to?*.
+* Seek to answer: *Where are the settings saved to?*
 
 **_Tools:_**
 * [LessMSI](http://lessmsi.activescott.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
