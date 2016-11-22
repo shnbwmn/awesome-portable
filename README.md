@@ -76,9 +76,12 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 #### Text Editors
 * [Atom](https://atom.io/)
 * [Brackets](http://brackets.io/) - [:floppy_disk:](https://github.com/sagiegurari/brackets-portable) - geared toward web development
+* [CuteMarkEd](https://cloose.github.io/CuteMarkEd/)
 * [EditBone](http://www.bonecode.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2706)
+* [MarkdownEdit](http://markdownedit.com/)
 * [Notepad++](https://notepad-plus-plus.org/)
 * [RJ TextEd](http://www.rj-texted.se/)
+* [Sublime Text](https://www.sublimetext.com/) - - not free, but unlimited evaluation
 * [SynWrite](http://www.uvviewsoft.com/synwrite/) - [:package:](https://www.portablefreeware.com/?id=2375)
 * [Visual Studio Code](https://code.visualstudio.com/) - 
 
