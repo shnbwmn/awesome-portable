@@ -44,6 +44,8 @@ http://www.winpenpack.com/en/download.php?view.1358
 
 13. Remove Pull Request, Contribution Guidelines ... would prefer just to have Issues that I look at. Also hassle to maintain when new icons, files get created. However issues are Github-only, whereas pull requests can be used via any Git client/CLI.
 
+14. ZSoftUninstaller, ExeInfoPE, Regshot + 2, Process Monitor, System Explorer, etc under Tools
+
 ## Done
 
 <s>Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
