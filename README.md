@@ -191,7 +191,6 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Listary](http://www.listary.com/) - [:package:](https://www.portablefreeware.com/?id=1680) [:floppy_disk:](http://portableapps.com/apps/utilities/listary_portable) - Pro version available
 
 #### Typography
-> Fonts, character maps, etc.
 * [WinCompose](https://github.com/SamHocevar/wincompose) - [:package:](https://www.portablefreeware.com/index.php?id=2615)
 
 ## License
