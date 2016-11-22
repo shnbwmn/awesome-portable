@@ -128,6 +128,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 #### Browsers
 * [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:package:](https://www.portablefreeware.com/index.php?id=2074) [:floppy_disk:](http://portableapps.com/apps/internet/google_chrome_portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
 * [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:package:](https://www.portablefreeware.com/?id=132) [:floppy_disk:](http://portableapps.com/apps/internet/firefox_portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
+* [Vivaldi](https://vivaldi.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=73125) [:cyclone:](http://www.thumbapps.org/2015/02/vivaldi-108338-tech-preview-portable.html) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Vivaldi/)
 
 #### Download Managers
 * [EagleGet](http://www.eagleget.com/) - [:package:](https://www.portablefreeware.com/?id=2597)
@@ -175,8 +176,8 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 #### Archivers
 * [7-Zip](http://www.7-zip.org/) - [:package:](https://www.portablefreeware.com/?id=796) [:floppy_disk:](http://portableapps.com/apps/utilities/7-zip_portable)
-* [Bandizip](http://www.bandisoft.com/bandizip/) - 
-* [Peazip](http://www.peazip.org/) - 
+* [Bandizip](http://www.bandisoft.com/bandizip/) - [:package:](https://www.portablefreeware.com/?id=2397)
+* [Peazip](http://www.peazip.org/) - [:package:](https://www.portablefreeware.com/?id=1048) [:floppy_disk:](http://portableapps.com/apps/utilities/peazip_portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Utilities/Bandizip/)
 
 #### Backup
 * [jaBuT Backup](http://jabut.de/en) - [:package:](https://www.portablefreeware.com/?id=2812)

@@ -36,6 +36,10 @@
   
 ### Internet
 
+#### Browsers
+* Vivaldi
+  * https://forum.vivaldi.net/topic/11513/report-portable-installation-is-not-portable 
+
 #### Torrents
 * [Transmission](https://transmissionbt.com/) - Linux/Mac-only program from which Transmission-Qt is forked
 
