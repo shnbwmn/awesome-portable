@@ -104,7 +104,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 #### CAD
 * [OpenSCAD](http://www.openscad.org/)
-* [SweetHome3D](http://www.sweethome3d.com/)
+* [Sweet Home 3D](http://www.sweethome3d.com/)
 
 #### Screen Capture
 * [Greenshot](http://getgreenshot.org/) - [:package:](https://www.portablefreeware.com/?id=2340) - dev distributes PAF version as well
