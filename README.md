@@ -37,7 +37,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * **[ThumbApps](https://sourceforge.net/projects/thumbapps/)** :cyclone: - TA PAF available (they package programs that PortableApps won't for licencing reasons).
 * **Other** :gear: - portability instructions provided from the program site or another source.
 * **Commercial** :moneybag: - costs money, or compulsory donationware. I prefer to list freeware though as much as possible.
-)
+
 **_Other sites:_**
 * [LiberKey](http://www.liberkey.com/en.html)
 * [LupoPenSuite](http://www.lupopensuite.com/)
