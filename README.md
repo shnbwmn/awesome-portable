@@ -1,6 +1,8 @@
 
 # Awesome Portable [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
+[![PortableApps](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/floppy-24.png)](http://portableapps.com/about/what_is_a_portable_app)
+
 > Curated list of awesome portable apps.
 
 *More to come! It will take a while! :bowtie:*
@@ -9,7 +11,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 **_See also:_** [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
 
-**_Portability:_** [:package:](https://www.portablefreeware.com/about.php) [:floppy_disk:](http://portableapps.com/about/what_is_a_portable_app)
+**_Portability:_** [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/package-24.png)](https://www.portablefreeware.com/about.php) [![PortableApps](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/floppy-24.png)](http://portableapps.com/about/what_is_a_portable_app)
 * No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation).
 * Runs self-contained (makes no changes to host computer outside of program folder).
 * Saves main settings to program directory (not user/home directory, AppData or registry).
