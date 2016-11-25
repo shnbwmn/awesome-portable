@@ -9,7 +9,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 **_See also:_** [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
 
-**_Portability:_** [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/package-24.png)](https://www.portablefreeware.com/about.php) [![PortableApps](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/floppy-24.png)](http://portableapps.com/about/what_is_a_portable_app)
+**_Portability:_** [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p.png)](https://www.portablefreeware.com/about.php) [![PortableApps](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/fl.png)](http://portableapps.com/about/what_is_a_portable_app)
 * No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation).
 * Runs self-contained (makes no changes to host computer outside of program folder).
 * Saves main settings to program directory (not user/home directory, AppData or registry).
@@ -18,18 +18,18 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * Due to the nature of some programs and their core functionality, they might be considered portable despite breaking a few of the above.
 
 **_Testing for portability:_**
-* [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885) ![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/package-24.png)
+* [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885) ![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p.png)
 * [Dependency Walker](http://www.dependencywalker.com/)
-* [Primo](http://members.tripod.com/~randy_hall/download.htm) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/package-24.png)](https://www.portablefreeware.com/forums/viewtopic.php?t=8164)
-* [Sandboxie](http://www.sandboxie.com/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/package-24.png)](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
-* [Virtualbox](https://www.virtualbox.org/) - [![Custom](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/gear-24.png)](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
+* [Primo](http://members.tripod.com/~randy_hall/download.htm) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p.png)](https://www.portablefreeware.com/forums/viewtopic.php?t=8164)
+* [Sandboxie](http://www.sandboxie.com/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p.png)](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
+* [Virtualbox](https://www.virtualbox.org/) - [![Custom](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/g.png)](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
 * *Remember:* packaging in a ZIP/RAR or stating "standalone/portable" on a program's website doesn't mean true portability.
 * Seek to answer: *Where are the settings saved to?*
 
 **_Tools:_**
-* [LessMSI](http://lessmsi.activescott.com/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/package-24.png)](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
-* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/package-24.png)](https://www.portablefreeware.com/index.php?id=2764) - extracts most program installers
-* [JPortable](http://portableapps.com/apps/utilities/java_portable) | [Launcher](http://portableapps.com/apps/utilities/java_portable_launcher) ![PortableApps](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/floppy-24.png) - run JAR executables portably 
+* [LessMSI](http://lessmsi.activescott.com/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p.png)](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
+* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p.png)](https://www.portablefreeware.com/index.php?id=2764) - extracts most program installers
+* [JPortable](http://portableapps.com/apps/utilities/java_portable) | [Launcher](http://portableapps.com/apps/utilities/java_portable_launcher) ![PortableApps](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/fl.png) - run JAR executables portably 
 * [Adobe Flash Portable](https://rejzor.wordpress.com/portable-adobe-flash/) | [Alt](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) - latest Flash DLLs for portable browsers
 * [SmallestDotNET](http://smallestdotnet.com/) - to get .NET installed quickly
 
@@ -201,6 +201,9 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [SyMenu](http://www.ugmfree.it/) - [:package:](https://www.portablefreeware.com/?id=2394)
 * [XVA Assistant](http://www.idesktop.me/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=83028)
 
+#### Renamers
+* [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p.png)](https://www.portablefreeware.com/?id=1008)
+
 #### Search
 * [Everything](http://www.voidtools.com/) - [:package:](https://www.portablefreeware.com/index.php?id=1479)
 * [Listary](http://www.listary.com/) - [:package:](https://www.portablefreeware.com/?id=1680) [:floppy_disk:](http://portableapps.com/apps/utilities/listary_portable) - Pro version available
@@ -211,6 +214,10 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 #### Typography
 * [NexusFont](http://www.xiles.net/) - [:package:](https://www.portablefreeware.com/?id=731)
 * [WinCompose](https://github.com/SamHocevar/wincompose) - [:package:](https://www.portablefreeware.com/index.php?id=2615)
+
+#### Uninstallers
+* [Bulk Crap Uninstaller](http://klocmansoftware.weebly.com/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p.png)](https://www.portablefreeware.com/forums/viewtopic.php?p=77953) 
+* [Iobit Uninstaller](http://www.iobit.com/en/advanceduninstaller.php) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p.png)](https://www.portablefreeware.com/forums/viewtopic.php?p=30919) [![PortableApps](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/fl.png)](http://portableapps.com/apps/utilities/iobit_uninstaller_portable)
 
 ## License
 
