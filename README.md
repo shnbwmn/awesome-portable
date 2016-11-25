@@ -9,7 +9,7 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 **_See also:_** [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
 
-**_Portability:_** [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p.png)](https://www.portablefreeware.com/about.php) [![PortableApps](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/fl.png)](http://portableapps.com/about/what_is_a_portable_app)
+**_Portability:_** [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p.png)](https://www.portablefreeware.com/about.php) [![PortableApps](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/fl.png)](http://portableapps.com/about/what_is_a_portable_app) <g-emoji alias="floppy_disk" fallback-src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4be.png" ios-version="6.0">💾</g-emoji>
 * No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation).
 * Runs self-contained (makes no changes to host computer outside of program folder).
 * Saves main settings to program directory (not user/home directory, AppData or registry).
