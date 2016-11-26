@@ -64,19 +64,19 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Development
 
 #### Source Control
-* [Git](https://git-scm.com/) - [:floppy_disk:](https://github.com/sheabunge/GitPortable)
+* [Git](https://git-scm.com/) | [*pa*](https://github.com/sheabunge/GitPortable)
 
 #### Text Editors
 * [Atom](https://atom.io/) | [*tpfc*](https://www.portablefreeware.com/?id=2793), [*pa*](https://github.com/garethflowers/atom-portable)
 * [Brackets](http://brackets.io/) | [*tpfc*](https://github.com/sagiegurari/brackets-portable) - geared toward web development
-* [CuteMarkEd](https://cloose.github.io/CuteMarkEd/) - [:floppy_disk:](http://portableapps.com/apps/office/cutemarked-portable)
-* [EditBone](http://www.bonecode.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2706)
-* [MarkdownEdit](http://markdownedit.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=81353)
-* [Notepad++](https://notepad-plus-plus.org/) - [:package:](https://www.portablefreeware.com/?id=539) [:floppy_disk:](http://portableapps.com/apps/development/notepadpp_portable)
-* [RJ TextEd](http://www.rj-texted.se/) - [:package:](https://www.portablefreeware.com/?id=2206)
-* [Sublime Text](https://www.sublimetext.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) :moneybag: - not free, but unlimited evaluation
-* [SynWrite](http://www.uvviewsoft.com/synwrite/) - [:package:](https://www.portablefreeware.com/?id=2375)
-* [Visual Studio Code](https://code.visualstudio.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=82783) [:floppy_disk:](https://github.com/garethflowers/vscode-portable)
+* [CuteMarkEd](https://cloose.github.io/CuteMarkEd/) - [*pa*](http://portableapps.com/apps/office/cutemarked-portable)
+* [EditBone](http://www.bonecode.com/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=2706)
+* [MarkdownEdit](http://markdownedit.com/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81353)
+* [Notepad++](https://notepad-plus-plus.org/) | [*tpfc*](https://www.portablefreeware.com/?id=539), [*pa*](http://portableapps.com/apps/development/notepadpp_portable)
+* [RJ TextEd](http://www.rj-texted.se/) | [*tpfc*](https://www.portablefreeware.com/?id=2206)
+* [Sublime Text](https://www.sublimetext.com/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) - not free, but unlimited evaluation
+* [SynWrite](http://www.uvviewsoft.com/synwrite/) | [*tpfc*](https://www.portablefreeware.com/?id=2375)
+* [Visual Studio Code](https://code.visualstudio.com/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82783), [*pa*](https://github.com/garethflowers/vscode-portable)
 
 ### Education
 
