@@ -64,151 +64,151 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Development
 
 #### Source Control
-* [Git](https://git-scm.com/) | [*pa*](https://github.com/sheabunge/GitPortable)
+* [Git](https://git-scm.com/) | [*paf*](https://github.com/sheabunge/GitPortable)
 
 #### Text Editors
-* [Atom](https://atom.io/) | [*tpfc*](https://www.portablefreeware.com/?id=2793), [*pa*](https://github.com/garethflowers/atom-portable)
-* [Brackets](http://brackets.io/) | [*tpfc*](https://github.com/sagiegurari/brackets-portable) - geared toward web development
-* [CuteMarkEd](https://cloose.github.io/CuteMarkEd/) | [*pa*](http://portableapps.com/apps/office/cutemarked-portable)
-* [EditBone](http://www.bonecode.com/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=2706)
-* [MarkdownEdit](http://markdownedit.com/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81353)
-* [Notepad++](https://notepad-plus-plus.org/) | [*tpfc*](https://www.portablefreeware.com/?id=539), [*pa*](http://portableapps.com/apps/development/notepadpp_portable)
-* [RJ TextEd](http://www.rj-texted.se/) | [*tpfc*](https://www.portablefreeware.com/?id=2206)
-* [Sublime Text](https://www.sublimetext.com/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) - not free, but unlimited evaluation
-* [SynWrite](http://www.uvviewsoft.com/synwrite/) | [*tpfc*](https://www.portablefreeware.com/?id=2375)
-* [Visual Studio Code](https://code.visualstudio.com/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82783), [*pa*](https://github.com/garethflowers/vscode-portable)
+* [**Atom**](https://atom.io/) / [*tpfc*](https://www.portablefreeware.com/?id=2793), [*paf*](https://github.com/garethflowers/atom-portable)
+* [**Brackets**](http://brackets.io/) / [*tpfc*](https://github.com/sagiegurari/brackets-portable) - geared toward web development
+* [**CuteMarkEd**](https://cloose.github.io/CuteMarkEd/) / [*paf*](http://portableapps.com/apps/office/cutemarked-portable)
+* [**EditBone**](http://www.bonecode.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2706)
+* [**MarkdownEdit**](http://markdownedit.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81353)
+* [**Notepad++**](https://notepad-plus-plus.org/) / [*tpfc*](https://www.portablefreeware.com/?id=539), [*paf*](http://portableapps.com/apps/development/notepadpp_portable)
+* [**RJ TextEd**](http://www.rj-texted.se/) / [*tpfc*](https://www.portablefreeware.com/?id=2206)
+* [**Sublime Text**](https://www.sublimetext.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) - not free, but unlimited evaluation
+* [**SynWrite**](http://www.uvviewsoft.com/synwrite/) / [*tpfc*](https://www.portablefreeware.com/?id=2375)
+* [**Visual Studio Code**](https://code.visualstudio.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82783), [*paf*](https://github.com/garethflowers/vscode-portable)
 
 ### Education
 
 #### Religion
-* [Bible Analyzer](http://www.bibleanalyzer.com/) - [*tpfc*](https://www.portablefreeware.com/?id=2704)
-* [Bible Lightning](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=79666) - fast KJV lookup
-* [BPBible](https://github.com/bpbible/bpbible) - [:package:](https://www.portablefreeware.com/?id=1597) [:floppy_disk:](http://portableapps.com/apps/education/bpbible_portable)
-* [Davar4](http://www.davar3.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=79667)
+* [Bible Analyzer](http://www.bibleanalyzer.com/) | [*tpfc*](https://www.portablefreeware.com/?id=2704)
+* [Bible Lightning](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79666) - fast KJV lookup
+* [BPBible](https://github.com/bpbible/bpbible) | [*tpfc*](https://www.portablefreeware.com/?id=1597), [*paf*](http://portableapps.com/apps/education/bpbible_portable)
+* [Davar4](http://www.davar3.net/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79667)
 * [Ready Bible Study and Reference](http://michaels-tech-notes.weebly.com/blog/category/religion) - settings saved to INIs within program directory
-* [The Word](http://www.theword.net/index.php?) - [:package:](https://www.portablefreeware.com/?id=1248)
+* [The Word](http://www.theword.net/index.php?) | [*tpfc*](https://www.portablefreeware.com/?id=1248)
 
 #### Statistics
-* [R](https://www.r-project.org) - [:floppy_disk:](http://portableapps.com/node/32898) [:gear:](https://sourceforge.net/projects/rportable/files/R-Portable/)
-* [RStudio](https://www.rstudio.com) - [:gear:](https://sourceforge.net/projects/rportable/files/R-Studio/)
-* [Tinn-R](https://sourceforge.net/projects/tinn-r/) - [:floppy_disk:](http://portableapps.com/node/52078) [:gear:](https://sourceforge.net/projects/tinn-r/files/)
+* [R](https://www.r-project.org) | [*paf*](http://portableapps.com/node/32898), [*sf*](https://sourceforge.net/projects/rportable/files/R-Portable/)
+* [RStudio](https://www.rstudio.com) | [*paf*](https://sourceforge.net/projects/rportable/files/R-Studio/)
+* [Tinn-R](https://sourceforge.net/projects/tinn-r/) | [*paf*](http://portableapps.com/node/52078), [*sf*](https://sourceforge.net/projects/tinn-r/files/)
 
 ### Graphics
 
 #### 3D
-* [Blender](https://www.blender.org/) - [:package:](https://www.portablefreeware.com/?id=660) [:floppy_disk:](http://portableapps.com/apps/graphics_pictures/blender_portable) [:gear:](https://www.blender.org/manual/getting_started/installing/configuration/directories.html)
+* [Blender](https://www.blender.org/) | [*tpfc*](https://www.portablefreeware.com/?id=660), [*paf*](http://portableapps.com/apps/graphics_pictures/blender_portable), [*blend*](https://www.blender.org/manual/getting_started/installing/configuration/directories.html)
 
 #### CAD
-* [OpenSCAD](http://www.openscad.org/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=80983) [:file_folder:](http://rolandtoth.hu/yaP/#examples/OpenSCAD.ini)
-* [Sweet Home 3D](http://www.sweethome3d.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=79756)
+* [OpenSCAD](http://www.openscad.org/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=80983), [*yap*](http://rolandtoth.hu/yaP/#examples/OpenSCAD.ini)
+* [Sweet Home 3D](http://www.sweethome3d.com/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79756)
 
 #### Screen Capture
-* [Greenshot](http://getgreenshot.org/) - [:package:](https://www.portablefreeware.com/?id=2340) - dev distributes PAF version as well
-* [Lightscreen](https://lightscreen.com.ar/) - [:package:](https://www.portablefreeware.com/?id=1959) [:floppy_disk:](http://portableapps.com/apps/utilities/lightscreen_portable)
-* [PicPick](http://ngwin.com/picpick) - [:package:](https://www.portablefreeware.com/index.php?id=1496) [:floppy_disk:](http://portableapps.com/apps/graphics_pictures/picpick-portable) - a lot more than just a screenshot tool
-* [ShareX](https://getsharex.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2409) - like PicPick, has many diverse features beyond screenshotting
-* [Snipaste](https://www.snipaste.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2801)
+* [Greenshot](http://getgreenshot.org/) | [*tpfc*](https://www.portablefreeware.com/?id=2340) - dev distributes PAF version as well
+* [Lightscreen](https://lightscreen.com.ar/) | [*tpfc*](https://www.portablefreeware.com/?id=1959), [*paf*](http://portableapps.com/apps/utilities/lightscreen_portable)
+* [PicPick](http://ngwin.com/picpick) | [*tpfc*](https://www.portablefreeware.com/index.php?id=1496), [*paf*](http://portableapps.com/apps/graphics_pictures/picpick-portable) - a lot more than just a screenshot tool
+* [ShareX](https://getsharex.com/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=2409) - like PicPick, has many diverse features beyond screenshotting
+* [Snipaste](https://www.snipaste.com/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=2801)
 
 #### Viewers
-* [Faststone](http://faststone.org/FSViewerDetail.htm) - [:package:](https://www.portablefreeware.com/index.php?id=207)
-* [HoneyView](http://www.bandisoft.com/honeyview/) - [:package:](https://www.portablefreeware.com/index.php?id=2497)
-* [Imagine](http://www.nyam.pe.kr/blog/entry/Imagine) - [:package:](https://www.portablefreeware.com/?id=1819)
-* [XnView](http://www.xnview.com/en/xnview/) - [:package:](https://www.portablefreeware.com/index.php?id=30) [:floppy_disk:](http://portableapps.com/apps/graphics_pictures/xnview_portable)
-* [XnView MP](http://www.xnview.com/en/xnviewmp/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=35220)
+* [Faststone](http://faststone.org/FSViewerDetail.htm) | [*tpfc*](https://www.portablefreeware.com/index.php?id=207)
+* [HoneyView](http://www.bandisoft.com/honeyview/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=2497)
+* [Imagine](http://www.nyam.pe.kr/blog/entry/Imagine) | [*tpfc*](https://www.portablefreeware.com/?id=1819)
+* [XnView](http://www.xnview.com/en/xnview/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=30), [*pa*](http://portableapps.com/apps/graphics_pictures/xnview_portable)
+* [XnView MP](http://www.xnview.com/en/xnviewmp/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=35220)
 
 ### Internet
 
 #### Browsers
-* [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - [:package:](https://www.portablefreeware.com/index.php?id=2074) [:floppy_disk:](http://portableapps.com/apps/internet/google_chrome_portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
-* [Firefox](https://www.mozilla.org/en-US/firefox/new/) - [:package:](https://www.portablefreeware.com/?id=132) [:floppy_disk:](http://portableapps.com/apps/internet/firefox_portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
-* [Vivaldi](https://vivaldi.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=73125) [:cyclone:](http://www.thumbapps.org/2015/02/vivaldi-108338-tech-preview-portable.html) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Vivaldi/)
+* [Chrome](https://www.google.com/chrome/browser/desktop/index.html) | [*tpfc*](https://www.portablefreeware.com/index.php?id=2074), [*paf*](http://portableapps.com/apps/internet/google_chrome_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
+* [Firefox](https://www.mozilla.org/en-US/firefox/new/) | [*tpfc*](https://www.portablefreeware.com/?id=132), [*paf*](http://portableapps.com/apps/internet/firefox_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
+* [Vivaldi](https://vivaldi.com/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=73125), [*thumb*](http://www.thumbapps.org/2015/02/vivaldi-108338-tech-preview-portable.html), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Vivaldi/)
 
 #### Download Managers
-* [EagleGet](http://www.eagleget.com/) - [:package:](https://www.portablefreeware.com/?id=2597)
+* [EagleGet](http://www.eagleget.com/) | [*tpfc*](https://www.portablefreeware.com/?id=2597)
 
 #### Email
-* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - [:package:](https://www.portablefreeware.com/?id=133) [:floppy_disk:](http://portableapps.com/apps/internet/thunderbird_portable)
+* [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) | [*tpfc*](https://www.portablefreeware.com/?id=133), [*paf*](http://portableapps.com/apps/internet/thunderbird_portable)
 
 #### Torrents
-* [PicoTorrent](http://www.picotorrent.org/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=79128)
-* [qBittorrent](http://qbittorrent.sourceforge.net/) - [:package:](https://www.portablefreeware.com/index.php?id=2406) [:floppy_disk:](http://portableapps.com/apps/internet/qbittorrent_portable)
-* [Transmission-Qt](https://sourceforge.net/projects/trqtw/) - [:package:](https://www.portablefreeware.com/index.php?id=2725) [:floppy_disk:](http://portableapps.com/apps/internet/transmission-portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Internet/Transmission/)
+* [PicoTorrent](http://www.picotorrent.org/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79128)
+* [qBittorrent](http://qbittorrent.sourceforge.net/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=2406), [*paf*](http://portableapps.com/apps/internet/qbittorrent_portable)
+* [Transmission-Qt](https://sourceforge.net/projects/trqtw/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=2725), [*paf*](http://portableapps.com/apps/internet/transmission-portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Transmission/)
 
 ### Multimedia
 
 #### Music Players
-* [1by1](http://mpesch3.de1.cc/1by1.html) - [:package:](https://www.portablefreeware.com/?id=90)
-* [AIMP](http://www.aimp.ru/index.php) - [:package:](https://www.portablefreeware.com/index.php?id=1444) [:floppy_disk:](http://portableapps.com/apps/music_video/aimp-portable)
-* [Audacious](http://audacious-media-player.org/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=81470) [:file_folder:](http://rolandtoth.hu/yaP/#examples/Audacious.ini)
+* [1by1](http://mpesch3.de1.cc/1by1.html) | [*tpfc*](https://www.portablefreeware.com/?id=90)
+* [AIMP](http://www.aimp.ru/index.php) | [*tpfc*](https://www.portablefreeware.com/index.php?id=1444), [*paf*](http://portableapps.com/apps/music_video/aimp-portable)
+* [Audacious](http://audacious-media-player.org/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81470), [*yap*](http://rolandtoth.hu/yaP/#examples/Audacious.ini)
 
 #### Podcasts
-* [gPodder](http://gpodder.org/) - [:package:](https://www.portablefreeware.com/?id=1673) [:floppy_disk:](http://portableapps.com/apps/internet/gpodder_portable)
+* [gPodder](http://gpodder.org/) | [*tpfc*](https://www.portablefreeware.com/?id=1673), [*paf*](http://portableapps.com/apps/internet/gpodder_portable)
 
 #### Screen Recording
-* [OBS](https://obsproject.com) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=80343) [:floppy_disk:](http://portableapps.com/node/53266) [:cyclone:](http://www.thumbapps.org/2015/08/OBS-Open-Broadcaster-Software-32-64-bit-portable.html) [:gear:](https://obsproject.com/forum/resources/obs-and-obs-studio-portable-mode-on-windows.359/)
+* [OBS](https://obsproject.com) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=80343), [*paf*](http://portableapps.com/node/53266), [*thumb*](http://www.thumbapps.org/2015/08/OBS-Open-Broadcaster-Software-32-64-bit-portable.html), [*obs*](https://obsproject.com/forum/resources/obs-and-obs-studio-portable-mode-on-windows.359/)
 
 #### Video Players
-* [Light Alloy](http://www.light-alloy.ru/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
-* [MPC BE](https://sourceforge.net/projects/mpcbe/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=60655)
-* [MPC HC](https://mpc-hc.org/) - [:package:](https://www.portablefreeware.com/?id=2054) [:floppy_disk:](http://portableapps.com/apps/music_video/mpc-hc-portable)
-* [Potplayer](http://potplayer.daum.net/) - [:package:](https://www.portablefreeware.com/?id=2483) [:floppy_disk:](http://portableapps.com/node/41287)
-* [VLC](http://www.videolan.org/vlc/) - [:package:](https://www.portablefreeware.com/?id=599) [:floppy_disk:](http://portableapps.com/apps/music_video/vlc_portable)
+* [Light Alloy](http://www.light-alloy.ru/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
+* [MPC BE](https://sourceforge.net/projects/mpcbe/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=60655)
+* [MPC HC](https://mpc-hc.org/) | [*tpfc*](https://www.portablefreeware.com/?id=2054), [*paf*](http://portableapps.com/apps/music_video/mpc-hc-portable)
+* [Potplayer](http://potplayer.daum.net/) | [*tpfc*](https://www.portablefreeware.com/?id=2483), [*paf*](http://portableapps.com/node/41287)
+* [VLC](http://www.videolan.org/vlc/) | [*tpfc*](https://www.portablefreeware.com/?id=599), [*paf*](http://portableapps.com/apps/music_video/vlc_portable)
 
 ### Office
 
 #### Notetaking
-* [QOwnNotes](http://www.qownnotes.org/) - [:package:](https://www.portablefreeware.com/index.php?id=2816)
-* [Laverna](https://laverna.cc/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=82446)
+* [QOwnNotes](http://www.qownnotes.org/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=2816)
+* [Laverna](https://laverna.cc/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82446)
 
 #### Suites
-* [LibreOffice](https://www.libreoffice.org/) - [:package:](https://www.portablefreeware.com/?id=2055) [:floppy_disk:](http://portableapps.com/apps/office/libreoffice_portable)
-* [OpenOffice](https://www.openoffice.org/) - [:package:](https://www.portablefreeware.com/?id=212) [:floppy_disk:](http://portableapps.com/apps/office/openoffice_portable)
-* [SoftMaker FreeOffice](http://www.freeoffice.com/en/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=20457) [:gear:](http://www.freeoffice.com/en/tips-and-tricks-portable-installation)
+* [LibreOffice](https://www.libreoffice.org/) | [*tpfc*](https://www.portablefreeware.com/?id=2055), [*paf*](http://portableapps.com/apps/office/libreoffice_portable)
+* [OpenOffice](https://www.openoffice.org/) | [*tpfc*](https://www.portablefreeware.com/?id=212), [*paf*](http://portableapps.com/apps/office/openoffice_portable)
+* [SoftMaker FreeOffice](http://www.freeoffice.com/en/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20457), [*site*](http://www.freeoffice.com/en/tips-and-tricks-portable-installation)
 
 ### Utilities
 
 #### Archivers
-* [7-Zip](http://www.7-zip.org/) - [:package:](https://www.portablefreeware.com/?id=796) [:floppy_disk:](http://portableapps.com/apps/utilities/7-zip_portable)
-* [Bandizip](http://www.bandisoft.com/bandizip/) - [:package:](https://www.portablefreeware.com/?id=2397)
-* [Peazip](http://www.peazip.org/) - [:package:](https://www.portablefreeware.com/?id=1048) [:floppy_disk:](http://portableapps.com/apps/utilities/peazip_portable) [:cyclone:](https://sourceforge.net/projects/thumbapps/files/Utilities/Bandizip/)
+* [7-Zip](http://www.7-zip.org/) | [*tpfc*](https://www.portablefreeware.com/?id=796), [*paf*](http://portableapps.com/apps/utilities/7-zip_portable)
+* [Bandizip](http://www.bandisoft.com/bandizip/) | [*tpfc*](https://www.portablefreeware.com/?id=2397)
+* [Peazip](http://www.peazip.org/) | [*tpfc*](https://www.portablefreeware.com/?id=1048), [*paf*](http://portableapps.com/apps/utilities/peazip_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Utilities/Bandizip/)
 
 #### Backup
-* [jaBuT Backup](http://jabut.de/en) - [:package:](https://www.portablefreeware.com/?id=2812)
+* [jaBuT Backup](http://jabut.de/en) | [*tpfc*](https://www.portablefreeware.com/?id=2812)
 
 #### File Management
-* [Double Commander](http://doublecmd.sourceforge.net/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
-* [Free Commander XE](http://freecommander.com/en/summary/) - [:package:](https://www.portablefreeware.com/index.php?id=291) [:floppy_disk:](http://portableapps.com/apps/utilities/freecommander_portable) - 64-bit version is donationware
-* [MultiCommander](http://multicommander.com/) - [:package:](https://www.portablefreeware.com/?id=2304)
-* [NexusFile](http://www.xiles.net/) - [:package:](https://www.portablefreeware.com/?id=1419)
-* [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) - [:package:](https://www.portablefreeware.com/?id=1431) [:floppy_disk:](http://portableapps.com/apps/utilities/q-dir-portable)
+* [Double Commander](http://doublecmd.sourceforge.net/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
+* [Free Commander XE](http://freecommander.com/en/summary/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=291), [*paf*](http://portableapps.com/apps/utilities/freecommander_portable) | 64-bit version is donationware
+* [MultiCommander](http://multicommander.com/) | [*tpfc*](https://www.portablefreeware.com/?id=2304)
+* [NexusFile](http://www.xiles.net/) | [*tpfc*](https://www.portablefreeware.com/?id=1419)
+* [Q-Dir](http://www.softwareok.com/?seite=Freeware/Q-Dir) | [*tpfc*](https://www.portablefreeware.com/?id=1431), [*paf*](http://portableapps.com/apps/utilities/q-dir-portable)
 
 #### Launchers
-* [FARR](https://www.donationcoder.com/Software/Mouser/findrun/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
+* [FARR](https://www.donationcoder.com/Software/Mouser/findrun/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
 * [LiberKey](http://www.liberkey.com/en.html)
 * [LupoPenSuite](http://www.lupopensuite.com/)
 * [PortableApps Launcher](http://portableapps.com/download)
-* [Qsel](http://www.horstmuc.de/wqsel.htm) - [:package:](https://www.portablefreeware.com/?id=1133)
-* [Quick Access Popup](http://www.quickaccesspopup.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2765)
-* [SyMenu](http://www.ugmfree.it/) - [:package:](https://www.portablefreeware.com/?id=2394)
-* [XVA Assistant](http://www.idesktop.me/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=83028)
+* [Qsel](http://www.horstmuc.de/wqsel.htm) | [*tpfc*](https://www.portablefreeware.com/?id=1133)
+* [Quick Access Popup](http://www.quickaccesspopup.com/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=2765)
+* [SyMenu](http://www.ugmfree.it/) | [*tpfc*](https://www.portablefreeware.com/?id=2394)
+* [XVA Assistant](http://www.idesktop.me/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83028)
 
 #### Renamers
-* [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p-min.png)](https://www.portablefreeware.com/?id=1008)
+* [Bulk Rename Utility](http://www.bulkrenameutility.co.uk/) | [*tpfc*](https://www.portablefreeware.com/?id=1008)
 
 #### Search
-* [Everything](http://www.voidtools.com/) - [:package:](https://www.portablefreeware.com/index.php?id=1479)
-* [Listary](http://www.listary.com/) - [:package:](https://www.portablefreeware.com/?id=1680) [:floppy_disk:](http://portableapps.com/apps/utilities/listary_portable) - Pro version available
+* [Everything](http://www.voidtools.com/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=1479)
+* [Listary](http://www.listary.com/) | [*tpfc*](https://www.portablefreeware.com/?id=1680), [*paf*](http://portableapps.com/apps/utilities/listary_portable) - Pro version available
 
 #### Time
-* [Titlebar Date-Time](http://www.whisperingpinessoftware.com/tbdt.html) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=84159)
+* [Titlebar Date-Time](http://www.whisperingpinessoftware.com/tbdt.html) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84159)
 
 #### Typography
-* [NexusFont](http://www.xiles.net/) - [:package:](https://www.portablefreeware.com/?id=731)
-* [WinCompose](https://github.com/SamHocevar/wincompose) - [:package:](https://www.portablefreeware.com/index.php?id=2615)
+* [NexusFont](http://www.xiles.net/) | [*tpfc*](https://www.portablefreeware.com/?id=731)
+* [WinCompose](https://github.com/SamHocevar/wincompose) | [*tpfc*](https://www.portablefreeware.com/index.php?id=2615)
 
 #### Uninstallers
-* [Bulk Crap Uninstaller](http://klocmansoftware.weebly.com/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p-min.png)](https://www.portablefreeware.com/forums/viewtopic.php?p=77953)
-* [Iobit Uninstaller](http://www.iobit.com/en/advanceduninstaller.php) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p-min.png)](https://www.portablefreeware.com/forums/viewtopic.php?p=30919) [![PortableApps](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/fl-min.png)](http://portableapps.com/apps/utilities/iobit_uninstaller_portable)
+* [Bulk Crap Uninstaller](http://klocmansoftware.weebly.com/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=77953)
+* [Iobit Uninstaller](http://www.iobit.com/en/advanceduninstaller.php) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30919), [*paf*](http://portableapps.com/apps/utilities/iobit_uninstaller_portable)
 
 ## License
 
