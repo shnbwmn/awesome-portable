@@ -36,8 +36,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [TPFC](http://www.portablefreeware.com/) - [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4)
 * [PortableApps](http://portableapps.com/) - [*paf*](http://portableapps.com/development/portableapps.com_format)
 * [ThumbApps](https://sourceforge.net/projects/thumbapps/)
-* [LiberKey](http://www.liberkey.com/en.html)
-* [LupoPenSuite](http://www.lupopensuite.com/)
 * [PenDriveApps](http://www.pendriveapps.com/)
 * [WinPenPack](http://www.winpenpack.com/en/index.php)
 
@@ -187,6 +185,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 #### Launchers
 * [FARR](https://www.donationcoder.com/Software/Mouser/findrun/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
+* [LiberKey](http://www.liberkey.com/en.html)
+* [LupoPenSuite](http://www.lupopensuite.com/)
 * [Qsel](http://www.horstmuc.de/wqsel.htm) - [:package:](https://www.portablefreeware.com/?id=1133)
 * [Quick Access Popup](http://www.quickaccesspopup.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2765)
 * [SyMenu](http://www.ugmfree.it/) - [:package:](https://www.portablefreeware.com/?id=2394)
