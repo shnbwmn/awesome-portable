@@ -50,7 +50,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*3d*](#3d), [*cad*](#cad), [*cap*](#screen-capture), [*view*](#viewers)
 
 * [*Internet*](#internet)
-> [*browse*](#browsers), [*dl*](#download-managers), [*mail*](#email), [*torrent*](#torrents)
+> [*browse*](#browsers), [*chat*](#chat), [*dl*](#download-managers), [*mail*](#email), [*torrent*](#torrents)
 
 * [*Multimedia*](#multimedia)
 > [*musicplay*](#music-players), [*pod*](#podcasts), [*rec*](#screen-recording), [*vidplay*](#video-players)
@@ -123,8 +123,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Firefox**](https://www.mozilla.org/en-US/firefox/new/) / [*tpfc*](https://www.portablefreeware.com/?id=132), [*paf*](http://portableapps.com/apps/internet/firefox_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
 * [**Vivaldi**](https://vivaldi.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=73125), [*thumb*](http://www.thumbapps.org/2015/02/vivaldi-108338-tech-preview-portable.html), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Vivaldi/)
 
+### Chat
+* [**Pidgin**](https://www.pidgin.im/) / [*tpfc*](https://www.portablefreeware.com/?id=1345), [*paf*](http://portableapps.com/apps/internet/pidgin_portable)
+
 ### Download Managers
+* [**Advanced Wget GUI**](https://github.com/Nenirey/AWGG) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=77772), [*sp*](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Internet/Others/Portable-AWGG.shtml), [*vh*](http://www.videohelp.com/software/AWGG)
 * [**EagleGet**](http://www.eagleget.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2597)
+* [**WinWGet**](http://winwget.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20900), [*paf*](http://portableapps.com/apps/internet/winwget_portable), [*astatix*](http://www.astatix.com/tools/winwget.php)
 
 ### Email
 * [**Thunderbird**](https://www.mozilla.org/en-US/thunderbird/) / [*tpfc*](https://www.portablefreeware.com/?id=133), [*paf*](http://portableapps.com/apps/internet/thunderbird_portable)
