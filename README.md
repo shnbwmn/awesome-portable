@@ -39,7 +39,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [LiberKey](http://www.liberkey.com/en.html)
 * [LupoPenSuite](http://www.lupopensuite.com/)
 * [PenDriveApps](http://www.pendriveapps.com/)
-* [SyMenu](http://www.ugmfree.it/)
 * [WinPenPack](http://www.winpenpack.com/en/index.php)
 
 ## Contents
