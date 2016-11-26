@@ -3,17 +3,13 @@
 
 > Curated list of awesome portable apps.
 
-*More to come! It will take a while! :bowtie:*
-
-<img src="https://assets-cdn.github.com/images/icons/emoji/bowtie.png" height="20" width="20">
-
-<img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e6.png" height="20" width="20">
+*More to come! It will take a while!*
 
 Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add links | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [Contribution Guidelines](https://github.com/shnbwmn/awesome-portable/blob/master/Contribute.md)
 
-**_See also:_** [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
+_See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
 
-**_Portability:_** [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p-min.png)](https://www.portablefreeware.com/about.php) [![PortableApps](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/fl-min.png)](http://portableapps.com/about/what_is_a_portable_app) <img src="https://assets-cdn.github.com/images/icons/emoji/bowtie.png" height="20" width="20"> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e6.png" height="20" width="20">
+**_Portability:_** [*tpfc*](https://www.portablefreeware.com/about.php), [*pa*](http://portableapps.com/about/what_is_a_portable_app)
 * No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation).
 * Runs self-contained (makes no changes to host computer outside of program folder).
 * Saves main settings to program directory (not user/home directory, AppData or registry).
@@ -22,32 +18,24 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * Due to the nature of some programs and their core functionality, they might be considered portable despite breaking a few of the above.
 
 **_Testing for portability:_**
-* [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885) ![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p-min.png)
+* [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
 * [Dependency Walker](http://www.dependencywalker.com/)
-* [Primo](http://members.tripod.com/~randy_hall/download.htm) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p-min.png)](https://www.portablefreeware.com/forums/viewtopic.php?t=8164) <img src="https://assets-cdn.github.com/images/icons/emoji/bowtie.png" height="20" width="20"> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4e6.png" height="20" width="20">
-* [Sandboxie](http://www.sandboxie.com/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p-min.png)](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
-* [Virtualbox](https://www.virtualbox.org/) - [![Custom](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/g-min.png)](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
-* *Remember:* packaging in a ZIP/RAR or stating "standalone/portable" on a program's website doesn't mean true portability.
-* Seek to answer: *Where are the settings saved to?*
+* [Primo](http://members.tripod.com/~randy_hall/download.htm) - [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=8164)
+* [Sandboxie](http://www.sandboxie.com/) - [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
+* [Virtualbox](https://www.virtualbox.org/) - [*vbox*](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
 
 **_Tools:_**
-* [LessMSI](http://lessmsi.activescott.com/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p-min.png)](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
-* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [![TPFC](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/p-min.png)](https://www.portablefreeware.com/index.php?id=2764) - extracts most program installers
-* [JPortable](http://portableapps.com/apps/utilities/java_portable) | [Launcher](http://portableapps.com/apps/utilities/java_portable_launcher) ![PortableApps](https://cdn.rawgit.com/shnbwmn/awesome-portable/master/icons/fl-min.png) - run JAR executables portably
+* [LessMSI](http://lessmsi.activescott.com/) - [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
+* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [*tpfc*](https://www.portablefreeware.com/index.php?id=2764) - extracts most program installers
+* [JPortable](http://portableapps.com/apps/utilities/java_portable) | [Launcher](http://portableapps.com/apps/utilities/java_portable_launcher) - run JAR executables portably
 * [Adobe Flash Portable](https://rejzor.wordpress.com/portable-adobe-flash/) | [Alt](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) - latest Flash DLLs for portable browsers
 * [SmallestDotNET](http://smallestdotnet.com/) - to get .NET installed quickly
+* [yaP](http://rolandtoth.hu/yaP/) - [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138) - portabiliser
 
-**_Note on icons:_**
-> I consider TPFC and PA to be the foremost authorities on portability.
-
-* **[TPFC](http://www.portablefreeware.com/)** :package: - either a database entry or often a thread in the [submissions subforum](https://www.portablefreeware.com/forums/viewforum.php?f=4).
-* **[PortableApps](http://portableapps.com/)** :floppy_disk: - either packaged in [PAF format](http://portableapps.com/development/portableapps.com_format), often in addition to native portability, or a link to PA forum.
-* **[yaP](http://rolandtoth.hu/yaP/)** :file_folder: - has a [yaP config](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138) available.
-* **[ThumbApps](https://sourceforge.net/projects/thumbapps/)** :cyclone: - TA PAF available (they package programs that PortableApps won't for licencing reasons).
-* **Other** :gear: - portability instructions provided from the program site or another source.
-* **Commercial** :moneybag: - costs money, or compulsory donationware. I prefer to list freeware though as much as possible.
-
-**_Other sites:_**
+**_Sites:_**
+* [TPFC](http://www.portablefreeware.com/) - [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4)
+* [PortableApps](http://portableapps.com/) - [*paf*](http://portableapps.com/development/portableapps.com_format)
+* [ThumbApps](https://sourceforge.net/projects/thumbapps/)
 * [LiberKey](http://www.liberkey.com/en.html)
 * [LupoPenSuite](http://www.lupopensuite.com/)
 * [PenDriveApps](http://www.pendriveapps.com/)
@@ -83,8 +71,8 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 * [Git](https://git-scm.com/) - [:floppy_disk:](https://github.com/sheabunge/GitPortable)
 
 #### Text Editors
-* [Atom](https://atom.io/) - [:package:](https://www.portablefreeware.com/?id=2793) [:floppy_disk:](https://github.com/garethflowers/atom-portable)
-* [Brackets](http://brackets.io/) - [:floppy_disk:](https://github.com/sagiegurari/brackets-portable) - geared toward web development
+* [Atom](https://atom.io/) - [*tpfc*](https://www.portablefreeware.com/?id=2793), [*pa*](https://github.com/garethflowers/atom-portable)
+* [Brackets](http://brackets.io/) - [*tpfc*](https://github.com/sagiegurari/brackets-portable) - geared toward web development
 * [CuteMarkEd](https://cloose.github.io/CuteMarkEd/) - [:floppy_disk:](http://portableapps.com/apps/office/cutemarked-portable)
 * [EditBone](http://www.bonecode.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2706)
 * [MarkdownEdit](http://markdownedit.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=81353)
