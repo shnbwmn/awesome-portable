@@ -186,6 +186,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [FARR](https://www.donationcoder.com/Software/Mouser/findrun/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
 * [LiberKey](http://www.liberkey.com/en.html)
 * [LupoPenSuite](http://www.lupopensuite.com/)
+* [PortableApps Launcher](http://portableapps.com/download)
 * [Qsel](http://www.horstmuc.de/wqsel.htm) - [:package:](https://www.portablefreeware.com/?id=1133)
 * [Quick Access Popup](http://www.quickaccesspopup.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2765)
 * [SyMenu](http://www.ugmfree.it/) - [:package:](https://www.portablefreeware.com/?id=2394)
