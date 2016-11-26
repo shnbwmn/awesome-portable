@@ -67,8 +67,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [Git](https://git-scm.com/) - [:floppy_disk:](https://github.com/sheabunge/GitPortable)
 
 #### Text Editors
-* [Atom](https://atom.io/) - [*tpfc*](https://www.portablefreeware.com/?id=2793), [*pa*](https://github.com/garethflowers/atom-portable)
-* [Brackets](http://brackets.io/) - [*tpfc*](https://github.com/sagiegurari/brackets-portable) - geared toward web development
+* [Atom](https://atom.io/) | [*tpfc*](https://www.portablefreeware.com/?id=2793), [*pa*](https://github.com/garethflowers/atom-portable)
+* [Brackets](http://brackets.io/) | [*tpfc*](https://github.com/sagiegurari/brackets-portable) - geared toward web development
 * [CuteMarkEd](https://cloose.github.io/CuteMarkEd/) - [:floppy_disk:](http://portableapps.com/apps/office/cutemarked-portable)
 * [EditBone](http://www.bonecode.com/) - [:package:](https://www.portablefreeware.com/index.php?id=2706)
 * [MarkdownEdit](http://markdownedit.com/) - [:package:](https://www.portablefreeware.com/forums/viewtopic.php?p=81353)
