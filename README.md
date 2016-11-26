@@ -19,21 +19,21 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
 * [Dependency Walker](http://www.dependencywalker.com/)
-* [Primo](http://members.tripod.com/~randy_hall/download.htm) - [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=8164)
-* [Sandboxie](http://www.sandboxie.com/) - [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
-* [Virtualbox](https://www.virtualbox.org/) - [*vbox*](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
+* [Primo](http://members.tripod.com/~randy_hall/download.htm) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=8164)
+* [Sandboxie](http://www.sandboxie.com/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
+* [Virtualbox](https://www.virtualbox.org/) | [*vbox*](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
 
 **_Tools:_**
-* [LessMSI](http://lessmsi.activescott.com/) - [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
-* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) - [*tpfc*](https://www.portablefreeware.com/index.php?id=2764) - extracts most program installers
+* [LessMSI](http://lessmsi.activescott.com/) | [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
+* [Universal Extractor 2](http://bioruebe.com/dev/uniextract/) | [*tpfc*](https://www.portablefreeware.com/index.php?id=2764) - extracts most program installers
 * [JPortable](http://portableapps.com/apps/utilities/java_portable) | [Launcher](http://portableapps.com/apps/utilities/java_portable_launcher) - run JAR executables portably
 * [Adobe Flash Portable](https://rejzor.wordpress.com/portable-adobe-flash/) | [Alt](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) - latest Flash DLLs for portable browsers
 * [SmallestDotNET](http://smallestdotnet.com/) - to get .NET installed quickly
-* [yaP](http://rolandtoth.hu/yaP/) - [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138) - portabiliser
+* [yaP](http://rolandtoth.hu/yaP/) | [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138) - portabiliser
 
 **_Sites:_**
-* [TPFC](http://www.portablefreeware.com/) - [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4)
-* [PortableApps](http://portableapps.com/) - [*paf*](http://portableapps.com/development/portableapps.com_format)
+* [TPFC](http://www.portablefreeware.com/) | [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4)
+* [PortableApps](http://portableapps.com/) | [*paf*](http://portableapps.com/development/portableapps.com_format)
 * [ThumbApps](https://sourceforge.net/projects/thumbapps/)
 * [PenDriveApps](http://www.pendriveapps.com/)
 * [WinPenPack](http://www.winpenpack.com/en/index.php)
