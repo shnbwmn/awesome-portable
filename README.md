@@ -59,7 +59,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*notes*](#notetaking), [*suite*](#suites)
 
 * [*Utilities*](#utilities)
-> [*zip*](#archivers), [*backup*](#backup), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search), [*time*](#time), [*type*](#typography)
+> [*zip*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search), [*time*](#time), [*type*](#typography)
 
 ## Development
 
@@ -174,6 +174,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Backup
 * [**jaBuT Backup**](http://jabut.de/en) / [*tpfc*](https://www.portablefreeware.com/?id=2812)
+
+### Calculators
+* [**SpeedCrunch**](http://speedcrunch.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1547), [*paf*](http://portableapps.com/apps/office/speedcrunch_portable)
 
 ### File Management
 * [**Double Commander**](http://doublecmd.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
