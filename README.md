@@ -18,18 +18,18 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
-* [**Dependency Walker**](http://www.dependencywalker.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28309), [*thumb*](http://www.thumbapps.org/2015/03/Dependency-Walker-Depends-portable.html), [*wiki*](https://en.wikipedia.org/wiki/Dependency_Walker) - also known as *depends.exe*
+* [**Dependency Walker**](http://www.dependencywalker.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28309), [*thumb*](http://www.thumbapps.org/2015/03/Dependency-Walker-Depends-portable.html), [*wiki*](https://en.wikipedia.org/wiki/Dependency_Walker) / also known as *depends.exe*
 * [**Primo**](http://members.tripod.com/~randy_hall/download.htm) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=8164)
-* [**Sandboxie**](http://www.sandboxie.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created / install programs requiring installation inside a sandbox
-* [**Virtualbox**](https://www.virtualbox.org/) / [*vbox*](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
+* [**Sandboxie**](http://www.sandboxie.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) / isolate a running program to show files/registry entries created / install programs requiring installation inside a sandbox
+* [**Virtualbox**](https://www.virtualbox.org/) / [*vbox*](http://www.vbox.me/) / run programs in a clean Windows installation to check for dependencies
 
 **_Tools:_**
-* [**LessMSI**](http://lessmsi.activescott.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) - extracts MSI installers
-* [**Universal Extractor**](http://www.lupopensuite.com/db/universalextractor.htm) | [**Bioruebe**](http://bioruebe.com/dev/uniextract/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2764) - extracts most program installers
-* [**JPortable**](http://portableapps.com/apps/utilities/java_portable) | [**Launcher**](http://portableapps.com/apps/utilities/java_portable_launcher) - run JAR executables portably
-* [**Adobe Flash Portable**](https://rejzor.wordpress.com/portable-adobe-flash/) | [**Alt**](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) - latest Flash DLLs for portable browsers
-* [**SmallestDotNET**](http://smallestdotnet.com/) - to get .NET installed quickly
-* [**yaP**](http://rolandtoth.hu/yaP/) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138) - portabiliser
+* [**LessMSI**](http://lessmsi.activescott.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) / extracts MSI installers
+* [**Universal Extractor**](http://www.lupopensuite.com/db/universalextractor.htm) | [**Bioruebe**](http://bioruebe.com/dev/uniextract/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2764) / extracts most program installers
+* [**JPortable**](http://portableapps.com/apps/utilities/java_portable) | [**Launcher**](http://portableapps.com/apps/utilities/java_portable_launcher) / run JAR executables portably
+* [**Adobe Flash Portable**](https://rejzor.wordpress.com/portable-adobe-flash/) | [**Alt**](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) / latest Flash DLLs for portable browsers
+* [**SmallestDotNET**](http://smallestdotnet.com/) / to get .NET installed quickly
+* [**yaP**](http://rolandtoth.hu/yaP/) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138) / portabiliser
 
 **_Sites:_**
 * [**TPFC**](http://www.portablefreeware.com/) / [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4), [*res*](https://www.portablefreeware.com/resources.php)
@@ -64,7 +64,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ## Development
 
 ### Resource Editors
-* [**ResEdit**](http://www.resedit.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1675), 
+* [**ResEdit**](http://www.resedit.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1675) 
 * [**Resource Hacker**](http://www.angusj.com/resourcehacker/) / [*tpfc*](https://www.portablefreeware.com/?id=289)
 * [**XN Resource Editor**](https://stefansundin.github.io/xn_resource_editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=407), [*paf*](http://portableapps.com/apps/utilities/xn_resource_editor_portable)
 
@@ -73,13 +73,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Text Editors
 * [**Atom**](https://atom.io/) / [*tpfc*](https://www.portablefreeware.com/?id=2793), [*paf*](https://github.com/garethflowers/atom-portable)
-* [**Brackets**](http://brackets.io/) / [*tpfc*](https://github.com/sagiegurari/brackets-portable) - geared toward web development
+* [**Brackets**](http://brackets.io/) / [*tpfc*](https://github.com/sagiegurari/brackets-portable) / geared toward web development
 * [**CuteMarkEd**](https://cloose.github.io/CuteMarkEd/) / [*paf*](http://portableapps.com/apps/office/cutemarked-portable)
 * [**EditBone**](http://www.bonecode.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2706)
 * [**MarkdownEdit**](http://markdownedit.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81353)
 * [**Notepad++**](https://notepad-plus-plus.org/) / [*tpfc*](https://www.portablefreeware.com/?id=539), [*paf*](http://portableapps.com/apps/development/notepadpp_portable)
 * [**RJ TextEd**](http://www.rj-texted.se/) / [*tpfc*](https://www.portablefreeware.com/?id=2206)
-* [**Sublime Text**](https://www.sublimetext.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) - not free, but unlimited evaluation
+* [**Sublime Text**](https://www.sublimetext.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) / not free, but unlimited evaluation
 * [**SynWrite**](http://www.uvviewsoft.com/synwrite/) / [*tpfc*](https://www.portablefreeware.com/?id=2375)
 * [**Visual Studio Code**](https://code.visualstudio.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82783), [*paf*](https://github.com/garethflowers/vscode-portable)
 
@@ -87,10 +87,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Religion
 * [**Bible Analyzer**](http://www.bibleanalyzer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2704)
-* [**Bible Lightning**](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79666) - fast KJV lookup
+* [**Bible Lightning**](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79666) / fast KJV lookup
 * [**BPBible**](https://github.com/bpbible/bpbible) / [*tpfc*](https://www.portablefreeware.com/?id=1597), [*paf*](http://portableapps.com/apps/education/bpbible_portable)
 * [**Davar4**](http://www.davar3.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79667)
-* [**Ready Bible Study and Reference**](http://michaels-tech-notes.weebly.com/blog/category/religion) - settings saved to INIs within program directory
+* [**Ready Bible Study and Reference**](http://michaels-tech-notes.weebly.com/blog/category/religion) / settings saved to INIs within program directory
 * [**The Word**](http://www.theword.net/index.php?) / [*tpfc*](https://www.portablefreeware.com/?id=1248)
 
 ### Statistics
@@ -108,10 +108,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Sweet Home 3D**](http://www.sweethome3d.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79756)
 
 ### Screen Capture
-* [**Greenshot**](http://getgreenshot.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2340) - dev distributes PAF version as well
+* [**Greenshot**](http://getgreenshot.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2340) / dev distributes PAF version as well
 * [**Lightscreen**](https://lightscreen.com.ar/) / [*tpfc*](https://www.portablefreeware.com/?id=1959), [*paf*](http://portableapps.com/apps/utilities/lightscreen_portable)
-* [**PicPick**](http://ngwin.com/picpick) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1496), [*paf*](http://portableapps.com/apps/graphics_pictures/picpick-portable) - a lot more than just a screenshot tool
-* [**ShareX**](https://getsharex.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2409) - like PicPick, has many diverse features beyond screenshotting
+* [**PicPick**](http://ngwin.com/picpick) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1496), [*paf*](http://portableapps.com/apps/graphics_pictures/picpick-portable) / a lot more than just a screenshot tool
+* [**ShareX**](https://getsharex.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2409) / like PicPick, has many diverse features beyond screenshotting
 * [**Snipaste**](https://www.snipaste.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2801)
 
 ### Viewers
@@ -194,7 +194,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### File Management
 * [**Double Commander**](http://doublecmd.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
-* [**Free Commander XE**](http://freecommander.com/en/summary/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=291), [*paf*](http://portableapps.com/apps/utilities/freecommander_portable) - 64-bit version is donationware
+* [**Free Commander XE**](http://freecommander.com/en/summary/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=291), [*paf*](http://portableapps.com/apps/utilities/freecommander_portable) / 64-bit version is donationware
 * [**MultiCommander**](http://multicommander.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2304)
 * [**NexusFile**](http://www.xiles.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1419)
 * [**Q-Dir**](http://www.softwareok.com/?seite=Freeware/Q-Dir) / [*tpfc*](https://www.portablefreeware.com/?id=1431), [*paf*](http://portableapps.com/apps/utilities/q-dir-portable)
@@ -214,7 +214,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Search
 * [**Everything**](http://www.voidtools.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1479)
-* [**Listary**](http://www.listary.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1680), [*paf*](http://portableapps.com/apps/utilities/listary_portable) - Pro version available
+* [**Listary**](http://www.listary.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1680), [*paf*](http://portableapps.com/apps/utilities/listary_portable) / Pro version available
 
 ### Time
 * [**Titlebar Date-Time**](http://www.whisperingpinessoftware.com/tbdt.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84159)
