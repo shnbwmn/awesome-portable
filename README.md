@@ -13,7 +13,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * No installation required (can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation).
 * Runs self-contained (makes no changes to host computer outside of program folder).
 * Saves main settings to program directory (not user/home directory, AppData or registry).
-* Doesn't require third-party dependencies (with some exceptions, like .NET or Visual C++, or admin rights).
+* Doesn't require third-party dependencies (with some exceptions, like [.NET](https://www.microsoft.com/net/download/framework) or [Visual C++](https://support.microsoft.com/en-za/kb/2977003), or admin rights where necessary).
 * *[Stealth:](https://www.portablefreeware.com/faq.php#stealth)* leaves nothing behind in the registry or filesystem (no leftovers/clutter on the PC - ideal).
 
 **_Testing for portability:_**
@@ -32,7 +32,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**yaP**](http://rolandtoth.hu/yaP/) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138) - portabiliser
 
 **_Sites:_**
-* [**TPFC**](http://www.portablefreeware.com/) / [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4)
+* [**TPFC**](http://www.portablefreeware.com/) / [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4), [*res*](https://www.portablefreeware.com/resources.php)
 * [**PortableApps**](http://portableapps.com/) / [*paf*](http://portableapps.com/development/portableapps.com_format)
 * [**ThumbApps**](https://sourceforge.net/projects/thumbapps/)
 * [**PenDriveApps**](http://www.pendriveapps.com/)
@@ -41,7 +41,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ## Contents
 
 * [*Development*](#development)
-> [*source*](#source-control), [*text*](#text-editors)
+> [*res*](#resource-editors), [*source*](#source-control), [*text*](#text-editors)
 
 * [*Education*](#education)
 > [*religion*](#religion), [*stats*](#statistics)
@@ -62,6 +62,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*zip*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*fileman*](#file-management), [*launch*](#launchers), [*search*](#search), [*time*](#time), [*type*](#typography)
 
 ## Development
+
+### Resource Editors
+* [**ResEdit**](http://www.resedit.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1675), 
+* [**Resource Hacker**](http://www.angusj.com/resourcehacker/) / [*tpfc*](https://www.portablefreeware.com/?id=289)
+* [**XN Resource Editor**](https://stefansundin.github.io/xn_resource_editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=407), [*paf*](http://portableapps.com/apps/utilities/xn_resource_editor_portable)
 
 ### Source Control
 * [**Git**](https://git-scm.com/) / [*paf*](https://github.com/sheabunge/GitPortable)
