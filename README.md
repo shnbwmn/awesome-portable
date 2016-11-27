@@ -150,6 +150,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**1by1**](http://mpesch3.de1.cc/1by1.html) / [*tpfc*](https://www.portablefreeware.com/?id=90)
 * [**AIMP**](http://www.aimp.ru/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1444), [*paf*](http://portableapps.com/apps/music_video/aimp-portable)
 * [**Audacious**](http://audacious-media-player.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81470), [*yap*](http://rolandtoth.hu/yaP/#examples/Audacious.ini)
+* [**Foobar2000**](http://www.foobar2000.org/) / [*tpfc*](https://www.portablefreeware.com/?id=184)
 
 ### Podcasts
 * [**gPodder**](http://gpodder.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1673), [*paf*](http://portableapps.com/apps/internet/gpodder_portable)
