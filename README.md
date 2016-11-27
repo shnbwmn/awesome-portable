@@ -14,7 +14,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * Runs **self-contained** / makes no changes to host computer outside of program folder
 * Saves **main settings to program directory** / not user/home directory, AppData or registry
 * **No third-party dependencies** / with some exceptions, like [*.NET*](https://www.microsoft.com/net/download/framework) / [*Visual C++*](https://support.microsoft.com/en-za/kb/2977003) / *admin rights* where necessary
-* [**Stealth:**](https://www.portablefreeware.com/faq.php#stealth) leaves nothing behind in the registry or filesystem / no leftovers/clutter on the PC / ideal
+* [**Stealth:**](https://www.portablefreeware.com/faq.php#stealth) leaves nothing behind in the registry or filesystem / no leftovers on host PC / ideal
 
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
