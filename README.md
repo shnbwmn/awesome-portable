@@ -220,7 +220,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Uninstallers
 * [**Bulk Crap Uninstaller**](http://klocmansoftware.weebly.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=77953)
-* [**Iobit Uninstaller**](http://www.iobit.com/en/advanceduninstaller.php) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30919), [*paf*](http://portableapps.com/apps/utilities/iobit_uninstaller_portable)
+* [**IObit Uninstaller**](http://www.iobit.com/en/advanceduninstaller.php) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30919), [*paf*](http://portableapps.com/apps/utilities/iobit_uninstaller_portable)
 
 ## License
 
