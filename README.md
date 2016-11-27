@@ -20,7 +20,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
 * [**Dependency Walker**](http://www.dependencywalker.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28309), [*wiki*](https://en.wikipedia.org/wiki/Dependency_Walker) - also known as *depends.exe* / note: writes to registry
 * [**Primo**](http://members.tripod.com/~randy_hall/download.htm) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=8164)
-* [**Sandboxie**](http://www.sandboxie.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created, or install programs requiring installation inside a sandbox
+* [**Sandboxie**](http://www.sandboxie.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) - isolate a running program to show files/registry entries created / install programs requiring installation inside a sandbox
 * [**Virtualbox**](https://www.virtualbox.org/) / [*vbox*](http://www.vbox.me/) - run programs in a clean Windows installation to check for dependencies
 
 **_Tools:_**
