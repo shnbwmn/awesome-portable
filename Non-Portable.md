@@ -17,3 +17,8 @@
 
 ### Colour Pickers
 * [**GPick**](http://www.gpick.org/)
+
+## Utilities
+
+### Passwords
+* [**KeePassX**](https://www.keepassx.org/) / [*forum*](https://forum.keepassx.org/viewtopic.php?t=2336), [*paf*](http://portableapps.com/node/16355) / no luck on -cfg parameter / can use paf of keepass 1, however need to change all keepass lines to keepassx / need to add cleanup of Local AppData folder
