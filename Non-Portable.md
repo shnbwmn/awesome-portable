@@ -3,9 +3,17 @@
 
 > All the awesome software that can't be added to [**Awesome Portable**](https://github.com/shnbwmn/awesome-portable).
 
-### Education
+## Education
 
-#### Religion
-* [BibleTime](http://bibletime.info/) - can extract installer, however EXE won't start
-* [e-Sword](http://www.e-sword.net/)
-* [Xiphos](http://xiphos.org/)
+### Religion
+* [**BibleTime**](http://bibletime.info/) - can extract installer, however EXE won't start
+* [**e-Sword**](http://www.e-sword.net/)
+* [**Xiphos**](http://xiphos.org/)
+
+## Graphics
+
+### 3D
+* [**123D Design**](http://www.123dapp.com/design)
+
+### Colour Pickers
+* [**GPick**](http://www.gpick.org/)
