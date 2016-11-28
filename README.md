@@ -59,7 +59,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*diary*](#diary), [*notes*](#notetaking), [*suite*](#suites)
 
 * [*Utilities*](#utilities)
-> [*zip*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*fileman*](#file-management), [*font*](#fonts), [*launch*](#launchers), [*pass*](#passwords), [*search*](#search), [*time*](#time)
+> [*arch*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*fileman*](#file-management), [*font*](#fonts), [*launch*](#launchers), [*pass*](#passwords), [*search*](#search), [*time*](#time)
 
 ## Development
 
