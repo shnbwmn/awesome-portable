@@ -6,7 +6,7 @@
 ## Education
 
 ### Religion
-* [**BibleTime**](http://bibletime.info/) - can extract installer, however EXE won't start
+* [**BibleTime**](http://bibletime.info/) / can extract installer, however EXE won't start
 * [**e-Sword**](http://www.e-sword.net/)
 * [**Xiphos**](http://xiphos.org/)
 
