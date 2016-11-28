@@ -10,11 +10,11 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
 
 **_Portability:_** [*tpfc*](https://www.portablefreeware.com/about.php), [*paf*](http://portableapps.com/about/what_is_a_portable_app)
-* **No installation required** / can be unzipped/[extracted](https://www.portablefreeware.com/faq.php#extract) or files copied from an installation
+* **No installation required** / can be unzipped | [extracted](https://www.portablefreeware.com/faq.php#extract) | files copied from an installation
 * Runs **self-contained** / makes no changes to host computer outside of program folder
 * Saves **main settings to program directory** / not user/home directory, AppData or registry
 * **No third-party dependencies** / with some exceptions, like [.NET](https://www.microsoft.com/net/download/framework) | [Visual C++](https://support.microsoft.com/en-za/kb/2977003) | admin rights where necessary
-* [**Stealth:**](https://www.portablefreeware.com/faq.php#stealth) leaves nothing behind in the registry or filesystem / no leftovers on host PC / ideal
+* [**Stealth:**](https://www.portablefreeware.com/faq.php#stealth) noleft registry or filesystem items left on the host PC after program exit / ideal
 
 **_Testing for portability:_**
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
