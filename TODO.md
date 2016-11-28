@@ -46,6 +46,8 @@ http://www.winpenpack.com/en/download.php?view.1358
 
 14. ZSoftUninstaller, pestudio, ExeInfoPE, Regshot + 2, Process Monitor, System Explorer, etc under Tools
 
+15. Portabilisation projects: add symenu, liberkey, etc??
+
 ## Done
 
 <s>Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
