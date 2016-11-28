@@ -118,8 +118,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Faststone**](http://faststone.org/FSViewerDetail.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=207)
 * [**HoneyView**](http://www.bandisoft.com/honeyview/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2497)
 * [**Imagine**](http://www.nyam.pe.kr/blog/entry/Imagine) / [*tpfc*](https://www.portablefreeware.com/?id=1819)
-* [**XnView**](http://www.xnview.com/en/xnview/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=30), [*pa*](http://portableapps.com/apps/graphics_pictures/xnview_portable)
-* [**XnView MP**](http://www.xnview.com/en/xnviewmp/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=35220)
+* [**XnView**](http://www.xnview.com/en/xnview/) | [**MP**](http://www.xnview.com/en/xnviewmp/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=30), [*mp*](https://www.portablefreeware.com/forums/viewtopic.php?p=35220), [*pa*](http://portableapps.com/apps/graphics_pictures/xnview_portable)
 
 ## Internet
 
