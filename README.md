@@ -29,14 +29,16 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**JPortable**](http://portableapps.com/apps/utilities/java_portable) | [**Launcher**](http://portableapps.com/apps/utilities/java_portable_launcher) / run JAR executables portably
 * [**Adobe Flash Portable**](https://rejzor.wordpress.com/portable-adobe-flash/) | [**Alt**](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) / latest Flash DLLs for portable browsers
 * [**SmallestDotNET**](http://smallestdotnet.com/) / to get .NET installed quickly
-* [**yaP**](http://rolandtoth.hu/yaP/) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138) / portabiliser
+
+**_Portabilisation projects:_**
+* [**PortableApps**](http://portableapps.com/) / [*paf*](http://portableapps.com/development/portableapps.com_format)
+* [**ThumbApps**](https://sourceforge.net/projects/thumbapps/)
+* [**WinPenPack**](http://www.winpenpack.com/en/index.php)
+* [**yaP**](http://rolandtoth.hu/yaP/) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138)
 
 **_Sites:_**
 * [**TPFC**](http://www.portablefreeware.com/) / [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4), [*res*](https://www.portablefreeware.com/resources.php)
-* [**PortableApps**](http://portableapps.com/) / [*paf*](http://portableapps.com/development/portableapps.com_format)
-* [**ThumbApps**](https://sourceforge.net/projects/thumbapps/)
 * [**PenDriveApps**](http://www.pendriveapps.com/)
-* [**WinPenPack**](http://www.winpenpack.com/en/index.php)
 
 ## Contents
 
@@ -47,7 +49,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*religion*](#religion), [*stats*](#statistics)
 
 * [*Graphics*](#graphics)
-> [*3d*](#3d), [*cad*](#cad), [*cap*](#screen-capture), [*view*](#viewers)
+> [*3d*](#3d), [*cad*](#cad), [*pick*](#colour-pickers), [*cap*](#screen-capture), [*view*](#viewers)
 
 * [*Internet*](#internet)
 > [*browse*](#browsers), [*im*](#instant-messaging), [*dl*](#download-managers), [*mail*](#email), [*torrent*](#torrents), [*voice*](#voice-chat)
@@ -107,6 +109,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**OpenSCAD**](http://www.openscad.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=80983), [*yap*](http://rolandtoth.hu/yaP/#examples/OpenSCAD.ini)
 * [**Sweet Home 3D**](http://www.sweethome3d.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79756)
 
+### Colour Pickers
+* [**ColorCop**](http://colorcop.net/) - [*tpfc*](https://www.portablefreeware.com/index.php?id=617), [*wpp*](http://www.winpenpack.com/en/download.php?view.1070)
+* [**Just Color Picker**](http://annystudio.com/software/colorpicker/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2712)
+* [**Pixie**](http://www.nattyware.com/pixie.php) / [*tpfc*](https://www.portablefreeware.com/?id=1558)
+
 ### Screen Capture
 * [**Greenshot**](http://getgreenshot.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2340) / dev distributes PAF version as well
 * [**Lightscreen**](https://lightscreen.com.ar/) / [*tpfc*](https://www.portablefreeware.com/?id=1959), [*paf*](http://portableapps.com/apps/utilities/lightscreen_portable)
@@ -115,10 +122,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Snipaste**](https://www.snipaste.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2801)
 
 ### Viewers
-* [**Faststone**](http://faststone.org/FSViewerDetail.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=207)
+* [**Faststone Viewer**](http://faststone.org/FSViewerDetail.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=207)
 * [**HoneyView**](http://www.bandisoft.com/honeyview/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2497)
 * [**Imagine**](http://www.nyam.pe.kr/blog/entry/Imagine) / [*tpfc*](https://www.portablefreeware.com/?id=1819)
-* [**XnView**](http://www.xnview.com/en/xnview/) | [**MP**](http://www.xnview.com/en/xnviewmp/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=30), [*mp*](https://www.portablefreeware.com/forums/viewtopic.php?p=35220), [*pa*](http://portableapps.com/apps/graphics_pictures/xnview_portable)
+* [**Irfanview**](http://www.irfanview.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=49), [*paf*](http://portableapps.com/apps/graphics_pictures/irfanview_portable)
+* [**XnView**](http://www.xnview.com/en/xnview/) | [**MP**](http://www.xnview.com/en/xnviewmp/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=30), [*mp*](https://www.portablefreeware.com/forums/viewtopic.php?p=35220), [*paf*](http://portableapps.com/apps/graphics_pictures/xnview_portable)
 
 ## Internet
 
