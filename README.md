@@ -214,7 +214,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**FARR**](https://www.donationcoder.com/Software/Mouser/findrun/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
 * [**LiberKey**](http://www.liberkey.com/en.html) / [*tpfc*](https://www.portablefreeware.com/?id=2306)
 * [**LupoPenSuite**](http://www.lupopensuite.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=78512)
-* [**PortableApps Launcher**](http://portableapps.com/download) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1056)
+* [**PortableApps Platform**](http://portableapps.com/download) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1056)
 * [**Qsel**](http://www.horstmuc.de/wqsel.htm) / [*tpfc*](https://www.portablefreeware.com/?id=1133)
 * [**Quick Access Popup**](http://www.quickaccesspopup.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2765)
 * [**SyMenu**](http://www.ugmfree.it/) / [*tpfc*](https://www.portablefreeware.com/?id=2394)
