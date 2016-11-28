@@ -110,7 +110,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Sweet Home 3D**](http://www.sweethome3d.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79756)
 
 ### Colour Pickers
-* [**ColorCop**](http://colorcop.net/) - [*tpfc*](https://www.portablefreeware.com/index.php?id=617), [*wpp*](http://www.winpenpack.com/en/download.php?view.1070)
+* [**ColorCop**](http://colorcop.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=617), [*wpp*](http://www.winpenpack.com/en/download.php?view.1070)
 * [**Just Color Picker**](http://annystudio.com/software/colorpicker/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2712)
 * [**Pixie**](http://www.nattyware.com/pixie.php) / [*tpfc*](https://www.portablefreeware.com/?id=1558)
 
