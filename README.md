@@ -61,7 +61,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*diary*](#diary), [*notes*](#notetaking), [*suite*](#suites)
 
 * [*Utilities*](#utilities)
-> [*arch*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*fileman*](#file-management), [*font*](#fonts), [*launch*](#launchers), [*pass*](#passwords), [*search*](#search), [*time*](#time)
+> [*arch*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*fileman*](#file-managers), [*font*](#fonts), [*launch*](#launchers), [*pass*](#passwords), [*search*](#search), [*time*](#time)
 
 ## Development
 
@@ -209,13 +209,14 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Characters
 * [**WinCompose**](https://github.com/SamHocevar/wincompose) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2615)
 
-### File Management
+### File Managers
 * [**Double Commander**](http://doublecmd.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
 * [**FileVoyager**](http://www.filevoyager.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2826)
 * [**Free Commander XE**](http://freecommander.com/en/summary/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=291), [*paf*](http://portableapps.com/apps/utilities/freecommander_portable) / 64-bit version is donationware
 * [**MultiCommander**](http://multicommander.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2304)
 * [**NexusFile**](http://www.xiles.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1419)
-* [**Q-Dir**](http://www.softwareok.com/?seite=Freeware/Q-Dir) / [*tpfc*](https://www.portablefreeware.com/?id=1431), [*paf*](http://portableapps.com/apps/utilities/q-dir-portable)
+* [**Q-Dir**](http://www.softwareok.com/?seite=Freeware/Q-Dir) / [*tpfc*](https://www.portablefreeware.com/?id=1431), [*paf*](http://portableapps.com/apps/utilities/q-dir-portable/)
+* [**Total Commander**](https://www.ghisler.com) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=527), [*paf*](http://portableapps.com/node/14220 [*totalcmd*](https://www.ghisler.com/usbinst.htm) / not free, but certainly very good
 
 ### Fonts
 * [**NexusFont**](http://www.xiles.net/) / [*tpfc*](https://www.portablefreeware.com/?id=731)
