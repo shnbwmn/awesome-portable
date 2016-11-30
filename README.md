@@ -155,7 +155,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**qBittorrent**](http://qbittorrent.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2406), [*paf*](http://portableapps.com/apps/internet/qbittorrent_portable)
 * [**Transmission-Qt**](https://sourceforge.net/projects/trqtw/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2725), [*paf*](http://portableapps.com/apps/internet/transmission-portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Transmission/)
 
-### Voice chat
+### Voice Chat
 * [**Mumble**](http://wiki.mumble.info/wiki/Main_Page) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=9770), [*paf*](http://portableapps.com/apps/internet/mumble-portable)
 
 ## Multimedia
