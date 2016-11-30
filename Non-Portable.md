@@ -8,6 +8,11 @@
 ### Source Control
 * [**GitHub Desktop**](https://desktop.github.com/)
 
+https://codegists.com/code/portable-github-desktop/
+http://haacked.com/archive/2015/10/29/git-shell/
+http://cds.cern.ch/record/2161779
+https://chocolatey.org/packages/GitHub
+
 ## Education
 
 ### Geography
