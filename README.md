@@ -65,6 +65,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Development
 
+(add pic)
+
 ### Resource Editors
 * [**ResEdit**](http://www.resedit.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1675) 
 * [**Resource Hacker**](http://www.angusj.com/resourcehacker/) / [*tpfc*](https://www.portablefreeware.com/?id=289)
@@ -103,6 +105,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Graphics
 
+(add pic)
+
 ### 3D
 * [**Blender**](https://www.blender.org/) / [*tpfc*](https://www.portablefreeware.com/?id=660), [*paf*](http://portableapps.com/apps/graphics_pictures/blender_portable), [*blend*](https://www.blender.org/manual/getting_started/installing/configuration/directories.html)
 
@@ -133,6 +137,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Internet
 
+(add pic)
+
 ### Browsers
 * [**Chrome**](https://www.google.com/chrome/browser/desktop/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2074), [*paf*](http://portableapps.com/apps/internet/google_chrome_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
 * [**Firefox**](https://www.mozilla.org/en-US/firefox/new/) / [*tpfc*](https://www.portablefreeware.com/?id=132), [*paf*](http://portableapps.com/apps/internet/firefox_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
@@ -160,6 +166,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Multimedia
 
+(add pic)
+
 ### Music Players
 * [**1by1**](http://mpesch3.de1.cc/1by1.html) / [*tpfc*](https://www.portablefreeware.com/?id=90)
 * [**AIMP**](http://www.aimp.ru/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1444), [*paf*](http://portableapps.com/apps/music_video/aimp-portable)
@@ -183,6 +191,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Office
 
+(add pic)
+
 ### Diary
 * [**RedNotebook**](http://rednotebook.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2086), [*paf*](http://portableapps.com/apps/office/rednotebook_portable)
 
@@ -196,6 +206,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**SoftMaker FreeOffice**](http://www.freeoffice.com/en/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20457), [*site*](http://www.freeoffice.com/en/tips-and-tricks-portable-installation)
 
 ## Utilities
+
+(add pic)
 
 ### Archivers
 * [**7-Zip**](http://www.7-zip.org/) / [*tpfc*](https://www.portablefreeware.com/?id=796), [*paf*](http://portableapps.com/apps/utilities/7-zip_portable)
