@@ -48,6 +48,8 @@ http://www.winpenpack.com/en/download.php?view.1358
 
 15. Portabilisation projects: add symenu, liberkey, etc??
 
+16. https://www.portablefreeware.com/forums/viewtopic.php?p=84261, mixxx
+
 ## Done
 
 <s>Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
