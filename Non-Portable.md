@@ -6,7 +6,7 @@
 ## Education
 
 ### Geography
-* [Google Earth](https://www.google.com/earth/) / Pro is now free / Key: `GEPFREE`
+* [Google Earth](https://www.google.com/earth/) | [Pro](https://www.google.co.za/earth/explore/products/desktop.html) / [*digtrend*](http://www.digitaltrends.com/computing/how-to-get-google-earth-pro-for-free/) / Pro is now free / Key: `GEPFREE`
 
 ### Religion
 * [**BibleTime**](http://bibletime.info/) / can extract installer, however EXE won't start
