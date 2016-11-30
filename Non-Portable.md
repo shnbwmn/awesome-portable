@@ -24,7 +24,7 @@
 ## Multimedia
 
 ### Compositing
-* [Blackmagic Design Fusion](https://www.blackmagicdesign.com/products/fusion) / non-free "Studio" version available
+* [**Fusion**](https://www.blackmagicdesign.com/products/fusion) / non-free "Studio" version available
 
 ## Office
 
