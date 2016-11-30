@@ -4,9 +4,9 @@
 **_Other sites:_**
 * [Xetbox](http://xetbox.com/) / indicates whether a portable version is available
 
-### Education
+## Education
 
-#### Religion
+### Religion
 * [Christ On Disk](https://www.portablefreeware.com/index.php?id=1462) / [*pen*](https://pendriveapps.com/christ-on-disk-portable-bible/) / very old program / site long dead
   
 ## Multimedia
