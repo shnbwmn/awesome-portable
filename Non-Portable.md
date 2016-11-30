@@ -6,7 +6,7 @@
 ## Education
 
 ### Geography
-* [Google Earth](https://www.google.com/earth/) | [Pro](https://www.google.co.za/earth/explore/products/desktop.html) / [*digtrend*](http://www.digitaltrends.com/computing/how-to-get-google-earth-pro-for-free/) / Pro is now free / Key: `GEPFREE`
+* [**Google Earth**](https://www.google.com/earth/) | [**Pro**](https://www.google.co.za/earth/explore/products/desktop.html) / [*digtrend*](http://www.digitaltrends.com/computing/how-to-get-google-earth-pro-for-free/) / Pro is now free / Key: `GEPFREE`
 
 ### Religion
 * [**BibleTime**](http://bibletime.info/) / can extract installer, however EXE won't start
@@ -24,12 +24,12 @@
 ## Multimedia
 
 ### Compositing
-* [Blackmagic Design Fusion](https://www.blackmagicdesign.com/products/fusion)
+* [Blackmagic Design Fusion](https://www.blackmagicdesign.com/products/fusion) / non-free "Studio" version available
 
 ## Office
 
 ### Notetaking
-* [Microsoft OneNote](https://www.onenote.com/)
+* [**Microsoft OneNote**](https://www.onenote.com/) / [*blog*](https://blogs.office.com/2015/02/13/onenote-now-even-free/) / MS made OneNote completely free
 
 ## Utilities
 
