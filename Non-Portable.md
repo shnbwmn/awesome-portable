@@ -5,6 +5,9 @@
 
 ## Education
 
+### Geography
+* [Google Earth](https://www.google.com/earth/) / Pro is now free / Key: `GEPFREE`
+
 ### Religion
 * [**BibleTime**](http://bibletime.info/) / can extract installer, however EXE won't start
 * [**e-Sword**](http://www.e-sword.net/)
@@ -17,6 +20,16 @@
 
 ### Colour Pickers
 * [**GPick**](http://www.gpick.org/)
+
+## Multimedia
+
+### Compositing
+* [Blackmagic Design Fusion](https://www.blackmagicdesign.com/products/fusion)
+
+## Office
+
+### Notetaking
+* [Microsoft OneNote](https://www.onenote.com/)
 
 ## Utilities
 
