@@ -9,6 +9,11 @@
 #### Religion
 * [Christ On Disk](https://www.portablefreeware.com/index.php?id=1462) - very old program and site long dead
   * [On PenDriveApps](https://pendriveapps.com/christ-on-disk-portable-bible/)
+  
+## Multimedia
+
+### DJ
+* [Mixxx](http://www.mixxx.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=16222), [*paf*](https://github.com/GordCaswell/mixxxportable)
 
 
 
