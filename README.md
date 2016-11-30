@@ -90,6 +90,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Education
 
+(add pic)
+
 ### Religion
 * [**Bible Analyzer**](http://www.bibleanalyzer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2704)
 * [**Bible Lightning**](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79666) / fast KJV lookup
