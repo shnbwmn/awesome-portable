@@ -7,7 +7,7 @@
 ### Education
 
 #### Religion
-* [Christ On Disk](https://www.portablefreeware.com/index.php?id=1462) / [*pen*](https://pendriveapps.com/christ-on-disk-portable-bible/) / very old program and site long dead
+* [Christ On Disk](https://www.portablefreeware.com/index.php?id=1462) / [*pen*](https://pendriveapps.com/christ-on-disk-portable-bible/) / very old program / site long dead
   
 ## Multimedia
 
