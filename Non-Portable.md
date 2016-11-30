@@ -31,6 +31,11 @@ https://chocolatey.org/packages/GitHub
 ### Colour Pickers
 * [**GPick**](http://www.gpick.org/)
 
+## Internet
+
+### Voice Chat
+* [**Discord**](https://discordapp.com/) / has web interface as well
+
 ## Multimedia
 
 ### Compositing
