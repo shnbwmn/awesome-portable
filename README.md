@@ -7,7 +7,7 @@
 
 Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to add programs | Start an [issue](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions
 
-_See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online)
+_See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online), [**Awesome Mobile**](https://github.com/shnbwmn/awesome-mobile)
 
 **_Portability:_** [*tpfc*](https://www.portablefreeware.com/about.php), [*paf*](http://portableapps.com/about/what_is_a_portable_app)
 * **No installation required** / can be unzipped | [extracted](https://www.portablefreeware.com/faq.php#extract) | files copied from an installation
@@ -201,6 +201,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Backup
 * [**jaBuT Backup**](http://jabut.de/en) / [*tpfc*](https://www.portablefreeware.com/?id=2812)
+* [**Personal Backup**](http://personal-backup.rathlev-home.de/index-e.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28563), [*yap*](http://rolandtoth.hu/yaP/#examples/Personal%20Backup.ini)
 * [**ZBack**](http://titan.fsb.hr/~dzorc/zback.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1683)
 
 ### Calculators
