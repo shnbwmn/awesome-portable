@@ -50,6 +50,10 @@ http://www.winpenpack.com/en/download.php?view.1358
 
 16. https://www.portablefreeware.com/forums/viewtopic.php?p=84261, mixxx
 
+17. Eclipse (IDEs), mempad, treeline, etc
+https://piggydb.net/
+https://www.portablefreeware.com/forums/viewtopic.php?p=56075
+
 ## Done
 
 <s>Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
