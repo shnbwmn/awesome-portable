@@ -50,9 +50,11 @@ http://www.winpenpack.com/en/download.php?view.1358
 
 16. https://www.portablefreeware.com/forums/viewtopic.php?p=84261, mixxx
 
-17. Eclipse (IDEs), mempad, treeline, etc
+17. Eclipse (IDEs), mempad, treeline, laragon, other servers like neard, xampp etc
 https://piggydb.net/
 https://www.portablefreeware.com/forums/viewtopic.php?p=56075
+http://alternativeto.net/software/bookstack/ (the wiki stuff listed there)
+bookstack/mediawiki, etc: include if can be used via portable server??
 
 ## Done
 
