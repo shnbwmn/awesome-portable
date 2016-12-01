@@ -49,7 +49,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*religion*](#religion), [*stats*](#statistics)
 
 * [*Graphics*](#graphics)
-> [*3d*](#3d), [*cad*](#cad), [*pick*](#colour-pickers), [*cap*](#screen-capture), [*view*](#viewers)
+> [*3d*](#3d), [*art*](#art), [*cad*](#cad), [*pick*](#colour-pickers), [*cap*](#screen-capture), [*view*](#viewers)
 
 * [*Internet*](#internet)
 > [*browse*](#browsers), [*im*](#instant-messaging), [*dl*](#download-managers), [*mail*](#email), [*torrent*](#torrents), [*voice*](#voice-chat)
@@ -111,6 +111,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### 3D
 * [**Blender**](https://www.blender.org/) / [*tpfc*](https://www.portablefreeware.com/?id=660), [*paf*](http://portableapps.com/apps/graphics_pictures/blender_portable), [*blend*](https://www.blender.org/manual/getting_started/installing/configuration/directories.html)
+
+### Art
+* [**Krita**](https://krita.org/en/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82550), [*paf*](http://portableapps.com/apps/graphics_pictures/krita-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Krita.ini), [*thumb*](http://www.thumbapps.org/2016/05/Krita-digital-painting-32-64-bit-portable.html) / yaP launcher, as well as `KDEHOME` method, works with Krita versions up to `2.9.11`
+* [**MyPaint**](http://mypaint.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2088), [*paf*](http://portableapps.com/apps/graphics_pictures/mypaint-portable)
+* [**Pixia**](http://www.ne.jp/asahi/mighty/knight/) / [*tpfc*](https://www.portablefreeware.com/?id=26)
 
 ### CAD
 * [**OpenSCAD**](http://www.openscad.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=80983), [*yap*](http://rolandtoth.hu/yaP/#examples/OpenSCAD.ini)
