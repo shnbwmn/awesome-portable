@@ -228,11 +228,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**OpenOffice**](https://www.openoffice.org/) / [*tpfc*](https://www.portablefreeware.com/?id=212), [*paf*](http://portableapps.com/apps/office/openoffice_portable)
 * [**SoftMaker FreeOffice**](http://www.freeoffice.com/en/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20457), [*site*](http://www.freeoffice.com/en/tips-and-tricks-portable-installation)
 
-## Wiki
+### Wiki
 * [**DokuWiki**](https://www.dokuwiki.org/dokuwiki#) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83274), [*site*](https://www.dokuwiki.org/install:dokuwiki_on_a_stick) / self-hosted wiki software run on a portable MicroApache server
 * [**TiddlyWiki**](http://tiddlywiki.com/) | [**Classic**](http://classic.tiddlywiki.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2031), [*git*](https://github.com/Jermolene/TiddlyWiki5) / single HTML opened with a browser / not a program, per se, but certainly portable
 * [**WikidPad**](http://wikidpad.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1099), [*site*](http://wikidpad.sourceforge.net/help/ConfigurationFiles.html)
-* [**Zim**](http://www.zim-wiki.org/) / [](https://www.portablefreeware.com/forums/viewtopic.php?p=56775), [](http://portableapps.com/node/29350), [*site*](http://www.glump.net/software/zim-windows) / PAF available from dev
+* [**Zim**](http://www.zim-wiki.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=56775), [*paf*](http://portableapps.com/node/29350), [*site*](http://www.glump.net/software/zim-windows) / PAF available from dev
 
 ## Utilities
 
