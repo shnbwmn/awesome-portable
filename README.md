@@ -59,7 +59,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*musicplay*](#music-players), [*pod*](#podcasts), [*rec*](#screen-recording), [*vidplay*](#video-players)
 
 * [*Office*](#office)
-> [*diary*](#diary), [*notes*](#notetaking), [*proj*](#project-management), [*suite*](#suites)
+> [*diary*](#diary), [*notes*](#notetaking), [*proj*](#project-management), [*suite*](#suites), [*wiki*](#wiki)
 
 * [*Utilities*](#utilities)
 > [*arch*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*fileman*](#file-managers), [*font*](#fonts), [*launch*](#launchers), [*pass*](#passwords), [*search*](#search), [*time*](#time)
@@ -155,6 +155,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Browsers
 * [**Google Chrome**](https://www.google.com/chrome/browser/desktop/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2074), [*paf*](http://portableapps.com/apps/internet/google_chrome_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
 * [**Mozilla Firefox**](https://www.mozilla.org/en-US/firefox/new/) / [*tpfc*](https://www.portablefreeware.com/?id=132), [*paf*](http://portableapps.com/apps/internet/firefox_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
+* [**SlimJet**](http://www.slimjet.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2633)
 * [**Vivaldi**](https://vivaldi.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=73125), [*thumb*](http://www.thumbapps.org/2015/02/vivaldi-108338-tech-preview-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Internet/Vivaldi/)
 
 ### Download Managers
@@ -211,6 +212,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**RedNotebook**](http://rednotebook.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2086), [*paf*](http://portableapps.com/apps/office/rednotebook_portable)
 
 ### Notetaking
+* [**Cherrytree**](http://www.giuspen.com/cherrytree/) / [*tpfc*](https://www.portablefreeware.com/?id=2790), [*paf*](http://portableapps.com/apps/office/cherrytree-portable)
+* [**KeyNote**](https://sourceforge.net/projects/keynote/) | [**NF**](https://github.com/dpradov/keynote-nf) / [*tpfc*](https://www.portablefreeware.com/?id=755), [*sf*](https://sourceforge.net/projects/keynote-newfeat/)
 * [**Laverna**](https://laverna.cc/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82446)
 * [**QOwnNotes**](http://www.qownnotes.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2816)
 
@@ -224,6 +227,12 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**LibreOffice**](https://www.libreoffice.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2055), [*paf*](http://portableapps.com/apps/office/libreoffice_portable)
 * [**OpenOffice**](https://www.openoffice.org/) / [*tpfc*](https://www.portablefreeware.com/?id=212), [*paf*](http://portableapps.com/apps/office/openoffice_portable)
 * [**SoftMaker FreeOffice**](http://www.freeoffice.com/en/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20457), [*site*](http://www.freeoffice.com/en/tips-and-tricks-portable-installation)
+
+## Wiki
+* [**DokuWiki**](https://www.dokuwiki.org/dokuwiki#) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83274), [*site*](https://www.dokuwiki.org/install:dokuwiki_on_a_stick) / self-hosted wiki software run on a portable MicroApache server
+* [**TiddlyWiki**](http://tiddlywiki.com/) | [**Classic**](http://classic.tiddlywiki.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2031), [*git*](https://github.com/Jermolene/TiddlyWiki5) / single HTML opened with a browser / not a program, per se, but certainly portable
+* [**WikidPad**](http://wikidpad.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1099), [*site*](http://wikidpad.sourceforge.net/help/ConfigurationFiles.html)
+* [**Zim**](http://www.zim-wiki.org/) / [](https://www.portablefreeware.com/forums/viewtopic.php?p=56775), [](http://portableapps.com/node/29350), [*site*](http://www.glump.net/software/zim-windows) / PAF available from dev
 
 ## Utilities
 
@@ -240,6 +249,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**ZBack**](http://titan.fsb.hr/~dzorc/zback.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1683)
 
 ### Calculators
+* [**RedCrab**](http://www.redchillicrab.com/en/redcrab/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2095)
 * [**SpeedCrunch**](http://speedcrunch.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1547), [*paf*](http://portableapps.com/apps/office/speedcrunch_portable)
 
 ### Characters
