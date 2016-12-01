@@ -50,7 +50,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*religion*](#religion), [*stats*](#statistics)
 
 * [*Graphics*](#graphics)
-> [*3d*](#3d), [*art*](#art), [*cad*](#cad), [*pick*](#colour-pickers), [*cap*](#screen-capture), [*view*](#viewers)
+> [*3d*](#3d), [*art*](#art), [*cad*](#cad), [*pick*](#colour-pickers), [*raw*](#raw), [*cap*](#screen-capture), [*view*](#viewers)
 
 * [*Internet*](#internet)
 > [*browse*](#browsers), [*im*](#instant-messaging), [*dl*](#download-managers), [*mail*](#email), [*torrent*](#torrents), [*voice*](#voice-chat)
@@ -128,6 +128,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Instant Eyedropper**](http://instant-eyedropper.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1856)
 * [**Just Color Picker**](http://annystudio.com/software/colorpicker/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2712)
 * [**Pixie**](http://www.nattyware.com/pixie.php) / [*tpfc*](https://www.portablefreeware.com/?id=1558)
+
+### RAW
+* [**Photivo**](http://photivo.org/start) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81038), [*site*](http://photivo.org/download/windows)
+* [**RawTherapee**](http://rawtherapee.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=6669), [*paf*](http://portableapps.com/apps/graphics_pictures/rawtherapee-portable), [*rawpedia*](http://50.87.144.65/~rt/w/index.php?title=Making_a_Portable_Installation)
 
 ### Screen Capture
 * [**Greenshot**](http://getgreenshot.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2340) / dev distributes PAF version as well
