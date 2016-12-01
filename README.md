@@ -134,7 +134,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**RawTherapee**](http://rawtherapee.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=6669), [*paf*](http://portableapps.com/apps/graphics_pictures/rawtherapee-portable), [*rawpedia*](http://50.87.144.65/~rt/w/index.php?title=Making_a_Portable_Installation)
 
 ### Screen Capture
-* [**Greenshot**](http://getgreenshot.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2340) / dev distributes PAF version as well
+* [**Greenshot**](http://getgreenshot.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2340), [*site*](http://getgreenshot.org/faq/will-there-ever-be-a-portable-apps-version-of-greenshot/) / dev distributes PAF version as well / not on PortableApps site due to .NET 2 requirement
 * [**Lightscreen**](https://lightscreen.com.ar/) / [*tpfc*](https://www.portablefreeware.com/?id=1959), [*paf*](http://portableapps.com/apps/utilities/lightscreen_portable)
 * [**PicPick**](http://ngwin.com/picpick) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1496), [*paf*](http://portableapps.com/apps/graphics_pictures/picpick-portable) / pixel ruler, magnifier, whiteboard, etc
 * [**Screenshot Captor**](https://www.donationcoder.com/Software/Mouser/screenshotcaptor/) / [*tpfc*](https://www.portablefreeware.com/?id=2412)
