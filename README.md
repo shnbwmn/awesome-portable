@@ -29,6 +29,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**JPortable**](http://portableapps.com/apps/utilities/java_portable) | [**Launcher**](http://portableapps.com/apps/utilities/java_portable_launcher) / run JAR executables portably
 * [**Adobe Flash Portable**](https://rejzor.wordpress.com/portable-adobe-flash/) | [**Alt**](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) / latest Flash DLLs for portable browsers
 * [**SmallestDotNET**](http://smallestdotnet.com/) / to get .NET installed quickly
+* [**WinPCap**](http://www.winpcap.org/) / required by some network programs
 
 **_Portabilisation projects:_**
 * [**PortableApps**](http://portableapps.com/) / [*paf*](http://portableapps.com/development/portableapps.com_format)
@@ -278,3 +279,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Shane Bowman has waived all copyright and related or neighbouring rights to this work.
+
+*Images courtesy [Pixabay](https://pixabay.com/), `CC0`*.
+
+
