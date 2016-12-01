@@ -31,6 +31,9 @@ https://chocolatey.org/packages/GitHub
 ### Colour Pickers
 * [**GPick**](http://www.gpick.org/)
 
+### RAW
+* [**Darktable**](http://www.darktable.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82210), [*partha*](http://www.partha.com/), [*git*](https://github.com/jibaer/darktable/tree/darktable-2.0.x-win) / Partha's last Win build was `2.0` :(
+
 ## Internet
 
 ### Voice Chat
