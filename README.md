@@ -200,7 +200,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**HamMultiPlayer**](http://hammultiplayer.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2791) / view multiple media files at the same time
 * [**Light Alloy**](http://www.light-alloy.ru/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
 * [**MPC-HC**](https://mpc-hc.org/) | [**BE**](https://sourceforge.net/projects/mpcbe/) / [*tpfc*](https://www.portablefreeware.com/?id=2054), [*be*](https://www.portablefreeware.com/forums/viewtopic.php?p=60655), [*paf*](http://portableapps.com/apps/music_video/mpc-hc-portable)
-* [**Potplayer**](http://potplayer.daum.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2483), [*paf*](http://portableapps.com/node/41287)
+* [**PotPlayer**](http://potplayer.daum.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2483), [*paf*](http://portableapps.com/node/41287)
 * [**SMPlayer**](http://smplayer.sourceforge.net/) | [**SMTube**](http://www.smtube.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1358), [*paf*](http://portableapps.com/apps/music_video/smplayer_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1245), [*7z*](http://smplayer.sourceforge.net/en/download-smplayer-portable) / use SMTube to browse and play YouTube videos
 * [**VLC Media Player**](http://www.videolan.org/vlc/) / [*tpfc*](https://www.portablefreeware.com/?id=599), [*paf*](http://portableapps.com/apps/music_video/vlc_portable)
 
@@ -213,7 +213,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Notetaking
 * [**Cherrytree**](http://www.giuspen.com/cherrytree/) / [*tpfc*](https://www.portablefreeware.com/?id=2790), [*paf*](http://portableapps.com/apps/office/cherrytree-portable)
-* [**KeyNote**](https://sourceforge.net/projects/keynote/) | [**NF**](https://github.com/dpradov/keynote-nf) / [*tpfc*](https://www.portablefreeware.com/?id=755), [*sf*](https://sourceforge.net/projects/keynote-newfeat/)
+* [**KeyNote**](https://sourceforge.net/projects/keynote/) | [**NF**](https://github.com/dpradov/keynote-nf) / [*tpfc*](https://www.portablefreeware.com/?id=755), [*sf*](https://sourceforge.net/projects/keynote-newfeat/) / KeyNote NF is an active fork of the dead KeyNote with extended features
 * [**Laverna**](https://laverna.cc/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82446)
 * [**QOwnNotes**](http://www.qownnotes.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2816)
 
