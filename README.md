@@ -236,7 +236,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Utilities
 
-![Machine](img/machine.jpg)
+![Yamaha](img/yamaha.jpg)
 
 ### Archivers
 * [**7-Zip**](http://www.7-zip.org/) / [*tpfc*](https://www.portablefreeware.com/?id=796), [*paf*](http://portableapps.com/apps/utilities/7-zip_portable)
