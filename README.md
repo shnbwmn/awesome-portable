@@ -66,7 +66,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Development
 
-![Computer](img/computer.jpg)
+[![Computer](img/computer.jpg)](https://pixabay.com/en/computer-computer-keyboard-gaming-1844996/)
 
 ### Resource Editors
 * [**ResEdit**](http://www.resedit.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1675) 
@@ -91,7 +91,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Education
 
-![Alms](img/alms.jpg)
+[![Alms](img/alms.jpg)](https://pixabay.com/en/asia-burma-faith-boy-buddha-1807519/)
 
 ### Religion
 * [**Bible Analyzer**](http://www.bibleanalyzer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2704)
@@ -150,7 +150,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Internet
 
-![Smartphone](img/smartphone.jpg)
+[![Smartphone](img/smartphone.jpg)](https://pixabay.com/en/google-on-your-smartphone-search-1796337/)
 
 ### Browsers
 * [**Google Chrome**](https://www.google.com/chrome/browser/desktop/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2074), [*paf*](http://portableapps.com/apps/internet/google_chrome_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
@@ -181,7 +181,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Multimedia
 
-![Microphone](img/microphone.jpg)
+[![Microphone](img/microphone.jpg)](https://pixabay.com/en/microphone-mic-mike-voice-audio-1246057/)
 
 ### Music Players
 * [**1by1**](http://mpesch3.de1.cc/1by1.html) / [*tpfc*](https://www.portablefreeware.com/?id=90)
@@ -206,7 +206,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Office
 
-![Register-Box](img/registerbox.jpg)
+[![Register-Box](img/registerbox.jpg)](https://pixabay.com/en/back-to-school-registerbox-1538863/)
 
 ### Diary
 * [**RedNotebook**](http://rednotebook.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2086), [*paf*](http://portableapps.com/apps/office/rednotebook_portable)
@@ -236,7 +236,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Utilities
 
-![Yamaha](img/yamaha.jpg)
+[![Yamaha](img/yamaha.jpg)](https://pixabay.com/en/yamaha-motorcycle-details-1653663/)
 
 ### Archivers
 * [**7-Zip**](http://www.7-zip.org/) / [*tpfc*](https://www.portablefreeware.com/?id=796), [*paf*](http://portableapps.com/apps/utilities/7-zip_portable)
