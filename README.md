@@ -62,7 +62,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*diary*](#diary), [*notes*](#notetaking), [*proj*](#project-management), [*suite*](#suites), [*wiki*](#wiki)
 
 * [*Utilities*](#utilities)
-> [*arch*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*fileman*](#file-managers), [*font*](#fonts), [*launch*](#launchers), [*pass*](#passwords), [*search*](#search), [*time*](#time)
+> [*arch*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*clip*](#clipboard), [*fileman*](#file-managers), [*font*](#fonts), [*launch*](#launchers), [*pass*](#passwords), [*proc*](#processes), [*search*](#search), [*time*](#time)
 
 ## Development
 
@@ -255,6 +255,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Characters
 * [**WinCompose**](https://github.com/SamHocevar/wincompose) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2615)
 
+### Clipboard
+* [**ArsClip**](http://www.joejoesoft.com/vcms/97/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=734)
+* [**CopyQ**](http://hluk.github.io/CopyQ/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=69636)
+* [**Ditto**](http://ditto-cp.sourceforge.net/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1361), [*paf*](http://portableapps.com/apps/utilities/ditto_portable)
+
 ### File Managers
 * [**Double Commander**](http://doublecmd.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
 * [**FileVoyager**](http://www.filevoyager.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2826)
@@ -281,6 +286,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Passwords
 * [**KeePass**](http://keepass.info/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2829), [*classic*](https://www.portablefreeware.com/index.php?id=194), [*paf*](http://portableapps.com/apps/utilities/keepass_portable)
 * [**Password Safe**](https://pwsafe.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1197), [*paf*](http://portableapps.com/apps/security/password-safe-portable)
+
+### Processes
+* [**Process Explorer**](https://technet.microsoft.com/en-us/sysinternals/bb896653) / [*tpfc*](https://www.portablefreeware.com/index.php?id=32), [*paf*](http://portableapps.com/apps/utilities/process-explorer-portable)
+* [**Process Hacker**](https://wj32.org/processhacker/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1934), [*paf*](http://portableapps.com/apps/utilities/process-hacker-portable)
 
 ### Renamers
 * [**Bulk Rename Utility**](http://www.bulkrenameutility.co.uk/) / [*tpfc*](https://www.portablefreeware.com/?id=1008)
