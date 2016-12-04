@@ -275,7 +275,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [![Rope](img/rope.jpg)](https://pixabay.com/en/rope-fasten-steadfast-fastening-1274372/)
 
 ### Antivirus
-* [**ClamWin**](http://www.clamwin.com/) | [**Sentinel**](http://clamsentinel.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=601), [*paf*](http://portableapps.com/apps/security/clamwin_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.38), [*site*](http://www.clamwin.com/content/view/118/89/) / not as good as commercial/closed-source av solutions / ClamSentinel adds real-time scanning capability
+* [**ClamWin**](http://www.clamwin.com/) | [**Sentinel**](http://clamsentinel.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=601), [*paf*](http://portableapps.com/apps/security/clamwin_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.38), [*site*](http://www.clamwin.com/content/view/118/89/) / not as good as commercial | closed-source av solutions / ClamSentinel adds real-time scanning capability
 
 ### Passwords
 * [**KeePass**](http://keepass.info/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2829), [*classic*](https://www.portablefreeware.com/index.php?id=194), [*paf*](http://portableapps.com/apps/utilities/keepass_portable)
