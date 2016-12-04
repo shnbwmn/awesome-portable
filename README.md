@@ -61,8 +61,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [*Office*](#office)
 > [*diary*](#diary), [*notes*](#notetaking), [*proj*](#project-management), [*suite*](#suites), [*wiki*](#wiki)
 
+* [*Security*](#security)
+> [*pass*](#passwords)
+
 * [*Utilities*](#utilities)
-> [*arch*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*clip*](#clipboard), [*fileman*](#file-managers), [*font*](#fonts), [*launch*](#launchers), [*pass*](#passwords), [*proc*](#processes), [*search*](#search), [*time*](#time)
+> [*arch*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*clip*](#clipboard), [*fileman*](#file-managers), [*font*](#fonts), [*launch*](#launchers), [*proc*](#processes), [*search*](#search), [*time*](#time)
 
 ## Development
 
@@ -177,8 +180,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Mozilla Thunderbird**](https://www.mozilla.org/en-US/thunderbird/) | [**Lightning**](https://addons.mozilla.org/en-US/thunderbird/addon/lightning/) / [*tpfc*](https://www.portablefreeware.com/?id=133), [*paf*](http://portableapps.com/apps/internet/thunderbird_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1277) / Lightning extension adds calendar and to-do list functionality
 
 ### Instant Messaging
-* [**BeeBeep**](http://beebeep.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2783) / p2p, no server required / secure file sharing / includes tetris :)
+* [**BeeBEEP**](http://beebeep.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2783) / p2p, no server required / secure file sharing / includes tetris :)
 * [**Pidgin**](https://www.pidgin.im/) / [*tpfc*](https://www.portablefreeware.com/?id=1345), [*paf*](http://portableapps.com/apps/internet/pidgin_portable)
+* [**RetroShare**](http://retroshare.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2353) / includes secure p2p file sharing
 
 ### Torrents
 * [**PicoTorrent**](http://www.picotorrent.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79128)
@@ -247,6 +251,16 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**WikidPad**](http://wikidpad.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1099), [*site*](http://wikidpad.sourceforge.net/help/ConfigurationFiles.html)
 * [**Zim**](http://www.zim-wiki.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=56775), [*paf*](http://portableapps.com/node/29350), [*site*](http://www.glump.net/software/zim-windows) / PAF available from dev
 
+## Security
+
+[*contents*](#contents), [*top*](#awesome-portable-)
+
+[![Rope](img/rope.jpg)](https://pixabay.com/en/rope-fasten-steadfast-fastening-1274372/)
+
+### Passwords
+* [**KeePass**](http://keepass.info/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2829), [*classic*](https://www.portablefreeware.com/index.php?id=194), [*paf*](http://portableapps.com/apps/utilities/keepass_portable)
+* [**Password Safe**](https://pwsafe.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1197), [*paf*](http://portableapps.com/apps/security/password-safe-portable)
+
 ## Utilities
 
 [*contents*](#contents), [*top*](#awesome-portable-)
@@ -298,10 +312,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Quick Access Popup**](http://www.quickaccesspopup.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2765)
 * [**SyMenu**](http://www.ugmfree.it/) / [*tpfc*](https://www.portablefreeware.com/?id=2394)
 * [**XVA Assistant**](http://www.idesktop.me/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83028)
-
-### Passwords
-* [**KeePass**](http://keepass.info/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2829), [*classic*](https://www.portablefreeware.com/index.php?id=194), [*paf*](http://portableapps.com/apps/utilities/keepass_portable)
-* [**Password Safe**](https://pwsafe.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1197), [*paf*](http://portableapps.com/apps/security/password-safe-portable)
 
 ### Processes
 * [**Process Explorer**](https://technet.microsoft.com/en-us/sysinternals/bb896653) / [*tpfc*](https://www.portablefreeware.com/index.php?id=32), [*paf*](http://portableapps.com/apps/utilities/process-explorer-portable)
