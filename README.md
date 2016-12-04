@@ -9,6 +9,8 @@ Create a [pull request](https://github.com/shnbwmn/awesome-portable/pulls) to ad
 
 _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games), [**Awesome Online**](https://github.com/shnbwmn/awesome-online), [**Awesome Mobile**](https://github.com/shnbwmn/awesome-mobile)
 
+[![Elephant](img/elephant.jpg)](https://pixabay.com/en/elephant-animals-asia-large-bright-1822636/)
+
 **_Portability:_** [*tpfc*](https://www.portablefreeware.com/about.php), [*paf*](http://portableapps.com/about/what_is_a_portable_app)
 * **No installation required** / can be unzipped | [extracted](https://www.portablefreeware.com/faq.php#extract) | files copied from an installation
 * Runs **self-contained** / makes no changes to host computer outside of program folder
