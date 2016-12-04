@@ -59,7 +59,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*musicplay*](#music-players), [*pod*](#podcasts), [*rec*](#screen-recording), [*vidplay*](#video-players)
 
 * [*Office*](#office)
-> [*diary*](#diary), [*notes*](#notetaking), [*proj*](#project-management), [*suite*](#suites), [*wiki*](#wiki)
+> [*diary*](#diary), [*docview*](#document-viewers), [*notes*](#notetaking), [*proj*](#project-management), [*suite*](#suites), [*wiki*](#wiki)
 
 * [*Security*](#security)
 > [*av*](#antivirus), [*pass*](#passwords), [*scan*](#scanning)
@@ -181,7 +181,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Instant Messaging
 * [**BeeBEEP**](http://beebeep.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2783) / p2p, no server required / secure file sharing / includes tetris :)
+* [**IsoToxin**](http://isotoxin.im/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2774)
 * [**Pidgin**](https://www.pidgin.im/) / [*tpfc*](https://www.portablefreeware.com/?id=1345), [*paf*](http://portableapps.com/apps/internet/pidgin_portable)
+* [**qTox**](https://qtox.github.io/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2755)
 * [**RetroShare**](http://retroshare.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2353) / includes secure p2p file sharing
 
 ### Torrents
@@ -228,6 +230,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Diary
 * [**RedNotebook**](http://rednotebook.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2086), [*paf*](http://portableapps.com/apps/office/rednotebook_portable)
 
+### Document Viewers
+* [**Evince**](https://wiki.gnome.org/Apps/Evince) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84294), [*paf*](http://portableapps.com/apps/office/evince_portable)
+* [**STDU Viewer**](http://www.stdutility.com/stduviewer.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2045)
+* [**SumatraPDF**](http://www.sumatrapdfreader.org/free-pdf-reader.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1193), [*paf*](http://portableapps.com/apps/office/sumatra_pdf_portable)
+
 ### Notetaking
 * [**Cherrytree**](http://www.giuspen.com/cherrytree/) / [*tpfc*](https://www.portablefreeware.com/?id=2790), [*paf*](http://portableapps.com/apps/office/cherrytree-portable)
 * [**KeyNote**](https://sourceforge.net/projects/keynote/) | [**NF**](https://github.com/dpradov/keynote-nf) / [*tpfc*](https://www.portablefreeware.com/?id=755), [*sf*](https://sourceforge.net/projects/keynote-newfeat/) / KeyNote NF is an active fork of the dead KeyNote with extended features
@@ -258,7 +265,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [![Rope](img/rope.jpg)](https://pixabay.com/en/rope-fasten-steadfast-fastening-1274372/)
 
 ### Antivirus
-* [**ClamWin**](http://www.clamwin.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=601), [*paf*](http://portableapps.com/apps/security/clamwin_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.38), [*site*](http://www.clamwin.com/content/view/118/89/) / not as good as commercial/closed-source av solutions
+* [**ClamWin**](http://www.clamwin.com/) | [**Sentinel**](http://clamsentinel.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=601), [*paf*](http://portableapps.com/apps/security/clamwin_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.38), [*site*](http://www.clamwin.com/content/view/118/89/) / not as good as commercial/closed-source av solutions / ClamSentinel adds real-time scanning capability
 
 ### Passwords
 * [**KeePass**](http://keepass.info/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2829), [*classic*](https://www.portablefreeware.com/index.php?id=194), [*paf*](http://portableapps.com/apps/utilities/keepass_portable)
@@ -290,6 +297,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**SpeedCrunch**](http://speedcrunch.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1547), [*paf*](http://portableapps.com/apps/office/speedcrunch_portable)
 
 ### Characters
+* [**BabelMap**](http://www.babelstone.co.uk/Software/BabelMap.html) / [*tpfc*](https://www.portablefreeware.com/?id=2352), [*paf*](http://portableapps.com/apps/utilities/babelmap-portable)
+* [**BabelPad**](http://www.babelstone.co.uk/Software/BabelPad.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=57921), [*paf*](http://portableapps.com/apps/office/babelpad-portable)
 * [**WinCompose**](https://github.com/SamHocevar/wincompose) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2615)
 
 ### Clipboard
