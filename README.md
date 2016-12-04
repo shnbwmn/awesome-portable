@@ -62,7 +62,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*diary*](#diary), [*notes*](#notetaking), [*proj*](#project-management), [*suite*](#suites), [*wiki*](#wiki)
 
 * [*Security*](#security)
-> [*pass*](#passwords)
+> [*av*](#antivirus), [*pass*](#passwords), [*scan*](#scanning)
 
 * [*Utilities*](#utilities)
 > [*arch*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*clip*](#clipboard), [*fileman*](#file-managers), [*font*](#fonts), [*launch*](#launchers), [*proc*](#processes), [*search*](#search), [*time*](#time)
@@ -257,9 +257,16 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [![Rope](img/rope.jpg)](https://pixabay.com/en/rope-fasten-steadfast-fastening-1274372/)
 
+### Antivirus
+* [**ClamWin**](http://www.clamwin.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=601), [*paf*](http://portableapps.com/apps/security/clamwin_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.38), [*site*](http://www.clamwin.com/content/view/118/89/) / not as good as commercial/closed-source av solutions
+
 ### Passwords
 * [**KeePass**](http://keepass.info/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2829), [*classic*](https://www.portablefreeware.com/index.php?id=194), [*paf*](http://portableapps.com/apps/utilities/keepass_portable)
 * [**Password Safe**](https://pwsafe.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1197), [*paf*](http://portableapps.com/apps/security/password-safe-portable)
+
+### Scanning
+* [**Emsisoft Emergency Kit**](https://www.emsisoft.com/en/software/eek/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2651)
+* [**Spybot – Search & Destroy**](https://www.safer-networking.org/private/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2047), [*paf*](http://portableapps.com/apps/security/spybot_portable)
 
 ## Utilities
 
