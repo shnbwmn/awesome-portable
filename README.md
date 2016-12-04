@@ -48,28 +48,28 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ## Contents
 
 * [*Development*](#development)
-> [*res*](#resource-editors), [*source*](#source-control), [*text*](#text-editors)
+> [*res*](#resource-editors) | [*source*](#source-control) | [*text*](#text-editors)
 
 * [*Education*](#education)
-> [*religion*](#religion), [*stats*](#statistics)
+> [*religion*](#religion) | [*stats*](#statistics)
 
 * [*Graphics*](#graphics)
-> [*3d*](#3d), [*art*](#art), [*cad*](#cad), [*pick*](#colour-pickers), [*raw*](#raw), [*cap*](#screen-capture), [*view*](#viewers)
+> [*3d*](#3d) | [*art*](#art) | [*cad*](#cad) | [*pick*](#colour-pickers) | [*raw*](#raw) | [*cap*](#screen-capture) | [*view*](#viewers)
 
 * [*Internet*](#internet)
-> [*browse*](#browsers), [*im*](#instant-messaging), [*dl*](#download-managers), [*mail*](#email), [*torrent*](#torrents), [*voice*](#voice-chat)
+> [*browse*](#browsers) | [*im*](#instant-messaging) | [*dl*](#download-managers) | [*mail*](#email) | [*torrent*](#torrents) | [*voice*](#voice-chat)
 
 * [*Multimedia*](#multimedia)
-> [*musicplay*](#music-players), [*pod*](#podcasts), [*rec*](#screen-recording), [*videdit*](#video-editors), [*vidplay*](#video-players)
+> [*musicplay*](#music-players) | [*pod*](#podcasts) | [*rec*](#screen-recording) | [*videdit*](#video-editors) | [*vidplay*](#video-players)
 
 * [*Office*](#office)
-> [*diary*](#diary), [*docview*](#document-viewers), [*notes*](#notetaking), [*proj*](#project-management), [*suite*](#suites), [*wiki*](#wiki)
+> [*diary*](#diary) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*proj*](#project-management) | [*suite*](#suites) | [*wiki*](#wiki)
 
 * [*Security*](#security)
-> [*av*](#antivirus), [*pass*](#passwords), [*scan*](#scanning)
+> [*av*](#antivirus) | [*pass*](#passwords) | [*scan*](#scanning)
 
 * [*Utilities*](#utilities)
-> [*arch*](#archivers), [*automate*](#automation), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*clip*](#clipboard), [*fileman*](#file-managers), [*font*](#fonts), [*launch*](#launchers), [*proc*](#processes), [*reg*](#registry), [*search*](#search), [*time*](#time)
+> [*arch*](#archivers) | [*automate*](#automation) | [*backup*](#backup) | [*calc*](#calculators) | [*char*](#characters) | [*clip*](#clipboard) | [*fileman*](#file-managers) | [*font*](#fonts) | [*launch*](#launchers) | [*proc*](#processes) | [*reg*](#registry) | [*search*](#search) | [*time*](#time)
 
 ## Development
 
