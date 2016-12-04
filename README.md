@@ -223,7 +223,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [*contents*](#contents), [*top*](#awesome-portable-)
 
-[![Adult](img/adult.jpg)](https://pixabay.com/en/adult-blur-book-business-color-1850177/)
+[![Building](img/building.jpg)](https://pixabay.com/en/architecture-buildings-sky-1842614/)
 
 ### Diary
 * [**RedNotebook**](http://rednotebook.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2086), [*paf*](http://portableapps.com/apps/office/rednotebook_portable)
