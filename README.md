@@ -20,20 +20,22 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
 * [**Dependency Walker**](http://www.dependencywalker.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28309), [*thumb*](http://www.thumbapps.org/2015/03/Dependency-Walker-Depends-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Development/Dependency%20Walker/), [*wiki*](https://en.wikipedia.org/wiki/Dependency_Walker) / also known as *depends.exe*
 * [**Primo**](http://members.tripod.com/~randy_hall/download.htm) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=8164)
+* [**Registry Viewer**](http://www.gaijin.at/en/dlregview.php) / [*tpfc*](https://www.portablefreeware.com/?id=1657) / view RegHives, eg, from Sandboxie
 * [**Sandboxie**](http://www.sandboxie.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) / isolate a running program to show files | registry entries created / install programs requiring installation inside a sandbox
 * [**Virtualbox**](https://www.virtualbox.org/) / [*vbox*](http://www.vbox.me/) / run programs in a clean Windows installation to check for dependencies
+* [**Windows Registry Recovery**](http://www.mitec.cz/wrr.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1147) / alternative RegHive viewer
 
 **_Tools:_**
-* [**LessMSI**](http://lessmsi.activescott.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) / extracts MSI installers
-* [**Universal Extractor**](http://www.lupopensuite.com/db/universalextractor.htm) | [**Bioruebe**](http://bioruebe.com/dev/uniextract/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2764) / extracts most program installers
-* [**JPortable**](http://portableapps.com/apps/utilities/java_portable) | [**Launcher**](http://portableapps.com/apps/utilities/java_portable_launcher) / run JAR executables portably
 * [**Adobe Flash Portable**](https://rejzor.wordpress.com/portable-adobe-flash/) | [**Alt**](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) / latest Flash DLLs for portable browsers
+* [**JPortable**](http://portableapps.com/apps/utilities/java_portable) | [**Launcher**](http://portableapps.com/apps/utilities/java_portable_launcher) / run JAR executables portably
+* [**LessMSI**](http://lessmsi.activescott.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) / extracts MSI installers
 * [**SmallestDotNET**](http://smallestdotnet.com/) / to get .NET installed quickly
+* [**Universal Extractor**](http://www.lupopensuite.com/db/universalextractor.htm) | [**Bioruebe**](http://bioruebe.com/dev/uniextract/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2764) / extracts most program installers
 * [**WinPCap**](http://www.winpcap.org/) / required, via installation or `wpcap` | `Packet` DLLs, by some network programs
 
 **_Portabilisation projects:_**
 * [**PortableApps**](http://portableapps.com/) / [*paf*](http://portableapps.com/development/portableapps.com_format)
-* [**ThumbApps**](https://sourceforge.net/projects/thumbapps/)
+* [**ThumbApps**](http://www.thumbapps.org/) / [*sf*](https://sourceforge.net/projects/thumbapps/)
 * [**WinPenPack**](http://www.winpenpack.com/en/index.php)
 * [**yaP**](http://rolandtoth.hu/yaP/) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138)
 
@@ -65,7 +67,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*av*](#antivirus), [*pass*](#passwords), [*scan*](#scanning)
 
 * [*Utilities*](#utilities)
-> [*arch*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*clip*](#clipboard), [*fileman*](#file-managers), [*font*](#fonts), [*launch*](#launchers), [*proc*](#processes), [*search*](#search), [*time*](#time)
+> [*arch*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*clip*](#clipboard), [*fileman*](#file-managers), [*font*](#fonts), [*launch*](#launchers), [*proc*](#processes), [*reg*](#registry), [*search*](#search), [*time*](#time)
 
 ## Development
 
@@ -79,7 +81,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**XN Resource Editor**](https://stefansundin.github.io/xn_resource_editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=407), [*paf*](http://portableapps.com/apps/utilities/xn_resource_editor_portable)
 
 ### Source Control
-* [**Git**](https://git-scm.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=66571), [*paf*](https://github.com/sheabunge/GitPortable)
+* [**Git**](https://git-scm.com/) | [**For Windows**](https://git-for-windows.github.io/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=66571), [*paf*](https://github.com/sheabunge/GitPortable)
+* [**SmartGit**](http://www.syntevo.com/smartgit/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84327), [*avi*](http://aviaryan.in/blog/smartgit-portable-github-client.html)
 
 ### Text Editors
 * [**Atom**](https://atom.io/) / [*tpfc*](https://www.portablefreeware.com/?id=2793), [*paf*](https://github.com/garethflowers/atom-portable)
@@ -134,6 +137,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Colour Pickers
 * [**ColorCop**](http://colorcop.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=617), [*wpp*](http://www.winpenpack.com/en/download.php?view.1070)
+* [**ColorGrabber**](https://nur.gratis/software/colorgrabber-2-0-tool-zum-aufnehmen-picken-von-farben-von-der-desktop-oberflaeche-125.htm) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84314) / homepage in German
 * [**ColorPic**](https://www.iconico.com/colorpic/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1225)
 * [**Instant Eyedropper**](http://instant-eyedropper.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1856)
 * [**Just Color Picker**](http://annystudio.com/software/colorpicker/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2712)
@@ -336,6 +340,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Processes
 * [**Process Explorer**](https://technet.microsoft.com/en-us/sysinternals/bb896653) / [*tpfc*](https://www.portablefreeware.com/index.php?id=32), [*paf*](http://portableapps.com/apps/utilities/process-explorer-portable)
 * [**Process Hacker**](https://wj32.org/processhacker/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1934), [*paf*](http://portableapps.com/apps/utilities/process-hacker-portable)
+* [**System Explorer**](http://systemexplorer.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1491), [*paf*](http://portableapps.com/apps/utilities/system_explorer_portable) / many advanced features
+
+### Registry
+* [**RegAlyzer**](https://www.safer-networking.org/products/regalyzer/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=1174), [*paf*](http://portableapps.com/apps/utilities/regalyzer-portable), [*thumb*](http://www.thumbapps.org/2015/07/RegAlyzer-registry-file-editor-portable.html)
 
 ### Renamers
 * [**Bulk Rename Utility**](http://www.bulkrenameutility.co.uk/) / [*tpfc*](https://www.portablefreeware.com/?id=1008)
