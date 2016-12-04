@@ -177,7 +177,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Mozilla Thunderbird**](https://www.mozilla.org/en-US/thunderbird/) | [**Lightning**](https://addons.mozilla.org/en-US/thunderbird/addon/lightning/) / [*tpfc*](https://www.portablefreeware.com/?id=133), [*paf*](http://portableapps.com/apps/internet/thunderbird_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1277) / Lightning extension adds calendar and to-do list functionality
 
 ### Instant Messaging
-* [**BeeBeep**](http://beebeep.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2783) / p2p, no server required / secure file sharing as well
+* [**BeeBeep**](http://beebeep.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2783) / p2p, no server required / secure file sharing / includes tetris :)
 * [**Pidgin**](https://www.pidgin.im/) / [*tpfc*](https://www.portablefreeware.com/?id=1345), [*paf*](http://portableapps.com/apps/internet/pidgin_portable)
 
 ### Torrents
