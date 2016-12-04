@@ -69,7 +69,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*av*](#antivirus), [*pass*](#passwords), [*scan*](#scanning)
 
 * [*Utilities*](#utilities)
-> [*arch*](#archivers), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*clip*](#clipboard), [*fileman*](#file-managers), [*font*](#fonts), [*launch*](#launchers), [*proc*](#processes), [*reg*](#registry), [*search*](#search), [*time*](#time)
+> [*arch*](#archivers), [*automate*](#automation), [*backup*](#backup), [*calc*](#calculators), [*char*](#characters), [*clip*](#clipboard), [*fileman*](#file-managers), [*font*](#fonts), [*launch*](#launchers), [*proc*](#processes), [*reg*](#registry), [*search*](#search), [*time*](#time)
 
 ## Development
 
@@ -296,6 +296,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Bandizip**](http://www.bandisoft.com/bandizip/) / [*tpfc*](https://www.portablefreeware.com/?id=2397)
 * [**Peazip**](http://www.peazip.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1048), [*paf*](http://portableapps.com/apps/utilities/peazip_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Utilities/Bandizip/)
 
+### Automation
+* [**AutoHotkey**](https://www.autohotkey.com/) | [**SciTE4AutoHotkey**](https://www.autoitscript.com/site/autoit-script-editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=217)
+* [**AutoIt**](https://www.autoitscript.com/site/autoit/) | [**SciTE4AutoIt**](http://fincs.ahk4.net/scite4ahk/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=50)
+
 ### Backup
 * [**Back4Sure**](http://www.ukrebs-software.de/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1684)
 * [**jaBuT Backup**](http://jabut.de/en) / [*tpfc*](https://www.portablefreeware.com/?id=2812)
@@ -313,6 +317,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Clipboard
 * [**ArsClip**](http://www.joejoesoft.com/vcms/97/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=734)
+* [**Clipjump**](http://clipjump.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2523), [*git*](https://github.com/aviaryan/Clipjump), [*ahk*](https://autohotkey.com/boards/viewtopic.php?f=6&t=401) / available as AHK script
 * [**CopyQ**](http://hluk.github.io/CopyQ/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=69636)
 * [**Ditto**](http://ditto-cp.sourceforge.net/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1361), [*paf*](http://portableapps.com/apps/utilities/ditto_portable)
 
