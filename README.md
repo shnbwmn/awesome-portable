@@ -11,7 +11,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [![Elephant](img/elephant.jpg)](https://pixabay.com/en/elephant-animals-asia-large-bright-1822636/)
 
-**_Portability:_** [*tpfc*](https://www.portablefreeware.com/about.php), [*paf*](http://portableapps.com/about/what_is_a_portable_app)
+**_Portability:_**
+
+[*tpfc*](https://www.portablefreeware.com/about.php), [*paf*](http://portableapps.com/about/what_is_a_portable_app)
+
 * **No installation required** / can be unzipped | [extracted](https://www.portablefreeware.com/faq.php#extract) | files copied from an installation
 * Runs **self-contained** / makes no changes to host computer outside of program folder
 * Saves **main settings to program directory** / not home directory | AppData | registry
@@ -63,7 +66,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*musicplay*](#music-players) | [*pod*](#podcasts) | [*rec*](#screen-recording) | [*videdit*](#video-editors) | [*vidplay*](#video-players)
 
 * [*Office*](#office)
-> [*diary*](#diary) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*proj*](#project-management) | [*suite*](#suites) | [*wiki*](#wiki)
+> [*diary*](#diary) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*proj*](#project-management) | [*suite*](#suites) | [*tex*](#tex) | [*wiki*](#wiki)
 
 * [*Security*](#security)
 > [*av*](#antivirus) | [*pass*](#passwords) | [*scan*](#scanning)
@@ -262,6 +265,15 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**OpenOffice**](https://www.openoffice.org/) / [*tpfc*](https://www.portablefreeware.com/?id=212), [*paf*](http://portableapps.com/apps/office/openoffice_portable)
 * [**SoftMaker FreeOffice**](http://www.freeoffice.com/en/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20457), [*site*](http://www.freeoffice.com/en/tips-and-tricks-portable-installation)
 
+### TeX
+
+[*biglist*](http://tex.stackexchange.com/questions/339/latex-editors-ides)
+
+* [**MiKTeX**](https://miktex.org/) / [*site*](https://miktex.org/portable), [*paf*](http://portableapps.com/node/53801)
+* [**TeX Live**](https://www.tug.org/texlive/) / [*site*](https://www.tug.org/texlive/doc/texlive-en/texlive-en.html#tlportable)
+* [**TeXPortable**](https://symera.de/texportable/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81416#p81416)
+* [**TeXstudio**](http://www.texstudio.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=76798), [*paf*](http://portableapps.com/node/53350)
+
 ### Wiki
 * [**DokuWiki**](https://www.dokuwiki.org/dokuwiki#) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83274), [*site*](https://www.dokuwiki.org/install:dokuwiki_on_a_stick) / self-hosted wiki software run on a portable MicroApache server
 * [**TiddlyWiki**](http://tiddlywiki.com/) | [**Classic**](http://classic.tiddlywiki.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2031), [*git*](https://github.com/Jermolene/TiddlyWiki5) / single HTML opened with a browser / not a program, per se, but certainly portable
@@ -297,8 +309,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Peazip**](http://www.peazip.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1048), [*paf*](http://portableapps.com/apps/utilities/peazip_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Utilities/Bandizip/)
 
 ### Automation
-* [**AutoHotkey**](https://www.autohotkey.com/) | [**SciTE4AutoHotkey**](https://www.autoitscript.com/site/autoit-script-editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=217)
-* [**AutoIt**](https://www.autoitscript.com/site/autoit/) | [**SciTE4AutoIt**](http://fincs.ahk4.net/scite4ahk/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=50)
+* [**AutoHotkey**](https://www.autohotkey.com/) | [**SciTE4AutoHotkey**](https://www.autoitscript.com/site/autoit-script-editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=217), [*awesome*](https://github.com/ahkscript/awesome-AutoHotkey)
+* [**AutoIt**](https://www.autoitscript.com/site/autoit/) | [**SciTE4AutoIt**](http://fincs.ahk4.net/scite4ahk/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=50), [*awesome*](https://github.com/J2TeaM/awesome-AutoIt)
 
 ### Backup
 * [**Back4Sure**](http://www.ukrebs-software.de/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1684)
