@@ -6,12 +6,7 @@
 ## Development
 
 ### Source Control
-* [**GitHub Desktop**](https://desktop.github.com/)
-
-https://codegists.com/code/portable-github-desktop/
-http://haacked.com/archive/2015/10/29/git-shell/
-http://cds.cern.ch/record/2161779
-https://chocolatey.org/packages/GitHub
+* [**GitHub Desktop**](https://desktop.github.com/) / todo links: [1](https://codegists.com/code/portable-github-desktop/), [2](http://haacked.com/archive/2015/10/29/git-shell/), [3](http://cds.cern.ch/record/2161779), [4](https://chocolatey.org/packages/GitHub)
 
 ## Education
 
@@ -45,6 +40,9 @@ https://chocolatey.org/packages/GitHub
 * [**Fusion**](https://www.blackmagicdesign.com/products/fusion) / non-free "Studio" version available
 
 ## Office
+
+### Document Viewers
+* [**DjVuLibre**](http://djvu.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1946), [*paf*](http://portableapps.com/node/12189) / unfortunately writes to the registry / while I could include it and make a note, I think that opens the door to too many compromises
 
 ### Notetaking
 * [**Microsoft OneNote**](https://www.onenote.com/) / [*blog*](https://blogs.office.com/2015/02/13/onenote-now-even-free/) / MS made OneNote completely free
