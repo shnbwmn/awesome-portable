@@ -49,6 +49,9 @@ https://chocolatey.org/packages/GitHub
 ### Notetaking
 * [**Microsoft OneNote**](https://www.onenote.com/) / [*blog*](https://blogs.office.com/2015/02/13/onenote-now-even-free/) / MS made OneNote completely free
 
+### Writing
+* [**Dark Room**](http://jjafuller.com/dark-room) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83620) / pops up an unhandled exception error when deleting `user.config` in Local AppData even though local settings cache was enabled in prefs
+
 ## Utilities
 
 ### Passwords
