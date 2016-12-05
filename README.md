@@ -26,12 +26,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Dependency Walker**](http://www.dependencywalker.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28309), [*thumb*](http://www.thumbapps.org/2015/03/Dependency-Walker-Depends-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Development/Dependency%20Walker/), [*wiki*](https://en.wikipedia.org/wiki/Dependency_Walker) / also known as *depends.exe*
 * [**Primo**](http://members.tripod.com/~randy_hall/download.htm) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=8164)
 * [**Registry Viewer**](http://www.gaijin.at/en/dlregview.php) / [*tpfc*](https://www.portablefreeware.com/?id=1657) / view RegHives, eg, from Sandboxie
-* [**Sandboxie**](http://www.sandboxie.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) / isolate a running program to show files | registry entries created / install programs requiring installation inside a sandbox
-* [**Virtualbox**](https://www.virtualbox.org/) / [*vbox*](http://www.vbox.me/) / run programs in a clean Windows installation to check for dependencies
+* [**Sandboxie**](http://www.sandboxie.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) / isolate a running program to show files | registry entries created / install programs requiring installation inside a sandbox / requires admin rights
+* [**Virtualbox**](https://www.virtualbox.org/) / [*vbox*](http://www.vbox.me/) / run programs in a clean Windows installation to check for dependencies / requires admin rights
 * [**Windows Registry Recovery**](http://www.mitec.cz/wrr.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1147) / alternative RegHive viewer
 
 **_Tools:_**
 * [**Adobe Flash Portable**](https://rejzor.wordpress.com/portable-adobe-flash/) | [**Alt**](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) / latest Flash DLLs for portable browsers
+* [**Ghostscript Portable**](http://portableapps.com/apps/utilities/ghostscript_portable) / Postscript interpreter required by some PDF programs
 * [**JPortable**](http://portableapps.com/apps/utilities/java_portable) | [**Launcher**](http://portableapps.com/apps/utilities/java_portable_launcher) / run JAR executables portably
 * [**LessMSI**](http://lessmsi.activescott.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) / extracts MSI installers
 * [**SmallestDotNET**](http://smallestdotnet.com/) / to get .NET installed quickly
@@ -40,7 +41,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 **_Portabilisation projects:_**
 * [**PortableApps**](http://portableapps.com/) / [*paf*](http://portableapps.com/development/portableapps.com_format)
-* [**ThumbApps**](http://www.thumbapps.org/) / [*sf*](https://sourceforge.net/projects/thumbapps/)
+* [**ThumbApps**](http://www.thumbapps.org/) / [*sf*](https://sourceforge.net/projects/thumbapps/) / uses PortableApps format
 * [**WinPenPack**](http://www.winpenpack.com/en/index.php)
 * [**yaP**](http://rolandtoth.hu/yaP/) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138)
 
@@ -57,16 +58,16 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*religion*](#religion) | [*stats*](#statistics)
 
 * [*Graphics*](#graphics)
-> [*3d*](#3d) | [*art*](#art) | [*cad*](#cad) | [*pick*](#colour-pickers) | [*raw*](#raw) | [*cap*](#screen-capture) | [*view*](#viewers)
+> [*3d*](#3d) | [*art*](#art) | [*cad*](#cad) | [*pick*](#colour-pickers) | [*gif*](#gif) | [*imgedit*](#image-editors) | [*compress*](#image-compression) | [*raw*](#raw) | [*cap*](#screen-capture) | [*vector*](#vector-editors) | [*view*](#viewers)
 
 * [*Internet*](#internet)
 > [*browse*](#browsers) | [*im*](#instant-messaging) | [*dl*](#download-managers) | [*mail*](#email) | [*torrent*](#torrents) | [*voice*](#voice-chat)
 
 * [*Multimedia*](#multimedia)
-> [*musicplay*](#music-players) | [*pod*](#podcasts) | [*rec*](#screen-recording) | [*videdit*](#video-editors) | [*vidplay*](#video-players)
+> [*conv*](#media-conversion), [*musicplay*](#music-players) | [*pod*](#podcasts) | [*rec*](#screen-recording) | [*tag*](#tagging) | [*videdit*](#video-editors) | [*vidplay*](#video-players)
 
 * [*Office*](#office)
-> [*diary*](#diary) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*proj*](#project-management) | [*suite*](#suites) | [*tex*](#tex) | [*wiki*](#wiki)
+> [*diary*](#diary) | [*dtp*](#desktop-publishing) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*proj*](#project-management) | [*suite*](#suites) | [*tex*](#tex) | [*wiki*](#wiki), [*write*](#writing)
 
 * [*Security*](#security)
 > [*av*](#antivirus) | [*pass*](#passwords) | [*scan*](#scanning)
@@ -91,7 +92,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Text Editors
 * [**Atom**](https://atom.io/) / [*tpfc*](https://www.portablefreeware.com/?id=2793), [*paf*](https://github.com/garethflowers/atom-portable)
-* [**Brackets**](http://brackets.io/) / [*tpfc*](https://github.com/sagiegurari/brackets-portable) / geared toward web development
+* [**Brackets**](http://brackets.io/) / [*tpfc*](https://github.com/sagiegurari/brackets-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Brackets.ini) / geared toward web development
 * [**CuteMarkEd**](https://cloose.github.io/CuteMarkEd/) / [*paf*](http://portableapps.com/apps/office/cutemarked-portable)
 * [**EditBone**](http://www.bonecode.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2706)
 * [**Haroopad**](http://pad.haroopress.com/user.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81239), [*yap*](http://rolandtoth.hu/yaP/#examples/Haroopad.ini)
@@ -100,6 +101,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**RJ TextEd**](http://www.rj-texted.se/) / [*tpfc*](https://www.portablefreeware.com/?id=2206)
 * [**Sublime Text**](https://www.sublimetext.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) / not free, but unlimited evaluation
 * [**SynWrite**](http://www.uvviewsoft.com/synwrite/) / [*tpfc*](https://www.portablefreeware.com/?id=2375)
+* [**TextAdept**](https://foicica.com/textadept/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20636), [*yap*](http://rolandtoth.hu/yaP/#examples/TextAdept.ini)
 * [**Visual Studio Code**](https://code.visualstudio.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82783), [*paf*](https://github.com/garethflowers/vscode-portable)
 
 ## Education
@@ -137,7 +139,12 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Pixia**](http://www.ne.jp/asahi/mighty/knight/) / [*tpfc*](https://www.portablefreeware.com/?id=26)
 
 ### CAD
+
+(add EDAs, eg, KiCAD)
+(add GIS/mapping/geo tools, eg QGIS, Panoply, etc, to separate category?)
+
 * [**OpenSCAD**](http://www.openscad.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=80983), [*yap*](http://rolandtoth.hu/yaP/#examples/OpenSCAD.ini)
+* [**SolveSpace**](http://solvespace.com/index.pl) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=46045), [*yap*](http://rolandtoth.hu/yaP/#examples/SolveSpace.ini)
 * [**Sweet Home 3D**](http://www.sweethome3d.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79756)
 
 ### Colour Pickers
@@ -147,6 +154,18 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Instant Eyedropper**](http://instant-eyedropper.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1856)
 * [**Just Color Picker**](http://annystudio.com/software/colorpicker/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2712)
 * [**Pixie**](http://www.nattyware.com/pixie.php) / [*tpfc*](https://www.portablefreeware.com/?id=1558)
+
+### GIF
+
+(placeholder)
+
+### Image Editors
+* [**GIMP**](https://www.gimp.org/) / [*tpfc*](https://www.portablefreeware.com/?id=644), [*paf*](http://portableapps.com/apps/graphics_pictures/gimp_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.71), [*partha*](http://www.partha.com/)
+* [**PhotoScape**](http://www.photoscape.org/ps/main/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=1339), [*thumb*](http://www.thumbapps.org/2016/05/PhotoScape-photo-editor-portable.html), [*yap*](http://rolandtoth.hu/yaP/#examples/PhotoScape.ini)
+
+### Image Compression
+
+(add RIOT, Romeolight tools, etc)
 
 ### RAW
 * [**Photivo**](http://photivo.org/start) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81038), [*site*](http://photivo.org/download/windows)
@@ -159,6 +178,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Screenshot Captor**](https://www.donationcoder.com/Software/Mouser/screenshotcaptor/) / [*tpfc*](https://www.portablefreeware.com/?id=2412)
 * [**ShareX**](https://getsharex.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2409) / multiple image capture and sharing methods
 * [**Snipaste**](https://www.snipaste.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2801)
+
+### Vector Editors
+* [**Inkscape**](https://inkscape.org/en/) / [*tpfc*](https://www.portablefreeware.com/?id=657), [*paf*](http://portableapps.com/apps/graphics_pictures/inkscape_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.39)
 
 ### Viewers
 * [**Faststone Viewer**](http://faststone.org/FSViewerDetail.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=207)
@@ -187,6 +209,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Email
 * [**Sylpheed**](http://sylpheed.sraoss.jp/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1112), [*paf*](http://portableapps.com/apps/internet/sylpheed-portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1113)
 * [**Mozilla Thunderbird**](https://www.mozilla.org/en-US/thunderbird/) | [**Lightning**](https://addons.mozilla.org/en-US/thunderbird/addon/lightning/) / [*tpfc*](https://www.portablefreeware.com/?id=133), [*paf*](http://portableapps.com/apps/internet/thunderbird_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1277) / Lightning extension adds calendar and to-do list functionality
+* [**Pegasus Mail**](http://www.pmail.com/index.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=422)
 
 ### Instant Messaging
 * [**BeeBEEP**](http://beebeep.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2783) / p2p, no server required / secure file sharing / includes tetris :)
@@ -209,11 +232,18 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [![Microphone](img/microphone.jpg)](https://pixabay.com/en/microphone-mic-mike-voice-audio-1246057/)
 
+### Media Conversion
+* [**fre:ac**](http://www.freac.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=570), [*paf*](http://portableapps.com/apps/music_video/freac_portable)
+* [**LameXP**](http://lamexp.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2094)
+* [**TAudioConverter**](http://taudioconverter.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2556), [*paf*](http://portableapps.com/apps/music_video/taudioconverter-portable)
+
 ### Music Players
 * [**1by1**](http://mpesch3.de1.cc/1by1.html) / [*tpfc*](https://www.portablefreeware.com/?id=90)
 * [**AIMP**](http://www.aimp.ru/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1444), [*paf*](http://portableapps.com/apps/music_video/aimp-portable)
 * [**Audacious**](http://audacious-media-player.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81470), [*yap*](http://rolandtoth.hu/yaP/#examples/Audacious.ini)
 * [**Foobar2000**](http://www.foobar2000.org/) / [*tpfc*](https://www.portablefreeware.com/?id=184)
+* [**Nemp**](http://www.gausi.de/nemp-en.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2170)
+* [**Winyl**](http://vinylsoft.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2110)
 
 ### Podcasts
 * [**gPodder**](http://gpodder.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1673), [*paf*](http://portableapps.com/apps/internet/gpodder_portable)
@@ -221,6 +251,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Screen Recording
 * [**OBS**](https://obsproject.com) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=80343), [*paf*](http://portableapps.com/node/53266), [*thumb*](http://www.thumbapps.org/2015/08/OBS-Open-Broadcaster-Software-32-64-bit-portable.html), [*obs*](https://obsproject.com/forum/resources/obs-and-obs-studio-portable-mode-on-windows.359/)
 * [**oCam**](http://ohsoft.net/eng/ocam/download.php) / [*yap*](http://rolandtoth.hu/yaP/#examples/oCam.ini)
+
+### Tagging
+* [**Mp3tag**](http://www.mp3tag.de/en/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1137)
+* [**TagScanner**](http://www.xdlab.ru/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1427)
 
 ### Video Editors
 * [**Shotcut**](https://www.shotcut.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84320), [*site*](https://www.shotcut.org/blog/portable-app/)
@@ -243,10 +277,17 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Diary
 * [**RedNotebook**](http://rednotebook.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2086), [*paf*](http://portableapps.com/apps/office/rednotebook_portable)
 
+### Desktop Publishing
+* [**Scribus**](https://www.scribus.net/) / [*tpfc*](https://www.portablefreeware.com/?id=658), [*paf*](http://portableapps.com/apps/office/scribus_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1325), [*sf*](https://sourceforge.net/projects/portablescribus/) / requires Ghostscript Portable for PDF functionality
+
 ### Document Viewers
 * [**Evince**](https://wiki.gnome.org/Apps/Evince) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84294), [*paf*](http://portableapps.com/apps/office/evince_portable)
+* [**Foxit Reader**](https://www.foxitsoftware.com/products/pdf-reader/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1041), [*paf*](http://portableapps.com/apps/office/foxit_reader_portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Foxit%20Reader.ini)
+* [**PDF-XChange Editor**](https://www.tracker-software.com/product/pdf-xchange-editor) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2832) / Pro version available with more features
+* [**PDF-XChange Viewer**](https://www.tracker-software.com/product/pdf-xchange-viewer) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1436), [*paf*](http://portableapps.com/apps/office/pdf-xchange-portable) / OCR plugin and PDF help files available / last version is `v2.5.319.0` / superceded by PDF-XChange Editor / Pro version features can be unlocked with serials from other Tracker products
 * [**STDU Viewer**](http://www.stdutility.com/stduviewer.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2045)
 * [**SumatraPDF**](http://www.sumatrapdfreader.org/free-pdf-reader.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1193), [*paf*](http://portableapps.com/apps/office/sumatra_pdf_portable)
+* [**WinDJView**](http://windjview.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=10115), [*paf*](http://portableapps.com/apps/office/windjview_portable), [*yap*](http://rolandtoth.hu/yaP/#examples/WinDjView.ini)
 
 ### Notetaking
 * [**Cherrytree**](http://www.giuspen.com/cherrytree/) / [*tpfc*](https://www.portablefreeware.com/?id=2790), [*paf*](http://portableapps.com/apps/office/cherrytree-portable)
@@ -279,6 +320,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**TiddlyWiki**](http://tiddlywiki.com/) | [**Classic**](http://classic.tiddlywiki.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2031), [*git*](https://github.com/Jermolene/TiddlyWiki5) / single HTML opened with a browser / not a program, per se, but certainly portable
 * [**WikidPad**](http://wikidpad.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1099), [*site*](http://wikidpad.sourceforge.net/help/ConfigurationFiles.html)
 * [**Zim**](http://www.zim-wiki.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=56775), [*paf*](http://portableapps.com/node/29350), [*site*](http://www.glump.net/software/zim-windows) / PAF available from dev
+
+### Writing
+* [**FocusWriter**](https://gottcode.org/focuswriter/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2064), [*paf*](http://portableapps.com/apps/office/focuswriter_portable)
+* [**Q10**](http://www.baara.com/q10/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1381) / last updated 2011
+* [**WriteMonkey**](http://writemonkey.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1627), [*forum*](https://www.portablefreeware.com/forums/viewtopic.php?f=20&t=7231&hilit=writemonkey), [*thumb*](http://www.thumbapps.org/2016/08/WriteMonkey-portable-text-editor-writing-application.html)
 
 ## Security
 
@@ -323,7 +369,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**SpeedCrunch**](http://speedcrunch.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1547), [*paf*](http://portableapps.com/apps/office/speedcrunch_portable)
 
 ### Characters
-* [**BabelMap**](http://www.babelstone.co.uk/Software/BabelMap.html) / [*tpfc*](https://www.portablefreeware.com/?id=2352), [*paf*](http://portableapps.com/apps/utilities/babelmap-portable)
+* [**BabelMap**](http://www.babelstone.co.uk/Software/BabelMap.html) / [*tpfc*](https://www.portablefreeware.com/?id=2352), [*paf*](http://portableapps.com/apps/utilities/babelmap-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/BabelMap.ini)
 * [**BabelPad**](http://www.babelstone.co.uk/Software/BabelPad.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=57921), [*paf*](http://portableapps.com/apps/office/babelpad-portable)
 * [**WinCompose**](https://github.com/SamHocevar/wincompose) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2615)
 
