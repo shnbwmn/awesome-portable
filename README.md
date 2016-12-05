@@ -55,7 +55,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*res*](#resource-editors) | [*source*](#source-control) | [*text*](#text-editors)
 
 * [*Education*](#education)
-> [*geo*](#geography), [*religion*](#religion) | [*stats*](#statistics)
+> [*geo*](#geography) | [*religion*](#religion) | [*stats*](#statistics)
 
 * [*Graphics*](#graphics)
 > [*3d*](#3d) | [*animate*](#animation) | [*art*](#art) | [*cad*](#cad) | [*pick*](#colour-pickers) | [*gif*](#gif) | [*imgedit*](#image-editors) | [*compress*](#image-compression) | [*raw*](#raw) | [*cap*](#screen-capture) | [*vector*](#vector-editors) | [*view*](#viewers)
@@ -138,7 +138,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**MagicaVoxel**](https://ephtracy.github.io/index.html?page=mv_main) | [**Viewer**](https://ephtracy.github.io/index.html?page=mv_renderer) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84300)
 
 ### Animation
-* [**OpenToonz**](https://opentoonz.github.io/e/) / [*paf*](https://github.com/turtletooth/OpenToonzPortable), [*git*](https://github.com/opentoonz) GTS, a scanning program, and a set of Dwango effect plugins are available from the main site
+* [**OpenToonz**](https://opentoonz.github.io/e/) / [*paf*](https://github.com/turtletooth/OpenToonzPortable), [*git*](https://github.com/opentoonz) / GTS, a scanning program, and a set of Dwango effect plugins are available from the main site
 
 ### Art
 * [**Krita**](https://krita.org/en/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82550), [*paf*](http://portableapps.com/apps/graphics_pictures/krita-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Krita.ini), [*thumb*](http://www.thumbapps.org/2016/05/Krita-digital-painting-32-64-bit-portable.html) / yaP launcher, as well as `KDEHOME` method, works with Krita versions up to `2.9.11` / best to use the PAF for `3.0` onwards
