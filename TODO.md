@@ -56,6 +56,13 @@ https://www.portablefreeware.com/forums/viewtopic.php?p=56075
 http://alternativeto.net/software/bookstack/ (the wiki stuff listed there)
 bookstack/mediawiki, etc: include if can be used via portable server??
 
+18. https://www.cygwin.com/ (search cygwin portable)
+https://github.com/GathSystems/CygwinPortable
+http://gerbv.geda-project.org/
+http://www.cybercircuits.co.nz/web/GerbVPortable
+https://www.zofzpcb.com/
+https://sourceforge.net/directory/science-engineering/eda/os:windows/
+
 ## Done
 
 <s>Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
