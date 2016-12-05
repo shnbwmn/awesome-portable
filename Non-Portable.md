@@ -37,7 +37,7 @@ https://chocolatey.org/packages/GitHub
 ## Internet
 
 ### Voice Chat
-* [**Discord**](https://discordapp.com/) / has web interface as well
+* [**Discord**](https://discordapp.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=1&t=22538&p=84334) / has web interface as well
 
 ## Multimedia
 
