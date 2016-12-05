@@ -70,7 +70,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*diary*](#diary) | [*dtp*](#desktop-publishing) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*proj*](#project-management) | [*suite*](#suites) | [*tex*](#tex) | [*wiki*](#wiki), [*write*](#writing)
 
 * [*Security*](#security)
-> [*av*](#antivirus) | [*pass*](#passwords) | [*scan*](#scanning)
+> [*av*](#antivirus) | [*pw*](#passwords) | [*scan*](#scanning)
 
 * [*Utilities*](#utilities)
 > [*arch*](#archivers) | [*automate*](#automation) | [*backup*](#backup) | [*calc*](#calculators) | [*char*](#characters) | [*clip*](#clipboard) | [*fileman*](#file-managers) | [*font*](#fonts) | [*launch*](#launchers) | [*proc*](#processes) | [*reg*](#registry) | [*search*](#search) | [*time*](#time)
