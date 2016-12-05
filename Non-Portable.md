@@ -28,6 +28,7 @@
 
 ### RAW
 * [**Darktable**](http://www.darktable.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82210), [*partha*](http://www.partha.com/), [*git*](https://github.com/jibaer/darktable/tree/darktable-2.0.x-win) / Partha's last Win build was `2.0` :(
+* [**LightZone**](http://lightzoneproject.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=80727) / EXE writes to registry / JARs don't run under JPortable, at least in my testing
 
 ## Internet
 
