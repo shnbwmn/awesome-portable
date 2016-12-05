@@ -12,6 +12,7 @@
 
 ### Geography
 * [**Google Earth**](https://www.google.com/earth/) | [**Pro**](https://www.google.co.za/earth/explore/products/desktop.html) / [*digtrend*](http://www.digitaltrends.com/computing/how-to-get-google-earth-pro-for-free/) / Pro is now free / Key: `GEPFREE`
+* [**Grass GIS**](https://grass.osgeo.org/download/software/ms-windows/) / last time I tried this, it wasn't very portable
 
 ### Religion
 * [**BibleTime**](http://bibletime.info/) / can extract installer, however EXE won't start
