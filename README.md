@@ -22,8 +22,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Stealth:**](https://www.portablefreeware.com/faq.php#stealth) no registry or filesystem items left on the host PC after program exit / ideal
 
 **_Testing for portability:_**
-* [**Windows portability testing environment**](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
-* [**Portable testing process**](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=7718) | [**v2**](https://www.portablefreeware.com/forums/viewtopic.php?p=82375#p82375)
+
+[*methods*](https://www.portablefreeware.com/forums/viewtopic.php?t=21885), [*mindmap*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=7718), [*v2*](https://www.portablefreeware.com/forums/viewtopic.php?p=82375#p82375)
+
 * [**Dependency Walker**](http://www.dependencywalker.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28309), [*thumb*](http://www.thumbapps.org/2015/03/Dependency-Walker-Depends-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Development/Dependency%20Walker/), [*wiki*](https://en.wikipedia.org/wiki/Dependency_Walker) / also known as *depends.exe*
 * [**Primo**](http://members.tripod.com/~randy_hall/download.htm) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=8164)
 * [**Process Monitor**](https://technet.microsoft.com/en-us/sysinternals/processmonitor.aspx) / [*tpfc*](https://www.portablefreeware.com/?id=1033), [*paf*](http://portableapps.com/apps/utilities/process-monitor-portable) / see all registry | filesystem writes in real-time
