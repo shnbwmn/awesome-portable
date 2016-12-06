@@ -55,7 +55,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ## Contents
 
 * [*Development*](#development)
-> [*res*](#resource-editors) | [*source*](#source-control) | [*text*](#text-editors)
+> [*res*](#resource-editors) | [*server*](#server) | [*source*](#source-control) | [*text*](#text-editors)
 
 * [*Education*](#education)
 > [*geo*](#geography) | [*religion*](#religion) | [*stats*](#statistics)
@@ -64,7 +64,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*3d*](#3d) | [*animate*](#animation) | [*art*](#art) | [*cad*](#cad) | [*pick*](#colour-pickers) | [*gif*](#gif) | [*imgedit*](#image-editors) | [*compress*](#image-compression) | [*raw*](#raw) | [*cap*](#screen-capture) | [*vector*](#vector-editors) | [*view*](#viewers)
 
 * [*Internet*](#internet)
-> [*browse*](#browsers) | [*im*](#instant-messaging) | [*dl*](#download-managers) | [*mail*](#email) | [*ftp*](#ftp) | [*torrent*](#torrents) | [*voice*](#voice-chat)
+> [*browse*](#browsers) | [*dl*](#download-managers) | [*mail*](#email) | [*ftp*](#ftp) | [*im*](#instant-messaging) | [*torrent*](#torrents) | [*voice*](#voice-chat)
 
 * [*Multimedia*](#multimedia)
 > [*conv*](#media-conversion) | [*musicplay*](#music-players) | [*pod*](#podcasts) | [*rec*](#screen-recording) | [*tag*](#tagging) | [*videdit*](#video-editors) | [*vidplay*](#video-players)
@@ -88,6 +88,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**ResEdit**](http://www.resedit.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1675) 
 * [**Resource Hacker**](http://www.angusj.com/resourcehacker/) / [*tpfc*](https://www.portablefreeware.com/?id=289)
 * [**XN Resource Editor**](https://stefansundin.github.io/xn_resource_editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=407), [*paf*](http://portableapps.com/apps/utilities/xn_resource_editor_portable)
+
+### Server
+* [**EasyPHP**](http://www.easyphp.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2144), [*pen*](https://pendriveapps.com/easyphp-portable-wamp-web-server/) / available as Devserver and Webserver variants
+* [**Laragon**](https://laragon.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82528), [*sf*](https://sourceforge.net/projects/laragon/), [*forum*](https://forum.laragon.org/), [*laravel*](https://laravel.com/) / focuses on Laravel PHP framework for webdev / available a smaller Lite version
+* [**Neard**](https://github.com/crazy-max/neard) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82512) / very large in size / requires admin rights
+* [**Uniform Server**](http://www.uniformserver.com/) / [*tpfc*](https://www.portablefreeware.com/?id=396), [*sf*](https://sourceforge.net/projects/miniserver/)
+* [**XAMPP**](https://www.apachefriends.org/index.html) / [*tpfc*](https://www.portablefreeware.com/?id=1069), [*paf*](http://portableapps.com/apps/development/xampp), [*pen*](https://pendriveapps.com/xampp-portable-web-server/), [*sf*](https://sourceforge.net/projects/xampp/) / place at the root of the drive
 
 ### Source Control
 * [**Git**](https://git-scm.com/) | [**For Windows**](https://git-for-windows.github.io/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=66571), [*paf*](https://github.com/sheabunge/GitPortable)
@@ -330,6 +337,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**TeXstudio**](http://www.texstudio.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=76798), [*paf*](http://portableapps.com/node/53350)
 
 ### Wiki
+
+[*mediawiki*](https://www.mediawiki.org/wiki/Manual:Wiki_on_a_stick)
+
 * [**DokuWiki**](https://www.dokuwiki.org/dokuwiki#) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83274), [*site*](https://www.dokuwiki.org/install:dokuwiki_on_a_stick) / self-hosted wiki software run on a portable MicroApache server
 * [**TiddlyWiki**](http://tiddlywiki.com/) | [**Classic**](http://classic.tiddlywiki.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2031), [*git*](https://github.com/Jermolene/TiddlyWiki5) / single HTML opened with a browser / not a program, per se, but certainly portable
 * [**WikidPad**](http://wikidpad.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1099), [*site*](http://wikidpad.sourceforge.net/help/ConfigurationFiles.html)
