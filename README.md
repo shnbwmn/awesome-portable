@@ -64,7 +64,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*3d*](#3d) | [*animate*](#animation) | [*art*](#art) | [*cad*](#cad) | [*pick*](#colour-pickers) | [*gif*](#gif) | [*imgedit*](#image-editors) | [*compress*](#image-compression) | [*raw*](#raw) | [*cap*](#screen-capture) | [*vector*](#vector-editors) | [*view*](#viewers)
 
 * [*Internet*](#internet)
-> [*browse*](#browsers) | [*im*](#instant-messaging) | [*dl*](#download-managers) | [*mail*](#email) | [*torrent*](#torrents) | [*voice*](#voice-chat)
+> [*browse*](#browsers) | [*im*](#instant-messaging) | [*dl*](#download-managers) | [*mail*](#email) | [*ftp*](#ftp) | [*torrent*](#torrents) | [*voice*](#voice-chat)
 
 * [*Multimedia*](#multimedia)
 > [*conv*](#media-conversion) | [*musicplay*](#music-players) | [*pod*](#podcasts) | [*rec*](#screen-recording) | [*tag*](#tagging) | [*videdit*](#video-editors) | [*vidplay*](#video-players)
@@ -218,6 +218,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Sylpheed**](http://sylpheed.sraoss.jp/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1112), [*paf*](http://portableapps.com/apps/internet/sylpheed-portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1113)
 * [**Mozilla Thunderbird**](https://www.mozilla.org/en-US/thunderbird/) | [**Lightning**](https://addons.mozilla.org/en-US/thunderbird/addon/lightning/) / [*tpfc*](https://www.portablefreeware.com/?id=133), [*paf*](http://portableapps.com/apps/internet/thunderbird_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1277) / Lightning extension adds calendar and to-do list functionality
 * [**Pegasus Mail**](http://www.pmail.com/index.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=422)
+
+### FTP
+* [**Bitvise SSH Client**](https://www.bitvise.com/ssh-client) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1982) / formerly *Tunnelier*
+* [**FileZilla**](https://filezilla-project.org/) | [**Secure**](http://www.filezillasecure.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=9), [*paf*](http://portableapps.com/apps/internet/filezilla_portable), [*wpp*](http://www.winpenpack.com/main/download.php?view.717), [*secure*](https://www.portablefreeware.com/forums/viewtopic.php?p=83983#p83983) / FileZilla Server can be used portably via portable servers like XAMPP or Neard / FileZilla Secure is a forked version with password encryption, however its portability status is murky
+* [**WinSCP**](https://winscp.net/eng/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=214), [*paf*](http://portableapps.com/apps/internet/winscp_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.569) / PortableApps version integrates with PuTTY Portable
 
 ### Instant Messaging
 * [**BeeBEEP**](http://beebeep.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2783) / p2p, no server required / secure file sharing / includes tetris :)
