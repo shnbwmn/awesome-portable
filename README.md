@@ -70,7 +70,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*conv*](#media-conversion) | [*musicplay*](#music-players) | [*pod*](#podcasts) | [*rec*](#screen-recording) | [*tag*](#tagging) | [*videdit*](#video-editors) | [*vidplay*](#video-players)
 
 * [*Office*](#office)
-> [*diary*](#diary) | [*dtp*](#desktop-publishing) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*proj*](#project-management) | [*suite*](#suites) | [*tex*](#tex) | [*wiki*](#wiki), [*write*](#writing)
+> [*diary*](#diary) | [*dtp*](#desktop-publishing) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*proj*](#project-management) | [*suite*](#suites) | [*tex*](#tex) | [*wiki*](#wiki) | [*write*](#writing)
 
 * [*Security*](#security)
 > [*av*](#antivirus) | [*pw*](#passwords) | [*scan*](#scanning)
@@ -91,7 +91,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Server
 * [**EasyPHP**](http://www.easyphp.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2144), [*pen*](https://pendriveapps.com/easyphp-portable-wamp-web-server/) / available as Devserver and Webserver variants
-* [**Laragon**](https://laragon.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82528), [*sf*](https://sourceforge.net/projects/laragon/), [*forum*](https://forum.laragon.org/), [*laravel*](https://laravel.com/) / focuses on Laravel PHP framework for webdev / available a smaller Lite version
+* [**Laragon**](https://laragon.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82528), [*sf*](https://sourceforge.net/projects/laragon/), [*forum*](https://forum.laragon.org/), [*laravel*](https://laravel.com/) / focuses on Laravel PHP framework for webdev / available as stripped-down Lite version
 * [**Neard**](https://github.com/crazy-max/neard) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82512) / very large in size / requires admin rights
 * [**Uniform Server**](http://www.uniformserver.com/) / [*tpfc*](https://www.portablefreeware.com/?id=396), [*sf*](https://sourceforge.net/projects/miniserver/)
 * [**XAMPP**](https://www.apachefriends.org/index.html) / [*tpfc*](https://www.portablefreeware.com/?id=1069), [*paf*](http://portableapps.com/apps/development/xampp), [*pen*](https://pendriveapps.com/xampp-portable-web-server/), [*sf*](https://sourceforge.net/projects/xampp/) / place at the root of the drive
