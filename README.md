@@ -22,9 +22,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Stealth:**](https://www.portablefreeware.com/faq.php#stealth) no registry or filesystem items left on the host PC after program exit / ideal
 
 **_Testing for portability:_**
-* [Windows portability testing environment](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
+* [**Windows portability testing environment**](https://www.portablefreeware.com/forums/viewtopic.php?t=21885)
+* [**Portable testing process**](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=7718) | [**v2**](https://www.portablefreeware.com/forums/viewtopic.php?p=82375#p82375)
 * [**Dependency Walker**](http://www.dependencywalker.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28309), [*thumb*](http://www.thumbapps.org/2015/03/Dependency-Walker-Depends-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Development/Dependency%20Walker/), [*wiki*](https://en.wikipedia.org/wiki/Dependency_Walker) / also known as *depends.exe*
 * [**Primo**](http://members.tripod.com/~randy_hall/download.htm) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=8164)
+* [**Process Monitor**](https://technet.microsoft.com/en-us/sysinternals/processmonitor.aspx) / [*tpfc*](https://www.portablefreeware.com/?id=1033), [*paf*](http://portableapps.com/apps/utilities/process-monitor-portable) / see all registry | filesystem writes in real-time
 * [**Registry Viewer**](http://www.gaijin.at/en/dlregview.php) / [*tpfc*](https://www.portablefreeware.com/?id=1657) / view RegHives, eg, from Sandboxie
 * [**Sandboxie**](http://www.sandboxie.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) / isolate a running program to show files | registry entries created / install programs requiring installation inside a sandbox / my main testing tool / requires admin rights
 * [**Virtualbox**](https://www.virtualbox.org/) / [*vbox*](http://www.vbox.me/) / run programs in a clean Windows installation to check for dependencies / requires admin rights
@@ -409,6 +411,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**XVA Assistant**](http://www.idesktop.me/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83028)
 
 ### Processes
+* [**DTaskManager**](http://dimio.altervista.org/eng/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=944), [*paf*](http://portableapps.com/apps/utilities/dtaskmanager_portable)
 * [**Process Explorer**](https://technet.microsoft.com/en-us/sysinternals/bb896653) / [*tpfc*](https://www.portablefreeware.com/index.php?id=32), [*paf*](http://portableapps.com/apps/utilities/process-explorer-portable)
 * [**Process Hacker**](https://wj32.org/processhacker/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1934), [*paf*](http://portableapps.com/apps/utilities/process-hacker-portable)
 * [**System Explorer**](http://systemexplorer.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1491), [*paf*](http://portableapps.com/apps/utilities/system_explorer_portable) / many advanced features
