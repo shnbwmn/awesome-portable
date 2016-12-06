@@ -76,7 +76,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*av*](#antivirus) | [*pw*](#passwords) | [*scan*](#scanning)
 
 * [*Utilities*](#utilities)
-> [*arch*](#archivers) | [*automate*](#automation) | [*backup*](#backup) | [*calc*](#calculators) | [*char*](#characters) | [*clip*](#clipboard) | [*fileman*](#file-managers) | [*font*](#fonts) | [*launch*](#launchers) | [*proc*](#processes) | [*reg*](#registry) | [*search*](#search) | [*time*](#time)
+> [*arch*](#archivers) | [*automate*](#automation) | [*backup*](#backup) | [*calc*](#calculators) | [*char*](#characters) | [*clip*](#clipboard) | [*fileman*](#file-managers) | [*font*](#fonts) | [*launch*](#launchers) | [*proc*](#processes) | [*reg*](#registry) | [*ren*](#renamers) | [*search*](#search) | [*time*](#time)
 
 ## Development
 
