@@ -45,7 +45,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 **_Portabilisation projects:_**
 * [**PortableApps**](http://portableapps.com/) / [*paf*](http://portableapps.com/development/portableapps.com_format)
 * [**ThumbApps**](http://www.thumbapps.org/) / [*sf*](https://sourceforge.net/projects/thumbapps/) / uses PortableApps format
-* [**WinPenPack**](http://www.winpenpack.com/en/index.php)
+* [**winPenPack**](http://www.winpenpack.com/en/index.php)
 * [**yaP**](http://rolandtoth.hu/yaP/) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138)
 
 **_Collections:_**
@@ -55,6 +55,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**LiberKey**](http://www.liberkey.com/en.html) / [*tpfc*](https://www.portablefreeware.com/?id=2306)
 * [**LupoPenSuite**](http://www.lupopensuite.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=78512)
 * [**PortableApps Platform**](http://portableapps.com/download) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1056)
+* [**winPenPack Net Menu**](http://www.winpenpack.com/en/download.php?view.1303) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2264)
 
 **_Sites:_**
 * [**TPFC**](http://www.portablefreeware.com/) / [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4), [*res*](https://www.portablefreeware.com/resources.php)
@@ -425,7 +426,12 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**NexusFont**](http://www.xiles.net/) / [*tpfc*](https://www.portablefreeware.com/?id=731)
 
 ### Launchers
+
+[*collections*](#awesome-portable-)
+
+* [**ASuite**](http://www.salvadorsoftware.com/asuite) / [*tpfc*](https://www.portablefreeware.com/?id=692)
 * [**FARR**](https://www.donationcoder.com/Software/Mouser/findrun/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
+* [**PStart**](http://www.pegtop.net/start/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=374) / last updated 2007 / check out ASuite for an up-to-date alternative
 * [**Qsel**](http://www.horstmuc.de/wqsel.htm) / [*tpfc*](https://www.portablefreeware.com/?id=1133)
 * [**Quick Access Popup**](http://www.quickaccesspopup.com/) | [**Folders Popup**](http://code.jeanlalonde.ca/folderspopup/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2765), [*fp*](https://www.portablefreeware.com/?id=2557) / QAP supercedes Folders Popup / created with AHK
 * [**SyMenu**](http://www.ugmfree.it/) / [*tpfc*](https://www.portablefreeware.com/?id=2394)
