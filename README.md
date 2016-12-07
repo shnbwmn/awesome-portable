@@ -360,7 +360,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**ClamWin**](http://www.clamwin.com/) | [**Sentinel**](http://clamsentinel.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=601), [*paf*](http://portableapps.com/apps/security/clamwin_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.38), [*site*](http://www.clamwin.com/content/view/118/89/) / not as good as commercial, closed-source av solutions / ClamSentinel adds real-time scanning capability
 
 ### Passwords
-* [**KeePass**](http://keepass.info/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2829), [*classic*](https://www.portablefreeware.com/index.php?id=194), [*paf*](http://portableapps.com/apps/utilities/keepass_portable)
+* [**KeePass**](http://keepass.info/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2829), [*classic*](https://www.portablefreeware.com/index.php?id=194), [*paf*](http://portableapps.com/apps/utilities/keepass_portable) / KeePass "Professional" is a rewrite of version 1 with more features and a .NET 2 requirement / both versions are free, open source and actively maintained
 * [**Password Safe**](https://pwsafe.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1197), [*paf*](http://portableapps.com/apps/security/password-safe-portable)
 
 ### Scanning
@@ -441,6 +441,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Bulk Rename Utility**](http://www.bulkrenameutility.co.uk/) | [**Command**](http://www.bulkrenameutility.co.uk/Command.php) / [*tpfc*](https://www.portablefreeware.com/?id=1008)
 * [**Lupas Rename**](http://rename.lupasfreeware.org/lupasrename.php) / [*tpfc*](https://www.portablefreeware.com/?id=47) / last updated 2005
 * [**Rename Master**](http://www.joejoesoft.com/vcms/108/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=269)
+* [**ReNamer**](http://www.den4b.com/products/renamer) / [*tpfc*](https://www.portablefreeware.com/index.php?id=562), [*5.71*](http://download.cnet.com/ReNamer-Portable/3000-2248_4-75894242.html) / versions after `5.71` are crippleware, with a max of 5 presets and 5 rules
 
 ### Search
 * [**Everything**](http://www.voidtools.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1479)
