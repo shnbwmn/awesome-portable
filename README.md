@@ -64,7 +64,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ## Contents
 
 * [*Development*](#development)
-> [*ide*](#ides), [*res*](#resource-editors) | [*server*](#server) | [*source*](#source-control) | [*text*](#text-editors)
+> [*ide*](#ides) | [*res*](#resource-editors) | [*server*](#server) | [*source*](#source-control) | [*text*](#text-editors)
 
 * [*Education*](#education)
 > [*geo*](#geography) | [*religion*](#religion) | [*stats*](#statistics)
