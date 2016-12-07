@@ -438,7 +438,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Renamers
 * [**Advanced Renamer**](https://www.advancedrenamer.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1848)
 * [**Ant Renamer**](http://www.antp.be/software/renamer) / [*tpfc*](https://www.portablefreeware.com/index.php?id=66), [*paf*](http://portableapps.com/apps/utilities/ant_renamer_portable)
-* [**Bulk Rename Utility**](http://www.bulkrenameutility.co.uk/) / [*tpfc*](https://www.portablefreeware.com/?id=1008)
+* [**Bulk Rename Utility**](http://www.bulkrenameutility.co.uk/) | [**Command**](http://www.bulkrenameutility.co.uk/Command.php) / [*tpfc*](https://www.portablefreeware.com/?id=1008)
 * [**Lupas Rename**](http://rename.lupasfreeware.org/lupasrename.php) / [*tpfc*](https://www.portablefreeware.com/?id=47) / last updated 2005
 * [**Rename Master**](http://www.joejoesoft.com/vcms/108/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=269)
 
