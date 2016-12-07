@@ -64,7 +64,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ## Contents
 
 * [*Development*](#development)
-> [*res*](#resource-editors) | [*server*](#server) | [*source*](#source-control) | [*text*](#text-editors)
+> [*ide*](#ides), [*res*](#resource-editors) | [*server*](#server) | [*source*](#source-control) | [*text*](#text-editors)
 
 * [*Education*](#education)
 > [*geo*](#geography) | [*religion*](#religion) | [*stats*](#statistics)
@@ -92,6 +92,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*contents*](#contents), [*top*](#awesome-portable-)
 
 [![Computer](img/computer.jpg)](https://pixabay.com/en/computer-computer-keyboard-gaming-1844996/)
+
+### IDEs
+* [**Geany**](https://www.geany.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=7645), [*paf*](http://portableapps.com/apps/development/geany_portable), [*sf*](https://sourceforge.net/projects/geanyportable/) / actually a text editor with basic IDE features
 
 ### Resource Editors
 * [**ResEdit**](http://www.resedit.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1675) 
