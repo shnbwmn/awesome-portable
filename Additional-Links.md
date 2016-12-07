@@ -8,7 +8,7 @@
 * [**Brackets portable build request**](https://trello.com/c/sHyY0KlB/1003-portable-build) - nice short description
 
 **_Collections:_**
-* [**Wininizio PenSuite**](http://pensuite.wininizio.it/eng/) / seems outdated and not worth including
+* [**WinInizio PenSuite**](http://pensuite.wininizio.it/eng/) / seems outdated and not worth including
 
 ### Development
 
