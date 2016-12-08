@@ -118,7 +118,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**CuteMarkEd**](https://cloose.github.io/CuteMarkEd/) / [*paf*](http://portableapps.com/apps/office/cutemarked-portable)
 * [**EditBone**](http://www.bonecode.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2706)
 * [**Haroopad**](http://pad.haroopress.com/user.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81239), [*yap*](http://rolandtoth.hu/yaP/#examples/Haroopad.ini)
-* [**MarkdownEdit**](http://markdownedit.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81353)
+* [**Komodo Edit**](http://www.activestate.com/komodo-edit) / [*paf*](https://sourceforge.net/projects/askomodoeditpaf/), [*yap*](http://rolandtoth.hu/yaP/#examples/Komodo%20Edit%209.3.ini), [*thumb*](http://www.thumbapps.org/2016/05/Komodo-Edit-text-editor-portable.html), [*site*](http://community.komodoide.com/t/is-there-a-portable-version-of-komodoedit/695)
+* [**MarkdownEdit**](http://markdownedit.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81353), [*thumb*](http://www.thumbapps.org/2016/08/Markdown-Edit-portable-mardown-text-editor.html)
 * [**Notepad++**](https://notepad-plus-plus.org/) / [*tpfc*](https://www.portablefreeware.com/?id=539), [*paf*](http://portableapps.com/apps/development/notepadpp_portable)
 * [**RJ TextEd**](http://www.rj-texted.se/) / [*tpfc*](https://www.portablefreeware.com/?id=2206)
 * [**Sublime Text**](https://www.sublimetext.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) / not free, but unlimited evaluation
@@ -434,9 +435,15 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 * [**ASuite**](http://www.salvadorsoftware.com/asuite) / [*tpfc*](https://www.portablefreeware.com/?id=692)
 * [**FARR**](https://www.donationcoder.com/Software/Mouser/findrun/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
+* [**Executor**](http://www.1space.dk/executor/) | [**Alt**](http://executor.dk/) / [*tpfc*](https://www.portablefreeware.com/?id=1308)
+* [**KeyPirinha**](http://keypirinha.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81346), [*docs*](http://keypirinha.com/install.html)
+* [**PopSel**](http://www.horstmuc.de/wpop.htm) / [*tpfc*](https://www.portablefreeware.com/?id=2679)
+* [**Portable Start Menu**](http://www.aignes.com/psmenu.htm)/ [*tpfc*](https://www.portablefreeware.com/?id=1365)
 * [**PStart**](http://www.pegtop.net/start/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=374) / last updated 2007 / check out ASuite for an up-to-date alternative
 * [**Qsel**](http://www.horstmuc.de/wqsel.htm) / [*tpfc*](https://www.portablefreeware.com/?id=1133)
 * [**Quick Access Popup**](http://www.quickaccesspopup.com/) | [**Folders Popup**](http://code.jeanlalonde.ca/folderspopup/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2765), [*fp*](https://www.portablefreeware.com/?id=2557) / QAP supercedes Folders Popup / created with AHK
+* [**Run-Command**](http://www.softwareok.com/?seite=Microsoft/Run-Command) / [*tpfc*](https://www.portablefreeware.com/?id=2402)
+* [**SideSlide**](http://www.northglide.com/sideslide.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1409)
 * [**SyMenu**](http://www.ugmfree.it/) / [*tpfc*](https://www.portablefreeware.com/?id=2394)
 * [**XVA Assistant**](http://www.idesktop.me/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83028)
 
