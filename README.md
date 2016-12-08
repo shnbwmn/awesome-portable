@@ -251,6 +251,12 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**qTox**](https://qtox.github.io/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2755)
 * [**RetroShare**](http://retroshare.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2353) / includes secure p2p file sharing
 
+### RSS
+
+(add QuiteRSS, RSSOwl[?], etc)
+
+http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-reader-after-a-year/
+
 ### Torrents
 * [**PicoTorrent**](http://www.picotorrent.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79128)
 * [**qBittorrent**](http://qbittorrent.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2406), [*paf*](http://portableapps.com/apps/internet/qbittorrent_portable)
