@@ -22,5 +22,11 @@
 ### DJ
 * [**Mixxx**](http://www.mixxx.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=16222), [*paf*](https://github.com/GordCaswell/mixxxportable)
 
+## Utilities
+
+### Launchers
+* [**LaunchQ**](https://avi-win-tips.blogspot.co.za/2013/05/launchq.html) / [*ahk*](https://autohotkey.com/board/topic/93383-launchq-productive-all-in-one-launcher/) / made in AHK / not that nice looking, and functionality is common in other launchers
+* [**Radial Menu**](https://autohotkey.com/boards/viewtopic.php?f=6&t=12078) / seems to only exit as AHK script / test out
+
 
 
