@@ -439,7 +439,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**KeyPirinha**](http://keypirinha.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81346), [*docs*](http://keypirinha.com/install.html)
 * [**PopSel**](http://www.horstmuc.de/wpop.htm) / [*tpfc*](https://www.portablefreeware.com/?id=2679)
 * [**Portable Start Menu**](http://www.aignes.com/psmenu.htm)/ [*tpfc*](https://www.portablefreeware.com/?id=1365)
-* [**PStart**](http://www.pegtop.net/start/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=374) / last updated 2007 / check out ASuite for an up-to-date alternative
+* [**PStart**](http://www.pegtop.net/start/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=374) / last updated 2007 / check out ASuite for a more up-to-date alternative
 * [**Qsel**](http://www.horstmuc.de/wqsel.htm) / [*tpfc*](https://www.portablefreeware.com/?id=1133)
 * [**Quick Access Popup**](http://www.quickaccesspopup.com/) | [**Folders Popup**](http://code.jeanlalonde.ca/folderspopup/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2765), [*fp*](https://www.portablefreeware.com/?id=2557) / QAP supercedes Folders Popup / created with AHK
 * [**Run-Command**](http://www.softwareok.com/?seite=Microsoft/Run-Command) / [*tpfc*](https://www.portablefreeware.com/?id=2402)
