@@ -52,7 +52,15 @@
 ### Writing
 * [**Dark Room**](http://jjafuller.com/dark-room) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83620) / pops up an unhandled exception error when deleting `user.config` in Local AppData even though local settings cache was enabled in prefs / NB: requires further testing in Virtualbox
 
-## Utilities
+## Security
 
 ### Passwords
 * [**KeePassX**](https://www.keepassx.org/) / [*forum*](https://forum.keepassx.org/viewtopic.php?t=2336), [*paf*](http://portableapps.com/node/16355) / no luck on -cfg parameter / can use paf of keepass 1, however need to change all keepass lines to keepassx / need to add cleanup of Local AppData folder
+
+## Utilities
+
+### Launchers
+* [**Wox**](http://www.getwox.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79964), [*git*](https://github.com/Wox-launcher/Wox/issues/629) / too bad, it looks really sharp
+
+
+
