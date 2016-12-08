@@ -78,7 +78,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*browse*](#browsers) | [*dl*](#download-managers) | [*mail*](#email) | [*ftp*](#ftp) | [*im*](#instant-messaging) | [*rss*](#rss) | [*torrent*](#torrents) | [*voice*](#voice-chat)
 
 * [*Multimedia*](#multimedia)
-> [*conv*](#media-conversion) | [*musicplay*](#music-players) | [*pod*](#podcasts) | [*rec*](#screen-recording) | [*tag*](#tagging) | [*videdit*](#video-editors) | [*vidplay*](#video-players)
+> [*audioedit*](#audio-editors) | [*conv*](#media-conversion) | [*musicplay*](#music-players) | [*pod*](#podcasts) | [*rec*](#screen-recording) | [*tag*](#tagging) | [*videdit*](#video-editors) | [*vidplay*](#video-players)
 
 * [*Office*](#office)
 > [*diary*](#diary) | [*dtp*](#desktop-publishing) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*proj*](#project-management) | [*suite*](#suites) | [*tex*](#tex) | [*wiki*](#wiki) | [*write*](#writing)
@@ -87,7 +87,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*av*](#antivirus) | [*pw*](#passwords) | [*scan*](#scanning)
 
 * [*Utilities*](#utilities)
-> [*arch*](#archivers) | [*automate*](#automation) | [*backup*](#backup) | [*calc*](#calculators) | [*char*](#characters) | [*clip*](#clipboard) | [*fileman*](#file-managers) | [*font*](#fonts) | [*launch*](#launchers) | [*proc*](#processes) | [*reg*](#registry) | [*ren*](#renamers) | [*search*](#search) | [*time*](#time)
+> [*arch*](#archivers) | [*automate*](#automation) | [*backup*](#backup) | [*calc*](#calculators) | [*char*](#characters) | [*clip*](#clipboard) | [*copy*](#copiers) | [*fileman*](#file-managers) | [*font*](#fonts) | [*launch*](#launchers) | [*proc*](#processes) | [*reg*](#registry) | [*ren*](#renamers) | [*search*](#search) | [*time*](#time)
 
 ## Development
 
@@ -274,6 +274,11 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 
 [![Microphone](img/microphone.jpg)](https://pixabay.com/en/microphone-mic-mike-voice-audio-1246057/)
 
+### Audio Editors
+* [**Audacity**](http://www.audacityteam.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=648), [*paf*](http://portableapps.com/apps/music_video/audacity_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.37)
+* [**ocenaudio**](http://www.ocenaudio.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2799)
+* [**Wavosaur**](http://www.wavosaur.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1187)
+
 ### Media Conversion
 * [**fre:ac**](http://www.freac.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=570), [*paf*](http://portableapps.com/apps/music_video/freac_portable)
 * [**LameXP**](http://lamexp.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2094)
@@ -423,6 +428,9 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 * [**Clipjump**](http://clipjump.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2523), [*git*](https://github.com/aviaryan/Clipjump), [*ahk*](https://autohotkey.com/boards/viewtopic.php?f=6&t=401) / available as AHK script
 * [**CopyQ**](http://hluk.github.io/CopyQ/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=69636)
 * [**Ditto**](http://ditto-cp.sourceforge.net/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1361), [*paf*](http://portableapps.com/apps/utilities/ditto_portable)
+
+### Copiers
+* [**FastCopy**](https://ipmsg.org/tools/fastcopy.html.en) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1437), [*paf*](http://portableapps.com/apps/utilities/fastcopy-portable)
 
 ### File Managers
 * [**Double Commander**](http://doublecmd.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
