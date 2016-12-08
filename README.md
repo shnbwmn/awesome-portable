@@ -241,7 +241,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### FTP
 * [**Bitvise SSH Client**](https://www.bitvise.com/ssh-client) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1982) / formerly *Tunnelier*
-* [**FileZilla**](https://filezilla-project.org/) | [**Secure**](http://www.filezillasecure.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=9), [*paf*](http://portableapps.com/apps/internet/filezilla_portable), [*wpp*](http://www.winpenpack.com/main/download.php?view.717), [*secure*](https://www.portablefreeware.com/forums/viewtopic.php?p=83983#p83983) / FileZilla Server can be used portably via portable servers like XAMPP or Neard / FileZilla Secure is a fork of FileZilla with password encryption, however its portability status is murky
+* [**FileZilla**](https://filezilla-project.org/) | [**Secure**](http://www.filezillasecure.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=9), [*paf*](http://portableapps.com/apps/internet/filezilla_portable), [*wpp*](http://www.winpenpack.com/main/download.php?view.717), [*secure*](https://www.portablefreeware.com/forums/viewtopic.php?p=83983#p83983) / test: can FileZilla Server can be used portably via [portable servers](#server) like XAMPP or Neard? / FileZilla Secure is a fork of FileZilla with password encryption, however its portability status is murky
 * [**WinSCP**](https://winscp.net/eng/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=214), [*paf*](http://portableapps.com/apps/internet/winscp_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.569) / PortableApps version integrates with PuTTY Portable
 
 ### Instant Messaging
