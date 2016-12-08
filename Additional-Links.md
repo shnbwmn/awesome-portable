@@ -12,7 +12,7 @@
 [*raymond*](https://www.raymond.cc/blog/portable-application-launchers-launch-apps-with-convenience/)
 
 * [**CodySafe**](http://www.codyssey.com/products/codysafe.html) / based off either PortableApps or LibreKey / looks dodgy
-* [**geek.menu**](http://geek-menu.sourceforge.net/) / outdated / based off PortableApps
+* [**geek.menu**](http://geek-menu.sourceforge.net/) / [*sf*](https://sourceforge.net/projects/geek-menu/) / outdated / based off PortableApps
 * [**WinInizio PenSuite**](http://pensuite.wininizio.it/eng/) / seems outdated and not worth including
 
 ### Development
