@@ -63,6 +63,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ## Contents
 
+[*top*](#awesome-portable-)
+
 * [*Development*](#development)
 > [*ide*](#ides) | [*res*](#resource-editors) | [*server*](#server) | [*source*](#source-control) | [*text*](#text-editors)
 
@@ -73,7 +75,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*3d*](#3d) | [*animate*](#animation) | [*art*](#art) | [*cad*](#cad) | [*pick*](#colour-pickers) | [*gif*](#gif) | [*imgedit*](#image-editors) | [*compress*](#image-compression) | [*raw*](#raw) | [*cap*](#screen-capture) | [*vector*](#vector-editors) | [*view*](#viewers)
 
 * [*Internet*](#internet)
-> [*browse*](#browsers) | [*dl*](#download-managers) | [*mail*](#email) | [*ftp*](#ftp) | [*im*](#instant-messaging) | [*torrent*](#torrents) | [*voice*](#voice-chat)
+> [*browse*](#browsers) | [*dl*](#download-managers) | [*mail*](#email) | [*ftp*](#ftp) | [*im*](#instant-messaging) | [*rss*](#rss) | [*torrent*](#torrents) | [*voice*](#voice-chat)
 
 * [*Multimedia*](#multimedia)
 > [*conv*](#media-conversion) | [*musicplay*](#music-players) | [*pod*](#podcasts) | [*rec*](#screen-recording) | [*tag*](#tagging) | [*videdit*](#video-editors) | [*vidplay*](#video-players)
