@@ -367,6 +367,7 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 [*mediawiki*](https://www.mediawiki.org/wiki/Manual:Wiki_on_a_stick)
 
 * [**DokuWiki**](https://www.dokuwiki.org/dokuwiki#) | [**On A Stick**](https://www.dokuwiki.org/install:dokuwiki_on_a_stick) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83274) / self-hosted wiki software run on a portable MicroApache server
+* [**OutWiker**](http://jenyay.net/Outwiker/English) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2797)
 * [**TiddlyWiki**](http://tiddlywiki.com/) | [**Classic**](http://classic.tiddlywiki.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2031), [*git*](https://github.com/Jermolene/TiddlyWiki5) / single HTML opened with a browser / not a program, per se, but certainly portable
 * [**WikidPad**](http://wikidpad.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1099), [*site*](http://wikidpad.sourceforge.net/help/ConfigurationFiles.html)
 * [**Zim**](http://www.zim-wiki.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=56775), [*paf*](http://portableapps.com/node/29350), [*site*](http://www.glump.net/software/zim-windows) / PAF available from dev
