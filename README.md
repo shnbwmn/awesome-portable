@@ -329,6 +329,9 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 [![Building](img/building.jpg)](https://pixabay.com/en/architecture-buildings-sky-1842614/)
 
 ### Diary
+
+[*mempad*](#outliners)
+
 * [**RedNotebook**](http://rednotebook.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2086), [*paf*](http://portableapps.com/apps/office/rednotebook_portable)
 
 ### Desktop Publishing
@@ -356,7 +359,7 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 ### Outliners
 * [**Cherrytree**](http://www.giuspen.com/cherrytree/) / [*tpfc*](https://www.portablefreeware.com/?id=2790), [*paf*](http://portableapps.com/apps/office/cherrytree-portable)
 * [**KeyNote**](https://sourceforge.net/projects/keynote/) | [**NF**](https://github.com/dpradov/keynote-nf) / [*tpfc*](https://www.portablefreeware.com/?id=755), [*sf*](https://sourceforge.net/projects/keynote-newfeat/) / KeyNote NF is an active fork of the dead KeyNote with extended features
-* [**MemPad**](http://www.horstmuc.de/wmem.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=889)
+* [**MemPad**](http://www.horstmuc.de/wmem.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=889) / can function as diary with auto-added dates
 * [**The Guide**](http://theguide.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1499), [*paf*](http://portableapps.com/apps/office/the_guide_portable), [*pen*](https://pendriveapps.com/the-guide/) / last updated 2008
 * [**TreePad**](http://www.treepad.com/treepadfreeware/) / [*tpfc*](https://www.portablefreeware.com/?id=1734), [*site*](http://www.treepad.com/docs/tpp/manual/documents/EF4D74B8A82E2967538FE68A60B39269B954DE12.html) / Pro version available 
 
