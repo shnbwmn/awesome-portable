@@ -256,6 +256,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Pidgin**](https://www.pidgin.im/) / [*tpfc*](https://www.portablefreeware.com/?id=1345), [*paf*](http://portableapps.com/apps/internet/pidgin_portable)
 * [**qTox**](https://qtox.github.io/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2755)
 * [**RetroShare**](http://retroshare.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2353) / includes secure p2p file sharing
+* [**Ricochet**](https://ricochet.im/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2851)
+* [**Telegram**](https://telegram.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22115), [*paf*](http://portableapps.com/apps/internet/telegram-desktop-portable)
 
 ### RSS
 
@@ -271,6 +273,7 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 
 ### Voice Chat
 * [**Mumble**](http://wiki.mumble.info/wiki/Main_Page) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=9770), [*paf*](http://portableapps.com/apps/internet/mumble-portable)
+* [**Skype**](https://www.skype.com/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=503), [*paf*](http://portableapps.com/apps/internet/skype_portable)
 
 ## Multimedia
 
