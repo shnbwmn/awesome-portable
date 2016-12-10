@@ -69,7 +69,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*ide*](#ides) | [*res*](#resource-editors) | [*server*](#server) | [*source*](#source-control) | [*text*](#text-editors)
 
 * [*Education*](#education)
-> [*geo*](#geography) | [*religion*](#religion) | [*stats*](#statistics)
+> [*geo*](#geography) | [*medi*](#medical) | [*religion*](#religion) | [*stats*](#statistics)
 
 * [*Graphics*](#graphics)
 > [*3d*](#3d) | [*animate*](#animation) | [*art*](#art) | [*cad*](#cad) | [*pick*](#colour-pickers) | [*gif*](#gif) | [*imgedit*](#image-editors) | [*compress*](#image-compression) | [*raw*](#raw) | [*cap*](#screen-capture) | [*vector*](#vector-editors) | [*view*](#viewers)
@@ -138,6 +138,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Geography
 * [**Panoply**](http://www.giss.nasa.gov/tools/panoply/) / [*sp*](http://www.softpedia.com/get/Science-CAD/Panoply.shtml) / made by NASA / portable by running `Panoply.jar` through JPortable
 * [**QGIS**](http://www.qgis.co.za/en/site/) / [*archgeek*](http://www.archaeogeek.com/portable-gis.html), [*docs*](http://portable-gis-docs.readthedocs.io/en/latest/index.html), [*stack*](http://gis.stackexchange.com/questions/176825/are-there-any-portable-versions-of-qgis), [*ground*](https://www.groundtruth.com.au/gis-on-a-stick), [*git*](https://github.com/groundtruth/GIS-on-a-Stick) / very large in size
+
+### Medical
+
+(placeholder - DICOM viewers)
 
 ### Religion
 * [**Bible Analyzer**](http://www.bibleanalyzer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2704)
