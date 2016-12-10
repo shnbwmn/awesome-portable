@@ -81,13 +81,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*audioedit*](#audio-editors) | [*conv*](#media-conversion) | [*musicplay*](#music-players) | [*pod*](#podcasts) | [*rec*](#screen-recording) | [*tag*](#tagging) | [*videdit*](#video-editors) | [*vidplay*](#video-players)
 
 * [*Office*](#office)
-> [*diary*](#diary) | [*dtp*](#desktop-publishing) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*proj*](#project-management) | [*suite*](#suites) | [*tex*](#tex) | [*wiki*](#wiki) | [*write*](#writing)
+> [*diary*](#diary) | [*dtp*](#desktop-publishing) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*outline*](#outliners) | [*pim*](#pims) | [*proj*](#project-management) | [*suite*](#suites) | [*tex*](#tex) | [*wiki*](#wiki) | [*write*](#writing)
 
 * [*Security*](#security)
 > [*av*](#antivirus) | [*pw*](#passwords) | [*scan*](#scanning)
 
 * [*Utilities*](#utilities)
-> [*arch*](#archivers) | [*automate*](#automation) | [*backup*](#backup) | [*calc*](#calculators) | [*char*](#characters) | [*clip*](#clipboard) | [*copy*](#copiers) | [*fileman*](#file-managers) | [*font*](#fonts) | [*launch*](#launchers) | [*proc*](#processes) | [*reg*](#registry) | [*ren*](#renamers) | [*search*](#search) | [*time*](#time) | [*unin*](#uninstallers) | [*windows*](#window-managers)
+> [*arch*](#archivers) | [*automate*](#automation) | [*backup*](#backup) | [*calc*](#calculators) | [*char*](#characters) | [*clip*](#clipboard) | [*copy*](#copiers) | [*fileman*](#file-management) | [*font*](#fonts) | [*launch*](#launchers) | [*proc*](#processes) | [*reg*](#registry) | [*ren*](#renamers) | [*search*](#search) | [*time*](#time) | [*unin*](#uninstallers) | [*windows*](#window-managers)
 
 ## Development
 
@@ -344,10 +344,24 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 * [**WinDJView**](http://windjview.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=10115), [*paf*](http://portableapps.com/apps/office/windjview_portable), [*yap*](http://rolandtoth.hu/yaP/#examples/WinDjView.ini)
 
 ### Notetaking
-* [**Cherrytree**](http://www.giuspen.com/cherrytree/) / [*tpfc*](https://www.portablefreeware.com/?id=2790), [*paf*](http://portableapps.com/apps/office/cherrytree-portable)
-* [**KeyNote**](https://sourceforge.net/projects/keynote/) | [**NF**](https://github.com/dpradov/keynote-nf) / [*tpfc*](https://www.portablefreeware.com/?id=755), [*sf*](https://sourceforge.net/projects/keynote-newfeat/) / KeyNote NF is an active fork of the dead KeyNote with extended features
+
+[*tagspaces*](#file-management)
+
+* [**CintaNotes**](http://cintanotes.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1468), [*paf*](http://portableapps.com/apps/office/cintanotes-portable) / Pro version available
+* [**Flashnote**](http://softvoile.com/flashnote/) / [*tpfc*](https://www.portablefreeware.com/?id=2775)
 * [**Laverna**](https://laverna.cc/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82446)
 * [**QOwnNotes**](http://www.qownnotes.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2816)
+
+### Outliners
+* [**Cherrytree**](http://www.giuspen.com/cherrytree/) / [*tpfc*](https://www.portablefreeware.com/?id=2790), [*paf*](http://portableapps.com/apps/office/cherrytree-portable)
+* [**KeyNote**](https://sourceforge.net/projects/keynote/) | [**NF**](https://github.com/dpradov/keynote-nf) / [*tpfc*](https://www.portablefreeware.com/?id=755), [*sf*](https://sourceforge.net/projects/keynote-newfeat/) / KeyNote NF is an active fork of the dead KeyNote with extended features
+* [**MemPad**](http://www.horstmuc.de/wmem.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=889)
+* [**The Guide**](http://theguide.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1499), [*paf*](http://portableapps.com/apps/office/the_guide_portable), [*pen*](https://pendriveapps.com/the-guide/) / last updated 2008
+* [**TreePad**](http://www.treepad.com/treepadfreeware/) / [*tpfc*](https://www.portablefreeware.com/?id=1734), [*site*](http://www.treepad.com/docs/tpp/manual/documents/EF4D74B8A82E2967538FE68A60B39269B954DE12.html) / Pro version available 
+
+### PIMs
+* [**EssentialPIM**](http://www.essentialpim.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=98)
+* [**Info-Base**](http://freeware.persoft.ch/program_en.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2521)
 
 ### Project Management
 * [**DevProject Manager**](http://www.gaijin.at/en/dldevproject.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1273)
@@ -441,7 +455,7 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 ### Copiers
 * [**FastCopy**](https://ipmsg.org/tools/fastcopy.html.en) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1437), [*paf*](http://portableapps.com/apps/utilities/fastcopy-portable)
 
-### File Managers
+### File Management
 * [**Double Commander**](http://doublecmd.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
 * [**FileVoyager**](http://www.filevoyager.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2826)
 * [**Free Commander XE**](http://freecommander.com/en/summary/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=291), [*paf*](http://portableapps.com/apps/utilities/freecommander_portable) / 64-bit version is donationware
@@ -449,6 +463,7 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 * [**NexusFile**](http://www.xiles.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1419)
 * [**Q-Dir**](http://www.softwareok.com/?seite=Freeware/Q-Dir) / [*tpfc*](https://www.portablefreeware.com/?id=1431), [*paf*](http://portableapps.com/apps/utilities/q-dir-portable/)
 * [**Tablacus Explorer**](http://www.eonet.ne.jp/~gakana/tablacus/explorer_en.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2781), [*thumb*](http://www.thumbapps.org/2016/09/Tablacus-Explorer-portable-multi-tab-Windows-file-explorer.html) / addon support via built-in addon manager
+* [**TagSpaces**](https://www.tagspaces.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=21728), [*site*](https://www.tagspaces.org/documentation/installation/#portableMode) / notetaking ability as well
 * [**Total Commander**](https://www.ghisler.com) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=527), [*paf*](http://portableapps.com/node/14220), [*totalcmd*](https://www.ghisler.com/usbinst.htm) / not free, but certainly very good
 
 ### Fonts
