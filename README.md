@@ -87,7 +87,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*av*](#antivirus) | [*pw*](#passwords) | [*scan*](#scanning)
 
 * [*Utilities*](#utilities)
-> [*arch*](#archivers) | [*automate*](#automation) | [*backup*](#backup) | [*calc*](#calculators) | [*char*](#characters) | [*clip*](#clipboard) | [*copy*](#copiers) | [*fileman*](#file-managers) | [*tags*](#file-taggers) | [*font*](#fonts) | [*launch*](#launchers) | [*proc*](#processes) | [*reg*](#registry) | [*ren*](#renamers) | [*search*](#search) | [*time*](#time) | [*unin*](#uninstallers) | [*windows*](#window-managers)
+> [*arch*](#archivers) | [*automate*](#automation) | [*backup*](#backup) | [*calc*](#calculators) | [*char*](#characters) | [*clip*](#clipboard) | [*copy*](#copiers) | [*fileman*](#file-managers) | [*tags*](#file-tagging) | [*font*](#fonts) | [*launch*](#launchers) | [*proc*](#processes) | [*reg*](#registry) | [*ren*](#renamers) | [*search*](#search) | [*time*](#time) | [*unin*](#uninstallers) | [*windows*](#window-managers)
 
 ## Development
 
@@ -345,7 +345,7 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 
 ### Notetaking
 
-[*tagspaces*](#file-taggers)
+[*tagspaces*](#file-tagging)
 
 * [**CintaNotes**](http://cintanotes.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1468), [*paf*](http://portableapps.com/apps/office/cintanotes-portable) / Pro version available
 * [**Flashnote**](http://softvoile.com/flashnote/) / [*tpfc*](https://www.portablefreeware.com/?id=2775)
