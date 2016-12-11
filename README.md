@@ -81,13 +81,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Audio Editors*](#audio-editors) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [*Office*](#office)
-> [*diary*](#diary) | [*dtp*](#desktop-publishing) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*outline*](#outliners) | [*pim*](#pims) | [*proj*](#project-management) | [*suite*](#suites) | [*tex*](#tex) | [*wiki*](#wiki) | [*write*](#writing)
+> [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Viewers*](#document-viewers) | [*Notetaking*](#notetaking) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*Suites*](#suites) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
 * [*Security*](#security)
-> [*av*](#antivirus) | [*pw*](#passwords) | [*scan*](#scanning)
+> [*Antivirus*](#antivirus) | [*Passwords*](#passwords) | [*Scanning*](#scanning)
 
 * [*Utilities*](#utilities)
-> [*arch*](#archivers) | [*automate*](#automation) | [*backup*](#backup) | [*calc*](#calculators) | [*char*](#characters) | [*clip*](#clipboard) | [*copy*](#copiers) | [*fileman*](#file-managers) | [*tags*](#file-tagging) | [*font*](#fonts) | [*launch*](#launchers) | [*proc*](#processes) | [*reg*](#registry) | [*ren*](#renamers) | [*search*](#search) | [*time*](#time) | [*unin*](#uninstallers) | [*windows*](#window-managers)
+> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Copiers*](#copiers) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
 
 ## Development
 
