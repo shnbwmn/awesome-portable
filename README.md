@@ -66,19 +66,19 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*top*](#awesome-portable-)
 
 * [*Development*](#development)
-> [*IDEs*](#ides) | [*Resource Editors*](#resource-editors) | [*Servers*](#servers) | [*Source Control*](#source-control) | [*Text Editors*](#text-editors)
+> [*IDEs*](#ides) | [*Resource Editors*](#resource-editors) | [*Source Control*](#source-control) | [*Text Editors*](#text-editors) | [*Web Servers*](#web-servers)
 
 * [*Education*](#education)
-> [*geo*](#geography) | [*medi*](#medical) | [*religion*](#religion) | [*stats*](#statistics)
+> [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
 
 * [*Graphics*](#graphics)
-> [*3d*](#3d) | [*animate*](#animation) | [*art*](#art) | [*cad*](#cad) | [*pick*](#colour-pickers) | [*gif*](#gif) | [*imgedit*](#image-editors) | [*compress*](#image-compression) | [*raw*](#raw) | [*cap*](#screen-capture) | [*vector*](#vector-editors) | [*view*](#viewers)
+> [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*GIF*](#gif) | [*Image Editors*](#image-editors) | [*Compression*](#image-compression) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors) | [*Viewers*](#viewers)
 
 * [*Internet*](#internet)
-> [*browse*](#browsers) | [*dl*](#download-managers) | [*mail*](#email) | [*ftp*](#ftp) | [*im*](#instant-messaging) | [*rss*](#rss) | [*torrent*](#torrents) | [*voice*](#voice-chat)
+> [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*Voice Chat*](#voice-chat)
 
 * [*Multimedia*](#multimedia)
-> [*audioedit*](#audio-editors) | [*conv*](#media-conversion) | [*musicplay*](#music-players) | [*pod*](#podcasts) | [*rec*](#screen-recording) | [*tag*](#tagging) | [*videdit*](#video-editors) | [*vidplay*](#video-players)
+> [*Audio Editors*](#audio-editors) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [*Office*](#office)
 > [*diary*](#diary) | [*dtp*](#desktop-publishing) | [*docview*](#document-viewers) | [*notes*](#notetaking) | [*outline*](#outliners) | [*pim*](#pims) | [*proj*](#project-management) | [*suite*](#suites) | [*tex*](#tex) | [*wiki*](#wiki) | [*write*](#writing)
@@ -103,13 +103,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Resource Hacker**](http://www.angusj.com/resourcehacker/) / [*tpfc*](https://www.portablefreeware.com/?id=289)
 * [**XN Resource Editor**](https://stefansundin.github.io/xn_resource_editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=407), [*paf*](http://portableapps.com/apps/utilities/xn_resource_editor_portable)
 
-### Servers
-* [**EasyPHP**](http://www.easyphp.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2144), [*pen*](https://pendriveapps.com/easyphp-portable-wamp-web-server/) / available as Devserver and Webserver variants
-* [**Laragon**](https://laragon.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82528), [*sf*](https://sourceforge.net/projects/laragon/), [*forum*](https://forum.laragon.org/), [*laravel*](https://laravel.com/) / focuses on Laravel PHP framework for webdev / available as stripped-down Lite version
-* [**Neard**](https://github.com/crazy-max/neard) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82512) / very large in size / requires admin rights
-* [**Uniform Server**](http://www.uniformserver.com/) / [*tpfc*](https://www.portablefreeware.com/?id=396), [*sf*](https://sourceforge.net/projects/miniserver/)
-* [**XAMPP**](https://www.apachefriends.org/index.html) / [*tpfc*](https://www.portablefreeware.com/?id=1069), [*paf*](http://portableapps.com/apps/development/xampp), [*pen*](https://pendriveapps.com/xampp-portable-web-server/), [*sf*](https://sourceforge.net/projects/xampp/) / place at the root of the drive
-
 ### Source Control
 * [**Git**](https://git-scm.com/) | [**For Windows**](https://git-for-windows.github.io/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=66571), [*paf*](https://github.com/sheabunge/GitPortable)
 * [**SmartGit**](http://www.syntevo.com/smartgit/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84327), [*avi*](http://aviaryan.in/blog/smartgit-portable-github-client.html)
@@ -128,6 +121,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**SynWrite**](http://www.uvviewsoft.com/synwrite/) / [*tpfc*](https://www.portablefreeware.com/?id=2375)
 * [**TextAdept**](https://foicica.com/textadept/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20636), [*yap*](http://rolandtoth.hu/yaP/#examples/TextAdept.ini)
 * [**Visual Studio Code**](https://code.visualstudio.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82783), [*paf*](https://github.com/garethflowers/vscode-portable)
+
+### Web Servers
+* [**EasyPHP**](http://www.easyphp.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2144), [*pen*](https://pendriveapps.com/easyphp-portable-wamp-web-server/) / available as Devserver and Webserver variants
+* [**Laragon**](https://laragon.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82528), [*sf*](https://sourceforge.net/projects/laragon/), [*forum*](https://forum.laragon.org/), [*laravel*](https://laravel.com/) / focuses on Laravel PHP framework for webdev / available as stripped-down Lite version
+* [**Neard**](https://github.com/crazy-max/neard) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82512) / very large in size / requires admin rights
+* [**Uniform Server**](http://www.uniformserver.com/) / [*tpfc*](https://www.portablefreeware.com/?id=396), [*sf*](https://sourceforge.net/projects/miniserver/)
+* [**XAMPP**](https://www.apachefriends.org/index.html) / [*tpfc*](https://www.portablefreeware.com/?id=1069), [*paf*](http://portableapps.com/apps/development/xampp), [*pen*](https://pendriveapps.com/xampp-portable-web-server/), [*sf*](https://sourceforge.net/projects/xampp/) / place at the root of the drive
 
 ## Education
 
@@ -247,7 +247,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### FTP
 * [**Bitvise SSH Client**](https://www.bitvise.com/ssh-client) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1982) / formerly *Tunnelier*
-* [**FileZilla**](https://filezilla-project.org/) | [**Secure**](http://www.filezillasecure.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=9), [*paf*](http://portableapps.com/apps/internet/filezilla_portable), [*wpp*](http://www.winpenpack.com/main/download.php?view.717), [*secure*](https://www.portablefreeware.com/forums/viewtopic.php?p=83983#p83983) / test: can FileZilla Server can be used portably via [portable servers](#server) like XAMPP or Neard? / FileZilla Secure is a fork of FileZilla with password encryption, however its portability status is murky
+* [**FileZilla**](https://filezilla-project.org/) | [**Secure**](http://www.filezillasecure.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=9), [*paf*](http://portableapps.com/apps/internet/filezilla_portable), [*wpp*](http://www.winpenpack.com/main/download.php?view.717), [*secure*](https://www.portablefreeware.com/forums/viewtopic.php?p=83983#p83983) / test: can FileZilla Server can be used portably via [portable servers](#web-servers) like XAMPP or Neard? / FileZilla Secure is a fork of FileZilla with password encryption, however its portability status is murky
 * [**WinSCP**](https://winscp.net/eng/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=214), [*paf*](http://portableapps.com/apps/internet/winscp_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.569) / PortableApps version integrates with PuTTY Portable
 
 ### Instant Messaging
