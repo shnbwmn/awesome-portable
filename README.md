@@ -66,7 +66,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*top*](#awesome-portable-)
 
 * [*Development*](#development)
-> [*ide*](#ides) | [*res*](#resource-editors) | [*server*](#server) | [*source*](#source-control) | [*text*](#text-editors)
+> [*IDEs*](#ides) | [*Resource Editors*](#resource-editors) | [*Servers*](#servers) | [*Source Control*](#source-control) | [*Text Editors*](#text-editors)
 
 * [*Education*](#education)
 > [*geo*](#geography) | [*medi*](#medical) | [*religion*](#religion) | [*stats*](#statistics)
@@ -103,7 +103,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Resource Hacker**](http://www.angusj.com/resourcehacker/) / [*tpfc*](https://www.portablefreeware.com/?id=289)
 * [**XN Resource Editor**](https://stefansundin.github.io/xn_resource_editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=407), [*paf*](http://portableapps.com/apps/utilities/xn_resource_editor_portable)
 
-### Server
+### Servers
 * [**EasyPHP**](http://www.easyphp.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2144), [*pen*](https://pendriveapps.com/easyphp-portable-wamp-web-server/) / available as Devserver and Webserver variants
 * [**Laragon**](https://laragon.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82528), [*sf*](https://sourceforge.net/projects/laragon/), [*forum*](https://forum.laragon.org/), [*laravel*](https://laravel.com/) / focuses on Laravel PHP framework for webdev / available as stripped-down Lite version
 * [**Neard**](https://github.com/crazy-max/neard) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82512) / very large in size / requires admin rights
