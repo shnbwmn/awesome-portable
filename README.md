@@ -502,7 +502,7 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 * [**Quick Access Popup**](http://www.quickaccesspopup.com/) | [**Folders Popup**](http://code.jeanlalonde.ca/folderspopup/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2765), [*fp*](https://www.portablefreeware.com/?id=2557) / QAP supercedes Folders Popup / created with AHK
 * [**Run-Command**](http://www.softwareok.com/?seite=Microsoft/Run-Command) / [*tpfc*](https://www.portablefreeware.com/?id=2402)
 * [**SideSlide**](http://www.northglide.com/sideslide.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1409)
-* [**Splat**](http://skwire.dcmembers.com/fp/?page=splat) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2667) / includes scheduling capabilities
+* [**Splat**](http://skwire.dcmembers.com/fp/?page=splat) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2667) / includes sequencing and grouping capabilities
 * [**SyMenu**](http://www.ugmfree.it/) / [*tpfc*](https://www.portablefreeware.com/?id=2394)
 * [**XVA Assistant**](http://www.idesktop.me/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83028)
 
