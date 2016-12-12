@@ -145,7 +145,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Medical
 
-(placeholder - DICOM viewers)
+(DICOM viewers)
 
 ### Religion
 * [**Bible Analyzer**](http://www.bibleanalyzer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2704)
@@ -202,8 +202,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**PhotoScape**](http://www.photoscape.org/ps/main/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=1339), [*thumb*](http://www.thumbapps.org/2016/05/PhotoScape-photo-editor-portable.html), [*yap*](http://rolandtoth.hu/yaP/#examples/PhotoScape.ini)
 
 ### Image Compression
-
-(add RIOT, Romeolight tools, etc)
+* [RIOT]
+* [Romeolight tools]
 
 ### RAW
 * [**Photivo**](http://photivo.org/start) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81038), [*site*](http://photivo.org/download/windows)
@@ -265,9 +265,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### RSS
 
-(add QuiteRSS, RSSOwl[?], etc)
+[*ghacks*](http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-reader-after-a-year/)
 
-http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-reader-after-a-year/
+* [QuiteRSS]
+* [RSSOwl]
 
 ### Torrents
 * [**PicoTorrent**](http://www.picotorrent.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79128)
