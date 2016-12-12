@@ -543,7 +543,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Utility Suites
 
-[*symenu*](#launchers)
+[*symenu*](#launchers), [*joeware*](http://www.joeware.net/freetools/index.htm), [*ntcore*](http://www.ntcore.com/index.php)
 
 * [**MiTeC**](http://www.mitec.cz/index.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81174)
 * [**neuPanel**](http://nuetools.co.uk/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84209) / frontend for Control Panel and various Windows built-in utilities
