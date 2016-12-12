@@ -361,7 +361,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Flashnote**](http://softvoile.com/flashnote/) / [*tpfc*](https://www.portablefreeware.com/?id=2775)
 * [**Laverna**](https://laverna.cc/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82446)
 * [**QOwnNotes**](http://www.qownnotes.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2816)
-* [**ResophNotes**](http://resoph.com/ResophNotes/Welcome.html) / [*tpfc*](https://www.portablefreeware.com/?id=1951) / includes SimpleNote syncing
+* [**ResophNotes**](http://resoph.com/ResophNotes/Welcome.html) / [*tpfc*](https://www.portablefreeware.com/?id=1951) / includes [SimpleNote](https://simplenote.com/) syncing
 
 ### Office Suites
 * [**LibreOffice**](https://www.libreoffice.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2055), [*paf*](http://portableapps.com/apps/office/libreoffice_portable)
