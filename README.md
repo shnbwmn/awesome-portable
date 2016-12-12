@@ -58,6 +58,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**winPenPack Net Menu**](http://www.winpenpack.com/en/download.php?view.1303) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2264)
 
 **_Sites:_**
+
+[*utilities*](#utility-suites)
+
 * [**DonationCoder**](https://www.donationcoder.com/) / Mouser, Skwire, one-hour software, NANY, etc
 * [**TPFC**](http://www.portablefreeware.com/) / [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4), [*res*](https://www.portablefreeware.com/resources.php)
 * [**PenDriveApps**](http://www.pendriveapps.com/)
