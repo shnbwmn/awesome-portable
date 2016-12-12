@@ -81,13 +81,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Audio Editors*](#audio-editors) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [*Office*](#office)
-> [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Viewers*](#document-viewers) | [*Notetaking*](#notetaking) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*Suites*](#suites) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
+> [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Viewers*](#document-viewers) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
 * [*Security*](#security)
 > [*Antivirus*](#antivirus) | [*Passwords*](#passwords) | [*Scanning*](#scanning)
 
 * [*Utilities*](#utilities)
-> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Copiers*](#copiers) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
+> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Copiers*](#copiers) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Keyboard and Mouse*](#keyboard-and-mouse) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Utility Suites*](#utility-suites) | [*Window Managers*](#window-managers)
 
 ## Development
 
@@ -356,6 +356,11 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 * [**QOwnNotes**](http://www.qownnotes.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2816)
 * [**ResophNotes**](http://resoph.com/ResophNotes/Welcome.html) / [*tpfc*](https://www.portablefreeware.com/?id=1951) / includes SimpleNote syncing
 
+### Office Suites
+* [**LibreOffice**](https://www.libreoffice.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2055), [*paf*](http://portableapps.com/apps/office/libreoffice_portable)
+* [**OpenOffice**](https://www.openoffice.org/) / [*tpfc*](https://www.portablefreeware.com/?id=212), [*paf*](http://portableapps.com/apps/office/openoffice_portable)
+* [**SoftMaker FreeOffice**](http://www.freeoffice.com/en/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20457), [*site*](http://www.freeoffice.com/en/tips-and-tricks-portable-installation)
+
 ### Outliners
 * [**Cherrytree**](http://www.giuspen.com/cherrytree/) / [*tpfc*](https://www.portablefreeware.com/?id=2790), [*paf*](http://portableapps.com/apps/office/cherrytree-portable)
 * [**KeyNote**](https://sourceforge.net/projects/keynote/) | [**NF**](https://github.com/dpradov/keynote-nf) / [*tpfc*](https://www.portablefreeware.com/?id=755), [*sf*](https://sourceforge.net/projects/keynote-newfeat/) / KeyNote NF is an active fork of the dead KeyNote with extended features
@@ -372,11 +377,6 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 * [**Task Coach**](http://www.taskcoach.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2113), [*paf*](http://portableapps.com/apps/office/task_coach_portable)
 * [**ToDoList**](http://abstractspoon.weebly.com/) | [**Alt**](https://www.codeproject.com/Articles/5371/ToDoList-An-effective-and-flexible-way-to-keep-on) / [*tpfc*](https://www.portablefreeware.com/index.php?id=816), [*paf*](http://portableapps.com/apps/office/todolist_portable) / was removed from PortableApps at the dev's request
 * [**Todomoo**](http://todomoo.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2486)
-
-### Suites
-* [**LibreOffice**](https://www.libreoffice.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2055), [*paf*](http://portableapps.com/apps/office/libreoffice_portable)
-* [**OpenOffice**](https://www.openoffice.org/) / [*tpfc*](https://www.portablefreeware.com/?id=212), [*paf*](http://portableapps.com/apps/office/openoffice_portable)
-* [**SoftMaker FreeOffice**](http://www.freeoffice.com/en/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20457), [*site*](http://www.freeoffice.com/en/tips-and-tricks-portable-installation)
 
 ### TeX
 
@@ -434,6 +434,8 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 ### Automation
 * [**AutoHotkey**](https://www.autohotkey.com/) | [**SciTE4AutoHotkey**](https://www.autoitscript.com/site/autoit-script-editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=217), [*awesome*](https://github.com/ahkscript/awesome-AutoHotkey)
 * [**AutoIt**](https://www.autoitscript.com/site/autoit/) | [**SciTE4AutoIt**](http://fincs.ahk4.net/scite4ahk/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=50), [*awesome*](https://github.com/J2TeaM/awesome-AutoIt)
+* [**Pulover's Macro Creator**](http://www.macrocreator.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2776), [*paf*](http://portableapps.com/node/41746)
+* [**TinyTask**](http://www.vtaskstudio.com/support.php#tools) / [*tpfc*](https://www.portablefreeware.com/?id=1853), [*paf*](http://portableapps.com/apps/utilities/tinytask_portable)
 
 ### Backup
 * [**Back4Sure**](http://www.ukrebs-software.de/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1684)
@@ -444,6 +446,9 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 ### Calculators
 * [**RedCrab**](http://www.redchillicrab.com/en/redcrab/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2095) / shareware version available with extra functionality
 * [**SpeedCrunch**](http://speedcrunch.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1547), [*paf*](http://portableapps.com/apps/office/speedcrunch_portable)
+
+### Cataloguing
+* [**MiTeC DirList**](http://www.mitec.cz/dirlist.html) / [*tpfc*](https://www.portablefreeware.com/?id=2522), [*yap*](http://rolandtoth.hu/yaP/#examples/DirList.ini)
 
 ### Characters
 * [**BabelMap**](http://www.babelstone.co.uk/Software/BabelMap.html) / [*tpfc*](https://www.portablefreeware.com/?id=2352), [*paf*](http://portableapps.com/apps/utilities/babelmap-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/BabelMap.ini)
@@ -475,6 +480,12 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 ### Fonts
 * [**NexusFont**](http://www.xiles.net/) / [*tpfc*](https://www.portablefreeware.com/?id=731)
 
+### Keyboard and Mouse
+
+[*automation*](#automation)
+
+* [**Clavier+**](http://utilfr42.free.fr/util/Clavier.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=983) / hotkeys
+
 ### Launchers
 
 [*collections*](#awesome-portable-)
@@ -490,11 +501,13 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 * [**Quick Access Popup**](http://www.quickaccesspopup.com/) | [**Folders Popup**](http://code.jeanlalonde.ca/folderspopup/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2765), [*fp*](https://www.portablefreeware.com/?id=2557) / QAP supercedes Folders Popup / created with AHK
 * [**Run-Command**](http://www.softwareok.com/?seite=Microsoft/Run-Command) / [*tpfc*](https://www.portablefreeware.com/?id=2402)
 * [**SideSlide**](http://www.northglide.com/sideslide.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1409)
+* [**Splat**](http://skwire.dcmembers.com/fp/?page=splat) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2667) / includes scheduling capabilities
 * [**SyMenu**](http://www.ugmfree.it/) / [*tpfc*](https://www.portablefreeware.com/?id=2394)
 * [**XVA Assistant**](http://www.idesktop.me/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83028)
 
 ### Processes
 * [**DTaskManager**](http://dimio.altervista.org/eng/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=944), [*paf*](http://portableapps.com/apps/utilities/dtaskmanager_portable)
+* [**MiTeC Task Manager DeLuxe**](http://www.mitec.cz/tmx.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2345)
 * [**Process Explorer**](https://technet.microsoft.com/en-us/sysinternals/bb896653) / [*tpfc*](https://www.portablefreeware.com/index.php?id=32), [*paf*](http://portableapps.com/apps/utilities/process-explorer-portable)
 * [**Process Hacker**](https://wj32.org/processhacker/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1934), [*paf*](http://portableapps.com/apps/utilities/process-hacker-portable)
 * [**System Explorer**](http://systemexplorer.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1491), [*paf*](http://portableapps.com/apps/utilities/system_explorer_portable) / many advanced features
@@ -520,6 +533,16 @@ http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-read
 ### Uninstallers
 * [**Bulk Crap Uninstaller**](http://klocmansoftware.weebly.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=77953)
 * [**IObit Uninstaller**](http://www.iobit.com/en/advanceduninstaller.php) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30919), [*paf*](http://portableapps.com/apps/utilities/iobit_uninstaller_portable) / requires admin rights
+
+### Utility Suites
+
+[*symenu*](#launchers)
+
+* [**MiTeC**](http://www.mitec.cz/index.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81174)
+* [**neuPanel**](http://nuetools.co.uk/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84209) / frontend for Control Panel and various Windows built-in utilities
+* [**NirSoft**](http://www.nirsoft.net/) | [**NirLauncher**](http://launcher.nirsoft.net/) | [**Panel**](http://www.nirsoft.net/panel/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=10706)
+* [**SysInternals**](https://technet.microsoft.com/en-us/sysinternals/bb545027.aspx) | [**Suite**](https://technet.microsoft.com/en-us/sysinternals/bb842062) | [**Live**](https://live.sysinternals.com/)
+* [**WSCC**](http://www.kls-soft.com/wscc/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1666) / interface for Control Panel, NirSoft and SysInternals suites 
 
 ### Window Managers
 * [**TidyTabs**](http://www.nurgo-software.com/products/tidytabs) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2850) / Free version limited to 3 tabs
