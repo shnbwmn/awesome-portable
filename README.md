@@ -303,6 +303,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Foobar2000**](http://www.foobar2000.org/) / [*tpfc*](https://www.portablefreeware.com/?id=184)
 * [**Nemp**](http://www.gausi.de/nemp-en.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2170)
 * [**Winyl**](http://vinylsoft.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2110)
+* [**Xion**](http://www.xionplayer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1290) / has cool PSD skinning feature
+* [**XMPlay**](http://www.un4seen.com/xmplay.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=567), [*paf*](http://portableapps.com/apps/music_video/xmplay_portable), [*wiki*](https://en.wikipedia.org/wiki/XMPlay) / based on the [BASS](http://www.un4seen.com/bass.html) library by the same dev
 
 ### Podcasts
 * [**gPodder**](http://gpodder.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1673), [*paf*](http://portableapps.com/apps/internet/gpodder_portable)
