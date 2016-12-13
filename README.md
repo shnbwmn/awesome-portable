@@ -85,7 +85,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Audio Editors*](#audio-editors) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [*Office*](#office)
-> [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
+> [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
 * [*Security*](#security)
 > [*Antivirus*](#antivirus) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
@@ -363,6 +363,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**STDU Viewer**](http://www.stdutility.com/stduviewer.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2045)
 * [**SumatraPDF**](http://www.sumatrapdfreader.org/free-pdf-reader.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1193), [*paf*](http://portableapps.com/apps/office/sumatra_pdf_portable)
 * [**WinDJView**](http://windjview.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=10115), [*paf*](http://portableapps.com/apps/office/windjview_portable), [*yap*](http://rolandtoth.hu/yaP/#examples/WinDjView.ini)
+
+### Finance
+* [**GnuCash**](http://www.gnucash.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1421), [*paf*](http://portableapps.com/apps/office/gnucash_portable)
+* [**HomeBank**](http://homebank.free.fr/index.php) / [*site*](http://homebank.free.fr/downloads.php), [*thumb*](http://www.thumbapps.org/2015/10/Homebank-personal-finance-manager-portable.html), [*paf*](http://portableapps.com/node/19551), [*wpp*](http://www.winpenpack.com/en/download.php?view.1104) / installer includes portable option
+* [**Money Manager Ex**](http://www.moneymanagerex.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=924), [*paf*](http://portableapps.com/apps/office/money_manager_ex_portable)
 
 ### Notetaking
 
