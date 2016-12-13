@@ -76,7 +76,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
 
 * [*Graphics*](#graphics)
-> [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*GIF*](#gif) | [*Image Editors*](#image-editors) | [*Compression*](#image-compression) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors) | [*Viewers*](#viewers)
+> [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*GIF*](#gif) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors) | [*Viewers*](#viewers)
 
 * [*Internet*](#internet)
 > [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*Voice Chat*](#voice-chat)
@@ -196,15 +196,20 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Pixie**](http://www.nattyware.com/pixie.php) / [*tpfc*](https://www.portablefreeware.com/?id=1558)
 
 ### GIF
-
-(placeholder)
+* [**GifCam**](http://blog.bahraniapps.com/gifcam/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2541)
+* [**GIF Viewer**](https://sourceforge.net/projects/gifviewer/) / [*yap*](http://rolandtoth.hu/yaP/#examples/GIF%20Viewer.ini)
+* [**LICEcap**](http://www.cockos.com/licecap/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2587)
+* [**ScreenToGif**](http://screentogif.codeplex.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=21813)
 
 ### Image Editors
 * [**GIMP**](https://www.gimp.org/) / [*tpfc*](https://www.portablefreeware.com/?id=644), [*paf*](http://portableapps.com/apps/graphics_pictures/gimp_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.71), [*partha*](http://www.partha.com/)
 * [**PhotoScape**](http://www.photoscape.org/ps/main/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=1339), [*thumb*](http://www.thumbapps.org/2016/05/PhotoScape-photo-editor-portable.html), [*yap*](http://rolandtoth.hu/yaP/#examples/PhotoScape.ini)
 
 ### Image Compression
-* [RIOT]
+* [**Caesium**](https://saerasoft.com/caesium/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20757), [*paf*](http://portableapps.com/apps/graphics_pictures/caesium-portable), [*sf*](https://sourceforge.net/projects/caesium/), [*fosshub*](https://www.fosshub.com/Caesium-Image-Compressor.html) / 
+* [**FileOptimizer**](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer) / [*tpfc*](https://www.portablefreeware.com/?id=2377) / does much more than images, eg PDFs
+* [**PngOptimizer**](http://psydk.org/pngoptimizer) / [*tpfc*](https://www.portablefreeware.com/?id=1277), [*paf*](http://portableapps.com/apps/graphics_pictures/pngoptimizer-portable), [*pen*](https://pendriveapps.com/pngoptimizer-optimize-and-convert-png/)
+* [**RIOT**](http://luci.criosweb.ro/riot/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1821), [*thumb*](http://www.thumbapps.org/2015/08/Radical-Image-Optimization-Tool-RIOT-portable.html)
 * [Romeolight tools]
 
 ### RAW
