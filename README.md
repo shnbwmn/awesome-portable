@@ -101,6 +101,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### IDEs
 * [**Geany**](https://www.geany.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=7645), [*paf*](http://portableapps.com/apps/development/geany_portable), [*sf*](https://sourceforge.net/projects/geanyportable/) / actually a text editor with basic IDE features
+* [**Lazarus**](http://www.lazarus-ide.org/) | [**Sourceforge**](https://sourceforge.net/projects/lazarus/) / [*paf*](http://portableapps.com/node/50162), [*sf*](https://sourceforge.net/projects/lazarusportable/), [*site*](http://wiki.freepascal.org/Installing_Lazarus#Installing_Lazarus_on_Portable_USB_Driver), [*forum*](http://forum.lazarus.freepascal.org/index.php?topic=31371.0), [*wpp*](http://www.winpenpack.com/main/download.php?view.727)
 
 ### Resource Editors
 * [**ResEdit**](http://www.resedit.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1675) 
@@ -274,7 +275,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [*ghacks*](http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-reader-after-a-year/)
 
-* [QuiteRSS]
+* [**QuiteRSS**](https://quiterss.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2749), [*paf*](http://portableapps.com/apps/internet/quiterss-portable)
 * [RSSOwl]
 
 ### Torrents
