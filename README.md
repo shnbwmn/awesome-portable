@@ -141,6 +141,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [![Alms](img/alms.jpg)](https://pixabay.com/en/asia-burma-faith-boy-buddha-1807519/)
 
 ### Geography
+* [**Marble**](https://marble.kde.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2326), [*paf*](http://portableapps.com/apps/education/marble_portable)
 * [**Panoply**](http://www.giss.nasa.gov/tools/panoply/) / [*sp*](http://www.softpedia.com/get/Science-CAD/Panoply.shtml) / made by NASA / portable by running `Panoply.jar` through JPortable
 * [**QGIS**](http://www.qgis.co.za/en/site/) / [*archgeek*](http://www.archaeogeek.com/portable-gis.html), [*docs*](http://portable-gis-docs.readthedocs.io/en/latest/index.html), [*stack*](http://gis.stackexchange.com/questions/176825/are-there-any-portable-versions-of-qgis), [*ground*](https://www.groundtruth.com.au/gis-on-a-stick), [*git*](https://github.com/groundtruth/GIS-on-a-Stick) / very large
 
