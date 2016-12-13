@@ -85,7 +85,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Audio Editors*](#audio-editors) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [*Office*](#office)
-> [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Viewers*](#document-viewers) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
+> [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Viewers*](#document-viewers) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*Scanning*](#scanning) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
 * [*Security*](#security)
 > [*Antivirus*](#antivirus) | [*Passwords*](#passwords) | [*Scanning*](#scanning)
@@ -386,6 +386,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Task Coach**](http://www.taskcoach.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2113), [*paf*](http://portableapps.com/apps/office/task_coach_portable)
 * [**ToDoList**](http://abstractspoon.weebly.com/) | [**Alt**](https://www.codeproject.com/Articles/5371/ToDoList-An-effective-and-flexible-way-to-keep-on) / [*tpfc*](https://www.portablefreeware.com/index.php?id=816), [*paf*](http://portableapps.com/apps/office/todolist_portable) / was removed from PortableApps at the dev's request
 * [**Todomoo**](http://todomoo.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2486)
+
+### Scanning
+* [**NAPS2**](https://www.naps2.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22493), [*thumb*](http://www.thumbapps.org/2015/08/NAPS2-Not-Another-PDF-Scanner-2-portable.html), [*sf*](https://sourceforge.net/projects/naps2/) / includes OCR
 
 ### TeX
 
