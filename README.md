@@ -85,10 +85,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Audio Editors*](#audio-editors) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [*Office*](#office)
-> [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Viewers*](#document-viewers) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*Scanning*](#scanning) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
+> [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
 * [*Security*](#security)
-> [*Antivirus*](#antivirus) | [*Passwords*](#passwords) | [*Scanning*](#scanning)
+> [*Antivirus*](#antivirus) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
 * [*Utilities*](#utilities)
 > [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Copiers*](#copiers) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Keyboard and Mouse*](#keyboard-and-mouse) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Utility Suites*](#utility-suites) | [*Window Managers*](#window-managers)
@@ -346,6 +346,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Desktop Publishing
 * [**Scribus**](https://www.scribus.net/) / [*tpfc*](https://www.portablefreeware.com/?id=658), [*paf*](http://portableapps.com/apps/office/scribus_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1325), [*sf*](https://sourceforge.net/projects/portablescribus/) / requires Ghostscript Portable for PDF functionality
 
+### Document Scanning
+* [**NAPS2**](https://www.naps2.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22493), [*thumb*](http://www.thumbapps.org/2015/08/NAPS2-Not-Another-PDF-Scanner-2-portable.html), [*sf*](https://sourceforge.net/projects/naps2/) / includes OCR
+
 ### Document Viewers
 * [**Evince**](https://wiki.gnome.org/Apps/Evince) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84294), [*paf*](http://portableapps.com/apps/office/evince_portable)
 * [**Foxit Reader**](https://www.foxitsoftware.com/products/pdf-reader/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1041), [*paf*](http://portableapps.com/apps/office/foxit_reader_portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Foxit%20Reader.ini)
@@ -387,9 +390,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**ToDoList**](http://abstractspoon.weebly.com/) | [**Alt**](https://www.codeproject.com/Articles/5371/ToDoList-An-effective-and-flexible-way-to-keep-on) / [*tpfc*](https://www.portablefreeware.com/index.php?id=816), [*paf*](http://portableapps.com/apps/office/todolist_portable) / was removed from PortableApps at the dev's request
 * [**Todomoo**](http://todomoo.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2486)
 
-### Scanning
-* [**NAPS2**](https://www.naps2.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22493), [*thumb*](http://www.thumbapps.org/2015/08/NAPS2-Not-Another-PDF-Scanner-2-portable.html), [*sf*](https://sourceforge.net/projects/naps2/) / includes OCR
-
 ### TeX
 
 [*biglist*](http://tex.stackexchange.com/questions/339/latex-editors-ides)
@@ -423,14 +423,14 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Antivirus
 * [**ClamWin**](http://www.clamwin.com/) | [**Sentinel**](http://clamsentinel.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=601), [*paf*](http://portableapps.com/apps/security/clamwin_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.38), [*site*](http://www.clamwin.com/content/view/118/89/) / not as good as commercial, closed-source av solutions / ClamSentinel adds real-time scanning capability
 
+### Malware Scanners
+* [**Emsisoft Emergency Kit**](https://www.emsisoft.com/en/software/eek/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2651)
+* [**Spybot – Search & Destroy**](https://www.safer-networking.org/private/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2047), [*paf*](http://portableapps.com/apps/security/spybot_portable)
+
 ### Passwords
 * [**KeePass**](http://keepass.info/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2829), [*classic*](https://www.portablefreeware.com/index.php?id=194), [*paf*](http://portableapps.com/apps/utilities/keepass_portable) / KeePass "Professional" is a rewrite of version 1 with more features and a .NET 2 requirement / both versions are free, open source and actively maintained
 * [**Password Safe**](https://pwsafe.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1197), [*paf*](http://portableapps.com/apps/security/password-safe-portable)
 * [**Sisma**](http://www.digitalconfidence.com/Sisma-Password-Manager.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2848)
-
-### Scanning
-* [**Emsisoft Emergency Kit**](https://www.emsisoft.com/en/software/eek/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2651)
-* [**Spybot – Search & Destroy**](https://www.safer-networking.org/private/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2047), [*paf*](http://portableapps.com/apps/security/spybot_portable)
 
 ## Utilities
 
