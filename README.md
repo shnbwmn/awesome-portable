@@ -127,7 +127,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Visual Studio Code**](https://code.visualstudio.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82783), [*paf*](https://github.com/garethflowers/vscode-portable)
 
 ### Web Servers
-* [**EasyPHP**](http://www.easyphp.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2144), [*pen*](https://pendriveapps.com/easyphp-portable-wamp-web-server/) / available as Devserver and Webserver variants
+* [**EasyPHP**](http://www.easyphp.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2144), [*pen*](https://pendriveapps.com/easyphp-portable-wamp-web-server/) / available as [Devserver](http://www.easyphp.org/easyphp-devserver.php) and [Webserver](http://www.easyphp.org/easyphp-webserver.php) variants
 * [**Laragon**](https://laragon.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82528), [*sf*](https://sourceforge.net/projects/laragon/), [*forum*](https://forum.laragon.org/), [*laravel*](https://laravel.com/) / focuses on Laravel PHP framework for webdev / available as stripped-down Lite version
 * [**MicroApache**](https://custodesblog.wordpress.com/2013/03/25/microapache-2-0-64-with-php-5-2-17-for-windows/) / [*sf*](https://sourceforge.net/projects/microapache/) / [DokuWiki On A Stick](#wiki) version has up-to-date Apache and PHP
 * [**Neard**](https://github.com/crazy-max/neard) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82512) / very large in size / requires admin rights
