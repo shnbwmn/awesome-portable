@@ -142,7 +142,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Geography
 * [**Panoply**](http://www.giss.nasa.gov/tools/panoply/) / [*sp*](http://www.softpedia.com/get/Science-CAD/Panoply.shtml) / made by NASA / portable by running `Panoply.jar` through JPortable
-* [**QGIS**](http://www.qgis.co.za/en/site/) / [*archgeek*](http://www.archaeogeek.com/portable-gis.html), [*docs*](http://portable-gis-docs.readthedocs.io/en/latest/index.html), [*stack*](http://gis.stackexchange.com/questions/176825/are-there-any-portable-versions-of-qgis), [*ground*](https://www.groundtruth.com.au/gis-on-a-stick), [*git*](https://github.com/groundtruth/GIS-on-a-Stick) / very large in size
+* [**QGIS**](http://www.qgis.co.za/en/site/) / [*archgeek*](http://www.archaeogeek.com/portable-gis.html), [*docs*](http://portable-gis-docs.readthedocs.io/en/latest/index.html), [*stack*](http://gis.stackexchange.com/questions/176825/are-there-any-portable-versions-of-qgis), [*ground*](https://www.groundtruth.com.au/gis-on-a-stick), [*git*](https://github.com/groundtruth/GIS-on-a-Stick) / very large
 
 ### Medical
 
