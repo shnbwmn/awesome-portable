@@ -15,11 +15,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [*tpfc*](https://www.portablefreeware.com/about.php), [*paf*](http://portableapps.com/about/what_is_a_portable_app)
 
-* **No installation required:** can be unzipped | [extracted](https://www.portablefreeware.com/faq.php#extract) | files copied from an installation
-* Runs **self-contained:** makes no changes to host computer outside of program folder
-* Saves **main settings | extensions to program directory:** not home directory | AppData | registry
-* **No third-party dependencies:** with some exceptions, like [.NET](https://www.microsoft.com/net/download/framework) | [Visual C++](https://support.microsoft.com/en-za/kb/2977003) | admin rights where necessary
-* [**Stealth:**](https://www.portablefreeware.com/faq.php#stealth) no registry or filesystem items left on the host PC after program exit / ideal
+* **No installation required** / can be unzipped, [extracted](https://www.portablefreeware.com/faq.php#extract), or files copied from an installation
+* Runs **self-contained** / makes no changes to host computer outside of program folder
+* Saves **main settings & extensions to program directory** / not home directory, AppData, or the registry
+* **No third-party dependencies** / with some exceptions, like [.NET](https://www.microsoft.com/net/download/framework), [Visual C++](https://support.microsoft.com/en-za/kb/2977003), or admin rights where necessary
+* [**Stealth**](https://www.portablefreeware.com/faq.php#stealth) / no registry or filesystem items left on the host PC after program exit / optional but ideal
 
 **_Testing for portability:_**
 
