@@ -365,7 +365,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**WinDJView**](http://windjview.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=10115), [*paf*](http://portableapps.com/apps/office/windjview_portable), [*yap*](http://rolandtoth.hu/yaP/#examples/WinDjView.ini)
 
 ### Finance
-* [**GnuCash**](http://www.gnucash.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1421), [*paf*](http://portableapps.com/apps/office/gnucash_portable)
+* [**GnuCash**](http://www.gnucash.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1421), [*paf*](http://portableapps.com/apps/office/gnucash_portable) / personal and small-business accounting
 * [**HomeBank**](http://homebank.free.fr/index.php) / [*site*](http://homebank.free.fr/downloads.php), [*thumb*](http://www.thumbapps.org/2015/10/Homebank-personal-finance-manager-portable.html), [*paf*](http://portableapps.com/node/19551), [*wpp*](http://www.winpenpack.com/en/download.php?view.1104) / installer includes portable option
 * [**Money Manager Ex**](http://www.moneymanagerex.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=924), [*paf*](http://portableapps.com/apps/office/money_manager_ex_portable)
 
