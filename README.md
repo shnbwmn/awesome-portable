@@ -69,28 +69,28 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [*top*](#awesome-portable-)
 
-* [*Development*](#development)
+* [***Development***](#development)
 > [*IDEs*](#ides) | [*Resource Editors*](#resource-editors) | [*Source Control*](#source-control) | [*Text Editors*](#text-editors) | [*Web Servers*](#web-servers)
 
-* [*Education*](#education)
+* [***Education***](#education)
 > [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
 
-* [*Graphics*](#graphics)
+* [***Graphics***](#graphics)
 > [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*GIF*](#gif) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors) | [*Viewers*](#viewers)
 
-* [*Internet*](#internet)
+* [***Internet***](#internet)
 > [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*Voice Chat*](#voice-chat)
 
-* [*Multimedia*](#multimedia)
+* [***Multimedia***](#multimedia)
 > [*Audio Editors*](#audio-editors) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
-* [*Office*](#office)
+* [***Office***](#office)
 > [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
-* [*Security*](#security)
+* [***Security***](#security)
 > [*Antivirus*](#antivirus) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
-* [*Utilities*](#utilities)
+* [***Utilities***](#utilities)
 > [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Copiers*](#copiers) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Keyboard and Mouse*](#keyboard-and-mouse) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Utility Suites*](#utility-suites) | [*Window Managers*](#window-managers)
 
 ## Development
