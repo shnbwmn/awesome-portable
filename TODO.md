@@ -9,6 +9,7 @@
 - [ ] [**PiggyDB**](https://piggydb.net/)
 - [ ] [**Cygwin**](https://www.cygwin.com/) / [*paf*](https://github.com/GathSystems/CygwinPortable)
 - [ ] bookstack/mediawiki, etc: include if can be used via portable server??
+- [ ] Calendar category, thunderbird, http://www.horstmuc.de/wrem.htm
 
 ## Links
 
