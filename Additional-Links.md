@@ -17,11 +17,6 @@
 
 ### Development
 
-#### Source Control
-* [Git](https://git-for-windows.github.io/) - alternative homepage for Windows build of Git
-  * [Differences between Git-scm, msysGit & Git for Windows](http://stackoverflow.com/questions/22310007/differences-between-git-scm-msysgit-git-for-windows/22310210#22310210?newreg=4dd14f94819e4a60aa0d711f16c75bbd)
-  * [On Chocolatey](https://chocolatey.org/packages/git)
-
 ### Education
   
 #### Statistics
