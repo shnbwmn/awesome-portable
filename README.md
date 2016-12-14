@@ -100,6 +100,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [![Computer](img/computer.jpg)](https://pixabay.com/en/computer-computer-keyboard-gaming-1844996/)
 
 ### IDEs
+* [Eclipse]
 * [**Geany**](https://www.geany.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=7645), [*paf*](http://portableapps.com/apps/development/geany_portable), [*sf*](https://sourceforge.net/projects/geanyportable/) / actually a text editor with basic IDE features
 * [**Lazarus**](http://www.lazarus-ide.org/) | [**Sourceforge**](https://sourceforge.net/projects/lazarus/) / [*paf*](http://portableapps.com/node/50162), [*sf*](https://sourceforge.net/projects/lazarusportable/), [*site*](http://wiki.freepascal.org/Installing_Lazarus#Installing_Lazarus_on_Portable_USB_Driver), [*forum*](http://forum.lazarus.freepascal.org/index.php?topic=31371.0), [*wpp*](http://www.winpenpack.com/main/download.php?view.727)
 
@@ -140,6 +141,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*contents*](#contents), [*top*](#awesome-portable-)
 
 [![Alms](img/alms.jpg)](https://pixabay.com/en/asia-burma-faith-boy-buddha-1807519/)
+
+### Genealogy
+* [Gramps]
+* [SCION]
 
 ### Geography
 * [**Marble**](https://marble.kde.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2326), [*paf*](http://portableapps.com/apps/education/marble_portable)
@@ -248,9 +253,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Vivaldi**](https://vivaldi.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=73125), [*thumb*](http://www.thumbapps.org/2015/02/vivaldi-108338-tech-preview-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Internet/Vivaldi/)
 
 ### Download Managers
-* [**Advanced Wget GUI**](https://github.com/Nenirey/AWGG) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=77772), [*sp*](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Internet/Others/Portable-AWGG.shtml), [*vh*](http://www.videohelp.com/software/AWGG)
+* [**Advanced Wget GUI**](https://github.com/Nenirey/AWGG) | [**Alt**](https://sites.google.com/site/awggproject/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=77772), [*sp*](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Internet/Others/Portable-AWGG.shtml), [*vh*](http://www.videohelp.com/software/AWGG)
 * [**EagleGet**](http://www.eagleget.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2597)
-* [**WinWGet**](http://winwget.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20900), [*paf*](http://portableapps.com/apps/internet/winwget_portable), [*astatix*](http://www.astatix.com/tools/winwget.php)
+* [**WinWGet**](http://winwget.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20900), [*paf*](http://portableapps.com/apps/internet/winwget_portable), [*astatix*](http://www.astatix.com/tools/winwget.php), [*sf*](https://sourceforge.net/projects/winwget/) / see TPFC thread for Wget-related resources
 
 ### Email
 * [**Sylpheed**](http://sylpheed.sraoss.jp/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1112), [*paf*](http://portableapps.com/apps/internet/sylpheed-portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1113)
@@ -280,7 +285,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Torrents
 * [**PicoTorrent**](http://www.picotorrent.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79128)
-* [**qBittorrent**](http://qbittorrent.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2406), [*paf*](http://portableapps.com/apps/internet/qbittorrent_portable)
+* [**qBittorrent**](http://qbittorrent.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2406), [*paf*](http://portableapps.com/apps/internet/qbittorrent_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1358)
 * [**Tixati**](https://www.tixati.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2571), [*site*](https://www.tixati.com/download/portable.html)
 * [**Transmission-Qt**](https://sourceforge.net/projects/trqtw/) | [**Bt**](https://transmissionbt.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2725), [*paf*](http://portableapps.com/apps/internet/transmission-portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Transmission/)
 
@@ -392,6 +397,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**KeyNote**](https://sourceforge.net/projects/keynote/) | [**NF**](https://github.com/dpradov/keynote-nf) / [*tpfc*](https://www.portablefreeware.com/?id=755), [*sf*](https://sourceforge.net/projects/keynote-newfeat/) / KeyNote NF is an active fork of the dead KeyNote with extended features
 * [**MemPad**](http://www.horstmuc.de/wmem.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=889) / can function as diary with auto-added dates
 * [**The Guide**](http://theguide.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1499), [*paf*](http://portableapps.com/apps/office/the_guide_portable), [*pen*](https://pendriveapps.com/the-guide/) / last updated 2008
+* [**TreeLine**](http://treeline.bellz.org/) / [*tpfc*](https://www.portablefreeware.com/?id=971)
 * [**TreePad**](http://www.treepad.com/treepadfreeware/) / [*tpfc*](https://www.portablefreeware.com/?id=1734), [*site*](http://www.treepad.com/docs/tpp/manual/documents/EF4D74B8A82E2967538FE68A60B39269B954DE12.html) / Pro version available 
 
 ### PIMs
