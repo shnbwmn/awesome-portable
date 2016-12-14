@@ -152,10 +152,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Religion
 * [**Bible Analyzer**](http://www.bibleanalyzer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2704)
-* [**Bible Lightning**](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) | [**Console**](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/Portable-BibleLightning-Console.shtml) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79666), [*ff*](http://www.freewarefiles.com/BibleLightning_program_91140.html) / fast KJV lookup / homepage offline
+* [**Bible Lightning**](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) | [**Console**](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/Portable-BibleLightning-Console.shtml) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79666), [*ff*](http://www.freewarefiles.com/BibleLightning_program_91140.html), [*pen*](https://pendriveapps.com/portable-bible-lightning/) / fast KJV lookup / [homepage](http://www.biblelightning.org/) offline
 * [**BPBible**](https://github.com/bpbible/bpbible) / [*tpfc*](https://www.portablefreeware.com/?id=1597), [*paf*](http://portableapps.com/apps/education/bpbible_portable)
 * [**Davar4**](http://www.davar3.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79667)
-* [**Ready Bible Study and Reference**](http://michaels-tech-notes.weebly.com/blog/category/religion) / settings saved to INIs within program directory
+* [**Ready Bible Study and Reference**](http://michaels-tech-notes.weebly.com/blog/category/religion) / [*sp*](http://www.softpedia.com/get/Others/Home-Education/Ready-Bible-Study-and-Reference.shtml), [*ff*](http://www.freewarefiles.com/Ready-Bible-Study-and-Reference_program_107176.html) / settings saved to INIs within program directory
 * [**The Word**](http://www.theword.net/index.php?) / [*tpfc*](https://www.portablefreeware.com/?id=1248)
 
 ### Statistics
@@ -514,7 +514,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Launchers
 
-[*collections*](#collections:)
+[*collections*](#*collections:*)
 
 * [**ASuite**](http://www.salvadorsoftware.com/asuite) / [*tpfc*](https://www.portablefreeware.com/?id=692)
 * [**FARR**](https://www.donationcoder.com/Software/Mouser/findrun/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
