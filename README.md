@@ -11,7 +11,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [![Elephant](img/elephant.jpg)](https://pixabay.com/en/elephant-animals-asia-large-bright-1822636/)
 
-**_Portability:_**
+#### *Portability:*
 
 [*tpfc*](https://www.portablefreeware.com/about.php), [*paf*](http://portableapps.com/about/what_is_a_portable_app)
 
@@ -21,7 +21,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * **No third-party dependencies** / with some exceptions, like [.NET](https://www.microsoft.com/net/download/framework), [Visual C++](https://support.microsoft.com/en-za/kb/2977003), or admin rights where necessary
 * [**Stealth**](https://www.portablefreeware.com/faq.php#stealth) / no registry or filesystem items left on the host PC after program exit / optional but ideal
 
-**_Testing for portability:_**
+#### *Testing for portability:*
 
 [*methods*](https://www.portablefreeware.com/forums/viewtopic.php?t=21885), [*mindmap*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=7718), [*v2*](https://www.portablefreeware.com/forums/viewtopic.php?p=82375#p82375)
 
@@ -33,7 +33,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Virtualbox**](https://www.virtualbox.org/) / [*vbox*](http://www.vbox.me/) / run programs in a clean Windows installation to check for dependencies / requires admin rights
 * [**Windows Registry Recovery**](http://www.mitec.cz/wrr.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1147) / alternative RegHive viewer
 
-**_Tools:_**
+#### *Tools:*
 * [**Adobe Flash**](http://www.adobe.com/software/flash/about/) | [**Portable**](https://rejzor.wordpress.com/portable-adobe-flash/) | [**Alt**](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) / latest Flash DLLs for portable browsers
 * [**Ghostscript**](http://www.ghostscript.com/) | [**Portable**](http://portableapps.com/apps/utilities/ghostscript_portable) / Postscript interpreter required by some PDF programs
 * [**Java**](https://www.java.com/en/) | [**JPortable**](http://portableapps.com/apps/utilities/java_portable) | [**Launcher**](http://portableapps.com/apps/utilities/java_portable_launcher) / run JAR executables portably
@@ -42,13 +42,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Universal Extractor**](http://www.lupopensuite.com/db/universalextractor.htm) | [**Bioruebe**](http://bioruebe.com/dev/uniextract/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2764) / extracts most program installers
 * [**WinPCap**](http://www.winpcap.org/) / required via installation or `wpcap.dll`, `Packet.dll` by some network programs
 
-**_Portabilisation projects:_**
+#### *Portabilisation projects:*
 * [**PortableApps**](http://portableapps.com/) / [*paf*](http://portableapps.com/development/portableapps.com_format)
 * [**ThumbApps**](http://www.thumbapps.org/) / [*sf*](https://sourceforge.net/projects/thumbapps/) / uses PortableApps format
 * [**winPenPack**](http://www.winpenpack.com/en/index.php)
 * [**yaP**](http://rolandtoth.hu/yaP/) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138)
 
-**_Collections:_**
+#### *Collections:*
 
 [*symenu*](#launchers)
 
@@ -57,7 +57,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**PortableApps Platform**](http://portableapps.com/download) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1056)
 * [**winPenPack Net Menu**](http://www.winpenpack.com/en/download.php?view.1303) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2264)
 
-**_Sites:_**
+#### *Sites:*
 
 [*utilities*](#utility-suites)
 
@@ -152,7 +152,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Religion
 * [**Bible Analyzer**](http://www.bibleanalyzer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2704)
-* [**Bible Lightning**](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79666) / fast KJV lookup
+* [**Bible Lightning**](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Education/BibleLightning-Portable.shtml) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79666) / fast KJV lookup / main website offline
 * [**BPBible**](https://github.com/bpbible/bpbible) / [*tpfc*](https://www.portablefreeware.com/?id=1597), [*paf*](http://portableapps.com/apps/education/bpbible_portable)
 * [**Davar4**](http://www.davar3.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79667)
 * [**Ready Bible Study and Reference**](http://michaels-tech-notes.weebly.com/blog/category/religion) / settings saved to INIs within program directory
