@@ -225,11 +225,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**RawTherapee**](http://rawtherapee.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=6669), [*paf*](http://portableapps.com/apps/graphics_pictures/rawtherapee-portable), [*rawpedia*](http://50.87.144.65/~rt/w/index.php?title=Making_a_Portable_Installation)
 
 ### Screen Capture
-* [**Greenshot**](http://getgreenshot.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2340), [*site*](http://getgreenshot.org/faq/will-there-ever-be-a-portable-apps-version-of-greenshot/) / dev distributes PAF version as well / not on PortableApps site due to .NET 2 requirement
+* [**Greenshot**](http://getgreenshot.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2340), [*site*](http://getgreenshot.org/faq/will-there-ever-be-a-portable-apps-version-of-greenshot/), [*pen*](https://pendriveapps.com/free-screen-capture-tool-greenshot/) / dev distributes PAF version as well / not on PortableApps site due to .NET 2 requirement
 * [**Lightscreen**](https://lightscreen.com.ar/) / [*tpfc*](https://www.portablefreeware.com/?id=1959), [*paf*](http://portableapps.com/apps/utilities/lightscreen_portable)
 * [**PicPick**](http://ngwin.com/picpick) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1496), [*paf*](http://portableapps.com/apps/graphics_pictures/picpick-portable) / pixel ruler, magnifier, whiteboard, etc
 * [**Screenshot Captor**](https://www.donationcoder.com/Software/Mouser/screenshotcaptor/) / [*tpfc*](https://www.portablefreeware.com/?id=2412)
-* [**ShareX**](https://getsharex.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2409) / multiple image capture and sharing methods
+* [**ShareX**](https://getsharex.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2409), [*steam*](http://store.steampowered.com/app/400040/) / multiple image capture and sharing methods
 * [**Snipaste**](https://www.snipaste.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2801)
 
 ### Vector Editors
@@ -282,7 +282,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**PicoTorrent**](http://www.picotorrent.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79128)
 * [**qBittorrent**](http://qbittorrent.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2406), [*paf*](http://portableapps.com/apps/internet/qbittorrent_portable)
 * [**Tixati**](https://www.tixati.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2571), [*site*](https://www.tixati.com/download/portable.html)
-* [**Transmission-Qt**](https://sourceforge.net/projects/trqtw/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2725), [*paf*](http://portableapps.com/apps/internet/transmission-portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Transmission/)
+* [**Transmission-Qt**](https://sourceforge.net/projects/trqtw/) | [Bt](https://transmissionbt.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2725), [*paf*](http://portableapps.com/apps/internet/transmission-portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Transmission/)
 
 ### Voice Chat
 * [**Mumble**](http://wiki.mumble.info/wiki/Main_Page) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=9770), [*paf*](http://portableapps.com/apps/internet/mumble-portable)
@@ -384,7 +384,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Office Suites
 * [**LibreOffice**](https://www.libreoffice.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2055), [*paf*](http://portableapps.com/apps/office/libreoffice_portable)
-* [**OpenOffice**](https://www.openoffice.org/) / [*tpfc*](https://www.portablefreeware.com/?id=212), [*paf*](http://portableapps.com/apps/office/openoffice_portable)
+* [**OpenOffice**](https://www.openoffice.org/) / [*tpfc*](https://www.portablefreeware.com/?id=212), [*paf*](http://portableapps.com/apps/office/openoffice_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1341)
 * [**SoftMaker FreeOffice**](http://www.freeoffice.com/en/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20457), [*site*](http://www.freeoffice.com/en/tips-and-tricks-portable-installation)
 
 ### Outliners
