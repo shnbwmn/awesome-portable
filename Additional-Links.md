@@ -14,19 +14,18 @@
 * [**CodySafe**](http://www.codyssey.com/products/codysafe.html) / based off either PortableApps or LibreKey / looks dodgy
 * [**geek.menu**](http://geek-menu.sourceforge.net/) / [*sf*](https://sourceforge.net/projects/geek-menu/) / outdated / based off PortableApps
 * [**WinInizio PenSuite**](http://pensuite.wininizio.it/eng/) / seems outdated and not worth including
-  
-#### Statistics
-* RStudio
+ 
+
+RStudio
  * [How to use portable versions of R and RStudio](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Portable%20versions%20of%20R%20and%20RStudio.pdf) - need to test this
 
-#### Browsers
-* Vivaldi
+Vivaldi
   * https://forum.vivaldi.net/topic/11513/report-portable-installation-is-not-portable 
  
-#### Text Editors
-* SynWrite
+SynWrite
  * [TotalCommander plugin](http://totalcmd.net/plugring/syn2.html)
-* Visual Studio Code
+ 
+Visual Studio Code
  * https://visualstudio.uservoice.com/forums/293070-visual-studio-code/suggestions/7760061-visual-studio-code-portable
  * See comment by Dawid on July 18, 2015 -> test against TPFC thread findings
  * https://code.visualstudio.com/docs/setup/windows
