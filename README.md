@@ -100,7 +100,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [![Computer](img/computer.jpg)](https://pixabay.com/en/computer-computer-keyboard-gaming-1844996/)
 
 ### IDEs
-* [Eclipse]
+* [**Eclipse**](http://www.eclipse.org/) / [*paf*](http://portableapps.com/node/53284), [*wpp*](http://www.winpenpack.com/en/download.php?view.591), [*sf*](https://sourceforge.net/projects/eclipseportable/)
 * [**Geany**](https://www.geany.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=7645), [*paf*](http://portableapps.com/apps/development/geany_portable), [*sf*](https://sourceforge.net/projects/geanyportable/) / actually a text editor with basic IDE features
 * [**Lazarus**](http://www.lazarus-ide.org/) | [**Sourceforge**](https://sourceforge.net/projects/lazarus/) / [*paf*](http://portableapps.com/node/50162), [*sf*](https://sourceforge.net/projects/lazarusportable/), [*site*](http://wiki.freepascal.org/Installing_Lazarus#Installing_Lazarus_on_Portable_USB_Driver), [*forum*](http://forum.lazarus.freepascal.org/index.php?topic=31371.0), [*wpp*](http://www.winpenpack.com/main/download.php?view.727)
 
@@ -252,11 +252,14 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Browsers
 * [**Google Chrome**](https://www.google.com/chrome/browser/desktop/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2074), [*paf*](http://portableapps.com/apps/internet/google_chrome_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
-* [**Mozilla Firefox**](https://www.mozilla.org/en-US/firefox/new/) / [*tpfc*](https://www.portablefreeware.com/?id=132), [*paf*](http://portableapps.com/apps/internet/firefox_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
+* [**Mozilla Firefox**](https://www.mozilla.org/en-US/firefox/new/) | [**DownThemAll**](https://addons.mozilla.org/en-US/firefox/addon/downthemall/) | [**Sage**](https://addons.mozilla.org/en-US/firefox/addon/sage/) / [*tpfc*](https://www.portablefreeware.com/?id=132), [*paf*](http://portableapps.com/apps/internet/firefox_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
 * [**SlimJet**](http://www.slimjet.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2633)
 * [**Vivaldi**](https://vivaldi.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=73125), [*thumb*](http://www.thumbapps.org/2015/02/vivaldi-108338-tech-preview-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Internet/Vivaldi/)
 
 ### Download Managers
+
+[*downthemall*](#browsers)
+
 * [**Advanced Wget GUI**](https://github.com/Nenirey/AWGG) | [**Alt**](https://sites.google.com/site/awggproject/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=77772), [*sp*](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Internet/Others/Portable-AWGG.shtml), [*vh*](http://www.videohelp.com/software/AWGG)
 * [**EagleGet**](http://www.eagleget.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2597)
 * [**WinWGet**](http://winwget.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20900), [*paf*](http://portableapps.com/apps/internet/winwget_portable), [*astatix*](http://www.astatix.com/tools/winwget.php), [*sf*](https://sourceforge.net/projects/winwget/) / see TPFC thread for Wget-related resources
@@ -282,10 +285,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### RSS
 
-[*thunderbird*](#email), [*ghacks*](http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-reader-after-a-year/)
+[*thunderbird*](#email), [*sage*](#browsers), [*ghacks*](http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-reader-after-a-year/)
 
 * [**QuiteRSS**](https://quiterss.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2749), [*paf*](http://portableapps.com/apps/internet/quiterss-portable)
-* [RSSOwl]
+* [**RSSOwl**](http://www.rssowl.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=975), [*purkdell*](http://purkdellapps.blogspot.co.za/2016/06/rssowl-portable.html), [*wpp*](http://www.winpenpack.com/en/download.php?view.973), [*paf*](http://portableapps.com/node/36808), [*discuss*](https://sourceforge.net/p/rssowl/discussion/296910/thread/a534d2e6/), [*git*](https://github.com/rssowl/rssowl-portable) / requires Java or JPortable
 
 ### Torrents
 * [**PicoTorrent**](http://www.picotorrent.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79128)
@@ -305,7 +308,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Audio Editors
 * [**Audacity**](http://www.audacityteam.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=648), [*paf*](http://portableapps.com/apps/music_video/audacity_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.37)
-* [**ocenaudio**](http://www.ocenaudio.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2799)
+* [**ocenaudio**](http://www.ocenaudio.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2799), [*yap*](http://rolandtoth.hu/yaP/#examples/Ocenaudio.ini)
 * [**Wavosaur**](http://www.wavosaur.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1187)
 
 ### Media Conversion
