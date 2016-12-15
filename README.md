@@ -175,7 +175,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [![Cactus](img/cactus.jpg)](https://pixabay.com/en/cactus-orange-view-perspective-1873977/)
 
 ### 3D
-* [**Blender**](https://www.blender.org/) / [*tpfc*](https://www.portablefreeware.com/?id=660), [*paf*](http://portableapps.com/apps/graphics_pictures/blender_portable), [*blend*](https://www.blender.org/manual/getting_started/installing/configuration/directories.html)
+* [**Blender**](https://www.blender.org/) / [*tpfc*](https://www.portablefreeware.com/?id=660), [*paf*](http://portableapps.com/apps/graphics_pictures/blender_portable), [*blend*](https://www.blender.org/manual/getting_started/installing/configuration/directories.html), [*wpp*](http://www.winpenpack.com/main/download.php?view.41)
 * [**MagicaVoxel**](https://ephtracy.github.io/index.html?page=mv_main) | [**Viewer**](https://ephtracy.github.io/index.html?page=mv_renderer) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84300)
 
 ### Animation
