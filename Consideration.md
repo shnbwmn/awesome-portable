@@ -2,6 +2,7 @@
 # Consideration
 
 **_Other sites:_**
+* [**PurkdellApps**](http://purkdellapps.blogspot.co.za/) / site unfortunately no longer maintained / RSSOwl Portable, etc
 * [**TinyApps**](https://tinyapps.org/) / outdated and more command-line based
 * [**Xetbox**](http://xetbox.com/) / indicates whether a portable version is available
 
