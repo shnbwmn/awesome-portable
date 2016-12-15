@@ -476,7 +476,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [*contents*](#contents), [*top*](#awesome-portable-)
 
-[![Yamaha](img/yamaha.jpg)](https://pixabay.com/en/game-controller-joystick-joypad-1532747/)
+[![Yamaha](img/yamaha.jpg)](https://pixabay.com/en/yamaha-motorcycle-details-1653663/)
 
 ### Archivers
 * [**7-Zip**](http://www.7-zip.org/) / [*tpfc*](https://www.portablefreeware.com/?id=796), [*paf*](http://portableapps.com/apps/utilities/7-zip_portable)
