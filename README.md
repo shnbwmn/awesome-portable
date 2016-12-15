@@ -291,10 +291,12 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**RSSOwl**](http://www.rssowl.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=975), [*purkdell*](http://purkdellapps.blogspot.co.za/2016/06/rssowl-portable.html), [*wpp*](http://www.winpenpack.com/en/download.php?view.973), [*paf*](http://portableapps.com/node/36808), [*discuss*](https://sourceforge.net/p/rssowl/discussion/296910/thread/a534d2e6/), [*git*](https://github.com/rssowl/rssowl-portable) / requires Java or JPortable
 
 ### Torrents
+* [**Bit Che**](https://convivea.com/product.php?id=2) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=21658), [*yap*](http://rolandtoth.hu/yaP/#examples/Bit%20Che.ini)
 * [**PicoTorrent**](http://www.picotorrent.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79128)
 * [**qBittorrent**](http://qbittorrent.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2406), [*paf*](http://portableapps.com/apps/internet/qbittorrent_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1358)
 * [**Tixati**](https://www.tixati.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2571), [*site*](https://www.tixati.com/download/portable.html)
 * [**Transmission-Qt**](https://sourceforge.net/projects/trqtw/) | [**Bt**](https://transmissionbt.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2725), [*paf*](http://portableapps.com/apps/internet/transmission-portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Transmission/)
+* [**µTorrent**](http://www.utorrent.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=483), [*paf*](http://portableapps.com/apps/internet/utorrent_portable)
 
 ### Voice Chat
 * [**Mumble**](http://wiki.mumble.info/wiki/Main_Page) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=9770), [*paf*](http://portableapps.com/apps/internet/mumble-portable)
