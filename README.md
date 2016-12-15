@@ -5,7 +5,7 @@
 
 *More to come! It will take a while!*
 
-Create a [**Pull Request**](https://github.com/shnbwmn/awesome-portable/pulls) to add programs | Start an [**Issue**](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions | [**Contents**](#contents)
+[**Contents**](#contents) | Create a [**Pull Request**](https://github.com/shnbwmn/awesome-portable/pulls) to add programs | Start an [**Issue**](https://github.com/shnbwmn/awesome-portable/issues) for corrections or discussions
 
 _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-portable-games) | [**Awesome Online**](https://github.com/shnbwmn/awesome-online) | [**Awesome Mobile**](https://github.com/shnbwmn/awesome-mobile)
 
