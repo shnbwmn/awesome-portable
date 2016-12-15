@@ -391,7 +391,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Notetaking
 
-[*tagspaces*](#file-tagging)
+[*tagspaces*](#file-tagging), [*outliners*](#outliners)
 
 * [**CintaNotes**](http://cintanotes.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1468), [*paf*](http://portableapps.com/apps/office/cintanotes-portable) / Pro version available
 * [**Flashnote**](http://softvoile.com/flashnote/) / [*tpfc*](https://www.portablefreeware.com/?id=2775)
