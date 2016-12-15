@@ -14,6 +14,7 @@
 - [ ] add code tags indicating developer with more than one program, eg softwareok, horst, etc?
 - [ ] [**DateTrac**](http://www.freewarefiles.com/Datetrac-V_program_25608.html) / mentioned as being better than Date Reminder by Horst on TPFC
 - [ ] [**MetaPath**](http://www.flos-freeware.ch/archive.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1701) / file manager that works with Notepad2
+- [ ] [**Midi Player**](http://falcosoft.hu/softwares.html#midiplayer) / [*yap*](http://rolandtoth.hu/yaP/#examples/Midi%20Player.ini)
 
 ## Links
 
