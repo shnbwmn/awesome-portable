@@ -114,6 +114,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**SmartGit**](http://www.syntevo.com/smartgit/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84327), [*avi*](http://aviaryan.in/blog/smartgit-portable-github-client.html)
 
 ### Text Editors
+* [**AkelPad**](http://akelpad.sourceforge.net/en/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=952), [*paf*](http://portableapps.com/apps/development/akelpad_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.700), [*plugins*](http://akelpad.sourceforge.net/en/plugins.php) / extremely lightweight
 * [**Atom**](https://atom.io/) / [*tpfc*](https://www.portablefreeware.com/?id=2793), [*paf*](https://github.com/garethflowers/atom-portable)
 * [**Brackets**](http://brackets.io/) / [*tpfc*](https://github.com/sagiegurari/brackets-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Brackets.ini) / geared toward web development
 * [**CuteMarkEd**](https://cloose.github.io/CuteMarkEd/) / [*paf*](http://portableapps.com/apps/office/cutemarked-portable)
@@ -352,6 +353,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [*pim*](#pims), [*thunderbird*](#email)
 
+* [**Calendar**](http://www.horstmuc.de/wrem.htm#calendar) / submit to TPFC
+* [**Date Reminder**](http://www.horstmuc.de/wrem.htm) / [*tpfc*](https://www.portablefreeware.com/?id=831), [*pen*](https://pendriveapps.com/date-reminder/)
 * [**Rainlendar Lite**](http://www.rainlendar.net/cms/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=443) / Pro version available
 * [**UK's Kalender**](http://www.ukrebs-software.de/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=647)
 
@@ -359,6 +362,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [*mempad*](#outliners)
 
+* [**Hazama**](https://krrr.github.io/hazama) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79899)
 * [**RedNotebook**](http://rednotebook.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2086), [*paf*](http://portableapps.com/apps/office/rednotebook_portable)
 
 ### Desktop Publishing
@@ -369,6 +373,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*viewers*](#image-viewers)
 
 * [**NAPS2**](https://www.naps2.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22493), [*thumb*](http://www.thumbapps.org/2015/08/NAPS2-Not-Another-PDF-Scanner-2-portable.html), [*sf*](https://sourceforge.net/projects/naps2/) / includes OCR
+* [**WinScan2PDF**](http://www.softwareok.com/?Microsoft/WinScan2PDF) / [*tpfc*](https://www.portablefreeware.com/?id=2051), [*paf*](http://portableapps.com/node/42115), [*pen*](https://pendriveapps.com/scan-files-to-pdf-winscan2pdf/)
 
 ### Document Viewers
 * [**Evince**](https://wiki.gnome.org/Apps/Evince) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84294), [*paf*](http://portableapps.com/apps/office/evince_portable)
@@ -535,6 +540,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**KeyPirinha**](http://keypirinha.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81346), [*docs*](http://keypirinha.com/install.html)
 * [**PopSel**](http://www.horstmuc.de/wpop.htm) / [*tpfc*](https://www.portablefreeware.com/?id=2679)
 * [**Portable Start Menu**](http://www.aignes.com/psmenu.htm)/ [*tpfc*](https://www.portablefreeware.com/?id=1365)
+* [**PowerPro**](http://powerpro.cresadu.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=209)
 * [**PStart**](http://www.pegtop.net/start/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=374) / last updated 2007 / check out ASuite for a more up-to-date alternative
 * [**Qsel**](http://www.horstmuc.de/wqsel.htm) / [*tpfc*](https://www.portablefreeware.com/?id=1133)
 * [**Quick Access Popup**](http://www.quickaccesspopup.com/) | [**Folders Popup**](http://code.jeanlalonde.ca/folderspopup/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2765), [*fp*](https://www.portablefreeware.com/?id=2557) / QAP supercedes Folders Popup / created with AHK
@@ -567,7 +573,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Listary**](http://www.listary.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1680), [*paf*](http://portableapps.com/apps/utilities/listary_portable) / Pro version available with more features
 
 ### Time
+* [**TheAeroClock**](http://www.softwareok.com/?seite=Freeware/TheAeroClock) / [*tpfc*](https://www.portablefreeware.com/?id=2209)
+* [**TimeSync**](http://www.horstmuc.de/wrem.htm#timesync) / [*tpfc*](https://www.portablefreeware.com/?id=836) / sync with NIST server
 * [**Titlebar Date-Time**](http://www.whisperingpinessoftware.com/tbdt.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84159)
+* [**TTclock**](http://www.horstmuc.de/wrem.htm#ttclock) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=17670) / desktop clock, timer, stopwatch, alarm
 
 ### Uninstallers
 * [**Bulk Crap Uninstaller**](http://klocmansoftware.weebly.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=77953)
