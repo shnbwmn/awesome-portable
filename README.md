@@ -85,7 +85,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Audio Editors*](#audio-editors) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [***Office***](#office)
-> [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
+> [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
 * [***Security***](#security)
 > [*Antivirus*](#antivirus) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
@@ -278,7 +278,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### RSS
 
-[*ghacks*](http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-reader-after-a-year/)
+[*thunderbird*](#email), [*ghacks*](http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-reader-after-a-year/)
 
 * [**QuiteRSS**](https://quiterss.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2749), [*paf*](http://portableapps.com/apps/internet/quiterss-portable)
 * [RSSOwl]
@@ -347,6 +347,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*contents*](#contents), [*top*](#awesome-portable-)
 
 [![Building](img/building.jpg)](https://pixabay.com/en/architecture-buildings-sky-1842614/)
+
+### Calendar
+
+[*pim*](#pims), [*thunderbird*](#email)
+
+* [**Rainlendar Lite**](http://www.rainlendar.net/cms/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=443) / Pro version available
+* [**UK's Kalender**](http://www.ukrebs-software.de/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=647)
 
 ### Diary
 
