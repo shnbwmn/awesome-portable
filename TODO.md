@@ -11,6 +11,7 @@
 - [ ] bookstack/mediawiki, etc: include if can be used via portable server??
 - [x] Calendar category, thunderbird, http://www.horstmuc.de/wrem.htm
 - [ ] Add command-line programs like ffmpeg in italics as links like with symenu, collections, etc
+- [ ] add code tags indicating developer with more than one program, eg softwareok, horst, etc?
 
 ## Links
 
