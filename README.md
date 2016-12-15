@@ -91,7 +91,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Antivirus*](#antivirus) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
 * [***Utilities***](#utilities)
-> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Copiers*](#copiers) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Keyboard and Mouse*](#keyboard-and-mouse) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Utility Suites*](#utility-suites) | [*Window Managers*](#window-managers)
+> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Copiers*](#copiers) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Utility Suites*](#utility-suites) | [*Window Managers*](#window-managers)
 
 ## Development
 
@@ -123,6 +123,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Komodo Edit**](http://www.activestate.com/komodo-edit) / [*paf*](https://sourceforge.net/projects/askomodoeditpaf/), [*yap*](http://rolandtoth.hu/yaP/#examples/Komodo%20Edit%209.3.ini), [*thumb*](http://www.thumbapps.org/2016/05/Komodo-Edit-text-editor-portable.html), [*site*](http://community.komodoide.com/t/is-there-a-portable-version-of-komodoedit/695)
 * [**MarkdownEdit**](http://markdownedit.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81353), [*thumb*](http://www.thumbapps.org/2016/08/Markdown-Edit-portable-mardown-text-editor.html)
 * [**Notepad++**](https://notepad-plus-plus.org/) / [*tpfc*](https://www.portablefreeware.com/?id=539), [*paf*](http://portableapps.com/apps/development/notepadpp_portable)
+* [**Notepad2**](http://www.flos-freeware.ch/notepad2.html) | [**mod**](https://xhmikosr.github.io/notepad2-mod/) / [*tpfc*](https://www.portablefreeware.com/?id=649), [*tpfc-mod*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22433), [*paf*](http://portableapps.com/apps/development/notepad2_portable), [*paf-mod*](http://portableapps.com/apps/development/notepad2-mod_portable), [*sf*](https://sourceforge.net/projects/notepad2/), [*kliu*](http://code.kliu.org/misc/notepad2/)
+* [**Notepad3**](https://www.rizonesoft.com/downloads/notepad3/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=23090)
+* [**Programmer's Notepad**](http://www.pnotepad.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2109)
 * [**RJ TextEd**](http://www.rj-texted.se/) / [*tpfc*](https://www.portablefreeware.com/?id=2206)
 * [**Sublime Text**](https://www.sublimetext.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) / not free, but unlimited evaluation
 * [**SynWrite**](http://www.uvviewsoft.com/synwrite/) / [*tpfc*](https://www.portablefreeware.com/?id=2375)
@@ -524,17 +527,12 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Fonts
 * [**NexusFont**](http://www.xiles.net/) / [*tpfc*](https://www.portablefreeware.com/?id=731)
 
-### Keyboard and Mouse
-
-[*automation*](#automation)
-
-* [**Clavier+**](http://utilfr42.free.fr/util/Clavier.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=983) / hotkeys
-
 ### Launchers
 
-[*collections*](#collections)
+[*collections*](#collections), [*automation*](#automation)
 
 * [**ASuite**](http://www.salvadorsoftware.com/asuite) / [*tpfc*](https://www.portablefreeware.com/?id=692)
+* [**Clavier+**](http://utilfr42.free.fr/util/Clavier.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=983)
 * [**FARR**](https://www.donationcoder.com/Software/Mouser/findrun/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
 * [**Executor**](http://www.1space.dk/executor/) | [**Alt**](http://executor.dk/) / [*tpfc*](https://www.portablefreeware.com/?id=1308)
 * [**KeyPirinha**](http://keypirinha.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81346), [*docs*](http://keypirinha.com/install.html)
@@ -581,6 +579,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Uninstallers
 * [**Bulk Crap Uninstaller**](http://klocmansoftware.weebly.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=77953)
 * [**IObit Uninstaller**](http://www.iobit.com/en/advanceduninstaller.php) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30919), [*paf*](http://portableapps.com/apps/utilities/iobit_uninstaller_portable) / requires admin rights
+* [**Revo Uninstaller**](http://www.revouninstaller.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1398), [*paf*](http://portableapps.com/apps/utilities/revo_uninstaller_portable) / Pro version available
+* [**ZSoft Uninstaller**](https://www.zsoft.dk/index/software_details/4) | [**Portable**](https://www.zsoft.dk/index/software_details/6) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2299), [*paf*](http://portableapps.com/apps/utilities/zsoft_uninstaller_portable)
 
 ### Utility Suites
 
