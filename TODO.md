@@ -13,6 +13,7 @@
 - [ ] Add command-line programs like ffmpeg in italics as links like with symenu, collections, etc
 - [ ] add code tags indicating developer with more than one program, eg softwareok, horst, etc?
 - [ ] [**DateTrac**](http://www.freewarefiles.com/Datetrac-V_program_25608.html) / mentioned as being better than Date Reminder by Horst on TPFC
+- [ ] [**MetaPath**](http://www.flos-freeware.ch/archive.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1701) / file manager that works with Notepad2
 
 ## Links
 
