@@ -532,7 +532,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*collections*](#collections), [*automation*](#automation)
 
 * [**ASuite**](http://www.salvadorsoftware.com/asuite) / [*tpfc*](https://www.portablefreeware.com/?id=692)
-* [**Clavier+**](http://utilfr42.free.fr/util/Clavier.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=983)
+* [**Clavier+**](http://utilfr42.free.fr/util/Clavier.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=983) / hotkeys
 * [**FARR**](https://www.donationcoder.com/Software/Mouser/findrun/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
 * [**Executor**](http://www.1space.dk/executor/) | [**Alt**](http://executor.dk/) / [*tpfc*](https://www.portablefreeware.com/?id=1308)
 * [**KeyPirinha**](http://keypirinha.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81346), [*docs*](http://keypirinha.com/install.html)
