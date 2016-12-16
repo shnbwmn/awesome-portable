@@ -158,7 +158,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Medical
 
-[*techadvice*](http://technologyadvice.com/blog/healthcare/5-dicom-viewers/), [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=23227)
+[*irfanview*](#image-viewers), [*techadvice*](http://technologyadvice.com/blog/healthcare/5-dicom-viewers/), [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=23227)
 
 * [Gingo CADx]
 * [Mango]
