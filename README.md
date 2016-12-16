@@ -149,7 +149,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Genealogy
 * [**Ahnenblatt**](http://www.ahnenblatt.com/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2736) / PAF version distributed by developer
 * [**Gramps**](https://gramps-project.org/) / [*paf*](http://portableapps.com/apps/education/gramps_portable), [*site*](https://gramps-project.org/wiki/index.php?title=Run_Gramps_from_a_portable_drive)
-* [**SCION**](http://homepages.paradise.net.nz/scionpc/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22947)
+* [**ScionPC**](http://homepages.paradise.net.nz/scionpc/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22947)
 
 ### Geography
 * [**Marble**](https://marble.kde.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2326), [*paf*](http://portableapps.com/apps/education/marble_portable)
