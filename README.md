@@ -73,7 +73,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*IDEs*](#ides) | [*Resource Editors*](#resource-editors) | [*Source Control*](#source-control) | [*Text Editors*](#text-editors) | [*Web Servers*](#web-servers)
 
 * [***Education***](#education)
-> [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
+> [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
 
 * [***Graphics***](#graphics)
 > [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*GIF*](#gif) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
