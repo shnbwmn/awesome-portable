@@ -79,7 +79,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*GIF*](#gif) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
 
 * [***Internet***](#internet)
-> [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*Voice Chat*](#voice-chat)
+> [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*Remote Access*](#remote-access) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*VoIP*](#voip)
 
 * [***Multimedia***](#multimedia)
 > [*Audio Editors*](#audio-editors) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
@@ -147,8 +147,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [![Alms](img/alms.jpg)](https://pixabay.com/en/asia-burma-faith-boy-buddha-1807519/)
 
 ### Genealogy
-* [Gramps]
-* [SCION]
+* [**Ahnenblatt**](http://www.ahnenblatt.com/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2736) / PAF version distributed by developer
+* [**Gramps**](https://gramps-project.org/) / [*paf*](http://portableapps.com/apps/education/gramps_portable), [*site*](https://gramps-project.org/wiki/index.php?title=Run_Gramps_from_a_portable_drive)
+* [**SCION**](http://homepages.paradise.net.nz/scionpc/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22947)
 
 ### Geography
 * [**Marble**](https://marble.kde.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2326), [*paf*](http://portableapps.com/apps/education/marble_portable)
@@ -275,6 +276,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**WinSCP**](https://winscp.net/eng/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=214), [*paf*](http://portableapps.com/apps/internet/winscp_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.569) / PortableApps version integrates with PuTTY Portable
 
 ### Instant Messaging
+
+[*teamviewer*](#remote-access)
+
 * [**BeeBEEP**](http://beebeep.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2783) / p2p, no server required / secure file sharing / includes tetris :)
 * [**IsoToxin**](http://isotoxin.im/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2774)
 * [**Pidgin**](https://www.pidgin.im/) / [*tpfc*](https://www.portablefreeware.com/?id=1345), [*paf*](http://portableapps.com/apps/internet/pidgin_portable)
@@ -282,6 +286,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**RetroShare**](http://retroshare.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2353) / includes secure p2p file sharing
 * [**Ricochet**](https://ricochet.im/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2851)
 * [**Telegram**](https://telegram.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22115), [*paf*](http://portableapps.com/apps/internet/telegram-desktop-portable)
+
+### Remote Access
+* [**TeamViewer**](https://www.teamviewer.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1703), [*paf*](http://portableapps.com/apps/utilities/teamviewer_portable) / file transfers, instant messaging and VoIP too
 
 ### RSS
 
@@ -298,9 +305,12 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Transmission-Qt**](https://sourceforge.net/projects/trqtw/) | [**Bt**](https://transmissionbt.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2725), [*paf*](http://portableapps.com/apps/internet/transmission-portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Transmission/)
 * [**µTorrent**](http://www.utorrent.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=483), [*paf*](http://portableapps.com/apps/internet/utorrent_portable)
 
-### Voice Chat
+### VoIP
+
+[*teamviewer*](#remote-access)
+
 * [**Mumble**](http://wiki.mumble.info/wiki/Main_Page) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=9770), [*paf*](http://portableapps.com/apps/internet/mumble-portable)
-* [**Skype**](https://www.skype.com/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=503), [*paf*](http://portableapps.com/apps/internet/skype_portable)
+* [**Skype**](https://www.skype.com/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=503), [*paf*](http://portableapps.com/apps/internet/skype_portable) / video calling and conferencing as well
 
 ## Multimedia
 
