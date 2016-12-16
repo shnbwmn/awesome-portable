@@ -158,7 +158,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Medical
 
-(DICOM viewers)
+[*techadvice*](http://technologyadvice.com/blog/healthcare/5-dicom-viewers/), [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=23227)
+
+* [Gingo CADx]
+* [Mango]
 
 ### Religion
 * [**Bible Analyzer**](http://www.bibleanalyzer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2704)
