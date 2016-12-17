@@ -213,7 +213,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**GifCam**](http://blog.bahraniapps.com/gifcam/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2541)
 * [**GIF Viewer**](https://sourceforge.net/projects/gifviewer/) / [*yap*](http://rolandtoth.hu/yaP/#examples/GIF%20Viewer.ini)
 * [**LICEcap**](http://www.cockos.com/licecap/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2587)
-* [**ScreenToGif**](http://screentogif.codeplex.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=21813)
+* [**ScreenToGif**](http://www.screentogif.com/) | [**Alt**](http://screentogif.codeplex.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=21813)
 
 ### Image Editors
 * [**GIMP**](https://www.gimp.org/) / [*tpfc*](https://www.portablefreeware.com/?id=644), [*paf*](http://portableapps.com/apps/graphics_pictures/gimp_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.71), [*partha*](http://www.partha.com/)
