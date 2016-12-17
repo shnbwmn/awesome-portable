@@ -70,7 +70,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*top*](#awesome-portable-)
 
 * [***Development***](#development)
-> [*IDEs*](#ides) | [*Resource Editors*](#resource-editors) | [*Source Control*](#source-control) | [*Text Editors*](#text-editors) | [*Web Servers*](#web-servers)
+> [*IDEs*](#ides) | [*Resource Editors*](#resource-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
 
 * [***Education***](#education)
 > [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
@@ -109,10 +109,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Resource Hacker**](http://www.angusj.com/resourcehacker/) / [*tpfc*](https://www.portablefreeware.com/?id=289)
 * [**XN Resource Editor**](https://stefansundin.github.io/xn_resource_editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=407), [*paf*](http://portableapps.com/apps/utilities/xn_resource_editor_portable)
 
-### Source Control
-* [**Git**](https://git-scm.com/) | [**For Windows**](https://git-for-windows.github.io/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=66571), [*paf*](https://github.com/sheabunge/GitPortable), [*stack*](http://stackoverflow.com/questions/22310007/differences-between-git-scm-msysgit-git-for-windows/22310210#22310210?newreg=4dd14f94819e4a60aa0d711f16c75bbd), [*choc*](https://chocolatey.org/packages/git)
-* [**SmartGit**](http://www.syntevo.com/smartgit/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84327), [*avi*](http://aviaryan.in/blog/smartgit-portable-github-client.html)
-
 ### Text Editors
 * [**AkelPad**](http://akelpad.sourceforge.net/en/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=952), [*paf*](http://portableapps.com/apps/development/akelpad_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.700), [*plugins*](http://akelpad.sourceforge.net/en/plugins.php) / extremely lightweight
 * [**Atom**](https://atom.io/) / [*tpfc*](https://www.portablefreeware.com/?id=2793), [*paf*](https://github.com/garethflowers/atom-portable)
@@ -131,6 +127,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**SynWrite**](http://www.uvviewsoft.com/synwrite/) / [*tpfc*](https://www.portablefreeware.com/?id=2375)
 * [**TextAdept**](https://foicica.com/textadept/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20636), [*yap*](http://rolandtoth.hu/yaP/#examples/TextAdept.ini)
 * [**Visual Studio Code**](https://code.visualstudio.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82783), [*paf*](https://github.com/garethflowers/vscode-portable)
+
+### Version Control
+* [**Git**](https://git-scm.com/) | [**For Windows**](https://git-for-windows.github.io/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=66571), [*paf*](https://github.com/sheabunge/GitPortable), [*stack*](http://stackoverflow.com/questions/22310007/differences-between-git-scm-msysgit-git-for-windows/22310210#22310210?newreg=4dd14f94819e4a60aa0d711f16c75bbd), [*choc*](https://chocolatey.org/packages/git)
+* [**SmartGit**](http://www.syntevo.com/smartgit/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84327), [*avi*](http://aviaryan.in/blog/smartgit-portable-github-client.html)
 
 ### Web Servers
 * [**EasyPHP**](http://www.easyphp.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2144), [*pen*](https://pendriveapps.com/easyphp-portable-wamp-web-server/) / available as [Devserver](http://www.easyphp.org/easyphp-devserver.php) and [Webserver](http://www.easyphp.org/easyphp-webserver.php) variants
