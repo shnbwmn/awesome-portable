@@ -16,6 +16,7 @@
 - [ ] [**MetaPath**](http://www.flos-freeware.ch/archive.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1701) / file manager that works with Notepad2
 - [ ] [**Midi Player**](http://falcosoft.hu/softwares.html#midiplayer) / [*yap*](http://rolandtoth.hu/yaP/#examples/Midi%20Player.ini)
 - [ ] todo/reminder - split from Calendar?
+- [ ] browser extensions (eg, downthemall, sage) - how to include?
 
 ## Links
 
