@@ -82,7 +82,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*Remote Access*](#remote-access) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*VoIP*](#voip)
 
 * [***Multimedia***](#multimedia)
-> [*Audio Editors*](#audio-editors) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
+> [*Audio Editors*](#audio-editors) | [*Disk Tools*](#disk-tools) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [***Office***](#office)
 > [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
@@ -91,7 +91,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Antivirus*](#antivirus) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
 * [***Utilities***](#utilities)
-> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Copiers*](#copiers) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Utility Suites*](#utility-suites) | [*Window Managers*](#window-managers)
+> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Copiers*](#copiers) | [*Defragmentation*](#defragmentation) | [*Duplicates*](#duplicates) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Utility Suites*](#utility-suites) | [*Window Managers*](#window-managers)
 
 ## Development
 
@@ -256,19 +256,22 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Browsers
 * [**Google Chrome**](https://www.google.com/chrome/browser/desktop/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2074), [*paf*](http://portableapps.com/apps/internet/google_chrome_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
-* [**Mozilla Firefox**](https://www.mozilla.org/en-US/firefox/new/) | [**DownThemAll**](https://addons.mozilla.org/en-US/firefox/addon/downthemall/) | [**Sage**](https://addons.mozilla.org/en-US/firefox/addon/sage/) / [*tpfc*](https://www.portablefreeware.com/?id=132), [*paf*](http://portableapps.com/apps/internet/firefox_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
+* [**K-Meleon**](http://kmeleonbrowser.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=520), [*paf*](http://portableapps.com/apps/internet/k-meleon-portable)
+* [**Mozilla Firefox**](https://www.mozilla.org/en-US/firefox/new/) / [*tpfc*](https://www.portablefreeware.com/?id=132), [*paf*](http://portableapps.com/apps/internet/firefox_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
+* [**Pale Moon**](http://www.palemoon.org/) | [**Portable**](http://www.palemoon.org/palemoon-portable.shtml) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1978) / fork of Firefox focusing on efficiency and ease of use
+* [**SeaMonkey**](http://www.seamonkey-project.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2089), [*paf*](http://portableapps.com/apps/internet/seamonkey_portable) / all-in-one browser from Mozilla including email, newsgroup client, IRC & HTML editing
 * [**SlimJet**](http://www.slimjet.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2633)
 * [**Vivaldi**](https://vivaldi.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=73125), [*thumb*](http://www.thumbapps.org/2015/02/vivaldi-108338-tech-preview-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Internet/Vivaldi/)
 
 ### Download Managers
-
-[*downthemall*](#browsers)
-
 * [**Advanced Wget GUI**](https://github.com/Nenirey/AWGG) | [**Alt**](https://sites.google.com/site/awggproject/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=77772), [*sp*](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Internet/Others/Portable-AWGG.shtml), [*vh*](http://www.videohelp.com/software/AWGG)
 * [**EagleGet**](http://www.eagleget.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2597)
 * [**WinWGet**](http://winwget.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20900), [*paf*](http://portableapps.com/apps/internet/winwget_portable), [*astatix*](http://www.astatix.com/tools/winwget.php), [*sf*](https://sourceforge.net/projects/winwget/) / see TPFC thread for Wget-related resources
 
 ### Email
+
+[*seamonkey*](#browsers)
+
 * [**Sylpheed**](http://sylpheed.sraoss.jp/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1112), [*paf*](http://portableapps.com/apps/internet/sylpheed-portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1113)
 * [**Mozilla Thunderbird**](https://www.mozilla.org/en-US/thunderbird/) | [**Lightning**](https://addons.mozilla.org/en-US/thunderbird/addon/lightning/) / [*tpfc*](https://www.portablefreeware.com/?id=133), [*paf*](http://portableapps.com/apps/internet/thunderbird_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1277) / Lightning extension adds calendar and to-do list functionality
 * [**Pegasus Mail**](http://www.pmail.com/index.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=422)
@@ -295,7 +298,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### RSS
 
-[*thunderbird*](#email), [*sage*](#browsers), [*ghacks*](http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-reader-after-a-year/)
+[*thunderbird*](#email), [*seamonkey*](#browsers), [*ghacks*](http://www.ghacks.net/2013/07/31/quiterss-0-13-2-revisiting-the-windows-rss-reader-after-a-year/)
 
 * [**QuiteRSS**](https://quiterss.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2749), [*paf*](http://portableapps.com/apps/internet/quiterss-portable)
 * [**RSSOwl**](http://www.rssowl.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=975), [*purkdell*](http://purkdellapps.blogspot.co.za/2016/06/rssowl-portable.html), [*wpp*](http://www.winpenpack.com/en/download.php?view.973), [*paf*](http://portableapps.com/node/36808), [*discuss*](https://sourceforge.net/p/rssowl/discussion/296910/thread/a534d2e6/), [*git*](https://github.com/rssowl/rssowl-portable) / requires Java or JPortable
@@ -325,6 +328,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Audacity**](http://www.audacityteam.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=648), [*paf*](http://portableapps.com/apps/music_video/audacity_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.37)
 * [**ocenaudio**](http://www.ocenaudio.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2799), [*yap*](http://rolandtoth.hu/yaP/#examples/Ocenaudio.ini)
 * [**Wavosaur**](http://www.wavosaur.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1187)
+
+### Disk Tools
+* [**AnyBurn**](http://www.anyburn.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2361), [*yap*](http://rolandtoth.hu/yaP/#examples/AnyBurn.ini)
+* [**CDBurnerXP**](https://cdburnerxp.se/en/home) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=23161)
+* [**cdrtfe**](http://cdrtfe.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=694), [*paf*](http://portableapps.com/apps/music_video/cdrtfe_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.179)
+* [**ImgBurn**](http://www.imgburn.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=583), [*paf*](http://portableapps.com/node/21615), [*wpp*](http://www.winpenpack.com/en/download.php?view.1305)
+* [**InfraRecorder**](http://infrarecorder.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=960), [*paf*](http://portableapps.com/apps/utilities/infrarecorder_portable)
 
 ### Media Conversion
 * [**fre:ac**](http://www.freac.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=570), [*paf*](http://portableapps.com/apps/music_video/freac_portable)
@@ -528,6 +538,12 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Copiers
 * [**FastCopy**](https://ipmsg.org/tools/fastcopy.html.en) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1437), [*paf*](http://portableapps.com/apps/utilities/fastcopy-portable)
+
+### Defragmentation
+* [**UltraDefrag**](http://ultradefrag.sourceforge.net/en/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2228), [*paf*](http://portableapps.com/apps/utilities/ultradefrag-portable)
+
+### Duplicates
+* [**AllDup**](http://www.alldup.de/en_index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1791)
 
 ### File Managers
 * [**Double Commander**](http://doublecmd.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
