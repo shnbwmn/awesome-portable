@@ -11,5 +11,8 @@
 * [**Rummage**](http://getrummage.com/) / test!
 * [**Tabbles**](http://tabbles.net/) / test!
 
+### Launchers
+* [**Radial Menu**](https://autohotkey.com/boards/viewtopic.php?f=6&t=12078) / seems to only exit as AHK script / test out
+
 ## RAW
 * [**LightZone**](http://lightzoneproject.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=80727), [*paf*](http://portableapps.com/node/37765), [*forum*](http://lightzoneproject.org/lorum/lz-portable) / Java program / program download requires registration
