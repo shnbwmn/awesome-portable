@@ -55,13 +55,18 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 #### *Other Sites:*
 * [**DonationCoder**](https://www.donationcoder.com/) / Mouser, Skwire, one-hour software, NANY, etc
+* [**joeware**](http://www.joeware.net/freetools/index.htm)
+* [**MiTeC**](http://www.mitec.cz/index.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81174)
+* [**NirSoft**](http://www.nirsoft.net/) | [**NirLauncher**](http://launcher.nirsoft.net/) | [**Panel**](http://www.nirsoft.net/panel/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=10706), [*paf*](http://portableapps.com/node/21347)
+* [**NTCore**](http://www.ntcore.com/index.php)
+* [**SysInternals**](https://technet.microsoft.com/en-us/sysinternals/bb545027.aspx) | [**Suite**](https://technet.microsoft.com/en-us/sysinternals/bb842062) | [**Live**](https://live.sysinternals.com/)
 
 ## Contents
 
 [*top*](#awesome-portable-)
 
 * [***Development***](#development)
-> [*IDEs*](#ides) | [*Resource Editors*](#resource-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
+> [*IDEs*](#ides) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
 
 * [***Education***](#education)
 > [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
@@ -99,6 +104,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**ResEdit**](http://www.resedit.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1675) 
 * [**Resource Hacker**](http://www.angusj.com/resourcehacker/) / [*tpfc*](https://www.portablefreeware.com/?id=289)
 * [**XN Resource Editor**](https://stefansundin.github.io/xn_resource_editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=407), [*paf*](http://portableapps.com/apps/utilities/xn_resource_editor_portable)
+
+### Specialised Editors
+* [**JSONedit**](http://tomeko.net/software/JSONedit/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2393)
+* [**MiTeC JSON Viewer**](http://mitec.cz/jsonv.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2853)
+* [**MiTeC XML Viewer**](http://mitec.cz/xmlv.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2852)
 
 ### Text Editors
 * [**AkelPad**](http://akelpad.sourceforge.net/en/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=952), [*paf*](http://portableapps.com/apps/development/akelpad_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.700), [*plugins*](http://akelpad.sourceforge.net/en/plugins.php) / extremely lightweight
@@ -621,12 +631,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Utility Suites
 
-[*symenu*](#launchers), [*joeware*](http://www.joeware.net/freetools/index.htm), [*ntcore*](http://www.ntcore.com/index.php)
+[*symenu*](#launchers)
 
-* [**MiTeC**](http://www.mitec.cz/index.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81174)
 * [**neuPanel**](http://nuetools.co.uk/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84209) / frontend for Control Panel and various Windows built-in utilities
-* [**NirSoft**](http://www.nirsoft.net/) | [**NirLauncher**](http://launcher.nirsoft.net/) | [**Panel**](http://www.nirsoft.net/panel/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=10706), [*paf*](http://portableapps.com/node/21347)
-* [**SysInternals**](https://technet.microsoft.com/en-us/sysinternals/bb545027.aspx) | [**Suite**](https://technet.microsoft.com/en-us/sysinternals/bb842062) | [**Live**](https://live.sysinternals.com/)
 * [**WSCC**](http://www.kls-soft.com/wscc/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1666) / interface for Control Panel, NirSoft and SysInternals suites / PAF available from the developer
 
 ### Window Managers
