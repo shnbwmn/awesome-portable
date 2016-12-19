@@ -69,7 +69,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*top*](#awesome-portable-)
 
 * [***Development***](#development)
-> [*IDEs*](#ides) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
+> [*IDEs*](#ides) | [*Markdown Editors*](#markdown-editors) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
 
 * [***Education***](#education)
 > [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
@@ -103,6 +103,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Geany**](https://www.geany.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=7645), [*paf*](http://portableapps.com/apps/development/geany_portable), [*sf*](https://sourceforge.net/projects/geanyportable/) / actually a text editor with basic IDE features
 * [**Lazarus**](http://www.lazarus-ide.org/) | [**Alt**](https://sourceforge.net/projects/lazarus/) / [*paf*](http://portableapps.com/node/50162), [*sf*](https://sourceforge.net/projects/lazarusportable/), [*site*](http://wiki.freepascal.org/Installing_Lazarus#Installing_Lazarus_on_Portable_USB_Driver), [*forum*](http://forum.lazarus.freepascal.org/index.php?topic=31371.0), [*wpp*](http://www.winpenpack.com/main/download.php?view.727)
 
+### Markdown Editors
+* [**CuteMarkEd**](https://cloose.github.io/CuteMarkEd/) / [*paf*](http://portableapps.com/apps/office/cutemarked-portable)
+* [**Haroopad**](http://pad.haroopress.com/user.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81239), [*yap*](http://rolandtoth.hu/yaP/#examples/Haroopad.ini)
+* [**MarkdownEdit**](http://markdownedit.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81353), [*thumb*](http://www.thumbapps.org/2016/08/Markdown-Edit-portable-mardown-text-editor.html)
+
 ### Resource Editors
 * [**ResEdit**](http://www.resedit.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1675) 
 * [**Resource Hacker**](http://www.angusj.com/resourcehacker/) / [*tpfc*](https://www.portablefreeware.com/?id=289)
@@ -117,11 +122,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**AkelPad**](http://akelpad.sourceforge.net/en/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=952), [*paf*](http://portableapps.com/apps/development/akelpad_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.700), [*plugins*](http://akelpad.sourceforge.net/en/plugins.php) / extremely lightweight
 * [**Atom**](https://atom.io/) / [*tpfc*](https://www.portablefreeware.com/?id=2793), [*paf*](https://github.com/garethflowers/atom-portable) / by GitHub :)
 * [**Brackets**](http://brackets.io/) / [*tpfc*](https://github.com/sagiegurari/brackets-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Brackets.ini) / geared toward web development
-* [**CuteMarkEd**](https://cloose.github.io/CuteMarkEd/) / [*paf*](http://portableapps.com/apps/office/cutemarked-portable)
 * [**EditBone**](http://www.bonecode.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2706)
-* [**Haroopad**](http://pad.haroopress.com/user.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81239), [*yap*](http://rolandtoth.hu/yaP/#examples/Haroopad.ini)
 * [**Komodo Edit**](http://www.activestate.com/komodo-edit) / [*paf*](https://sourceforge.net/projects/askomodoeditpaf/), [*yap*](http://rolandtoth.hu/yaP/#examples/Komodo%20Edit%209.3.ini), [*thumb*](http://www.thumbapps.org/2016/05/Komodo-Edit-text-editor-portable.html), [*site*](http://community.komodoide.com/t/is-there-a-portable-version-of-komodoedit/695)
-* [**MarkdownEdit**](http://markdownedit.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81353), [*thumb*](http://www.thumbapps.org/2016/08/Markdown-Edit-portable-mardown-text-editor.html)
 * [**Notepad++**](https://notepad-plus-plus.org/) / [*tpfc*](https://www.portablefreeware.com/?id=539), [*paf*](http://portableapps.com/apps/development/notepadpp_portable)
 * [**Notepad2**](http://www.flos-freeware.ch/notepad2.html) | [**mod**](https://xhmikosr.github.io/notepad2-mod/) / [*tpfc*](https://www.portablefreeware.com/?id=649), [*tpfc-mod*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22433), [*paf*](http://portableapps.com/apps/development/notepad2_portable), [*paf-mod*](http://portableapps.com/apps/development/notepad2-mod_portable), [*sf*](https://sourceforge.net/projects/notepad2/), [*kliu*](http://code.kliu.org/misc/notepad2/)
 * [**Notepad3**](https://www.rizonesoft.com/downloads/notepad3/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=23090)
