@@ -502,7 +502,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Spybot – Search & Destroy**](https://www.safer-networking.org/private/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2047), [*paf*](http://portableapps.com/apps/security/spybot_portable)
 
 ### Passwords
-* [**KeePass**](http://keepass.info/) | [**Edition Comparison**](http://keepass.info/compare.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2829), [*classic*](https://www.portablefreeware.com/index.php?id=194), [*paf*](http://portableapps.com/apps/utilities/keepass_portable) / KeePass "Professional" is a rewrite of version 1 ("Classic") with more features and a .NET 2 requirement / both versions are free, open source and actively maintained
+* [**KeePass**](http://keepass.info/) | [**Edition Comparison**](http://keepass.info/compare.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2829), [*classic*](https://www.portablefreeware.com/index.php?id=194), [*paf*](http://portableapps.com/apps/utilities/keepass_portable) / KeePass v.2 ("Professional") is a rewrite of v.1 ("Classic") with more features and a .NET 2 requirement / both versions are free, open source and **actively maintained**
 * [**Password Gorilla**](https://github.com/zdia/gorilla/wiki) / [*tpfc*](https://www.portablefreeware.com/index.php?id=303), [*paf*](http://portableapps.com/apps/security/password-gorilla-portable)
 * [**Password Safe**](https://pwsafe.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1197), [*paf*](http://portableapps.com/apps/security/password-safe-portable)
 * [**Sisma**](http://www.digitalconfidence.com/Sisma-Password-Manager.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2848)
