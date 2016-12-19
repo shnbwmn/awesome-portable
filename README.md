@@ -47,7 +47,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**LiberKey**](http://www.liberkey.com/en.html) / [*tpfc*](https://www.portablefreeware.com/?id=2306)
 * [**LupoPenSuite**](http://www.lupopensuite.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=78512)
 * [**PenDriveApps**](http://www.pendriveapps.com/)
-* [**PortableApps**](http://portableapps.com/) | [**Platform**](http://portableapps.com/download) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1056), [*paf*](http://portableapps.com/development/portableapps.com_format), [*sf*](https://sourceforge.net/projects/portableapps/) [*ftp*](https://sourceforge.mirrorservice.org/p/po/portableapps/)
+* [**PortableApps**](http://portableapps.com/) | [**Platform**](http://portableapps.com/download) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1056), [*paf*](http://portableapps.com/development/portableapps.com_format), [*sf*](https://sourceforge.net/projects/portableapps/), [*ftp*](https://sourceforge.mirrorservice.org/p/po/portableapps/)
 * [**ThumbApps**](http://www.thumbapps.org/) / [*sf*](https://sourceforge.net/projects/thumbapps/) / uses PortableApps format
 * [**TPFC**](http://www.portablefreeware.com/) / [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4), [*res*](https://www.portablefreeware.com/resources.php)
 * [**winPenPack**](http://www.winpenpack.com/en/index.php) | [**Net Menu**](http://www.winpenpack.com/en/download.php?view.1303) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2264)
