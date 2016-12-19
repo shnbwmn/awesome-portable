@@ -672,7 +672,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Bulk Crap Uninstaller**](http://klocmansoftware.weebly.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=77953)
 * [**IObit Uninstaller**](http://www.iobit.com/en/advanceduninstaller.php) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30919), [*paf*](http://portableapps.com/apps/utilities/iobit_uninstaller_portable) / requires admin rights
 * [**Revo Uninstaller**](http://www.revouninstaller.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1398), [*paf*](http://portableapps.com/apps/utilities/revo_uninstaller_portable) / Pro version available
-* [**ZSoft Uninstaller**](https://www.zsoft.dk/index/software_details/4) | [**Portable**](https://www.zsoft.dk/index/software_details/6) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2299), [*paf*](http://portableapps.com/apps/utilities/zsoft_uninstaller_portable)
+* [**ZSoft Uninstaller**](https://www.zsoft.dk/index/software_details/4) | [**Portable**](https://www.zsoft.dk/index/software_details/6) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2299), [*paf*](http://portableapps.com/apps/utilities/zsoft_uninstaller_portable) / requires admin rights
 
 ### Window Managers
 * [**TidyTabs**](http://www.nurgo-software.com/products/tidytabs) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2850) / Free version limited to 3 tabs
