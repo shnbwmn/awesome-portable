@@ -21,6 +21,8 @@
 - [ ] [**xFunc**](http://xfunc.codeplex.com/) / [*git*](https://sys27.github.io/xFunc/), [*sf*](https://sourceforge.net/projects/xfunc/)
 - [ ] [**System Ninja**](https://singularlabs.com/software/system-ninja/) / same people behind CCEnhancer
 - [ ] [**BASIC-256**](http://www.basic256.org/index_en) / [*paf*](https://sourceforge.net/projects/basic256prtbl/)
+- [ ] [**jEdit**](http://jedit.org/index.php) / [*wpp*](http://www.winpenpack.com/en/download.php?view.840), [*forum*](http://community.jedit.org/?q=node/view/4368), [*paf*](http://portableapps.com/node/37447), [*old*](http://portableapps.com/node/11617) / requires Java
+- [ ] [**Makagiga**](http://makagiga.sourceforge.net/index.html) / [*paf*](http://portableapps.com/node/30048)
 
 ## Links
 
