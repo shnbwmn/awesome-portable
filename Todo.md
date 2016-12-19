@@ -1,5 +1,5 @@
  
-# TODO
+# Todo
 
 - [x] Move games to [awesome-portable-games](https://github.com/shnbwmn/awesome-portable-games)</s>
 - [ ] Add "kinda portable" programs (don't need installation but settings not saved to prog folder) to separate list, or add comment/icon to indicate this, eg [Etcher](https://www.portablefreeware.com/forums/viewtopic.php?p=84074)
