@@ -602,6 +602,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**TagSpaces**](https://www.tagspaces.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=21728), [*site*](https://www.tagspaces.org/documentation/installation/#portableMode) / notetaking ability as well
 
 ### Fonts
+* [BirdFont]
+* [FontForge]
 * [**NexusFont**](http://www.xiles.net/) / [*tpfc*](https://www.portablefreeware.com/?id=731)
 
 ### Launchers
