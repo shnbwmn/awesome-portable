@@ -75,7 +75,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
 
 * [***Graphics***](#graphics)
-> [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*GIF*](#gif) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
+> [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
 
 * [***Internet***](#internet)
 > [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*Remote Access*](#remote-access) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*VoIP*](#voip)
@@ -222,6 +222,12 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**LICEcap**](http://www.cockos.com/licecap/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2587)
 * [**ScreenToGif**](http://www.screentogif.com/) | [**Alt**](http://screentogif.codeplex.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=21813)
 
+### Icons
+* [**Iconus**](http://www.sspxusa.org/goodies/#iconus) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2759)
+* [**MiTeC Icon Explorer**](http://mitec.cz/iconex.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2855)
+* [**Quick Any2Ico**](http://www.carifred.com/quick_any2ico/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2792)
+* [**ToYcon**](http://www.crystalxp.net/galerie/en.id.1207-toycon-lefreut-launchers.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1792)
+
 ### Image Editors
 * [**GIMP**](https://www.gimp.org/) / [*tpfc*](https://www.portablefreeware.com/?id=644), [*paf*](http://portableapps.com/apps/graphics_pictures/gimp_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.71), [*partha*](http://www.partha.com/)
 * [**PhotoScape**](http://www.photoscape.org/ps/main/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=1339), [*thumb*](http://www.thumbapps.org/2016/05/PhotoScape-photo-editor-portable.html), [*yap*](http://rolandtoth.hu/yaP/#examples/PhotoScape.ini)
@@ -279,6 +285,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [*seamonkey*](#browsers)
 
+* [**MiTeC Mail Viewer**](http://mitec.cz/mailview.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2854)
 * [**Sylpheed**](http://sylpheed.sraoss.jp/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1112), [*paf*](http://portableapps.com/apps/internet/sylpheed-portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1113)
 * [**Mozilla Thunderbird**](https://www.mozilla.org/en-US/thunderbird/) | [**Lightning**](https://addons.mozilla.org/en-US/thunderbird/addon/lightning/) / [*tpfc*](https://www.portablefreeware.com/?id=133), [*paf*](http://portableapps.com/apps/internet/thunderbird_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1277) / Lightning extension adds calendar and to-do list functionality
 * [**Pegasus Mail**](http://www.pmail.com/index.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=422)
