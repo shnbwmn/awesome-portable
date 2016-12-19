@@ -17,6 +17,7 @@
 - [ ] [**Midi Player**](http://falcosoft.hu/softwares.html#midiplayer) / [*yap*](http://rolandtoth.hu/yaP/#examples/Midi%20Player.ini)
 - [ ] todo/reminder - split from Calendar?
 - [ ] browser extensions (eg, downthemall, sage) - how to include?
+- [ ] sites: symenu, utility suites
 
 ## Links
 
