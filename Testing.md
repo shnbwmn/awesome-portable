@@ -11,7 +11,7 @@
 * [**Rummage**](http://getrummage.com/) / test!
 * [**Tabbles**](http://tabbles.net/) / test!
 
-### Launchers
+## Launchers
 * [**Radial Menu**](https://autohotkey.com/boards/viewtopic.php?f=6&t=12078) / seems to only exit as AHK script / test out
 
 ## RAW
