@@ -27,10 +27,12 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 * [**7-Zip**](http://www.7-zip.org/) / [*tpfc*](https://www.portablefreeware.com/?id=796), [*paf*](http://portableapps.com/apps/utilities/7-zip_portable) / can open installer archives / can act as rudimentary dual-pane file manager
 * [**Dependency Walker**](http://www.dependencywalker.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28309), [*thumb*](http://www.thumbapps.org/2015/03/Dependency-Walker-Depends-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Development/Dependency%20Walker/), [*wiki*](https://en.wikipedia.org/wiki/Dependency_Walker) / also known as *depends.exe*
+* [**LessMSI**](http://lessmsi.activescott.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) / extracts MSI installers
 * [**Process Monitor**](https://technet.microsoft.com/en-us/sysinternals/processmonitor.aspx) / [*tpfc*](https://www.portablefreeware.com/?id=1033), [*paf*](http://portableapps.com/apps/utilities/process-monitor-portable) / previously *RegMon* and *FileMon* / see all registry & filesystem writes in real-time
 * [**Registry Viewer**](http://www.gaijin.at/en/dlregview.php) / [*tpfc*](https://www.portablefreeware.com/?id=1657) / view RegHives, eg, from Sandboxie
 * [**RegShot**](https://sourceforge.net/projects/regshot/) | [**Primo**](http://members.tripod.com/~randy_hall/download.htm) / [*tpfc*](https://www.portablefreeware.com/?id=297), [*unicode*](https://www.portablefreeware.com/index.php?id=2505), [*primo*](https://www.portablefreeware.com/forums/viewtopic.php?t=8164), [*paf*](http://portableapps.com/apps/utilities/regshot_portable) / creates before and after snapshots of the registry & filesystem for comparison
 * [**Sandboxie**](http://www.sandboxie.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) / isolate a running program to show files & registry entries created / install programs requiring installation inside a sandbox / my main testing tool / requires admin rights
+* [**Universal Extractor**](http://www.lupopensuite.com/db/universalextractor.htm) | [**Bioruebe**](http://bioruebe.com/dev/uniextract/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2764) / extracts most program installers
 * [**Virtualbox**](https://www.virtualbox.org/) / [*vbox*](http://www.vbox.me/) / run programs in a clean Windows installation to check for dependencies / requires admin rights
 * [**Windows Registry Recovery**](http://www.mitec.cz/wrr.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1147) / alternative RegHive viewer
 
@@ -38,33 +40,21 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Adobe Flash**](http://www.adobe.com/software/flash/about/) | [**Portable**](https://rejzor.wordpress.com/portable-adobe-flash/) | [**Alt**](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) / latest Flash DLLs for portable browsers
 * [**Ghostscript**](http://www.ghostscript.com/) | [**Portable**](http://portableapps.com/apps/utilities/ghostscript_portable) / Postscript interpreter required by some PDF programs
 * [**Java**](https://www.java.com/en/) | [**JPortable**](http://portableapps.com/apps/utilities/java_portable) | [**Launcher**](http://portableapps.com/apps/utilities/java_portable_launcher) / run JAR executables portably
-* [**LessMSI**](http://lessmsi.activescott.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30045) / extracts MSI installers
 * [**SmallestDotNET**](http://smallestdotnet.com/) / to get .NET installed quickly
-* [**Universal Extractor**](http://www.lupopensuite.com/db/universalextractor.htm) | [**Bioruebe**](http://bioruebe.com/dev/uniextract/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2764) / extracts most program installers
 * [**WinPCap**](http://www.winpcap.org/) / required via installation or `wpcap.dll`, `Packet.dll` by some network programs
 
-#### *Portabilisation projects:*
-* [**PortableApps**](http://portableapps.com/) / [*paf*](http://portableapps.com/development/portableapps.com_format), [*sf*](https://sourceforge.net/projects/portableapps/) [*ftp*](https://sourceforge.mirrorservice.org/p/po/portableapps/)
-* [**ThumbApps**](http://www.thumbapps.org/) / [*sf*](https://sourceforge.net/projects/thumbapps/) / uses PortableApps format
-* [**winPenPack**](http://www.winpenpack.com/en/index.php)
-* [**yaP**](http://rolandtoth.hu/yaP/) | [**crypt**](http://rolandtoth.hu/yaP/#yaPcrypt) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138), [*examples*](http://rolandtoth.hu/yaP/#examples)
-
-#### *Collections:*
-
-[*symenu*](#launchers)
-
+#### *Important Sites:*
 * [**LiberKey**](http://www.liberkey.com/en.html) / [*tpfc*](https://www.portablefreeware.com/?id=2306)
 * [**LupoPenSuite**](http://www.lupopensuite.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=78512)
-* [**PortableApps Platform**](http://portableapps.com/download) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1056)
-* [**winPenPack Net Menu**](http://www.winpenpack.com/en/download.php?view.1303) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2264)
-
-#### *Sites:*
-
-[*utilities*](#utility-suites)
-
-* [**DonationCoder**](https://www.donationcoder.com/) / Mouser, Skwire, one-hour software, NANY, etc
-* [**TPFC**](http://www.portablefreeware.com/) / [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4), [*res*](https://www.portablefreeware.com/resources.php)
 * [**PenDriveApps**](http://www.pendriveapps.com/)
+* [**PortableApps**](http://portableapps.com/) | [**Platform**](http://portableapps.com/download) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1056), [*paf*](http://portableapps.com/development/portableapps.com_format), [*sf*](https://sourceforge.net/projects/portableapps/) [*ftp*](https://sourceforge.mirrorservice.org/p/po/portableapps/)
+* [**ThumbApps**](http://www.thumbapps.org/) / [*sf*](https://sourceforge.net/projects/thumbapps/) / uses PortableApps format
+* [**TPFC**](http://www.portablefreeware.com/) / [*subs*](https://www.portablefreeware.com/forums/viewforum.php?f=4), [*res*](https://www.portablefreeware.com/resources.php)
+* [**winPenPack**](http://www.winpenpack.com/en/index.php) | [**Net Menu**](http://www.winpenpack.com/en/download.php?view.1303) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2264)
+* [**yaP**](http://rolandtoth.hu/yaP/) | [**crypt**](http://rolandtoth.hu/yaP/#yaPcrypt) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138), [*examples*](http://rolandtoth.hu/yaP/#examples)
+
+#### *Other Sites:*
+* [**DonationCoder**](https://www.donationcoder.com/) / Mouser, Skwire, one-hour software, NANY, etc
 
 ## Contents
 
