@@ -23,7 +23,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 #### *Testing for portability:*
 
-[*methods*](https://www.portablefreeware.com/forums/viewtopic.php?t=21885), [*mindmap*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=7718), [*v2*](https://www.portablefreeware.com/forums/viewtopic.php?p=82375#p82375)
+[*methods*](https://www.portablefreeware.com/forums/viewtopic.php?t=21885), [*mindmap*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=7718), [*v2*](https://www.portablefreeware.com/forums/viewtopic.php?p=82375#p82375), [*processes*](#processes), [*zsoft*](#uninstallers)
 
 * [**7-Zip**](http://www.7-zip.org/) / [*tpfc*](https://www.portablefreeware.com/?id=796), [*paf*](http://portableapps.com/apps/utilities/7-zip_portable) / can open installer archives / can act as rudimentary dual-pane file manager
 * [**Dependency Walker**](http://www.dependencywalker.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28309), [*thumb*](http://www.thumbapps.org/2015/03/Dependency-Walker-Depends-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Development/Dependency%20Walker/), [*wiki*](https://en.wikipedia.org/wiki/Dependency_Walker) / also known as *depends.exe*
