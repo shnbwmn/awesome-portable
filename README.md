@@ -13,7 +13,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 #### *Portability:*
 
-[*tpfc*](https://www.portablefreeware.com/about.php), [*paf*](http://portableapps.com/about/what_is_a_portable_app)
+[*tpfc*](https://www.portablefreeware.com/about.php), [*paf*](http://portableapps.com/about/what_is_a_portable_app), [*wiki*](https://en.wikipedia.org/wiki/Portable_application), [*brackets*](https://trello.com/c/sHyY0KlB/1003-portable-build)
 
 * **No installation required** / can be unzipped, [extracted](https://www.portablefreeware.com/faq.php#extract), or files copied from an installation
 * Runs **self-contained** / makes no changes to host computer outside of program folder
@@ -44,6 +44,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**WinPCap**](http://www.winpcap.org/) / required via installation or `wpcap.dll`, `Packet.dll` by some network programs
 
 #### *Important Sites:*
+
+[*raymond*](https://www.raymond.cc/blog/portable-application-launchers-launch-apps-with-convenience/)
+
 * [**LiberKey**](http://www.liberkey.com/en.html) / [*tpfc*](https://www.portablefreeware.com/?id=2306)
 * [**LupoPenSuite**](http://www.lupopensuite.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=78512)
 * [**PenDriveApps**](http://www.pendriveapps.com/)
