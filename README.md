@@ -79,7 +79,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
 * [***Security***](#security)
-> [*Antivirus*](#antivirus) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
+> [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners) | [*Deletion*](#deletion) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
 * [***Utilities***](#utilities)
 > [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Copiers*](#copiers) | [*Defragmentation*](#defragmentation) | [*Duplicates*](#duplicates) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Utility Suites*](#utility-suites) | [*Window Managers*](#window-managers)
@@ -477,6 +477,15 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Antivirus
 * [**ClamWin**](http://www.clamwin.com/) | [**Sentinel**](http://clamsentinel.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=601), [*paf*](http://portableapps.com/apps/security/clamwin_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.38), [*site*](http://www.clamwin.com/content/view/118/89/) / not as good as commercial, closed-source av solutions / ClamSentinel adds real-time scanning capability
 
+### Cleaners
+* [**BleachBit**](http://www.bleachbit.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1561), [*paf*](http://portableapps.com/apps/utilities/bleachbit_portable)
+* [**CCleaner**](http://www.piriform.com/ccleaner) | [**CCEnhancer**](https://singularlabs.com/software/ccenhancer/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=885)
+* [**PrivaZer**](http://privazer.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2350)
+
+### Deletion
+* [**Blank And Secure**](http://www.softwareok.com/?seite=Microsoft/BlankAndSecure) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1691)
+* [**OW Shredder**](https://hendrik.tf/ow-shredder.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2737)
+
 ### Malware Scanners
 * [**Emsisoft Emergency Kit**](https://www.emsisoft.com/en/software/eek/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2651)
 * [**Spybot – Search & Destroy**](https://www.safer-networking.org/private/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2047), [*paf*](http://portableapps.com/apps/security/spybot_portable)
@@ -530,7 +539,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**FastCopy**](https://ipmsg.org/tools/fastcopy.html.en) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1437), [*paf*](http://portableapps.com/apps/utilities/fastcopy-portable)
 
 ### Defragmentation
+* [**Defraggler**](http://www.piriform.com/defraggler) / [*tpfc*](https://www.portablefreeware.com/?id=1418)
+* [**IObit Smart Defrag**](http://www.iobit.com/en/iobitsmartdefrag.php) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=7922), [*paf*](http://portableapps.com/apps/utilities/smart_defrag_portable)
 * [**UltraDefrag**](http://ultradefrag.sourceforge.net/en/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2228), [*paf*](http://portableapps.com/apps/utilities/ultradefrag-portable)
+* [**WinContig**](http://wincontig.mdtzone.it/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1215) / *file* defrag
 
 ### Duplicates
 * [**AllDup**](http://www.alldup.de/en_index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1791)
