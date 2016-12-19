@@ -18,6 +18,8 @@
 - [ ] todo/reminder - split from Calendar?
 - [ ] browser extensions (eg, downthemall, sage) - how to include?
 - [ ] sites: symenu, utility suites
+- [ ] [**xFunc**](http://xfunc.codeplex.com/) / [*git*](https://sys27.github.io/xFunc/), [*sf*](https://sourceforge.net/projects/xfunc/)
+- [ ] [**System Ninja**](https://singularlabs.com/software/system-ninja/) / same people behind CCEnhancer
 
 ## Links
 
