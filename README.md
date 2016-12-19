@@ -33,7 +33,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**RegShot**](https://sourceforge.net/projects/regshot/) | [**Primo**](http://members.tripod.com/~randy_hall/download.htm) / [*tpfc*](https://www.portablefreeware.com/?id=297), [*unicode*](https://www.portablefreeware.com/index.php?id=2505), [*primo*](https://www.portablefreeware.com/forums/viewtopic.php?t=8164), [*paf*](http://portableapps.com/apps/utilities/regshot_portable) / creates before and after snapshots of the registry & filesystem for comparison
 * [**Sandboxie**](http://www.sandboxie.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4130) / isolate a running program to show files & registry entries created / install programs requiring installation inside a sandbox / my main testing tool / requires admin rights
 * [**Universal Extractor**](http://www.lupopensuite.com/db/universalextractor.htm) | [**Bioruebe**](http://bioruebe.com/dev/uniextract/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2764) / extracts most program installers
-* [**Virtualbox**](https://www.virtualbox.org/) / [*vbox*](http://www.vbox.me/) / run programs in a clean Windows installation to check for dependencies / requires admin rights
+* [**VirtualBox**](https://www.virtualbox.org/) / [*vbox*](http://www.vbox.me/) / run programs in a clean Windows installation to check for dependencies / requires admin rights
 * [**Windows Registry Recovery**](http://www.mitec.cz/wrr.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1147) / alternative RegHive viewer
 
 #### *Tools:*
