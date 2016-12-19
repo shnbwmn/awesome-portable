@@ -549,6 +549,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Control Panels
 
+[*symenu*](#launchers)
+
 * [**neuPanel**](http://nuetools.co.uk/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84209) / frontend for Control Panel and various Windows built-in utilities
 * [**WSCC**](http://www.kls-soft.com/wscc/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1666) / interface for Control Panel, NirSoft and SysInternals suites / PAF available from the developer
 
@@ -598,7 +600,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Run-Command**](http://www.softwareok.com/?seite=Microsoft/Run-Command) / [*tpfc*](https://www.portablefreeware.com/?id=2402)
 * [**SideSlide**](http://www.northglide.com/sideslide.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1409)
 * [**Splat**](http://skwire.dcmembers.com/fp/?page=splat) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2667) / includes sequencing and grouping capabilities
-* [**SyMenu**](http://www.ugmfree.it/) / [*tpfc*](https://www.portablefreeware.com/?id=2394)
+* [**SyMenu**](http://www.ugmfree.it/) / [*tpfc*](https://www.portablefreeware.com/?id=2394) / NirSoft and SysInternals utilities available to download & update within suite 
 * [**XVA Assistant**](http://www.idesktop.me/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=83028)
 
 ### Processes
