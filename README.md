@@ -58,6 +58,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*control-panels*](#control-panels)
 
 * [**DonationCoder**](https://www.donationcoder.com/) / Mouser, Skwire, one-hour software, NANY, etc
+* [**Horst Schaeffer**](http://www.horstmuc.de/index.html)
 * [**joeware**](http://www.joeware.net/freetools/index.htm)
 * [**MiTeC**](http://www.mitec.cz/index.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81174)
 * [**NirSoft**](http://www.nirsoft.net/) | [**NirLauncher**](http://launcher.nirsoft.net/) | [**Panel**](http://www.nirsoft.net/panel/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=10706), [*paf*](http://portableapps.com/node/21347)
