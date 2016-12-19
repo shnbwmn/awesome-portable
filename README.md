@@ -114,6 +114,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Notepad3**](https://www.rizonesoft.com/downloads/notepad3/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=23090)
 * [**Programmer's Notepad**](http://www.pnotepad.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2109)
 * [**RJ TextEd**](http://www.rj-texted.se/) / [*tpfc*](https://www.portablefreeware.com/?id=2206)
+* [**SciTE**](http://www.scintilla.org/SciTE.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=1596), [*wpp*](http://www.winpenpack.com/en/download.php?view.659) / *Sc1* is a version with all the DLLs included in one EXE
 * [**Sublime Text**](https://www.sublimetext.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=16943) / not free, but unlimited evaluation
 * [**SynWrite**](http://www.uvviewsoft.com/synwrite/) / [*tpfc*](https://www.portablefreeware.com/?id=2375)
 * [**TextAdept**](https://foicica.com/textadept/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20636), [*yap*](http://rolandtoth.hu/yaP/#examples/TextAdept.ini)
@@ -307,7 +308,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*teamviewer*](#remote-access)
 
 * [**Mumble**](http://wiki.mumble.info/wiki/Main_Page) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=9770), [*paf*](http://portableapps.com/apps/internet/mumble-portable)
-* [**Skype**](https://www.skype.com/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=503), [*paf*](http://portableapps.com/apps/internet/skype_portable) / video calling and conferencing as well
+* [**Skype**](https://www.skype.com/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=503), [*paf*](http://portableapps.com/apps/internet/skype_portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Skype.ini) / video calling and conferencing as well
 
 ## Multimedia
 
@@ -506,8 +507,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Peazip**](http://www.peazip.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1048), [*paf*](http://portableapps.com/apps/utilities/peazip_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Utilities/Bandizip/)
 
 ### Automation
-* [**AutoHotkey**](https://www.autohotkey.com/) | [**SciTE4AutoHotkey**](https://www.autoitscript.com/site/autoit-script-editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=217), [*awesome*](https://github.com/ahkscript/awesome-AutoHotkey)
-* [**AutoIt**](https://www.autoitscript.com/site/autoit/) | [**SciTE4AutoIt**](http://fincs.ahk4.net/scite4ahk/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=50), [*awesome*](https://github.com/J2TeaM/awesome-AutoIt)
+* [**AutoHotkey**](https://www.autohotkey.com/) | [**SciTE4AutoHotkey**](http://fincs.ahk4.net/scite4ahk/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=217), [*awesome*](https://github.com/ahkscript/awesome-AutoHotkey)
+* [**AutoIt**](https://www.autoitscript.com/site/autoit/) | [**SciTE4AutoIt**](https://www.autoitscript.com/site/autoit-script-editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=50), [*awesome*](https://github.com/J2TeaM/awesome-AutoIt)
 * [**Pulover's Macro Creator**](http://www.macrocreator.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2776), [*paf*](http://portableapps.com/node/41746)
 * [**TinyTask**](http://www.vtaskstudio.com/support.php#tools) / [*tpfc*](https://www.portablefreeware.com/?id=1853), [*paf*](http://portableapps.com/apps/utilities/tinytask_portable)
 
@@ -565,7 +566,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Launchers
 
-[*collections*](#collections), [*automation*](#automation)
+[*sites*](#important-sites), [*automation*](#automation)
 
 * [**ASuite**](http://www.salvadorsoftware.com/asuite) / [*tpfc*](https://www.portablefreeware.com/?id=692)
 * [**Clavier+**](http://utilfr42.free.fr/util/Clavier.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=983) / hotkeys
