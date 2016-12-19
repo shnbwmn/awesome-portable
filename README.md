@@ -469,6 +469,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Todomoo**](http://todomoo.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2486)
 
 ### Reminders
+
+[*calendar*](#calendar)
+
 * [**Date Reminder**](http://www.horstmuc.de/wrem.htm) / [*tpfc*](https://www.portablefreeware.com/?id=831), [*pen*](https://pendriveapps.com/date-reminder/)
 
 ### TeX
