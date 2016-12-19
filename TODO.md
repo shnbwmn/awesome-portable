@@ -20,6 +20,7 @@
 - [ ] sites: symenu, utility suites
 - [ ] [**xFunc**](http://xfunc.codeplex.com/) / [*git*](https://sys27.github.io/xFunc/), [*sf*](https://sourceforge.net/projects/xfunc/)
 - [ ] [**System Ninja**](https://singularlabs.com/software/system-ninja/) / same people behind CCEnhancer
+- [ ] [**BASIC-256**](http://www.basic256.org/index_en) / [*paf*](https://sourceforge.net/projects/basic256prtbl/)
 
 ## Links
 
@@ -29,5 +30,11 @@
 * http://www.cybercircuits.co.nz/web/GerbVPortable
 * https://www.zofzpcb.com/
 * https://sourceforge.net/directory/science-engineering/eda/os:windows/
+* https://sourceforge.net/projects/dailylog/
+* https://sourceforge.net/projects/wsspmis/
+* https://sourceforge.net/projects/zentao/
+* https://sourceforge.net/projects/teamlab/
+* https://sourceforge.net/projects/todoyu/
+* https://sourceforge.net/projects/qdpm/
 
 
