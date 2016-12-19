@@ -23,6 +23,9 @@
 - [ ] [**BASIC-256**](http://www.basic256.org/index_en) / [*paf*](https://sourceforge.net/projects/basic256prtbl/)
 - [ ] [**jEdit**](http://jedit.org/index.php) / [*wpp*](http://www.winpenpack.com/en/download.php?view.840), [*forum*](http://community.jedit.org/?q=node/view/4368), [*paf*](http://portableapps.com/node/37447), [*old*](http://portableapps.com/node/11617) / requires Java
 - [ ] [**Makagiga**](http://makagiga.sourceforge.net/index.html) / [*paf*](http://portableapps.com/node/30048)
+- [ ] [How to use portable versions of R and RStudio](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Portable%20versions%20of%20R%20and%20RStudio.pdf) / need to test this
+- [ ] https://forum.vivaldi.net/topic/11513/report-portable-installation-is-not-portable / vivaldi
+- [ ] [TotalCommander plugin](http://totalcmd.net/plugring/syn2.html) / synwrite
 
 ## Links
 
@@ -38,5 +41,11 @@
 * https://sourceforge.net/projects/teamlab/
 * https://sourceforge.net/projects/todoyu/
 * https://sourceforge.net/projects/qdpm/
+
+## Other
+* Visual Studio Code
+ * https://visualstudio.uservoice.com/forums/293070-visual-studio-code/suggestions/7760061-visual-studio-code-portable
+ * See comment by Dawid on July 18, 2015 -> test against TPFC thread findings
+ * https://code.visualstudio.com/docs/setup/windows
 
 
