@@ -360,6 +360,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**AIMP**](http://www.aimp.ru/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1444), [*paf*](http://portableapps.com/apps/music_video/aimp-portable)
 * [**Audacious**](http://audacious-media-player.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81470), [*yap*](http://rolandtoth.hu/yaP/#examples/Audacious.ini)
 * [**Foobar2000**](http://www.foobar2000.org/) / [*tpfc*](https://www.portablefreeware.com/?id=184)
+* [**MusicBee**](http://getmusicbee.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=20819), [*thumb*](http://www.thumbapps.org/2015/12/MusicBee-Portable.html), [*forum*](http://getmusicbee.com/forum/index.php?topic=3054.0), [*ccm*](http://ccm.net/faq/19949-musicbee-run-as-a-portable-application), [*reddit*](https://www.reddit.com/r/musicbee/)
 * [**Nemp**](http://www.gausi.de/nemp-en.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2170)
 * [**Winyl**](http://vinylsoft.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2110)
 * [**Xion**](http://www.xionplayer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1290) / has cool PSD skinning feature
