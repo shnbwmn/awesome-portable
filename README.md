@@ -54,6 +54,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**yaP**](http://rolandtoth.hu/yaP/) | [**crypt**](http://rolandtoth.hu/yaP/#yaPcrypt) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138), [*examples*](http://rolandtoth.hu/yaP/#examples)
 
 #### *Other Sites:*
+
+[*control-panels*](#control-panels)
+
 * [**DonationCoder**](https://www.donationcoder.com/) / Mouser, Skwire, one-hour software, NANY, etc
 * [**joeware**](http://www.joeware.net/freetools/index.htm)
 * [**MiTeC**](http://www.mitec.cz/index.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81174)
