@@ -81,10 +81,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*Remote Access*](#remote-access) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*VoIP*](#voip)
 
 * [***Multimedia***](#multimedia)
-> [*Audio Editors*](#audio-editors) | [*Disk Tools*](#disk-tools) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
+> [*Audio Editors*](#audio-editors) | [*Disk Tools*](#disk-tools) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Scoring*](#scoring) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [***Office***](#office)
-> [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
+> [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Mindmapping*](#mindmapping) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
 * [***Security***](#security)
 > [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners) | [*Deletion*](#deletion) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
@@ -264,7 +264,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**K-Meleon**](http://kmeleonbrowser.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=520), [*paf*](http://portableapps.com/apps/internet/k-meleon-portable)
 * [**Mozilla Firefox**](https://www.mozilla.org/en-US/firefox/new/) / [*tpfc*](https://www.portablefreeware.com/?id=132), [*paf*](http://portableapps.com/apps/internet/firefox_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
 * [**Pale Moon**](http://www.palemoon.org/) | [**Portable**](http://www.palemoon.org/palemoon-portable.shtml) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1978) / fork of Firefox focusing on efficiency and ease of use
-* [**SeaMonkey**](http://www.seamonkey-project.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2089), [*paf*](http://portableapps.com/apps/internet/seamonkey_portable) / all-in-one browser from Mozilla including email, newsgroup client, IRC & HTML editing
+* [**SeaMonkey**](http://www.seamonkey-project.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2089), [*paf*](http://portableapps.com/apps/internet/seamonkey_portable) / all-in-one browser from Mozilla including email, RSS, newsgroups, IRC & HTML editing
 * [**SlimJet**](http://www.slimjet.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2633)
 * [**Vivaldi**](https://vivaldi.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=73125), [*thumb*](http://www.thumbapps.org/2015/02/vivaldi-108338-tech-preview-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Internet/Vivaldi/)
 
@@ -359,6 +359,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Podcasts
 * [**gPodder**](http://gpodder.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1673), [*paf*](http://portableapps.com/apps/internet/gpodder_portable)
 
+### Scoring
+
+[jedit syntax]
+
+* [LilyPond]
+* [MuseScore]
+
 ### Screen Recording
 * [**OBS**](https://obsproject.com) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=80343), [*paf*](http://portableapps.com/node/53266), [*thumb*](http://www.thumbapps.org/2015/08/OBS-Open-Broadcaster-Software-32-64-bit-portable.html), [*obs*](https://obsproject.com/forum/resources/obs-and-obs-studio-portable-mode-on-windows.359/)
 * [**oCam**](http://ohsoft.net/eng/ocam/download.php) / [*yap*](http://rolandtoth.hu/yaP/#examples/oCam.ini)
@@ -424,6 +431,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**GnuCash**](http://www.gnucash.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1421), [*paf*](http://portableapps.com/apps/office/gnucash_portable) / personal and small-business accounting
 * [**HomeBank**](http://homebank.free.fr/index.php) / [*site*](http://homebank.free.fr/downloads.php), [*thumb*](http://www.thumbapps.org/2015/10/Homebank-personal-finance-manager-portable.html), [*paf*](http://portableapps.com/node/19551), [*wpp*](http://www.winpenpack.com/en/download.php?view.1104) / installer includes portable option / submit to TPFC
 * [**Money Manager Ex**](http://www.moneymanagerex.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=924), [*paf*](http://portableapps.com/apps/office/money_manager_ex_portable)
+
+### Mindmapping
+* [FreeMind]
+* [Freeplane]
 
 ### Notetaking
 
