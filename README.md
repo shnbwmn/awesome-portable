@@ -87,7 +87,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners) | [*Deletion*](#deletion) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
 * [***Utilities***](#utilities)
-> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Copiers*](#copiers) | [*Defragmentation*](#defragmentation) | [*Duplicates*](#duplicates) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Utility Suites*](#utility-suites) | [*Window Managers*](#window-managers)
+> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Copiers*](#copiers) | [*Defragmentation*](#defragmentation) | [*Duplicates*](#duplicates) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
 
 ## Development
 
@@ -547,6 +547,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**CopyQ**](http://hluk.github.io/CopyQ/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=69636)
 * [**Ditto**](http://ditto-cp.sourceforge.net/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1361), [*paf*](http://portableapps.com/apps/utilities/ditto_portable)
 
+### Control Panels
+
+* [**neuPanel**](http://nuetools.co.uk/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84209) / frontend for Control Panel and various Windows built-in utilities
+* [**WSCC**](http://www.kls-soft.com/wscc/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1666) / interface for Control Panel, NirSoft and SysInternals suites / PAF available from the developer
+
 ### Copiers
 * [**FastCopy**](https://ipmsg.org/tools/fastcopy.html.en) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1437), [*paf*](http://portableapps.com/apps/utilities/fastcopy-portable)
 
@@ -629,13 +634,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**IObit Uninstaller**](http://www.iobit.com/en/advanceduninstaller.php) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=30919), [*paf*](http://portableapps.com/apps/utilities/iobit_uninstaller_portable) / requires admin rights
 * [**Revo Uninstaller**](http://www.revouninstaller.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1398), [*paf*](http://portableapps.com/apps/utilities/revo_uninstaller_portable) / Pro version available
 * [**ZSoft Uninstaller**](https://www.zsoft.dk/index/software_details/4) | [**Portable**](https://www.zsoft.dk/index/software_details/6) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2299), [*paf*](http://portableapps.com/apps/utilities/zsoft_uninstaller_portable)
-
-### Utility Suites
-
-[*symenu*](#launchers)
-
-* [**neuPanel**](http://nuetools.co.uk/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84209) / frontend for Control Panel and various Windows built-in utilities
-* [**WSCC**](http://www.kls-soft.com/wscc/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1666) / interface for Control Panel, NirSoft and SysInternals suites / PAF available from the developer
 
 ### Window Managers
 * [**TidyTabs**](http://www.nurgo-software.com/products/tidytabs) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2850) / Free version limited to 3 tabs
