@@ -84,13 +84,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Audio Editors*](#audio-editors) | [*Disk Tools*](#disk-tools) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Scoring*](#scoring) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [***Office***](#office)
-> [*Calendar*](#calendar) | [*Date and Time*](#date-and-time) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Mindmapping*](#mindmapping) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
+> [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Mindmapping*](#mindmapping) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Project Management*](#project-management) | [*Reminders*](#reminders) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
 * [***Security***](#security)
 > [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners) | [*Deletion*](#deletion) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
 * [***Utilities***](#utilities)
-> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Copiers*](#copiers) | [*Defragmentation*](#defragmentation) | [*Duplicates*](#duplicates) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
+> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Copiers*](#copiers) | [*Defragmentation*](#defragmentation) | [*Desktop Clocks*](#desktop-clocks) | [*Duplicates*](#duplicates) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
 
 ## Development
 
@@ -400,13 +400,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Rainlendar Lite**](http://www.rainlendar.net/cms/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=443) / Pro version available
 * [**UK's Kalender**](http://www.ukrebs-software.de/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=647)
 
-### Date and Time
-* [**Date Reminder**](http://www.horstmuc.de/wrem.htm) / [*tpfc*](https://www.portablefreeware.com/?id=831), [*pen*](https://pendriveapps.com/date-reminder/)
-* [**TheAeroClock**](http://www.softwareok.com/?seite=Freeware/TheAeroClock) / [*tpfc*](https://www.portablefreeware.com/?id=2209)
-* [**TimeSync**](http://www.horstmuc.de/wrem.htm#timesync) / [*tpfc*](https://www.portablefreeware.com/?id=836) / sync with NIST server
-* [**Titlebar Date-Time**](http://www.whisperingpinessoftware.com/tbdt.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84159)
-* [**TTclock**](http://www.horstmuc.de/wrem.htm#ttclock) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=17670) / desktop clock, timer, stopwatch, alarm
-
 ### Diary
 
 [*mempad*](#outliners)
@@ -474,6 +467,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Task Coach**](http://www.taskcoach.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2113), [*paf*](http://portableapps.com/apps/office/task_coach_portable)
 * [**ToDoList**](http://abstractspoon.weebly.com/) | [**Alt**](https://www.codeproject.com/Articles/5371/ToDoList-An-effective-and-flexible-way-to-keep-on) / [*tpfc*](https://www.portablefreeware.com/index.php?id=816), [*paf*](http://portableapps.com/apps/office/todolist_portable) / was removed from PortableApps at the dev's request
 * [**Todomoo**](http://todomoo.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2486)
+
+### Reminders
+* [**Date Reminder**](http://www.horstmuc.de/wrem.htm) / [*tpfc*](https://www.portablefreeware.com/?id=831), [*pen*](https://pendriveapps.com/date-reminder/)
 
 ### TeX
 
@@ -582,6 +578,12 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**IObit Smart Defrag**](http://www.iobit.com/en/iobitsmartdefrag.php) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=7922), [*paf*](http://portableapps.com/apps/utilities/smart_defrag_portable)
 * [**UltraDefrag**](http://ultradefrag.sourceforge.net/en/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2228), [*paf*](http://portableapps.com/apps/utilities/ultradefrag-portable)
 * [**WinContig**](http://wincontig.mdtzone.it/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1215) / *file* defrag
+
+### Desktop Clocks
+* [**TheAeroClock**](http://www.softwareok.com/?seite=Freeware/TheAeroClock) / [*tpfc*](https://www.portablefreeware.com/?id=2209)
+* [**TimeSync**](http://www.horstmuc.de/wrem.htm#timesync) / [*tpfc*](https://www.portablefreeware.com/?id=836) / sync with NIST server
+* [**Titlebar Date-Time**](http://www.whisperingpinessoftware.com/tbdt.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84159)
+* [**TTclock**](http://www.horstmuc.de/wrem.htm#ttclock) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=17670) / desktop clock, timer, stopwatch, alarm
 
 ### Duplicates
 * [**AllDup**](http://www.alldup.de/en_index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1791)
