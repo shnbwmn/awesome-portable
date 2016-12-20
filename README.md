@@ -76,7 +76,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Differencing*](#differencing) | [*IDEs*](#ides) | [*Markdown Editors*](#markdown-editors) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
 
 * [***Education***](#education)
-> [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
+> [*Astronomy*](#astronomy) | [*Chemistry*](#chemistry) | [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medicine*](#medicine) | [*Religion*](#religion) | [*Statistics*](#statistics)
 
 * [***Graphics***](#graphics)
 > [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*ASCII*](#ascii) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*Diagrams*](#diagrams) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
@@ -164,6 +164,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [![Alms](img/alms.jpg)](https://pixabay.com/en/asia-burma-faith-boy-buddha-1807519/)
 
+### Astronomy
+* [Celestia]
+
+### Chemistry
+* [Avogadro]
+* [Jmol]
+
 ### Genealogy
 * [**Ahnenblatt**](http://www.ahnenblatt.com/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2736) / PAF version distributed by developer
 * [**Gramps**](https://gramps-project.org/) / [*paf*](http://portableapps.com/apps/education/gramps_portable), [*site*](https://gramps-project.org/wiki/index.php?title=Run_Gramps_from_a_portable_drive)
@@ -174,7 +181,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Panoply**](http://www.giss.nasa.gov/tools/panoply/) / [*sp*](http://www.softpedia.com/get/Science-CAD/Panoply.shtml) / made by NASA / portable by running `Panoply.jar` through JPortable
 * [**QGIS**](http://www.qgis.co.za/en/site/) / [*archgeek*](http://www.archaeogeek.com/portable-gis.html), [*docs*](http://portable-gis-docs.readthedocs.io/en/latest/index.html), [*stack*](http://gis.stackexchange.com/questions/176825/are-there-any-portable-versions-of-qgis), [*ground*](https://www.groundtruth.com.au/gis-on-a-stick), [*git*](https://github.com/groundtruth/GIS-on-a-Stick) / very large
 
-### Medical
+### Medicine
 
 [*irfanview*](#image-viewers), [*techadvice*](http://technologyadvice.com/blog/healthcare/5-dicom-viewers/), [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=23227)
 
