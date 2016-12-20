@@ -19,4 +19,6 @@
 
 http://www.imageglass.org/
 
+image analyser, diagram designer
+
 
