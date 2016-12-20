@@ -663,6 +663,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Total Commander**](https://www.ghisler.com) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=527), [*paf*](http://portableapps.com/node/14220), [*totalcmd*](https://www.ghisler.com/usbinst.htm) / not free, but certainly very good
 
 ### File Tagging
+* [**Rummage**] [http://getrummage.com/] / test!
+* [**Tabbles**] [http://tabbles.net/] / test!
 * [**TagSpaces**](https://www.tagspaces.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=21728), [*site*](https://www.tagspaces.org/documentation/installation/#portableMode) / notetaking ability as well
 
 ### Fonts
