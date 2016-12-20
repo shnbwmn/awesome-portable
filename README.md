@@ -73,7 +73,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*top*](#awesome-portable-)
 
 * [***Development***](#development)
-> [*Differencing*](#differencing), [*IDEs*](#ides) | [*Markdown Editors*](#markdown-editors) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
+> [*Differencing*](#differencing) | [*IDEs*](#ides) | [*Markdown Editors*](#markdown-editors) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
 
 * [***Education***](#education)
 > [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
