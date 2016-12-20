@@ -607,7 +607,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**SpeedCrunch**](http://speedcrunch.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1547), [*paf*](http://portableapps.com/apps/office/speedcrunch_portable)
 
 ### Cataloguing
+* [FileLister] (http://truehumandesign.se/s_filelister.php)
 * [**MiTeC DirList**](http://www.mitec.cz/dirlist.html) / [*tpfc*](https://www.portablefreeware.com/?id=2522), [*yap*](http://rolandtoth.hu/yaP/#examples/DirList.ini)
+* [Snap2HTML]
+* [Virtual Volumes View] *VVV*
 
 ### Characters
 * [**BabelMap**](http://www.babelstone.co.uk/Software/BabelMap.html) / [*tpfc*](https://www.portablefreeware.com/?id=2352), [*paf*](http://portableapps.com/apps/utilities/babelmap-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/BabelMap.ini)
