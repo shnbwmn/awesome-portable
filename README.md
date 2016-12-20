@@ -79,7 +79,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
 
 * [***Graphics***](#graphics)
-> [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
+> [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*Diagrams*](#diagrams) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
 
 * [***Internet***](#internet)
 > [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*Remote Access*](#remote-access) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*VoIP*](#voip)
@@ -104,7 +104,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### IDEs
 * [**Eclipse**](http://www.eclipse.org/) / [*paf*](http://portableapps.com/node/53284), [*wpp*](http://www.winpenpack.com/en/download.php?view.591), [*sf*](https://sourceforge.net/projects/eclipseportable/)
-* [**Geany**](https://www.geany.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=7645), [*paf*](http://portableapps.com/apps/development/geany_portable), [*sf*](https://sourceforge.net/projects/geanyportable/) / actually a text editor with basic IDE features
+* [**Geany**](https://www.geany.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=7645), [*paf*](http://portableapps.com/apps/development/geany_portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Geany.ini), [*sf*](https://sourceforge.net/projects/geanyportable/) / actually a text editor with basic IDE features
 * [**Lazarus**](http://www.lazarus-ide.org/) | [**Alt**](https://sourceforge.net/projects/lazarus/) / [*paf*](http://portableapps.com/node/50162), [*sf*](https://sourceforge.net/projects/lazarusportable/), [*site*](http://wiki.freepascal.org/Installing_Lazarus#Installing_Lazarus_on_Portable_USB_Driver), [*forum*](http://forum.lazarus.freepascal.org/index.php?topic=31371.0), [*wpp*](http://www.winpenpack.com/main/download.php?view.727)
 
 ### Markdown Editors
@@ -220,6 +220,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Just Color Picker**](http://annystudio.com/software/colorpicker/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2712)
 * [**Pixie**](http://www.nattyware.com/pixie.php) / [*tpfc*](https://www.portablefreeware.com/?id=1558)
 
+### Diagrams
+
+[*mindmapping*](#mindmapping)
+
+* [Dia]
+* [Diagram Designer]
+
 ### GIF
 * [**GifCam**](http://blog.bahraniapps.com/gifcam/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2541)
 * [**GIF Viewer**](https://sourceforge.net/projects/gifviewer/) / [*yap*](http://rolandtoth.hu/yaP/#examples/GIF%20Viewer.ini)
@@ -233,6 +240,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**ToYcon**](http://www.crystalxp.net/galerie/en.id.1207-toycon-lefreut-launchers.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1792)
 
 ### Image Editors
+
+[*freevimager*](#image-editors)
+
 * [**GIMP**](https://www.gimp.org/) / [*tpfc*](https://www.portablefreeware.com/?id=644), [*paf*](http://portableapps.com/apps/graphics_pictures/gimp_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.71), [*partha*](http://www.partha.com/)
 * [**PhotoScape**](http://www.photoscape.org/ps/main/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=1339), [*thumb*](http://www.thumbapps.org/2016/05/PhotoScape-photo-editor-portable.html), [*yap*](http://rolandtoth.hu/yaP/#examples/PhotoScape.ini)
 
@@ -244,10 +254,18 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [Romeolight tools]
 
 ### Image Viewers
+
+[*gizmo*](http://www.techsupportalert.com/best-free-digital-image-viewer.htm), [*raymond*](https://www.raymond.cc/blog/4-image-viewers-for-better-photo-viewing-and-protection-against-jpg-exploit/)
+
 * [**Faststone Viewer**](http://faststone.org/FSViewerDetail.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=207)
+* [**FreeVimager**](http://www.contaware.com/freevimager.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2248) / also basic image editing and batch operations
 * [**HoneyView**](http://www.bandisoft.com/honeyview/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2497)
 * [**Imagine**](http://www.nyam.pe.kr/blog/entry/Imagine) / [*tpfc*](https://www.portablefreeware.com/?id=1819)
 * [**Irfanview**](http://www.irfanview.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=49), [*paf*](http://portableapps.com/apps/graphics_pictures/irfanview_portable)
+* [**JPEGView**](https://sourceforge.net/projects/jpegview/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1749), [*paf*](http://portableapps.com/apps/graphics_pictures/jpegview_portable)
+* [**NexusImage**](http://www.xiles.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2050)
+* [**nomacs**](http://nomacs.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=20459)
+* [**WildBit Viewer**](http://www.wildbit-soft.fi/software.html) / [*tpfc*](https://www.portablefreeware.com/?id=2739)
 * [**XnView**](http://www.xnview.com/en/xnview/) | [**MP**](http://www.xnview.com/en/xnviewmp/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=30), [*mp*](https://www.portablefreeware.com/forums/viewtopic.php?p=35220), [*paf*](http://portableapps.com/apps/graphics_pictures/xnview_portable)
 
 ### RAW
@@ -446,8 +464,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Money Manager Ex**](http://www.moneymanagerex.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=924), [*paf*](http://portableapps.com/apps/office/money_manager_ex_portable)
 
 ### Mindmapping
-* [FreeMind]
-* [Freeplane]
+* [**Blumind**](https://web.archive.org/web/20160213153037/http://blumind.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2217)
+* [**FreeMind**](http://freemind.sourceforge.net/) / [*faq*](http://freemind.sourceforge.net/wiki/index.php/Asked_Questions#USB_Portable_FreeMind), [*site*](http://freemind.sourceforge.net/wiki/index.php/FreeMind_portable)
+* [**Freeplane**](https://www.freeplane.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=17731), [*paf*](http://www.freeplane.org/wiki/index.php/Portable_Freeplane)
+* [**XMind**](http://www.xmind.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1732)
 
 ### Notetaking
 
@@ -475,6 +495,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### PIMs
 * [**EssentialPIM**](http://www.essentialpim.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=98)
 * [**Info-Base**](http://freeware.persoft.ch/program_en.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2521)
+* [**TreeSheets**](http://strlen.com/treesheets/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2741), [*yap*](http://rolandtoth.hu/yaP/#examples/TreeSheets.ini)
 
 ### Reminders
 
