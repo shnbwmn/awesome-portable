@@ -73,7 +73,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*top*](#awesome-portable-)
 
 * [***Development***](#development)
-> [*IDEs*](#ides) | [*Markdown Editors*](#markdown-editors) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
+> [*Differencing*](#differencing), [*IDEs*](#ides) | [*Markdown Editors*](#markdown-editors) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
 
 * [***Education***](#education)
 > [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
@@ -101,6 +101,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*contents*](#contents), [*top*](#awesome-portable-)
 
 [![Computer](img/computer.jpg)](https://pixabay.com/en/computer-computer-keyboard-gaming-1844996/)
+
+### Differencing
+* [Diffinity]
+* [WinMerge]
 
 ### IDEs
 * [**Eclipse**](http://www.eclipse.org/) / [*paf*](http://portableapps.com/node/53284), [*wpp*](http://www.winpenpack.com/en/download.php?view.591), [*sf*](https://sourceforge.net/projects/eclipseportable/)
