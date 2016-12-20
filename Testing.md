@@ -7,10 +7,6 @@
 ## DJ
 * [**Mixxx**](http://www.mixxx.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=16222), [*paf*](https://github.com/GordCaswell/mixxxportable)
 
-## File Tagging
-* [**Rummage**](http://getrummage.com/) / test!
-* [**Tabbles**](http://tabbles.net/) / test!
-
 ## Launchers
 * [**Radial Menu**](https://autohotkey.com/boards/viewtopic.php?f=6&t=12078) / seems to only exit as AHK script / test out
 
