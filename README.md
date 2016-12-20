@@ -168,7 +168,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [Celestia]
 
 ### Chemistry
-* [Avogadro]
+* [Avogadro] [https://sourceforge.net/p/avogadro/feature-requests/252/]
 * [Jmol]
 
 ### Genealogy
@@ -231,9 +231,14 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**REXPaint**](http://www.gridsagegames.com/rexpaint/) | [**Alt**](http://rexpaint.blogspot.co.za/) / settings saved to `REXPaint.cfg` within program directory / haven't checked for stealth / submit to TPFC
 
 ### CAD
-
+* [Archimedes]
+* [BRL-CAD]
+* [DraftSight]
+* [FreeCAD]
 * [**KiCad**](http://kicad-pcb.org/) / [*paf*](http://www.cybercircuits.co.nz/web/KiCadPortable), [*sf*](https://sourceforge.net/projects/kicad4-portable/), [*d2k*](http://www.designer2k2.at/mods/elektronik/104-kicad-portable) / EDA PCB design suite
-* [**OpenSCAD**](http://www.openscad.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=80983), [*yap*](http://rolandtoth.hu/yaP/#examples/OpenSCAD.ini)
+* [LibreCAD]
+* [**OpenSCAD**](http://www.openscad.org/) | [**OpenJSCAD**](http://openjscad.org/) | [**CoffeeSCad**](http://coffeescad.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=80983), [*yap*](http://rolandtoth.hu/yaP/#examples/OpenSCAD.ini)
+* [QCAD Community Edition]
 * [**SolveSpace**](http://solvespace.com/index.pl) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=46045), [*yap*](http://rolandtoth.hu/yaP/#examples/SolveSpace.ini)
 * [**Sweet Home 3D**](http://www.sweethome3d.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79756)
 
