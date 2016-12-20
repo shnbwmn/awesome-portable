@@ -79,7 +79,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medical*](#medical) | [*Religion*](#religion) | [*Statistics*](#statistics)
 
 * [***Graphics***](#graphics)
-> [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*Diagrams*](#diagrams) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
+> [*3D*](#3d) | [*Animation*](#animation) | [*Art*](#art) | [*ASCII*](#ascii) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*Diagrams*](#diagrams) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
 
 * [***Internet***](#internet)
 > [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*Remote Access*](#remote-access) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*VoIP*](#voip)
@@ -94,7 +94,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners) | [*Deletion*](#deletion) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
 * [***Utilities***](#utilities)
-> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Copiers*](#copiers) | [*Defragmentation*](#defragmentation) | [*Duplicates*](#duplicates) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
+> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Copiers*](#copiers) | [*Defragmentation*](#defragmentation) | [*Disk Space*](#disk-space) | [*Duplicates*](#duplicates) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
 
 ## Development
 
@@ -123,6 +123,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**MiTeC XML Viewer**](http://mitec.cz/xmlv.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2852)
 
 ### Text Editors
+
+[*ascii*](#ascii)
+
 * [**AkelPad**](http://akelpad.sourceforge.net/en/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=952), [*paf*](http://portableapps.com/apps/development/akelpad_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.700), [*plugins*](http://akelpad.sourceforge.net/en/plugins.php) / extremely lightweight
 * [**Atom**](https://atom.io/) / [*tpfc*](https://www.portablefreeware.com/?id=2793), [*paf*](https://github.com/garethflowers/atom-portable) / by GitHub :)
 * [**Brackets**](http://brackets.io/) / [*tpfc*](https://github.com/sagiegurari/brackets-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Brackets.ini) / geared toward web development
@@ -204,6 +207,17 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Krita**](https://krita.org/en/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82550), [*paf*](http://portableapps.com/apps/graphics_pictures/krita-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Krita.ini), [*thumb*](http://www.thumbapps.org/2016/05/Krita-digital-painting-32-64-bit-portable.html) / yaP launcher, as well as `KDEHOME` method, works with Krita versions up to `2.9.11` / best to use the PAF for `3.0` onwards
 * [**MyPaint**](http://mypaint.org/) / [*tpfc*](https://www.portablefreeware.com/?id=2088), [*paf*](http://portableapps.com/apps/graphics_pictures/mypaint-portable)
 * [**Pixia**](http://www.ne.jp/asahi/mighty/knight/) / [*tpfc*](https://www.portablefreeware.com/?id=26)
+
+### ASCII
+
+[*text-editors*](#text-editors)
+
+* [**Ascgen 2**](http://ascgendotnet.jmsoftware.co.uk/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=20842) / *Ascii Generator 2*
+* [**DAMN NFO Viewer**](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Office/Suites-editors/Windows-Portable-Applications-DAMN-NFO-Viewer-Portable.shtml) / [*tpfc*](https://www.portablefreeware.com/?id=1012)
+* [**iNFekt**](https://infekt.ws/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2218) / dev distributes PortableApps version as well
+* [**jane**](http://www.kifoth.de/jane/html/about.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2834)
+* [**NFOPad**](http://truehumandesign.se/s_nfopad.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2164)
+* [**REXPaint**](http://www.gridsagegames.com/rexpaint/) | [**Alt**](http://rexpaint.blogspot.co.za/) / settings saved to `REXPaint.cfg` within program directory / haven't checked for stealth / submit to TPFC
 
 ### CAD
 
@@ -617,6 +631,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**IObit Smart Defrag**](http://www.iobit.com/en/iobitsmartdefrag.php) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=7922), [*paf*](http://portableapps.com/apps/utilities/smart_defrag_portable)
 * [**UltraDefrag**](http://ultradefrag.sourceforge.net/en/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2228), [*paf*](http://portableapps.com/apps/utilities/ultradefrag-portable)
 * [**WinContig**](http://wincontig.mdtzone.it/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1215) / *file* defrag
+
+### Disk Space
+* [**GetFoldersize**](http://www.getfoldersize.com/getfoldersize/en_getfoldersize.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1793)
+* [**OverDisk**](http://www.softpedia.com/get/System/System-Info/OverDisk.shtml) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=16250), [*yap*](http://rolandtoth.hu/yaP/#examples/OverDisk.ini)
+* [**SpaceSniffer**](http://www.uderzo.it/main_products/space_sniffer/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1594), [*paf*](http://portableapps.com/node/38123), [*wpp*](http://www.winpenpack.com/en/download.php?view.1223)
+* [**WizTree**](http://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2360)
+* [**Xinorbis**](http://www.xinorbis.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1464)
 
 ### Duplicates
 * [**AllDup**](http://www.alldup.de/en_index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1791)
