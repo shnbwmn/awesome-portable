@@ -73,7 +73,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*top*](#awesome-portable-)
 
 * [***Development***](#development)
-> [*Differencing*](#differencing) | [*IDEs*](#ides) | [*Markdown Editors*](#markdown-editors) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
+> [*Databases*](#databases) | [*Differencing*](#differencing) | [*IDEs*](#ides) | [*Markdown Editors*](#markdown-editors) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
 
 * [***Education***](#education)
 > [*Astronomy*](#astronomy) | [*Chemistry*](#chemistry) | [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medicine*](#medicine) | [*Religion*](#religion) | [*Statistics*](#statistics)
@@ -101,6 +101,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*contents*](#contents), [*top*](#awesome-portable-)
 
 [![Computer](img/computer.jpg)](https://pixabay.com/en/computer-computer-keyboard-gaming-1844996/)
+
+### Databases
+* [DBeaver]
 
 ### Differencing
 * [Diffinity]
@@ -166,6 +169,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Astronomy
 * [Celestia]
+* [Stellarium]
 
 ### Chemistry
 * [Avogadro] [https://sourceforge.net/p/avogadro/feature-requests/252/]
@@ -187,6 +191,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 * [Gingo CADx]
 * [Mango]
+
+### Programming
+* [Alice]
+* [BlueJ] / to IDEs?
+* [Greenfoot]
 
 ### Religion
 * [**Bible Analyzer**](http://www.bibleanalyzer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2704)
@@ -231,6 +240,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**REXPaint**](http://www.gridsagegames.com/rexpaint/) | [**Alt**](http://rexpaint.blogspot.co.za/) / settings saved to `REXPaint.cfg` within program directory / haven't checked for stealth / submit to TPFC
 
 ### CAD
+
+[*cadquery*](https://github.com/dcowden/cadquery)
+
 * [Archimedes]
 * [BRL-CAD]
 * [DraftSight]
