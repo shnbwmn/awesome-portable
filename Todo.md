@@ -26,6 +26,7 @@
 - [ ] [How to use portable versions of R and RStudio](https://github.com/ClaudiaBrauer/A-very-short-introduction-to-R/blob/master/documents/Portable%20versions%20of%20R%20and%20RStudio.pdf) / need to test this
 - [ ] https://forum.vivaldi.net/topic/11513/report-portable-installation-is-not-portable / vivaldi
 - [ ] [TotalCommander plugin](http://totalcmd.net/plugring/syn2.html) / synwrite
+- [ ] http://rolandtoth.hu/yaP/#examples/VirtualDub.ini & avidemux
 
 ## Links
 
