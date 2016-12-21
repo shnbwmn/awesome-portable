@@ -44,6 +44,10 @@
 * https://sourceforge.net/projects/qdpm/
 * https://github.com/abcdec/MinFFS
 * http://portableapps.com/node/55614
+* https://www.portablefreeware.com/index.php?id=2159
+* https://www.portablefreeware.com/index.php?id=2540
+* https://www.portablefreeware.com/index.php?id=1692
+* https://www.portablefreeware.com/forums/viewtopic.php?p=84562 (security - hashes)
 
 ## Other
 * Visual Studio Code
