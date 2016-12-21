@@ -42,6 +42,8 @@
 * https://sourceforge.net/projects/teamlab/
 * https://sourceforge.net/projects/todoyu/
 * https://sourceforge.net/projects/qdpm/
+* https://github.com/abcdec/MinFFS
+* http://portableapps.com/node/55614
 
 ## Other
 * Visual Studio Code
