@@ -23,7 +23,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 #### *Testing for portability:*
 
-[*methods*](https://www.portablefreeware.com/forums/viewtopic.php?t=21885), [*mindmap*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=7718), [*v2*](https://www.portablefreeware.com/forums/viewtopic.php?p=82375#p82375), [*processes*](#processes), [*zsoft*](#uninstallers)
+[*methods*](https://www.portablefreeware.com/forums/viewtopic.php?t=21885), [*mindmap*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=7718), [*v2*](https://www.portablefreeware.com/forums/viewtopic.php?p=82375#p82375), [*processes*](#processes), [*zsoft*](#uninstallers), [*resource-editors*](#resource-editors)
 
 * [**7-Zip**](http://www.7-zip.org/) / [*tpfc*](https://www.portablefreeware.com/?id=796), [*paf*](http://portableapps.com/apps/utilities/7-zip_portable) / can open installer archives / can act as rudimentary dual-pane file manager
 * [**Dependency Walker**](http://www.dependencywalker.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28309), [*thumb*](http://www.thumbapps.org/2015/03/Dependency-Walker-Depends-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Development/Dependency%20Walker/), [*wiki*](https://en.wikipedia.org/wiki/Dependency_Walker) / also known as *depends.exe*
@@ -88,7 +88,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Audio Editors*](#audio-editors) | [*Disk Tools*](#disk-tools) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Scoring*](#scoring) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [***Office***](#office)
-> [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Mindmapping*](#mindmapping) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PIMs*](#pims) | [*Reminders*](#reminders) | [*Task Management*](#task-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
+> [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Mindmapping*](#mindmapping) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PDF Tools*](#pdf-tools) | [*PIMs*](#pims) | [*Reminders*](#reminders) | [*Task Management*](#task-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
 * [***Security***](#security)
 > [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners) | [*Deletion*](#deletion) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
@@ -123,6 +123,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**MarkdownEdit**](http://markdownedit.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81353), [*thumb*](http://www.thumbapps.org/2016/08/Markdown-Edit-portable-mardown-text-editor.html)
 
 ### Resource Editors
+* [ExeInfo PE]
+* [**MiTeC EXE Explorer**](http://mitec.cz/exe.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2857)
+* [pestudio] [last completely freeware version]
+* [**PPEE**](https://mzrst.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2858)
 * [**ResEdit**](http://www.resedit.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1675) 
 * [**Resource Hacker**](http://www.angusj.com/resourcehacker/) / [*tpfc*](https://www.portablefreeware.com/?id=289)
 * [**XN Resource Editor**](https://stefansundin.github.io/xn_resource_editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=407), [*paf*](http://portableapps.com/apps/utilities/xn_resource_editor_portable)
@@ -285,6 +289,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Icons
 * [**Iconus**](http://www.sspxusa.org/goodies/#iconus) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2759)
 * [**MiTeC Icon Explorer**](http://mitec.cz/iconex.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2855)
+* [QIconChanger] [PeIconChanger] [https://www.portablefreeware.com/index.php?id=2307] [https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=21358]
 * [**Quick Any2Ico**](http://www.carifred.com/quick_any2ico/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2792)
 * [**ToYcon**](http://www.crystalxp.net/galerie/en.id.1207-toycon-lefreut-launchers.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1792)
 
@@ -459,8 +464,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**TagScanner**](http://www.xdlab.ru/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1427)
 
 ### Video Editors
+* [Avidemux]
 * [**Shotcut**](https://www.shotcut.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84320), [*site*](https://www.shotcut.org/blog/portable-app/)
 * [**Vidiot**](https://sourceforge.net/projects/vidiot/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20911), [*vh*](http://www.videohelp.com/software/Vidiot)
+* [VirtualDub] [http://rolandtoth.hu/yaP/#examples/VirtualDub.ini]
 
 ### Video Players
 * [**HamMultiPlayer**](http://hammultiplayer.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2791) / view multiple media files at the same time
@@ -543,6 +550,12 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**The Guide**](http://theguide.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1499), [*paf*](http://portableapps.com/apps/office/the_guide_portable), [*pen*](https://pendriveapps.com/the-guide/) / last updated 2008
 * [**TreeLine**](http://treeline.bellz.org/) / [*tpfc*](https://www.portablefreeware.com/?id=971)
 * [**TreePad**](http://www.treepad.com/treepadfreeware/) / [*tpfc*](https://www.portablefreeware.com/?id=1734), [*site*](http://www.treepad.com/docs/tpp/manual/documents/EF4D74B8A82E2967538FE68A60B39269B954DE12.html) / Pro version available 
+
+### PDF Tools
+* [**FaxTool**](http://sector-seven.net/software/faxtool) / [*tpfc*](https://www.portablefreeware.com/?id=2535), [*ahk*](https://autohotkey.com/board/topic/42417-faxtool-tiffpdf-splitter-joiner/) / written in AHK
+* [**PDFTK Builder**](http://angusj.com/pdftkb/#pdftkbuilder) | [**PDFTK**](https://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1066), [*paf*](http://portableapps.com/apps/office/pdftk_builder_portable)
+* [**SepPDF**](http://www.ne.jp/asahi/foresth/home/indexe.htm#spdf) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1721)
+* [**UnityPDF**](https://web.archive.org/web/20141222083446/http://www.unitypdf.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2603)
 
 ### PIMs
 * [**EssentialPIM**](http://www.essentialpim.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=98)
@@ -644,7 +657,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [FileLister] [http://truehumandesign.se/s_filelister.php]
 * [**MiTeC DirList**](http://www.mitec.cz/dirlist.html) / [*tpfc*](https://www.portablefreeware.com/?id=2522), [*yap*](http://rolandtoth.hu/yaP/#examples/DirList.ini)
 * [Snap2HTML]
-* [Virtual Volumes View] *VVV*
+* [Virtual Volumes View] [http://rolandtoth.hu/yaP/#examples/Virtual%20Volumes%20View.ini] *VVV*
 
 ### Characters
 * [**BabelMap**](http://www.babelstone.co.uk/Software/BabelMap.html) / [*tpfc*](https://www.portablefreeware.com/?id=2352), [*paf*](http://portableapps.com/apps/utilities/babelmap-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/BabelMap.ini)
