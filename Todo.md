@@ -49,6 +49,9 @@
 * https://www.portablefreeware.com/index.php?id=1692
 * https://www.portablefreeware.com/forums/viewtopic.php?p=84562 (security - hashes)
 * https://www.portablefreeware.com/index.php?id=2859
+* https://www.portablefreeware.com/index.php?id=2661
+* https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=6050
+* http://truehumandesign.se/software.php (filelister, etc)
 
 ## Other
 * Visual Studio Code
