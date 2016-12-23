@@ -534,7 +534,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [*tagspaces*](#file-tagging), [*outliners*](#outliners)
 
-* [**CintaNotes**](http://cintanotes.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1468), [*paf*](http://portableapps.com/apps/office/cintanotes-portable) / Pro version available
+* [**CintaNotes**](http://cintanotes.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1468), [*paf*](http://portableapps.com/apps/office/cintanotes-portable) / Pro version available / free [SimpleNote](https://simplenote.com/) syncing since `v3.5`
 * [**Flashnote**](http://softvoile.com/flashnote/) / [*tpfc*](https://www.portablefreeware.com/?id=2775)
 * [**Laverna**](https://laverna.cc/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=82446)
 * [**QOwnNotes**](http://www.qownnotes.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2816)
