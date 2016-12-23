@@ -23,7 +23,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 #### *Testing for portability:*
 
-[*methods*](https://www.portablefreeware.com/forums/viewtopic.php?t=21885), [*mindmap*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=7718), [*v2*](https://www.portablefreeware.com/forums/viewtopic.php?p=82375#p82375), [*processes*](#processes), [*zsoft*](#uninstallers), [*resource-editors*](#resource-editors)
+[*methods*](https://www.portablefreeware.com/forums/viewtopic.php?t=21885), [*mindmap*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=7718), [*v2*](https://www.portablefreeware.com/forums/viewtopic.php?p=82375#p82375), [*processes*](#processes), [*zsoft*](#uninstallers), [*pe-explorers*](#pe-explorers)
 
 * [**7-Zip**](http://www.7-zip.org/) / [*tpfc*](https://www.portablefreeware.com/?id=796), [*paf*](http://portableapps.com/apps/utilities/7-zip_portable) / can open installer archives / can act as rudimentary dual-pane file manager
 * [**Dependency Walker**](http://www.dependencywalker.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28309), [*thumb*](http://www.thumbapps.org/2015/03/Dependency-Walker-Depends-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Development/Dependency%20Walker/), [*wiki*](https://en.wikipedia.org/wiki/Dependency_Walker) / also known as *depends.exe*
@@ -73,7 +73,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*top*](#awesome-portable-)
 
 * [***Development***](#development)
-> [*Databases*](#databases) | [*Differencing*](#differencing) | [*GameDev*](#gamedev) | [*IDEs*](#ides) | [*Markdown Editors*](#markdown-editors) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
+> [*Databases*](#databases) | [*Differencing*](#differencing) | [*GameDev*](#gamedev) | [*IDEs*](#ides) | [*Markdown Editors*](#markdown-editors) | [*PE Explorers*](#pe-explorers) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
 
 * [***Education***](#education)
 > [*Astronomy*](#astronomy) | [*Chemistry*](#chemistry) | [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medicine*](#medicine) | [*Religion*](#religion) | [*Statistics*](#statistics)
@@ -122,11 +122,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Haroopad**](http://pad.haroopress.com/user.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81239), [*yap*](http://rolandtoth.hu/yaP/#examples/Haroopad.ini)
 * [**MarkdownEdit**](http://markdownedit.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81353), [*thumb*](http://www.thumbapps.org/2016/08/Markdown-Edit-portable-mardown-text-editor.html)
 
-### Resource Editors
+### PE Explorers
 * [ExeInfo PE]
 * [**MiTeC EXE Explorer**](http://mitec.cz/exe.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2857)
 * [pestudio] [last completely freeware version]
 * [**PPEE**](https://mzrst.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2858)
+
+### Resource Editors
 * [**ResEdit**](http://www.resedit.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1675) 
 * [**Resource Hacker**](http://www.angusj.com/resourcehacker/) / [*tpfc*](https://www.portablefreeware.com/?id=289)
 * [**XN Resource Editor**](https://stefansundin.github.io/xn_resource_editor/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=407), [*paf*](http://portableapps.com/apps/utilities/xn_resource_editor_portable)
