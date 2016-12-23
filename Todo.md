@@ -48,6 +48,7 @@
 * https://www.portablefreeware.com/index.php?id=2540
 * https://www.portablefreeware.com/index.php?id=1692
 * https://www.portablefreeware.com/forums/viewtopic.php?p=84562 (security - hashes)
+* https://www.portablefreeware.com/index.php?id=2859
 
 ## Other
 * Visual Studio Code
