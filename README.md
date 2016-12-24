@@ -76,7 +76,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Databases*](#databases) | [*Differencing*](#differencing) | [*GameDev*](#gamedev) | [*IDEs*](#ides) | [*Markdown Editors*](#markdown-editors) | [*PE Explorers*](#pe-explorers) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
 
 * [***Education***](#education)
-> [*Astronomy*](#astronomy) | [*Chemistry*](#chemistry) | [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medicine*](#medicine) | [*Religion*](#religion) | [*Statistics*](#statistics)
+> [*Astronomy*](#astronomy) | [*Chemistry*](#chemistry) | [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medicine*](#medicine) | [*Programming*](#programming) | [*Religion*](#religion) | [*Statistics*](#statistics)
 
 * [***Graphics***](#graphics)
 > [*3D Modelling*](#3d-modelling) | [*3D Printing*](#3d-printing) | [*Animation*](#animation) | [*Art*](#art) | [*ASCII*](#ascii) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*Diagrams*](#diagrams) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*Lego*](#lego) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
@@ -85,7 +85,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*Remote Access*](#remote-access) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*VoIP*](#voip)
 
 * [***Multimedia***](#multimedia)
-> [*Audio Editors*](#audio-editors) | [*Disk Tools*](#disk-tools) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Scoring*](#scoring) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
+> [*Audio Editors*](#audio-editors) | [*Disk Tools*](#disk-tools) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Radio*](#radio) | [*Scoring*](#scoring) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [***Office***](#office)
 > [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Mindmapping*](#mindmapping) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PDF Tools*](#pdf-tools) | [*PIMs*](#pims) | [*Reminders*](#reminders) | [*Task Management*](#task-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
@@ -203,6 +203,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Programming
 * [Alice]
+* [Arduino] / to Circuits, CAD?
 * [BlueJ] / to IDEs?
 * [Greenfoot]
 
@@ -449,6 +450,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Podcasts
 * [**gPodder**](http://gpodder.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1673), [*paf*](http://portableapps.com/apps/internet/gpodder_portable)
+
+### Radio
+* [**Pocket Radio Player**](http://pocketradio.awardspace.info/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2721)
 
 ### Scoring
 
@@ -705,7 +709,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 * [**Double Commander**](http://doublecmd.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=4648)
 * [**FileVoyager**](http://www.filevoyager.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2826)
-* [**Free Commander XE**](http://freecommander.com/en/summary/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=291), [*paf*](http://portableapps.com/apps/utilities/freecommander_portable) / 64-bit version is donationware
+* [**Free Commander XE**](http://freecommander.com/en/summary/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=291), [*paf*](http://portableapps.com/apps/utilities/freecommander_portable) / 64-bit version is donationware / old [FreeCommander](http://freecommander.com/en/downloads/) still available for download
 * [**MultiCommander**](http://multicommander.com/) / [*tpfc*](https://www.portablefreeware.com/?id=2304)
 * [**NexusFile**](http://www.xiles.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1419)
 * [**Q-Dir**](http://www.softwareok.com/?seite=Freeware/Q-Dir) / [*tpfc*](https://www.portablefreeware.com/?id=1431), [*paf*](http://portableapps.com/apps/utilities/q-dir-portable/)
