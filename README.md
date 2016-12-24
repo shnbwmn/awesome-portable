@@ -636,6 +636,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [![Yamaha](img/yamaha.jpg)](https://pixabay.com/en/yamaha-motorcycle-details-1653663/)
 
 ### Archivers
+* [**7-Zip**](#testing-for-portability) / put links like this to programs in header section?
 * [**Bandizip**](http://www.bandisoft.com/bandizip/) / [*tpfc*](https://www.portablefreeware.com/?id=2397)
 * [**Peazip**](http://www.peazip.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1048), [*paf*](http://portableapps.com/apps/utilities/peazip_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Utilities/Bandizip/)
 
