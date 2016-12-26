@@ -85,7 +85,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*Remote Access*](#remote-access) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*VoIP*](#voip)
 
 * [***Multimedia***](#multimedia)
-> [*Audio Editors*](#audio-editors) | [*Disk Tools*](#disk-tools) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Radio*](#radio) | [*Scoring*](#scoring) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
+> [*Audio Editors*](#audio-editors) | [*Disk Burners*](#disk-burners) | [*Disk Rippers*](#disk-rippers) | [*Media Conversion*](#media-conversion) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Radio*](#radio) | [*Scoring*](#scoring) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [***Office***](#office)
 > [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Mindmapping*](#mindmapping) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PDF Tools*](#pdf-tools) | [*PIMs*](#pims) | [*Reminders*](#reminders) | [*Task Management*](#task-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
@@ -420,22 +420,29 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [![Microphone](img/microphone.jpg)](https://pixabay.com/en/microphone-mic-mike-voice-audio-1246057/)
 
+### Audio Conversion
+* [**fre:ac**](http://www.freac.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=570), [*paf*](http://portableapps.com/apps/music_video/freac_portable), [*hydrogen*](http://wiki.hydrogenaud.io/index.php?title=Fre:ac), [*sf*](https://sourceforge.net/projects/bonkenc/) / also an audio CD ripper
+* [**LameXP**](http://lamexp.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2094)
+* [**TAudioConverter**](http://taudioconverter.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2556), [*paf*](http://portableapps.com/apps/music_video/taudioconverter-portable)
+
 ### Audio Editors
 * [**Audacity**](http://www.audacityteam.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=648), [*paf*](http://portableapps.com/apps/music_video/audacity_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.37)
 * [**ocenaudio**](http://www.ocenaudio.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2799), [*yap*](http://rolandtoth.hu/yaP/#examples/Ocenaudio.ini)
 * [**Wavosaur**](http://www.wavosaur.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1187)
 
-### Disk Tools
+### Disk Burners
 * [**AnyBurn**](http://www.anyburn.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2361), [*yap*](http://rolandtoth.hu/yaP/#examples/AnyBurn.ini)
 * [**CDBurnerXP**](https://cdburnerxp.se/en/home) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=23161)
 * [**cdrtfe**](http://cdrtfe.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=694), [*paf*](http://portableapps.com/apps/music_video/cdrtfe_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.179)
 * [**ImgBurn**](http://www.imgburn.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=583), [*paf*](http://portableapps.com/node/21615), [*wpp*](http://www.winpenpack.com/en/download.php?view.1305)
 * [**InfraRecorder**](http://infrarecorder.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=960), [*paf*](http://portableapps.com/apps/utilities/infrarecorder_portable)
 
-### Media Conversion
-* [**fre:ac**](http://www.freac.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=570), [*paf*](http://portableapps.com/apps/music_video/freac_portable)
-* [**LameXP**](http://lamexp.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2094)
-* [**TAudioConverter**](http://taudioconverter.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2556), [*paf*](http://portableapps.com/apps/music_video/taudioconverter-portable)
+### Disk Rippers
+
+[*fre:ac*](#media-conversion)
+
+* [CDex]
+* [CUETools/CUERipper]
 
 ### Music Players
 * [**1by1**](http://mpesch3.de1.cc/1by1.html) / [*tpfc*](https://www.portablefreeware.com/?id=90)
@@ -469,6 +476,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Mp3tag**](http://www.mp3tag.de/en/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1137)
 * [**TagScanner**](http://www.xdlab.ru/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1427)
 
+### Video Conversion
+* [TEncoder] [link to Audio Conversion]
+* [Video2Video]
+
 ### Video Editors
 * [Avidemux]
 * [**Shotcut**](https://www.shotcut.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84320), [*site*](https://www.shotcut.org/blog/portable-app/)
@@ -477,7 +488,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Video Players
 * [**HamMultiPlayer**](http://hammultiplayer.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2791) / view multiple media files at the same time
-* [**Light Alloy**](http://www.light-alloy.ru/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=46371)
+* [**Light Alloy**](http://www.light-alloy.ru/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2863)
 * [**MPC-HC**](https://mpc-hc.org/) | [**BE**](https://sourceforge.net/projects/mpcbe/) / [*tpfc*](https://www.portablefreeware.com/?id=2054), [*be*](https://www.portablefreeware.com/forums/viewtopic.php?p=60655), [*paf*](http://portableapps.com/apps/music_video/mpc-hc-portable) / MPC-BE is a fork of MPC-HC with additional functionality and the obvious dark UI
 * [**PotPlayer**](http://potplayer.daum.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2483), [*paf*](http://portableapps.com/node/41287)
 * [**SMPlayer**](http://smplayer.sourceforge.net/) | [**SMTube**](http://www.smtube.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1358), [*paf*](http://portableapps.com/apps/music_video/smplayer_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.1245), [*7z*](http://smplayer.sourceforge.net/en/download-smplayer-portable) / use SMTube to browse and play YouTube videos
