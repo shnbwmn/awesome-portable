@@ -439,7 +439,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Disk Rippers
 
-[*fre:ac*](#media-conversion)
+[*fre:ac*](#audio-conversion)
 
 * [CDex]
 * [CUETools/CUERipper]
