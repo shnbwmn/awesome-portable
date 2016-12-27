@@ -482,7 +482,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Video Editors
 * [Avidemux]
-* [**Shotcut**](https://www.shotcut.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84320), [*site*](https://www.shotcut.org/blog/portable-app/)
+* [**Shotcut**](https://www.shotcut.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84320), [*paf*](http://portableapps.com/node/55409), [*site*](https://www.shotcut.org/blog/portable-app/)
 * [**Vidiot**](https://sourceforge.net/projects/vidiot/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20911), [*vh*](http://www.videohelp.com/software/Vidiot)
 * [VirtualDub] [http://rolandtoth.hu/yaP/#examples/VirtualDub.ini]
 
