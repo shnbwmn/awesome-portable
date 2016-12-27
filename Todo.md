@@ -27,6 +27,7 @@
 - [ ] https://forum.vivaldi.net/topic/11513/report-portable-installation-is-not-portable / vivaldi
 - [ ] [TotalCommander plugin](http://totalcmd.net/plugring/syn2.html) / synwrite
 - [ ] http://rolandtoth.hu/yaP/#examples/VirtualDub.ini & avidemux
+- [ ] [**OpenShot**](http://www.openshot.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=20&t=23000), [*paf*](http://portableapps.com/node/53957), [*thumb*](http://www.thumbapps.org/2016/08/OpenShot-Video-Editor-portable.html)
 
 ## Links
 
