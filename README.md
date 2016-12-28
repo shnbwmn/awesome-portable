@@ -94,7 +94,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners)  | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
 * [***Utilities***](#utilities)
-> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Checksums*](#checksums) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Defragmentation*](#defragmentation) | [*Disk Space*](#disk-space) | [*Duplicates*](#duplicates) | [* File Copiers*](#file-copiers) | [*File Deletion*](#file-deletion) | [*File Managers*](#file-managers) | [*File Synchronisation*](#file-synchronisation) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*System Information*](#system-information) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
+> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Checksums*](#checksums) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Defragmentation*](#defragmentation) | [*Disk Space*](#disk-space) | [*Duplicate Checkers*](#duplicate-checkers) | [*File Copiers*](#file-copiers) | [*File Deletion*](#file-deletion) | [*File Managers*](#file-managers) | [*File Synchronisation*](#file-synchronisation) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*System Information*](#system-information) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
 
 ## Development
 
@@ -719,7 +719,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**WizTree**](http://antibody-software.com/web/software/software/wiztree-finds-the-files-and-folders-using-the-most-disk-space-on-your-hard-drive/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2360)
 * [**Xinorbis**](http://www.xinorbis.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1464)
 
-### Duplicates
+### Duplicate Checkers
 * [**AllDup**](http://www.alldup.de/en_index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1791)
 
 ### File Copiers
