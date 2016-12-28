@@ -76,7 +76,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Databases*](#databases) | [*Differencing*](#differencing) | [*GameDev*](#gamedev) | [*IDEs*](#ides) | [*Markdown Editors*](#markdown-editors) | [*PE Explorers*](#pe-explorers) | [*Resource Editors*](#resource-editors) | [*Specialised Editors*](#specialised-editors) | [*Text Editors*](#text-editors) | [*Version Control*](#version-control) | [*Web Servers*](#web-servers)
 
 * [***Education***](#education)
-> [*Astronomy*](#astronomy) | [*Chemistry*](#chemistry) | [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medicine*](#medicine) | [*Programming*](#programming) | [*Religion*](#religion) | [*Statistics*](#statistics)
+> [*Astronomy*](#astronomy) | [*Chemistry*](#chemistry) | [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medicine*](#medicine) | [*Numerical Computation*](#numerical-computation) | [*Programming*](#programming) | [*Religion*](#religion) | [*Statistics*](#statistics)
 
 * [***Graphics***](#graphics)
 > [*3D Modelling*](#3d-modelling) | [*3D Printing*](#3d-printing) | [*Animation*](#animation) | [*Art*](#art) | [*ASCII*](#ascii) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*Diagrams*](#diagrams) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*Lego*](#lego) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
@@ -200,6 +200,11 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 * [Gingo CADx]
 * [Mango]
+
+### Numerical Computation
+* [FreeMat]
+* [GNU Octave]
+* [Scilab]
 
 ### Programming
 * [Alice]
