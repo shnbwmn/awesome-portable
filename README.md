@@ -82,19 +82,19 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*3D Modelling*](#3d-modelling) | [*3D Printing*](#3d-printing) | [*Animation*](#animation) | [*Art*](#art) | [*ASCII*](#ascii) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*Diagrams*](#diagrams) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*Lego*](#lego) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
 
 * [***Internet***](#internet)
-> [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*Remote Access*](#remote-access) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*VoIP*](#voip)
+> [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*Network Scanners*](#network-scanners) | [*Remote Access*](#remote-access) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*VoIP*](#voip)
 
 * [***Multimedia***](#multimedia)
-> [*Audio Conversion*](#audio-conversion) | [*Audio Editors*](#audio-editors) | [*Disk Burners*](#disk-burners) | [*Disk Rippers*](#disk-rippers) | [*Music Players*](#music-players) | [*Podcasts*](#podcasts) | [*Radio*](#radio) | [*Scoring*](#scoring) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Conversion*](#video-conversion) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
+> [*Audio Conversion*](#audio-conversion) | [*Audio Editors*](#audio-editors) | [*Audio Players*](#audio-players) | [*Disk Burners*](#disk-burners) | [*Disk Rippers*](#disk-rippers) | [*Podcasts*](#podcasts) | [*Radio*](#radio) | [*Scoring*](#scoring) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Conversion*](#video-conversion) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [***Office***](#office)
 > [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*Finance*](#finance) | [*Mindmapping*](#mindmapping) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PDF Tools*](#pdf-tools) | [*PIMs*](#pims) | [*Reminders*](#reminders) | [*Task Management*](#task-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
 * [***Security***](#security)
-> [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners) | [*Deletion*](#deletion) | [*Hashes*](#hashes) | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
+> [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners)  | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
 * [***Utilities***](#utilities)
-> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Copiers*](#copiers) | [*Defragmentation*](#defragmentation) | [*Disk Space*](#disk-space) | [*Duplicates*](#duplicates) | [*File Managers*](#file-managers) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
+> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Checksums*](#checksums) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Defragmentation*](#defragmentation) | [*Disk Space*](#disk-space) | [*Duplicates*](#duplicates) | [* File Copiers*](#file-copiers) | [*File Deletion*](#file-deletion) | [*File Managers*](#file-managers) | [*File Synchronisation*](#file-synchronisation) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*System Information*](#system-information) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
 
 ## Development
 
@@ -389,6 +389,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Ricochet**](https://ricochet.im/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2851)
 * [**Telegram**](https://telegram.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22115), [*paf*](http://portableapps.com/apps/internet/telegram-desktop-portable)
 
+### Network Scanners
+* [MiTeC Network Scanner]
+* [SoftPerfect Network Scanner]
+
 ### Remote Access
 * [**TeamViewer**](https://www.teamviewer.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1703), [*paf*](http://portableapps.com/apps/utilities/teamviewer_portable) / file transfers, instant messaging and VoIP too
 
@@ -430,6 +434,18 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**ocenaudio**](http://www.ocenaudio.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2799), [*yap*](http://rolandtoth.hu/yaP/#examples/Ocenaudio.ini)
 * [**Wavosaur**](http://www.wavosaur.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1187)
 
+### Audio Players
+* [**1by1**](http://mpesch3.de1.cc/1by1.html) / [*tpfc*](https://www.portablefreeware.com/?id=90)
+* [**AIMP**](http://www.aimp.ru/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1444), [*paf*](http://portableapps.com/apps/music_video/aimp-portable)
+* [**Audacious**](http://audacious-media-player.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81470), [*yap*](http://rolandtoth.hu/yaP/#examples/Audacious.ini)
+* [**fmedia**](http://fmedia.firmdev.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=23203) / also a recorder and converter
+* [**Foobar2000**](http://www.foobar2000.org/) / [*tpfc*](https://www.portablefreeware.com/?id=184)
+* [**MusicBee**](http://getmusicbee.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=20819), [*thumb*](http://www.thumbapps.org/2015/12/MusicBee-Portable.html), [*forum*](http://getmusicbee.com/forum/index.php?topic=3054.0), [*ccm*](http://ccm.net/faq/19949-musicbee-run-as-a-portable-application), [*reddit*](https://www.reddit.com/r/musicbee/)
+* [**Nemp**](http://www.gausi.de/nemp-en.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2170)
+* [**Winyl**](http://vinylsoft.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2110)
+* [**Xion**](http://www.xionplayer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1290) / has cool PSD skinning feature
+* [**XMPlay**](http://www.un4seen.com/xmplay.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=567), [*paf*](http://portableapps.com/apps/music_video/xmplay_portable), [*wiki*](https://en.wikipedia.org/wiki/XMPlay) / based on the [BASS](http://www.un4seen.com/bass.html) library by the same dev
+
 ### Disk Burners
 * [**AnyBurn**](http://www.anyburn.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2361), [*yap*](http://rolandtoth.hu/yaP/#examples/AnyBurn.ini)
 * [**CDBurnerXP**](https://cdburnerxp.se/en/home) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=23161)
@@ -443,17 +459,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 * [CDex]
 * [CUETools/CUERipper]
-
-### Music Players
-* [**1by1**](http://mpesch3.de1.cc/1by1.html) / [*tpfc*](https://www.portablefreeware.com/?id=90)
-* [**AIMP**](http://www.aimp.ru/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1444), [*paf*](http://portableapps.com/apps/music_video/aimp-portable)
-* [**Audacious**](http://audacious-media-player.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81470), [*yap*](http://rolandtoth.hu/yaP/#examples/Audacious.ini)
-* [**Foobar2000**](http://www.foobar2000.org/) / [*tpfc*](https://www.portablefreeware.com/?id=184)
-* [**MusicBee**](http://getmusicbee.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=20819), [*thumb*](http://www.thumbapps.org/2015/12/MusicBee-Portable.html), [*forum*](http://getmusicbee.com/forum/index.php?topic=3054.0), [*ccm*](http://ccm.net/faq/19949-musicbee-run-as-a-portable-application), [*reddit*](https://www.reddit.com/r/musicbee/)
-* [**Nemp**](http://www.gausi.de/nemp-en.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2170)
-* [**Winyl**](http://vinylsoft.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2110)
-* [**Xion**](http://www.xionplayer.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1290) / has cool PSD skinning feature
-* [**XMPlay**](http://www.un4seen.com/xmplay.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=567), [*paf*](http://portableapps.com/apps/music_video/xmplay_portable), [*wiki*](https://en.wikipedia.org/wiki/XMPlay) / based on the [BASS](http://www.un4seen.com/bass.html) library by the same dev
 
 ### Podcasts
 * [**gPodder**](http://gpodder.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1673), [*paf*](http://portableapps.com/apps/internet/gpodder_portable)
@@ -630,14 +635,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**CCleaner**](http://www.piriform.com/ccleaner) | [**CCEnhancer**](https://singularlabs.com/software/ccenhancer/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=885)
 * [**PrivaZer**](http://privazer.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2350)
 
-### Deletion
-* [**Blank And Secure**](http://www.softwareok.com/?seite=Microsoft/BlankAndSecure) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1691)
-* [**OW Shredder**](https://hendrik.tf/ow-shredder.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2737)
-
-### Hashes
-
-[*file-managers*](#file-managers)
-
 ### Malware Scanners
 * [**Emsisoft Emergency Kit**](https://www.emsisoft.com/en/software/eek/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2651)
 * [**Spybot – Search & Destroy**](https://www.safer-networking.org/private/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2047), [*paf*](http://portableapps.com/apps/security/spybot_portable)
@@ -666,6 +663,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**TinyTask**](http://www.vtaskstudio.com/support.php#tools) / [*tpfc*](https://www.portablefreeware.com/?id=1853), [*paf*](http://portableapps.com/apps/utilities/tinytask_portable)
 
 ### Backup
+
+[*multipar*](#checksums)
+
 * [**Back4Sure**](http://www.ukrebs-software.de/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1684)
 * [**jaBuT Backup**](http://jabut.de/en) / [*tpfc*](https://www.portablefreeware.com/?id=2812)
 * [**Personal Backup**](http://personal-backup.rathlev-home.de/index-e.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28563), [*yap*](http://rolandtoth.hu/yaP/#examples/Personal%20Backup.ini)
@@ -686,6 +686,13 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**BabelPad**](http://www.babelstone.co.uk/Software/BabelPad.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=57921), [*paf*](http://portableapps.com/apps/office/babelpad-portable)
 * [**WinCompose**](https://github.com/SamHocevar/wincompose) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2615)
 
+### Checksums
+
+[*file-managers*](#file-managers)
+
+* [**MultiPar**](http://hp.vector.co.jp/authors/VA021385/) | [**Alt**](https://multipar.eu/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2708) / produces [PAR](https://en.wikipedia.org/wiki/Parchive) archives to check transferred data against for integrity
+* [RapidCRC Unicode]
+
 ### Clipboard
 * [**ArsClip**](http://www.joejoesoft.com/vcms/97/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=734)
 * [**Clipjump**](http://clipjump.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2523), [*git*](https://github.com/aviaryan/Clipjump), [*ahk*](https://autohotkey.com/boards/viewtopic.php?f=6&t=401) / available as AHK script
@@ -698,9 +705,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 * [**neuPanel**](http://nuetools.co.uk/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=84209) / frontend for Control Panel and various Windows built-in utilities
 * [**WSCC**](http://www.kls-soft.com/wscc/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1666) / interface for Control Panel, NirSoft and SysInternals suites / PAF available from the developer
-
-### Copiers
-* [**FastCopy**](https://ipmsg.org/tools/fastcopy.html.en) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1437), [*paf*](http://portableapps.com/apps/utilities/fastcopy-portable)
 
 ### Defragmentation
 * [**Defraggler**](http://www.piriform.com/defraggler) / [*tpfc*](https://www.portablefreeware.com/?id=1418)
@@ -718,6 +722,16 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Duplicates
 * [**AllDup**](http://www.alldup.de/en_index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1791)
 
+### File Copiers
+* [**FastCopy**](https://ipmsg.org/tools/fastcopy.html.en) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1437), [*paf*](http://portableapps.com/apps/utilities/fastcopy-portable) / can be used as a deletion tool as well, eg for file pathnames over 260 characters
+
+### File Deletion
+
+[*fastcopy*](#file-copiers)
+
+* [**Blank And Secure**](http://www.softwareok.com/?seite=Microsoft/BlankAndSecure) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1691)
+* [**OW Shredder**](https://hendrik.tf/ow-shredder.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2737)
+
 ### File Managers
 
 [*7-zip*](#testing-for-portability)
@@ -730,6 +744,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Q-Dir**](http://www.softwareok.com/?seite=Freeware/Q-Dir) / [*tpfc*](https://www.portablefreeware.com/?id=1431), [*paf*](http://portableapps.com/apps/utilities/q-dir-portable/)
 * [**Tablacus Explorer**](http://www.eonet.ne.jp/~gakana/tablacus/explorer_en.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2781), [*thumb*](http://www.thumbapps.org/2016/09/Tablacus-Explorer-portable-multi-tab-Windows-file-explorer.html) / addon support via built-in addon manager
 * [**Total Commander**](https://www.ghisler.com) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=527), [*paf*](http://portableapps.com/node/14220), [*totalcmd*](https://www.ghisler.com/usbinst.htm) / not free, but certainly very good
+
+### File Synchronisation
+* [DirSync Pro]
 
 ### File Tagging
 * [**Rummage**] [http://getrummage.com/] / test!
@@ -783,6 +800,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### Search
 * [**Everything**](http://www.voidtools.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1479)
 * [**Listary**](http://www.listary.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1680), [*paf*](http://portableapps.com/apps/utilities/listary_portable) / Pro version available with more features
+
+### System Information
+* [Speccy]
 
 ### Time
 * [**Chronice**](http://chronice.sicyon.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=8111)
