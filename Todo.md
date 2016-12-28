@@ -28,6 +28,12 @@
 - [ ] [TotalCommander plugin](http://totalcmd.net/plugring/syn2.html) / synwrite
 - [ ] http://rolandtoth.hu/yaP/#examples/VirtualDub.ini & avidemux
 - [ ] [**OpenShot**](http://www.openshot.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=20&t=23000), [*paf*](http://portableapps.com/node/53957), [*thumb*](http://www.thumbapps.org/2016/08/OpenShot-Video-Editor-portable.html)
+- [ ] [**Timeline**](http://thetimelineproj.sourceforge.net/about.html) | [**Sourceforge**](https://sourceforge.net/projects/thetimelineproj/) / [*yap*](http://rolandtoth.hu/yaP/#examples/Timeline.ini), [*paf*](http://portableapps.com/node/38124), [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=20&t=11811)
+- [ ] [**ManicTime**](http://www.manictime.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=6741), [*kb*](http://support.manictime.com/knowledgebase/articles/686352-how-is-portable-usb-version-different), [*ff*](http://www.freewarefiles.com/ManicTime_program_42343.html) / crippleware
+- [ ] [**Metabase**](http://www.metabase.com/) / [*ff*](http://www.freewarefiles.com/Metabase_program_109336.html)
+- [ ] [**Tweaking.com Windows Repair**](http://www.tweaking.com/content/page/windows_repair_all_in_one.html) / [*ff*](http://www.freewarefiles.com/Tweaking-com-Windows-Repair_program_70466.html)
+- [ ] [**Memory Hogs**](http://michaels-tech-notes.info/) / [*ff*](http://www.freewarefiles.com/Memory-Hogs_program_109765.html) / same guy behind Ready Bible Study and Reference
+- [ ] [**Harmony**](http://getharmony.xyz/) / [*ff*](http://www.freewarefiles.com/Harmony_program_108881.html)
 
 ## Links
 
@@ -54,6 +60,7 @@
 * https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=6050
 * http://truehumandesign.se/software.php (filelister, etc)
 * https://www.portablefreeware.com/index.php?id=2178
+
 
 ## Other
 * Visual Studio Code
