@@ -484,6 +484,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Tagging
 * [**Mp3tag**](http://www.mp3tag.de/en/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1137)
+* [taghycardia]
 * [**TagScanner**](http://www.xdlab.ru/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1427)
 
 ### Video Conversion
@@ -803,6 +804,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**ReNamer**](http://www.den4b.com/products/renamer) / [*tpfc*](https://www.portablefreeware.com/index.php?id=562), [*5.71*](http://download.cnet.com/ReNamer-Portable/3000-2248_4-75894242.html) / versions after `5.71` are crippleware, with a max of 5 presets and 5 rules
 
 ### Search
+* [CSearcher]
 * [**Everything**](http://www.voidtools.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1479)
 * [**Listary**](http://www.listary.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1680), [*paf*](http://portableapps.com/apps/utilities/listary_portable) / Pro version available with more features
 
