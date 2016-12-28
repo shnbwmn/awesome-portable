@@ -66,6 +66,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**MiTeC**](http://www.mitec.cz/index.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81174)
 * [**NirSoft**](http://www.nirsoft.net/) | [**NirLauncher**](http://launcher.nirsoft.net/) | [**Panel**](http://www.nirsoft.net/panel/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=10706), [*paf*](http://portableapps.com/node/21347)
 * [**NTCore**](http://www.ntcore.com/index.php)
+* [**SoftwareOK**](http://www.softwareok.com/) / *Nenad Hrg*
 * [**SysInternals**](https://technet.microsoft.com/en-us/sysinternals/bb545027.aspx) | [**Suite**](https://technet.microsoft.com/en-us/sysinternals/bb842062) | [**Live**](https://live.sysinternals.com/)
 
 ## Contents
@@ -94,7 +95,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners)  | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
 * [***Utilities***](#utilities)
-> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Checksums*](#checksums) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Defragmentation*](#defragmentation) | [*Disk Space*](#disk-space) | [*Duplicate Checkers*](#duplicate-checkers) | [*File Copiers*](#file-copiers) | [*File Deletion*](#file-deletion) | [*File Managers*](#file-managers) | [*File Synchronisation*](#file-synchronisation) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*System Information*](#system-information) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
+> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Bootable USB Creators*](#bootable-usb-creators) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Checksums*](#checksums) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Defragmentation*](#defragmentation) | [*Disk Space*](#disk-space) | [*Duplicate Checkers*](#duplicate-checkers) | [*File Copiers*](#file-copiers) | [*File Deletion*](#file-deletion) | [*File Managers*](#file-managers) | [*File Synchronisation*](#file-synchronisation) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*System Information*](#system-information) | [*System Scheduling*](#system-scheduling) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
 
 ## Development
 
@@ -677,6 +678,10 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Personal Backup**](http://personal-backup.rathlev-home.de/index-e.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28563), [*yap*](http://rolandtoth.hu/yaP/#examples/Personal%20Backup.ini)
 * [**ZBack**](http://titan.fsb.hr/~dzorc/zback.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1683)
 
+### Bootable USB Creators
+* [Rufus]
+* [YUMI] [successor to MultibootISOs]
+
 ### Calculators
 * [**RedCrab**](http://www.redchillicrab.com/en/redcrab/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2095) / shareware version available with extra functionality
 * [**SpeedCrunch**](http://speedcrunch.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1547), [*paf*](http://portableapps.com/apps/office/speedcrunch_portable)
@@ -811,11 +816,16 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 ### System Information
 * [Speccy]
 
+### System Scheduling
+* [**Don't Sleep**](http://www.softwareok.com/?seite=Microsoft/DontSleep) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1738)
+* [**KShutdown**](https://kshutdown.sourceforge.io/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2809)
+
 ### Time
 * [**Chronice**](http://chronice.sicyon.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=8111)
 * [**Free Alarm Clock**](http://freealarmclocksoftware.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=8060)
 * [**Free Stopwatch**](http://free-stopwatch.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=20179)
 * [**Hourglass**](https://chris.dziemborowicz.com/apps/hourglass/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=6978) / formerly [*Orzeszek Timer*](https://www.orzeszek.org/dev/timer/)
+* [**OnlyStopWatch**](http://www.softwareok.com/?seite=Microsoft/OnlyStopWatch) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1931)
 * [**SnapTimer**](http://dan.hersam.com/software/snaptimer/index.html) / [*tpfc*](https://www.portablefreeware.com/?id=1947), [*paf*](http://portableapps.com/apps/utilities/snaptimer-portable)
 * [**TheAeroClock**](http://www.softwareok.com/?seite=Freeware/TheAeroClock) / [*tpfc*](https://www.portablefreeware.com/?id=2209)
 * [**TimeSync**](http://www.horstmuc.de/wrem.htm#timesync) / [*tpfc*](https://www.portablefreeware.com/?id=836) / sync with NIST server
