@@ -95,7 +95,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners)  | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
 * [***Utilities***](#utilities)
-> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Bootable USB Creators*](#bootable-usb-creators) | [*Calculators*](#calculators) | [*Cataloguing*](#cataloguing) | [*Characters*](#characters) | [*Checksums*](#checksums) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Defragmentation*](#defragmentation) | [*Disk Space*](#disk-space) | [*Duplicate Checkers*](#duplicate-checkers) | [*File Copiers*](#file-copiers) | [*File Deletion*](#file-deletion) | [*File Managers*](#file-managers) | [*File Synchronisation*](#file-synchronisation) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*System Information*](#system-information) | [*System Scheduling*](#system-scheduling) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
+> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Bootable USB Creators*](#bootable-usb-creators) | [*Calculators*](#calculators) | [*Characters*](#characters) | [*Checksums*](#checksums) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Defragmentation*](#defragmentation) | [*Disk Space*](#disk-space) | [*Duplicate Checkers*](#duplicate-checkers) | [*File Cataloguing*](#file-cataloguing) | [*File Copiers*](#file-copiers) | [*File Deletion*](#file-deletion) | [*File Managers*](#file-managers) | [*File Synchronisation*](#file-synchronisation) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*System Information*](#system-information) | [*System Scheduling*](#system-scheduling) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
 
 ## Development
 
@@ -459,12 +459,30 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**ImgBurn**](http://www.imgburn.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=583), [*paf*](http://portableapps.com/node/21615), [*wpp*](http://www.winpenpack.com/en/download.php?view.1305)
 * [**InfraRecorder**](http://infrarecorder.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=960), [*paf*](http://portableapps.com/apps/utilities/infrarecorder_portable)
 
+### Disk Cataloguing
+
+[*alternativeto*](http://alternativeto.net/software/disclib/)
+
+* [Cathy]
+* [DiscLib]
+* [VisualCD]
+
 ### Disk Rippers
 
 [*fre:ac*](#audio-conversion)
 
 * [CDex]
 * [CUETools/CUERipper]
+
+### Media Cataloguing
+
+*media organisers/managers?*
+
+* [**Ant Movie Catalog**](http://www.antp.be/software/moviecatalog) / [*tpfc*](https://www.portablefreeware.com/index.php?id=873)
+* [**Data Crow**](http://www.datacrow.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1865), [*wpp*](http://www.winpenpack.com/en/download.php?view.941), [*paf*](http://portableapps.com/node/20087), [*fosshub*](https://www.fosshub.com/Data-Crow.html), [*sf*](https://sourceforge.net/projects/datacrow/)
+* [**EMDB**](http://www.emdb.eu/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2758)
+* [**Music Collection**](http://www.gsoft4u.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2659)
+* [Stuff Organizer]
 
 ### Podcasts
 * [**gPodder**](http://gpodder.org/) / [*tpfc*](https://www.portablefreeware.com/?id=1673), [*paf*](http://portableapps.com/apps/internet/gpodder_portable)
@@ -686,12 +704,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**RedCrab**](http://www.redchillicrab.com/en/redcrab/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2095) / shareware version available with extra functionality
 * [**SpeedCrunch**](http://speedcrunch.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1547), [*paf*](http://portableapps.com/apps/office/speedcrunch_portable)
 
-### Cataloguing
-* [FileLister] [http://truehumandesign.se/s_filelister.php]
-* [**MiTeC DirList**](http://www.mitec.cz/dirlist.html) / [*tpfc*](https://www.portablefreeware.com/?id=2522), [*yap*](http://rolandtoth.hu/yaP/#examples/DirList.ini)
-* [Snap2HTML]
-* [Virtual Volumes View] [http://rolandtoth.hu/yaP/#examples/Virtual%20Volumes%20View.ini] *VVV*
-
 ### Characters
 * [**BabelMap**](http://www.babelstone.co.uk/Software/BabelMap.html) / [*tpfc*](https://www.portablefreeware.com/?id=2352), [*paf*](http://portableapps.com/apps/utilities/babelmap-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/BabelMap.ini)
 * [**BabelPad**](http://www.babelstone.co.uk/Software/BabelPad.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=57921), [*paf*](http://portableapps.com/apps/office/babelpad-portable)
@@ -732,6 +744,15 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Duplicate Checkers
 * [**AllDup**](http://www.alldup.de/en_index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1791)
+
+### File Cataloguing
+
+[*media-cataloguing*](#media-cataloguing)
+
+* [FileLister] [http://truehumandesign.se/s_filelister.php]
+* [**MiTeC DirList**](http://www.mitec.cz/dirlist.html) / [*tpfc*](https://www.portablefreeware.com/?id=2522), [*yap*](http://rolandtoth.hu/yaP/#examples/DirList.ini)
+* [Snap2HTML]
+* [Virtual Volumes View] [http://rolandtoth.hu/yaP/#examples/Virtual%20Volumes%20View.ini] *VVV*
 
 ### File Copiers
 * [**FastCopy**](https://ipmsg.org/tools/fastcopy.html.en) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1437), [*paf*](http://portableapps.com/apps/utilities/fastcopy-portable) / can be used as a deletion tool as well, eg for file pathnames over 260 characters
