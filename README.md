@@ -701,7 +701,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 [*file-managers*](#file-managers)
 
-* [**MultiPar**](http://hp.vector.co.jp/authors/VA021385/) | [**Alt**](https://multipar.eu/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2708) / produces [PAR](https://en.wikipedia.org/wiki/Parchive) archives to check transferred data against for integrity
+* [**MultiPar**](http://hp.vector.co.jp/authors/VA021385/) | [**Alt**](https://multipar.eu/) | [**QuickPar**](http://www.quickpar.org.uk/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2708) / produces [PAR](https://en.wikipedia.org/wiki/Parchive) archives to check transferred data against for integrity
 * [RapidCRC Unicode]
 
 ### Clipboard
