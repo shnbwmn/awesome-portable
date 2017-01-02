@@ -362,7 +362,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Pale Moon**](http://www.palemoon.org/) | [**Portable**](http://www.palemoon.org/palemoon-portable.shtml) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1978) / fork of Firefox focusing on efficiency and ease of use
 * [**SeaMonkey**](http://www.seamonkey-project.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2089), [*paf*](http://portableapps.com/apps/internet/seamonkey_portable) / all-in-one browser from Mozilla including email, RSS, newsgroups, IRC & HTML editing
 * [**SlimJet**](http://www.slimjet.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2633)
-* [**Vivaldi**](https://vivaldi.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=73125), [*thumb*](http://www.thumbapps.org/2015/02/vivaldi-108338-tech-preview-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Internet/Vivaldi/)
+* [**Vivaldi**](https://vivaldi.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=73125), [*thumb*](http://www.thumbapps.org/2015/02/vivaldi-108338-tech-preview-portable.html), [*sf*](https://sourceforge.net/projects/thumbapps/files/Internet/Vivaldi/) / from the folks behind the original *Opera*
 
 ### Download Managers
 * [**Advanced Wget GUI**](https://github.com/Nenirey/AWGG) | [**Alt**](https://sites.google.com/site/awggproject/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=77772), [*sp*](http://www.softpedia.com/get/PORTABLE-SOFTWARE/Internet/Others/Portable-AWGG.shtml), [*vh*](http://www.videohelp.com/software/AWGG)
