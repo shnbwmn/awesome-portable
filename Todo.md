@@ -34,6 +34,7 @@
 - [ ] [**Tweaking.com Windows Repair**](http://www.tweaking.com/content/page/windows_repair_all_in_one.html) / [*ff*](http://www.freewarefiles.com/Tweaking-com-Windows-Repair_program_70466.html)
 - [ ] [**Memory Hogs**](http://michaels-tech-notes.info/) / [*ff*](http://www.freewarefiles.com/Memory-Hogs_program_109765.html) / same guy behind Ready Bible Study and Reference
 - [ ] [**Harmony**](http://getharmony.xyz/) / [*ff*](http://www.freewarefiles.com/Harmony_program_108881.html)
+- [ ] Balabolka/DSpeech/https://www.portablefreeware.com/forums/viewtopic.php?p=84735
 
 ## Links
 
