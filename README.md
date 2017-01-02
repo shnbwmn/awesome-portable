@@ -357,7 +357,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Browsers
 * [**Google Chrome**](https://www.google.com/chrome/browser/desktop/index.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2074), [*paf*](http://portableapps.com/apps/internet/google_chrome_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Google%20Chrome/)
-* [**K-Meleon**](http://kmeleonbrowser.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=520), [*paf*](http://portableapps.com/apps/internet/k-meleon-portable)
+* [**K-Meleon**](http://kmeleonbrowser.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=520), [*paf*](http://portableapps.com/apps/internet/k-meleon-portable) / lightweight & fast
 * [**Mozilla Firefox**](https://www.mozilla.org/en-US/firefox/new/) / [*tpfc*](https://www.portablefreeware.com/?id=132), [*paf*](http://portableapps.com/apps/internet/firefox_portable), [*thumb*](https://sourceforge.net/projects/thumbapps/files/Internet/Firefox/)
 * [**Pale Moon**](http://www.palemoon.org/) | [**Portable**](http://www.palemoon.org/palemoon-portable.shtml) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1978) / fork of Firefox focusing on efficiency and ease of use
 * [**SeaMonkey**](http://www.seamonkey-project.org/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2089), [*paf*](http://portableapps.com/apps/internet/seamonkey_portable) / all-in-one browser from Mozilla including email, RSS, newsgroups, IRC & HTML editing
