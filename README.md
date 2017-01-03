@@ -81,7 +81,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Astronomy*](#astronomy) | [*Chemistry*](#chemistry) | [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medicine*](#medicine) | [*Numerical Computation*](#numerical-computation) | [*Programming*](#programming) | [*Religion*](#religion) | [*Statistics*](#statistics)
 
 * [***Graphics***](#graphics)
-> [*3D Modelling*](#3d-modelling) | [*3D Printing*](#3d-printing) | [*Animation*](#animation) | [*Art*](#art) | [*ASCII*](#ascii) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*Diagrams*](#diagrams) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Editors*](#image-editors) | [*Image Compression*](#image-compression) | [*Image Viewers*](#image-viewers) | [*Lego*](#lego) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
+> [*3D Modelling*](#3d-modelling) | [*3D Printing*](#3d-printing) | [*Animation*](#animation) | [*Art*](#art) | [*ASCII*](#ascii) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*Diagrams*](#diagrams) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Compression*](#image-compression) | [*Image Editors*](#image-editors) | [*Image Viewers*](#image-viewers) | [*Lego*](#lego) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
 
 * [***Internet***](#internet)
 > [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*Network Scanners*](#network-scanners) | [*Remote Access*](#remote-access) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*VoIP*](#voip)
@@ -303,19 +303,19 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Quick Any2Ico**](http://www.carifred.com/quick_any2ico/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2792)
 * [**ToYcon**](http://www.crystalxp.net/galerie/en.id.1207-toycon-lefreut-launchers.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1792)
 
-### Image Editors
-
-[*freevimager*](#image-editors)
-
-* [**GIMP**](https://www.gimp.org/) / [*tpfc*](https://www.portablefreeware.com/?id=644), [*paf*](http://portableapps.com/apps/graphics_pictures/gimp_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.71), [*partha*](http://www.partha.com/)
-* [**PhotoScape**](http://www.photoscape.org/ps/main/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=1339), [*thumb*](http://www.thumbapps.org/2016/05/PhotoScape-photo-editor-portable.html), [*yap*](http://rolandtoth.hu/yaP/#examples/PhotoScape.ini)
-
 ### Image Compression
 * [**Caesium**](https://saerasoft.com/caesium/) | [**Online**](https://saerasoft.com/caesium/online/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20757), [*paf*](http://portableapps.com/apps/graphics_pictures/caesium-portable), [*sf*](https://sourceforge.net/projects/caesium/), [*fosshub*](https://www.fosshub.com/Caesium-Image-Compressor.html) / CaesiumPH needs to be tested for portability
 * [**FileOptimizer**](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer) / [*tpfc*](https://www.portablefreeware.com/?id=2377) / does much more than images, eg PDFs
 * [**PngOptimizer**](http://psydk.org/pngoptimizer) / [*tpfc*](https://www.portablefreeware.com/?id=1277), [*paf*](http://portableapps.com/apps/graphics_pictures/pngoptimizer-portable), [*pen*](https://pendriveapps.com/pngoptimizer-optimize-and-convert-png/)
 * [**RIOT**](http://luci.criosweb.ro/riot/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1821), [*thumb*](http://www.thumbapps.org/2015/08/Radical-Image-Optimization-Tool-RIOT-portable.html)
 * [Romeolight tools]
+
+### Image Editors
+
+[*freevimager*](#image-editors)
+
+* [**GIMP**](https://www.gimp.org/) / [*tpfc*](https://www.portablefreeware.com/?id=644), [*paf*](http://portableapps.com/apps/graphics_pictures/gimp_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.71), [*partha*](http://www.partha.com/)
+* [**PhotoScape**](http://www.photoscape.org/ps/main/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=1339), [*thumb*](http://www.thumbapps.org/2016/05/PhotoScape-photo-editor-portable.html), [*yap*](http://rolandtoth.hu/yaP/#examples/PhotoScape.ini)
 
 ### Image Viewers
 
