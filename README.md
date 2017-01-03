@@ -500,6 +500,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [MuseScore]
 
 ### Screen Recording
+* [Easy Screencast Recorder] / can integrate with Screenshot Captor / apparently very good
 * [**OBS**](https://obsproject.com) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=80343), [*paf*](http://portableapps.com/node/53266), [*thumb*](http://www.thumbapps.org/2015/08/OBS-Open-Broadcaster-Software-32-64-bit-portable.html), [*obs*](https://obsproject.com/forum/resources/obs-and-obs-studio-portable-mode-on-windows.359/)
 * [**oCam**](http://ohsoft.net/eng/ocam/download.php) / [*yap*](http://rolandtoth.hu/yaP/#examples/oCam.ini)
 
@@ -727,6 +728,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Clipboard
 * [**ArsClip**](http://www.joejoesoft.com/vcms/97/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=734)
+* [Clibor] [apparently very good]
+* [Clipdiary]
 * [**Clipjump**](http://clipjump.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2523), [*git*](https://github.com/aviaryan/Clipjump), [*ahk*](https://autohotkey.com/boards/viewtopic.php?f=6&t=401) / available as AHK script
 * [**CopyQ**](http://hluk.github.io/CopyQ/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=69636)
 * [**Ditto**](http://ditto-cp.sourceforge.net/index.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1361), [*paf*](http://portableapps.com/apps/utilities/ditto_portable)
