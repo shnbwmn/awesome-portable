@@ -37,6 +37,7 @@
 - [ ] Balabolka/DSpeech/https://www.portablefreeware.com/forums/viewtopic.php?p=84735
 - [ ] [**Rainmeter**](https://www.rainmeter.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=586)
 - [ ] SunlitGreen BatchBlitz, SunlitGreen Photo Editor, PhotoFiltre
+- [ ] [**MyPhoneExplorer**](http://www.fjsoft.at/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1776), [*fosshub*](https://www.fosshub.com/MyPhoneExplorer.html)
 
 ## Links
 
