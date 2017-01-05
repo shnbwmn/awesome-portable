@@ -90,7 +90,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Audio Conversion*](#audio-conversion) | [*Audio Editors*](#audio-editors) | [*Audio Players*](#audio-players) | [*Disk Burners*](#disk-burners) | [*Disk Cataloguing*](#disk-cataloguing) | [*Disk Rippers*](#disk-rippers) | [*Media Cataloguing*](#media-cataloguing) | [*Podcasts*](#podcasts) | [*Radio*](#radio) | [*Scoring*](#scoring) | [*Screen Recording*](#screen-recording) | [*Tagging*](#tagging) | [*Video Conversion*](#video-conversion) | [*Video Editors*](#video-editors) | [*Video Players*](#video-players)
 
 * [***Office***](#office)
-> [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*EBooks*](#ebooks) | [*Finance*](#finance) | [*Mindmapping*](#mindmapping) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PDF Tools*](#pdf-tools) | [*PIMs*](#pims) | [*Reminders*](#reminders) | [*Task Management*](#task-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
+> [*Calendar*](#calendar) | [*Diary*](#diary) | [*Desktop Publishing*](#desktop-publishing) | [*Document Scanning*](#document-scanning) | [*Document Viewers*](#document-viewers) | [*EBooks*](#ebooks) | [*Finance*](#finance) | [*Mindmapping*](#mindmapping) | [*Notetaking*](#notetaking) | [*Office Suites*](#office-suites) | [*Outliners*](#outliners) | [*PDF Tools*](#pdf-tools) | [*PIMs*](#pims) | [*Reminders*](#reminders) | [*Sticky Notes*](#sticky-notes) | [*Task Management*](#task-management) | [*TeX*](#tex) | [*Wiki*](#wiki) | [*Writing*](#writing)
 
 * [***Security***](#security)
 > [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners)  | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
@@ -624,6 +624,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 [*calendar*](#calendar)
 
 * [**Date Reminder**](http://www.horstmuc.de/wrem.htm) / [*tpfc*](https://www.portablefreeware.com/?id=831), [*pen*](https://pendriveapps.com/date-reminder/)
+
+### Sticky Notes
+* [**Stickies**](http://www.zhornsoftware.co.uk/stickies/) / [*tpfc*](https://www.portablefreeware.com/?id=264), [*paf*](http://portableapps.com/apps/office/stickies_portable)
 
 ### Task Management
 * [**DevProject Manager**](http://www.gaijin.at/en/dldevproject.php) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1273)
