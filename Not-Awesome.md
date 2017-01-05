@@ -11,8 +11,9 @@
 * [**Xetbox**](http://xetbox.com/) / indicates whether a portable version is available
 
 ## Programs
-* [**Christ On Disk**](https://www.portablefreeware.com/index.php?id=1462) / [*pen*](https://pendriveapps.com/christ-on-disk-portable-bible/) / very old program / site long dead
-* [**LaunchQ**](https://avi-win-tips.blogspot.co.za/2013/05/launchq.html) / [*ahk*](https://autohotkey.com/board/topic/93383-launchq-productive-all-in-one-launcher/) / made in AHK / not that nice looking, and functionality is common in other launchers
+* [**Christ On Disk**](https://www.portablefreeware.com/index.php?id=1462) / [*pen*](https://pendriveapps.com/christ-on-disk-portable-bible/) / `Religion` / very old program / site long dead
+* [**LaunchQ**](https://avi-win-tips.blogspot.co.za/2013/05/launchq.html) / [*ahk*](https://autohotkey.com/board/topic/93383-launchq-productive-all-in-one-launcher/) / `Launchers` / made in AHK / not that nice looking, and functionality is common in other launchers
+* [**Stickypaper**](http://www.pentacom.jp/pentacom/products.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=820) / `Sticky Notes`
 
 
 
