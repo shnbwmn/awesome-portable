@@ -626,6 +626,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Date Reminder**](http://www.horstmuc.de/wrem.htm) / [*tpfc*](https://www.portablefreeware.com/?id=831), [*pen*](https://pendriveapps.com/date-reminder/)
 
 ### Sticky Notes
+* [7 Sticky Notes]
 * [**Stickies**](http://www.zhornsoftware.co.uk/stickies/) / [*tpfc*](https://www.portablefreeware.com/?id=264), [*paf*](http://portableapps.com/apps/office/stickies_portable)
 
 ### Task Management
