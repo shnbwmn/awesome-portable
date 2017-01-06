@@ -97,7 +97,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Antivirus*](#antivirus) | [*Cleaners*](#cleaners)  | [*Malware Scanners*](#malware-scanners) | [*Passwords*](#passwords)
 
 * [***Utilities***](#utilities)
-> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Bootable USB Creators*](#bootable-usb-creators) | [*Calculators*](#calculators) | [*Characters*](#characters) | [*Checksums*](#checksums) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Defragmentation*](#defragmentation) | [*Disk Space*](#disk-space) | [*Duplicate Checkers*](#duplicate-checkers) | [*File Cataloguing*](#file-cataloguing) | [*File Copiers*](#file-copiers) | [*File Deletion*](#file-deletion) | [*File Managers*](#file-managers) | [*File Synchronisation*](#file-synchronisation) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*System Information*](#system-information) | [*System Scheduling*](#system-scheduling) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
+> [*Archivers*](#archivers) | [*Automation*](#automation) | [*Backup*](#backup) | [*Benchmarking*](#benchmarking) | [*Bootable USB Creators*](#bootable-usb-creators) | [*Calculators*](#calculators) | [*Characters*](#characters) | [*Checksums*](#checksums) | [*Clipboard*](#clipboard) | [*Control Panels*](#control-panels) | [*Defragmentation*](#defragmentation) | [*Disk Space*](#disk-space) | [*Duplicate Checkers*](#duplicate-checkers) | [*File Cataloguing*](#file-cataloguing) | [*File Copiers*](#file-copiers) | [*File Deletion*](#file-deletion) | [*File Managers*](#file-managers) | [*File Synchronisation*](#file-synchronisation) | [*File Tagging*](#file-tagging) | [*Fonts*](#fonts) | [*Launchers*](#launchers) | [*Processes*](#processes) | [*Registry*](#registry) | [*Renamers*](#renamers) | [*Search*](#search) | [*System Information*](#system-information) | [*System Scheduling*](#system-scheduling) | [*Time*](#time) | [*Uninstallers*](#uninstallers) | [*Window Managers*](#window-managers)
 
 ## Development
 
@@ -711,6 +711,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Personal Backup**](http://personal-backup.rathlev-home.de/index-e.html) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=28563), [*yap*](http://rolandtoth.hu/yaP/#examples/Personal%20Backup.ini)
 * [**ZBack**](http://titan.fsb.hr/~dzorc/zback.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1683)
 
+### Benchmarking
+* [placeholder]
+
 ### Bootable USB Creators
 * [Rufus]
 * [YUMI] [successor to MultibootISOs]
@@ -856,6 +859,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [HDD Guardian in Todo]
 * [MiTeC System Information X]
 * [Speccy]
+* [there are lots more!]
 
 ### System Scheduling
 * [**Don't Sleep**](http://www.softwareok.com/?seite=Microsoft/DontSleep) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1738)
