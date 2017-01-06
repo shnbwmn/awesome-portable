@@ -32,7 +32,7 @@
 - [ ] [**ManicTime**](http://www.manictime.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=2&t=6741), [*kb*](http://support.manictime.com/knowledgebase/articles/686352-how-is-portable-usb-version-different), [*ff*](http://www.freewarefiles.com/ManicTime_program_42343.html) / crippleware
 - [ ] [**Metabase**](http://www.metabase.com/) / [*ff*](http://www.freewarefiles.com/Metabase_program_109336.html)
 - [ ] [**Tweaking.com Windows Repair**](http://www.tweaking.com/content/page/windows_repair_all_in_one.html) / [*ff*](http://www.freewarefiles.com/Tweaking-com-Windows-Repair_program_70466.html)
-- [ ] [**Memory Hogs**](http://michaels-tech-notes.info/) / [*ff*](http://www.freewarefiles.com/Memory-Hogs_program_109765.html) / same guy behind Ready Bible Study and Reference
+- [ ] [**Memory Hogs**](http://michaels-tech-notes.info/) / [*ff*](http://www.freewarefiles.com/Memory-Hogs_program_109765.html) / same guy behind Ready Bible Study and Reference / clump with MemReduct
 - [ ] [**Harmony**](http://getharmony.xyz/) / [*ff*](http://www.freewarefiles.com/Harmony_program_108881.html)
 - [ ] Balabolka/DSpeech/https://www.portablefreeware.com/forums/viewtopic.php?p=84735
 - [ ] [**Rainmeter**](https://www.rainmeter.net/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=586)
