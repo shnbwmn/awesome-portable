@@ -853,6 +853,8 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Listary**](http://www.listary.com/) / [*tpfc*](https://www.portablefreeware.com/?id=1680), [*paf*](http://portableapps.com/apps/utilities/listary_portable) / Pro version available with more features
 
 ### System Information
+* [HDD Guardian in Todo]
+* [MiTeC System Information X]
 * [Speccy]
 
 ### System Scheduling
