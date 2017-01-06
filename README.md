@@ -820,6 +820,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**FARR**](https://www.donationcoder.com/Software/Mouser/findrun/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=6848)
 * [**Executor**](http://www.1space.dk/executor/) | [**Alt**](http://executor.dk/) / [*tpfc*](https://www.portablefreeware.com/?id=1308)
 * [**KeyPirinha**](http://keypirinha.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=81346), [*docs*](http://keypirinha.com/install.html)
+* [Launchy]
 * [**PopSel**](http://www.horstmuc.de/wpop.htm) / [*tpfc*](https://www.portablefreeware.com/?id=2679)
 * [**Portable Start Menu**](http://www.aignes.com/psmenu.htm)/ [*tpfc*](https://www.portablefreeware.com/?id=1365)
 * [**PowerPro**](http://powerpro.cresadu.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=209)
