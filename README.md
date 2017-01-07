@@ -43,7 +43,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [JauntePE] [TPFC section]
 * [**Java**](https://www.java.com/en/) | [**JPortable**](http://portableapps.com/apps/utilities/java_portable) | [**Launcher**](http://portableapps.com/apps/utilities/java_portable_launcher) / run JAR executables portably
 * [**SmallestDotNET**](http://smallestdotnet.com/) / to get .NET installed quickly
-* [**yaP**](http://rolandtoth.hu/yaP/) | [**crypt**](http://rolandtoth.hu/yaP/#yaPcrypt) / [*tpfc*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138), [*examples*](http://rolandtoth.hu/yaP/#examples)
+* [**yaP**](http://rolandtoth.hu/yaP/) | [**crypt**](http://rolandtoth.hu/yaP/#yaPcrypt) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=11&t=5698), [*list*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138), [*examples*](http://rolandtoth.hu/yaP/#examples)
 * [**WinPCap**](http://www.winpcap.org/) / required via installation or `wpcap.dll`, `Packet.dll` by some network programs
 
 #### *Important Sites:*
