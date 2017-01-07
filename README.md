@@ -40,7 +40,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 #### *Tools:*
 * [**Adobe Flash**](http://www.adobe.com/software/flash/about/) | [**Portable**](https://rejzor.wordpress.com/portable-adobe-flash/) | [**Alt**](http://notepad.patheticcockroach.com/4029/flash-player-12-for-portable-browsers-32-and-64-bits/) / latest Flash DLLs for portable browsers
 * [**Ghostscript**](http://www.ghostscript.com/) | [**Portable**](http://portableapps.com/apps/utilities/ghostscript_portable) / Postscript interpreter required by some PDF programs
-* [JauntePE] [TPFC section]
+* [JauntePE] [TPFC section] [Not Awesome?]
 * [**Java**](https://www.java.com/en/) | [**JPortable**](http://portableapps.com/apps/utilities/java_portable) | [**Launcher**](http://portableapps.com/apps/utilities/java_portable_launcher) / run JAR executables portably
 * [**SmallestDotNET**](http://smallestdotnet.com/) / to get .NET installed quickly
 * [**yaP**](http://rolandtoth.hu/yaP/) | [**crypt**](http://rolandtoth.hu/yaP/#yaPcrypt) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=11&t=5698), [*list*](http://www.portablefreeware.com/forums/viewtopic.php?f=6&t=22138), [*examples*](http://rolandtoth.hu/yaP/#examples)
