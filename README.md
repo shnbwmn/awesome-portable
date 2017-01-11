@@ -82,7 +82,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 > [*Astronomy*](#astronomy) | [*Chemistry*](#chemistry) | [*Genealogy*](#genealogy) | [*Geography*](#geography) | [*Medicine*](#medicine) | [*Numerical Computation*](#numerical-computation) | [*Programming*](#programming) | [*Religion*](#religion) | [*Statistics*](#statistics)
 
 * [***Graphics***](#graphics)
-> [*3D Modelling*](#3d-modelling) | [*3D Printing*](#3d-printing) | [*Animation*](#animation) | [*Art*](#art) | [*ASCII*](#ascii) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*Diagrams*](#diagrams) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Compression*](#image-compression) | [*Image Editors*](#image-editors) | [*Image Viewers*](#image-viewers) | [*Lego*](#lego) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
+> [*3D Modelling*](#3d-modelling) | [*3D Printing*](#3d-printing) | [*Animation*](#animation) | [*Art*](#art) | [*ASCII*](#ascii) | [*CAD*](#cad) | [*Colour Pickers*](#colour-pickers) | [*Colour Utilities*](#colour-utilities) | [*Diagrams*](#diagrams) | [*GIF*](#gif) | [*Icons*](#icons) | [*Image Editors*](#image-editors) | [*Image Optimisation*](#image-optimisation) | [*Image Viewers*](#image-viewers) | [*Lego*](#lego) | [*RAW*](#raw) | [*Screen Capture*](#screen-capture) | [*Vector Editors*](#vector-editors)
 
 * [***Internet***](#internet)
 > [*Browsers*](#browsers) | [*Download Managers*](#download-managers) | [*Email*](#email) | [*FTP*](#ftp) | [*Instant Messenging*](#instant-messaging) | [*Network Scanners*](#network-scanners) | [*Remote Access*](#remote-access) | [*RSS*](#rss) | [*Torrents*](#torrents) | [*VoIP*](#voip)
@@ -148,6 +148,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**AkelPad**](http://akelpad.sourceforge.net/en/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=952), [*paf*](http://portableapps.com/apps/development/akelpad_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.700), [*plugins*](http://akelpad.sourceforge.net/en/plugins.php) / extremely lightweight
 * [**Atom**](https://atom.io/) / [*tpfc*](https://www.portablefreeware.com/?id=2793), [*paf*](https://github.com/garethflowers/atom-portable) / by GitHub :)
 * [**Brackets**](http://brackets.io/) / [*tpfc*](https://github.com/sagiegurari/brackets-portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Brackets.ini) / geared toward web development
+* [**CudaText**](http://www.uvviewsoft.com/cudatext/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?f=4&t=22436)
 * [**EditBone**](http://www.bonecode.com/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2706)
 * [**Komodo Edit**](http://www.activestate.com/komodo-edit) / [*paf*](https://sourceforge.net/projects/askomodoeditpaf/), [*yap*](http://rolandtoth.hu/yaP/#examples/Komodo%20Edit%209.3.ini), [*thumb*](http://www.thumbapps.org/2016/05/Komodo-Edit-text-editor-portable.html), [*site*](http://community.komodoide.com/t/is-there-a-portable-version-of-komodoedit/695)
 * [**Notepad++**](https://notepad-plus-plus.org/) / [*tpfc*](https://www.portablefreeware.com/?id=539), [*paf*](http://portableapps.com/apps/development/notepadpp_portable)
@@ -284,6 +285,9 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Just Color Picker**](http://annystudio.com/software/colorpicker/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2712)
 * [**Pixie**](http://www.nattyware.com/pixie.php) / [*tpfc*](https://www.portablefreeware.com/?id=1558)
 
+### Colour Utilities
+* [**Colour Contrast Analyser**](https://www.paciellogroup.com/resources/contrastanalyser/) / [*paf*](http://portableapps.com/apps/utilities/colour-contrast-analyser-portable)
+
 ### Diagrams
 
 [*mindmapping*](#mindmapping)
@@ -304,13 +308,6 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**Quick Any2Ico**](http://www.carifred.com/quick_any2ico/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2792)
 * [**ToYcon**](http://www.crystalxp.net/galerie/en.id.1207-toycon-lefreut-launchers.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1792)
 
-### Image Compression
-* [**Caesium**](https://saerasoft.com/caesium/) | [**Online**](https://saerasoft.com/caesium/online/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20757), [*paf*](http://portableapps.com/apps/graphics_pictures/caesium-portable), [*sf*](https://sourceforge.net/projects/caesium/), [*fosshub*](https://www.fosshub.com/Caesium-Image-Compressor.html) / CaesiumPH needs to be tested for portability
-* [**FileOptimizer**](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer) / [*tpfc*](https://www.portablefreeware.com/?id=2377) / does much more than images, eg PDFs
-* [**PngOptimizer**](http://psydk.org/pngoptimizer) / [*tpfc*](https://www.portablefreeware.com/?id=1277), [*paf*](http://portableapps.com/apps/graphics_pictures/pngoptimizer-portable), [*pen*](https://pendriveapps.com/pngoptimizer-optimize-and-convert-png/)
-* [**RIOT**](http://luci.criosweb.ro/riot/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1821), [*thumb*](http://www.thumbapps.org/2015/08/Radical-Image-Optimization-Tool-RIOT-portable.html)
-* [Romeolight tools]
-
 ### Image Editors
 
 [*freevimager*](#image-editors)
@@ -318,9 +315,17 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**GIMP**](https://www.gimp.org/) / [*tpfc*](https://www.portablefreeware.com/?id=644), [*paf*](http://portableapps.com/apps/graphics_pictures/gimp_portable), [*wpp*](http://www.winpenpack.com/en/download.php?view.71), [*partha*](http://www.partha.com/)
 * [**PhotoScape**](http://www.photoscape.org/ps/main/index.php) / [*tpfc*](https://www.portablefreeware.com/?id=1339), [*thumb*](http://www.thumbapps.org/2016/05/PhotoScape-photo-editor-portable.html), [*yap*](http://rolandtoth.hu/yaP/#examples/PhotoScape.ini)
 
+### Image Optimisation
+* [**Caesium**](https://saerasoft.com/caesium/) | [**Online**](https://saerasoft.com/caesium/online/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=20757), [*paf*](http://portableapps.com/apps/graphics_pictures/caesium-portable), [*sf*](https://sourceforge.net/projects/caesium/), [*fosshub*](https://www.fosshub.com/Caesium-Image-Compressor.html) / CaesiumPH needs to be tested for portability
+* [**Color quantizer**](http://x128.ho.ua/color-quantizer.html) / [*yap*](http://rolandtoth.hu/yaP/#examples/Color%20Quantizer.ini)
+* [**FileOptimizer**](http://nikkhokkho.sourceforge.net/static.php?page=FileOptimizer) / [*tpfc*](https://www.portablefreeware.com/?id=2377) / does much more than images, eg PDFs
+* [**PngOptimizer**](http://psydk.org/pngoptimizer) / [*tpfc*](https://www.portablefreeware.com/?id=1277), [*paf*](http://portableapps.com/apps/graphics_pictures/pngoptimizer-portable), [*pen*](https://pendriveapps.com/pngoptimizer-optimize-and-convert-png/)
+* [**RIOT**](http://luci.criosweb.ro/riot/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1821), [*thumb*](http://www.thumbapps.org/2015/08/Radical-Image-Optimization-Tool-RIOT-portable.html)
+* [Romeolight tools]
+
 ### Image Viewers
 
-[*gizmo*](http://www.techsupportalert.com/best-free-digital-image-viewer.htm), [*raymond*](https://www.raymond.cc/blog/4-image-viewers-for-better-photo-viewing-and-protection-against-jpg-exploit/)
+[*gizmo*](http://www.techsupportalert.com/best-free-digital-image-viewer.htm), [*raymond*](https://www.raymond.cc/blog/4-image-viewers-for-better-photo-viewing-and-protection-against-jpg-exploit/), [*universal-viewer*](#document-viewers)
 
 * [**Faststone Viewer**](http://faststone.org/FSViewerDetail.htm) / [*tpfc*](https://www.portablefreeware.com/index.php?id=207)
 * [**FreeVimager**](http://www.contaware.com/freevimager.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2248) / also basic image editing and batch operations
@@ -566,6 +571,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**PDF-XChange Viewer**](https://www.tracker-software.com/product/pdf-xchange-viewer) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1436), [*paf*](http://portableapps.com/apps/office/pdf-xchange-portable) / superceded by Editor / last version was `v2.5.319.0` / OCR plugin & PDF help files available / Pro version available with more features
 * [**STDU Viewer**](http://www.stdutility.com/stduviewer.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2045)
 * [**SumatraPDF**](http://www.sumatrapdfreader.org/free-pdf-reader.html) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1193), [*paf*](http://portableapps.com/apps/office/sumatra_pdf_portable)
+* [**Universal Viewer**](http://www.uvviewsoft.com/uviewer/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=1079) / also a graphics viewer, including Photoshop format
 * [**WinDJView**](http://windjview.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=10115), [*paf*](http://portableapps.com/apps/office/windjview_portable), [*yap*](http://rolandtoth.hu/yaP/#examples/WinDjView.ini)
 
 ### EBooks
