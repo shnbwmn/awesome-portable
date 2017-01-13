@@ -550,7 +550,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 ### Diary
 
-[*mempad*](#outliners)
+[*mempad*](#outliners), [*zim*](#wiki)
 
 * [**Hazama**](https://krrr.github.io/hazama) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=79899)
 * [**RedNotebook**](http://rednotebook.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=2086), [*paf*](http://portableapps.com/apps/office/rednotebook_portable)
@@ -661,7 +661,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 * [**OutWiker**](http://jenyay.net/Outwiker/English) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2797)
 * [**TiddlyWiki**](http://tiddlywiki.com/) | [**Classic**](http://classic.tiddlywiki.com/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?t=2031), [*git*](https://github.com/Jermolene/TiddlyWiki5) / single HTML opened with a browser / not a program, per se, but certainly portable
 * [**WikidPad**](http://wikidpad.sourceforge.net/) / [*tpfc*](https://www.portablefreeware.com/?id=1099), [*site*](http://wikidpad.sourceforge.net/help/ConfigurationFiles.html)
-* [**Zim**](http://www.zim-wiki.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=56775), [*paf*](http://portableapps.com/node/29350), [*site*](http://www.glump.net/software/zim-windows) / PAF available from dev
+* [**Zim**](http://www.zim-wiki.org/) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=56775), [*paf*](http://portableapps.com/node/29350), [*site*](http://www.glump.net/software/zim-windows) / PAF available from dev / can use as a diary as well
 
 ### Writing
 * [**FocusWriter**](https://gottcode.org/focuswriter/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=2064), [*paf*](http://portableapps.com/apps/office/focuswriter_portable)
