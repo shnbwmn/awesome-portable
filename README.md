@@ -431,6 +431,7 @@ _See also:_ [**Awesome Portable Games**](https://github.com/shnbwmn/awesome-port
 
 * [**Mumble**](http://wiki.mumble.info/wiki/Main_Page) / [*tpfc*](https://www.portablefreeware.com/forums/viewtopic.php?p=9770), [*paf*](http://portableapps.com/apps/internet/mumble-portable)
 * [**Skype**](https://www.skype.com/en/) / [*tpfc*](https://www.portablefreeware.com/index.php?id=503), [*paf*](http://portableapps.com/apps/internet/skype_portable), [*yap*](http://rolandtoth.hu/yaP/#examples/Skype.ini) / video calling and conferencing as well
+* [**Zello**](https://zello.com/app) / [*site*](https://support.zello.com/hc/en-us/articles/230747667-Is-portable-version-of-Zello-available-) / mobile apps too
 
 ## Multimedia
 
